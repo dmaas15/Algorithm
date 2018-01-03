@@ -9,7 +9,7 @@ ctx.verify_mode=ssl.CERT_NONE
 #example http://www.yahoo.com for input
 
 url = input("Enter file:")
-if len(url) < 1 : url = "http://py4e-data.dr-chuck.net/comments_58929.html"
+if len(url) < 1 : url = "http://http://naenara.com.kp/"
 
 html=urllib.request.urlopen(url, context=ctx).read()
 soup=BeautifulSoup(html, 'html.parser')
