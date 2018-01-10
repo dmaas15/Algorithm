@@ -1,0 +1,114 @@
+03-Jan-18 12:15:27 PM	Event	1						Main protocol starting	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\1_RepairI_Accel_NGS_2S_DNA_v1.0.pro	
+03-Jan-18 12:17:38 PM	Transfer	1	10	Master Mix Plate 1	Column 1	Reaction Plate 1	Column 1		C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\1_RepairI_Accel_NGS_2S_DNA_v1.0.pro	
+03-Jan-18 12:18:13 PM	Transfer	1	10	Master Mix Plate 1	Column 1	Reaction Plate 1	Column 2		C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\1_RepairI_Accel_NGS_2S_DNA_v1.0.pro	
+03-Jan-18 12:18:48 PM	Transfer	1	10	Master Mix Plate 1	Column 1	Reaction Plate 1	Column 3		C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\1_RepairI_Accel_NGS_2S_DNA_v1.0.pro	
+03-Jan-18 12:19:22 PM	Transfer	1	10	Master Mix Plate 1	Column 1	Reaction Plate 1	Column 4		C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\1_RepairI_Accel_NGS_2S_DNA_v1.0.pro	
+03-Jan-18 12:19:57 PM	Transfer	1	10	Master Mix Plate 1	Column 1	Reaction Plate 1	Column 5		C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\1_RepairI_Accel_NGS_2S_DNA_v1.0.pro	
+03-Jan-18 12:20:32 PM	Transfer	1	10	Master Mix Plate 1	Column 1	Reaction Plate 1	Column 6		C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\1_RepairI_Accel_NGS_2S_DNA_v1.0.pro	
+03-Jan-18 12:21:07 PM	Transfer	1	10	Master Mix Plate 1	Column 1	Reaction Plate 1	Column 7		C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\1_RepairI_Accel_NGS_2S_DNA_v1.0.pro	
+03-Jan-18 12:21:42 PM	Transfer	1	10	Master Mix Plate 1	Column 1	Reaction Plate 1	Column 8		C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\1_RepairI_Accel_NGS_2S_DNA_v1.0.pro	
+03-Jan-18 12:22:16 PM	Transfer	1	10	Master Mix Plate 1	Column 1	Reaction Plate 1	Column 9		C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\1_RepairI_Accel_NGS_2S_DNA_v1.0.pro	
+03-Jan-18 12:22:51 PM	Transfer	1	10	Master Mix Plate 1	Column 1	Reaction Plate 1	Column 10		C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\1_RepairI_Accel_NGS_2S_DNA_v1.0.pro	
+03-Jan-18 12:23:26 PM	Transfer	1	10	Master Mix Plate 1	Column 1	Reaction Plate 1	Column 11		C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\1_RepairI_Accel_NGS_2S_DNA_v1.0.pro	
+03-Jan-18 12:24:01 PM	Transfer	1	10	Master Mix Plate 1	Column 1	Reaction Plate 1	Column 12		C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\1_RepairI_Accel_NGS_2S_DNA_v1.0.pro	
+03-Jan-18 12:26:18 PM	Transfer	1	50	DNA Plate 1	A1	Reaction Plate 1	A1		C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\1_RepairI_Accel_NGS_2S_DNA_v1.0.pro	
+03-Jan-18 12:26:18 PM	Transfer	1	10	DNA Plate 1	A1	Reaction Plate 1	A1		C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\1_RepairI_Accel_NGS_2S_DNA_v1.0.pro	
+03-Jan-18 12:28:00 PM	Transfer	1	5	Reaction Plate 1	A1	Reaction Plate 1	A1		C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\1_RepairI_Accel_NGS_2S_DNA_v1.0.pro	
+03-Jan-18 12:29:29 PM	Event	1						Main protocol complete	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\1_RepairI_Accel_NGS_2S_DNA_v1.0.pro	
+03-Jan-18 12:29:45 PM	Event	1						Main protocol starting	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\2b_CleanUp1_Accel_NGS_2S_DNA_v1.0.pro	
+03-Jan-18 12:33:32 PM	Transfer	1	15	SPRI reservoir 1	A1	SPRI reservoir 1	A1		C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\2b_CleanUp1_Accel_NGS_2S_DNA_v1.0.pro	
+03-Jan-18 12:33:56 PM	Transfer	1	80	SPRI reservoir 1	A1	AMPure XP Cleanup 1 1	A1		C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\2b_CleanUp1_Accel_NGS_2S_DNA_v1.0.pro	
+03-Jan-18 12:33:56 PM	Transfer	1	4	SPRI reservoir 1	A1	AMPure XP Cleanup 1 1	A1		C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\2b_CleanUp1_Accel_NGS_2S_DNA_v1.0.pro	
+03-Jan-18 12:39:26 PM	Transfer	1	12	AMPure XP Cleanup 1 1	A1	AMPure XP Cleanup 1 1	A1		C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\2b_CleanUp1_Accel_NGS_2S_DNA_v1.0.pro	
+03-Jan-18 12:42:39 PM	Transfer	1	139	AMPure XP Cleanup 1 1	A1	1	A1		C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\2b_CleanUp1_Accel_NGS_2S_DNA_v1.0.pro	
+03-Jan-18 12:44:24 PM	Transfer	1	180	Ethanol Reservoir 1	A1	AMPure XP Cleanup 1 1	A1		C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\2b_CleanUp1_Accel_NGS_2S_DNA_v1.0.pro	
+03-Jan-18 12:45:33 PM	Transfer	1	183	AMPure XP Cleanup 1 1	A1	1	A1		C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\2b_CleanUp1_Accel_NGS_2S_DNA_v1.0.pro	
+03-Jan-18 12:47:17 PM	Transfer	1	175	Ethanol Reservoir 1	A1	AMPure XP Cleanup 1 1	A1		C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\2b_CleanUp1_Accel_NGS_2S_DNA_v1.0.pro	
+03-Jan-18 12:48:48 PM	Transfer	1	183.5	AMPure XP Cleanup 1 1	A1	1	A1		C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\2b_CleanUp1_Accel_NGS_2S_DNA_v1.0.pro	
+03-Jan-18 12:49:48 PM	Event	1						Main protocol complete	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\2b_CleanUp1_Accel_NGS_2S_DNA_v1.0.pro	
+03-Jan-18 12:49:58 PM	Event	1						Main protocol starting	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\InProgress3_Elution1_Accel_NGS_2S_DNA_v1.0.pro	
+03-Jan-18 12:52:02 PM	Transfer	1	20	Elution Plate 1	A1	DNA Plate 1	A1		C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\InProgress3_Elution1_Accel_NGS_2S_DNA_v1.0.pro	
+03-Jan-18 12:54:40 PM	Event	1						Main protocol complete	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\InProgress3_Elution1_Accel_NGS_2S_DNA_v1.0.pro	
+03-Jan-18 12:54:53 PM	Event	1						Main protocol starting	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\InProgress3_Repair2_Accel_NGS_2S_DNA_v1.0.pro	
+03-Jan-18 12:56:42 PM	Transfer	1	30	Master Mix Plate 1	Column 2	Reaction Plate 1	Column 1		C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\InProgress3_Repair2_Accel_NGS_2S_DNA_v1.0.pro	
+03-Jan-18 12:57:09 PM	Transfer	1	30	Master Mix Plate 1	Column 2	Reaction Plate 1	Column 2		C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\InProgress3_Repair2_Accel_NGS_2S_DNA_v1.0.pro	
+03-Jan-18 12:57:37 PM	Transfer	1	30	Master Mix Plate 1	Column 2	Reaction Plate 1	Column 3		C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\InProgress3_Repair2_Accel_NGS_2S_DNA_v1.0.pro	
+03-Jan-18 12:58:04 PM	Transfer	1	30	Master Mix Plate 1	Column 2	Reaction Plate 1	Column 4		C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\InProgress3_Repair2_Accel_NGS_2S_DNA_v1.0.pro	
+03-Jan-18 12:58:32 PM	Transfer	1	30	Master Mix Plate 1	Column 2	Reaction Plate 1	Column 5		C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\InProgress3_Repair2_Accel_NGS_2S_DNA_v1.0.pro	
+03-Jan-18 12:58:59 PM	Transfer	1	30	Master Mix Plate 1	Column 2	Reaction Plate 1	Column 6		C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\InProgress3_Repair2_Accel_NGS_2S_DNA_v1.0.pro	
+03-Jan-18 12:59:26 PM	Transfer	1	30	Master Mix Plate 1	Column 2	Reaction Plate 1	Column 7		C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\InProgress3_Repair2_Accel_NGS_2S_DNA_v1.0.pro	
+03-Jan-18 12:59:54 PM	Transfer	1	30	Master Mix Plate 1	Column 2	Reaction Plate 1	Column 8		C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\InProgress3_Repair2_Accel_NGS_2S_DNA_v1.0.pro	
+03-Jan-18 1:00:21 PM	Transfer	1	30	Master Mix Plate 1	Column 2	Reaction Plate 1	Column 9		C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\InProgress3_Repair2_Accel_NGS_2S_DNA_v1.0.pro	
+03-Jan-18 1:00:49 PM	Transfer	1	30	Master Mix Plate 1	Column 2	Reaction Plate 1	Column 10		C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\InProgress3_Repair2_Accel_NGS_2S_DNA_v1.0.pro	
+03-Jan-18 1:01:16 PM	Transfer	1	30	Master Mix Plate 1	Column 2	Reaction Plate 1	Column 11		C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\InProgress3_Repair2_Accel_NGS_2S_DNA_v1.0.pro	
+03-Jan-18 1:01:43 PM	Transfer	1	30	Master Mix Plate 1	Column 2	Reaction Plate 1	Column 12		C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\InProgress3_Repair2_Accel_NGS_2S_DNA_v1.0.pro	
+03-Jan-18 1:03:59 PM	Transfer	1	32	Reaction Plate 1	A1	DNA Plate 1	A1		C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\InProgress3_Repair2_Accel_NGS_2S_DNA_v1.0.pro	
+03-Jan-18 1:07:03 PM	Event	1						Main protocol complete	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\InProgress3_Repair2_Accel_NGS_2S_DNA_v1.0.pro	
+03-Jan-18 1:07:19 PM	Event	1						Main protocol starting	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\4_CleanUp2_Accel_NGS_2S_DNA_v1.0.pro	
+03-Jan-18 1:08:41 PM	Transfer	1	60	PEGNaCl reservoir 1	A1	AMPure XP Cleanup 1 1	A1		C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\4_CleanUp2_Accel_NGS_2S_DNA_v1.0.pro	
+03-Jan-18 1:14:47 PM	Transfer	1	12	AMPure XP Cleanup 1 1	A1	AMPure XP Cleanup 1 1	A1		C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\4_CleanUp2_Accel_NGS_2S_DNA_v1.0.pro	
+03-Jan-18 1:17:52 PM	Transfer	1	105	AMPure XP Cleanup 1 1	A1	1	A1		C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\4_CleanUp2_Accel_NGS_2S_DNA_v1.0.pro	
+03-Jan-18 1:19:36 PM	Transfer	1	180	Ethanol Reservoir 1	A1	AMPure XP Cleanup 1 1	A1		C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\4_CleanUp2_Accel_NGS_2S_DNA_v1.0.pro	
+03-Jan-18 1:20:45 PM	Transfer	1	183	AMPure XP Cleanup 1 1	A1	1	A1		C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\4_CleanUp2_Accel_NGS_2S_DNA_v1.0.pro	
+03-Jan-18 1:22:29 PM	Transfer	1	175	Ethanol Reservoir 1	A1	AMPure XP Cleanup 1 1	A1		C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\4_CleanUp2_Accel_NGS_2S_DNA_v1.0.pro	
+03-Jan-18 1:24:00 PM	Transfer	1	183.5	AMPure XP Cleanup 1 1	A1	1	A1		C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\4_CleanUp2_Accel_NGS_2S_DNA_v1.0.pro	
+03-Jan-18 1:25:11 PM	Event	1						Main protocol complete	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\4_CleanUp2_Accel_NGS_2S_DNA_v1.0.pro	
+03-Jan-18 1:26:50 PM	Event	1						Main protocol starting	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\InProgress5b_Elution2_Accel_NGS_2S_DNA_v1.0.pro	
+03-Jan-18 1:28:42 PM	Transfer	1	10	Elution Plate 1	A1	DNA Plate 1	A1		C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\InProgress5b_Elution2_Accel_NGS_2S_DNA_v1.0.pro	
+03-Jan-18 1:30:11 PM	Event	1						Main protocol complete	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\InProgress5b_Elution2_Accel_NGS_2S_DNA_v1.0.pro	
+03-Jan-18 1:31:35 PM	Event	1						Main protocol starting	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\InProgress5b_Ligation1_Accel_NGS_2S_DNA_v1.0.pro	
+03-Jan-18 1:33:57 PM	Transfer	1	15	Master Mix Plate 1	Column 3	Reaction Plate 1	Column 1		C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\InProgress5b_Ligation1_Accel_NGS_2S_DNA_v1.0.pro	
+03-Jan-18 1:34:22 PM	Transfer	1	15	Master Mix Plate 1	Column 3	Reaction Plate 1	Column 2		C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\InProgress5b_Ligation1_Accel_NGS_2S_DNA_v1.0.pro	
+03-Jan-18 1:34:47 PM	Transfer	1	15	Master Mix Plate 1	Column 3	Reaction Plate 1	Column 3		C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\InProgress5b_Ligation1_Accel_NGS_2S_DNA_v1.0.pro	
+03-Jan-18 1:35:12 PM	Transfer	1	15	Master Mix Plate 1	Column 3	Reaction Plate 1	Column 4		C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\InProgress5b_Ligation1_Accel_NGS_2S_DNA_v1.0.pro	
+03-Jan-18 1:35:37 PM	Transfer	1	15	Master Mix Plate 1	Column 3	Reaction Plate 1	Column 5		C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\InProgress5b_Ligation1_Accel_NGS_2S_DNA_v1.0.pro	
+03-Jan-18 1:36:02 PM	Transfer	1	15	Master Mix Plate 1	Column 3	Reaction Plate 1	Column 6		C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\InProgress5b_Ligation1_Accel_NGS_2S_DNA_v1.0.pro	
+03-Jan-18 1:36:27 PM	Transfer	1	15	Master Mix Plate 1	Column 3	Reaction Plate 1	Column 7		C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\InProgress5b_Ligation1_Accel_NGS_2S_DNA_v1.0.pro	
+03-Jan-18 1:36:51 PM	Transfer	1	15	Master Mix Plate 1	Column 3	Reaction Plate 1	Column 8		C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\InProgress5b_Ligation1_Accel_NGS_2S_DNA_v1.0.pro	
+03-Jan-18 1:37:16 PM	Transfer	1	15	Master Mix Plate 1	Column 3	Reaction Plate 1	Column 9		C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\InProgress5b_Ligation1_Accel_NGS_2S_DNA_v1.0.pro	
+03-Jan-18 1:37:41 PM	Transfer	1	15	Master Mix Plate 1	Column 3	Reaction Plate 1	Column 10		C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\InProgress5b_Ligation1_Accel_NGS_2S_DNA_v1.0.pro	
+03-Jan-18 1:38:06 PM	Transfer	1	15	Master Mix Plate 1	Column 3	Reaction Plate 1	Column 11		C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\InProgress5b_Ligation1_Accel_NGS_2S_DNA_v1.0.pro	
+03-Jan-18 1:38:31 PM	Transfer	1	15	Master Mix Plate 1	Column 3	Reaction Plate 1	Column 12		C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\InProgress5b_Ligation1_Accel_NGS_2S_DNA_v1.0.pro	
+03-Jan-18 3:09:06 PM	Transfer	1	7	Index Plate 1	A1	DNA Plate 1	A1		C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\InProgress5b_Ligation1_Accel_NGS_2S_DNA_v1.0.pro	
+03-Jan-18 3:09:06 PM	Transfer	1	17	Reaction Plate 1	A1	DNA Plate 1	A1		C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\InProgress5b_Ligation1_Accel_NGS_2S_DNA_v1.0.pro	
+03-Jan-18 3:10:43 PM	Transfer	1	2	Reaction Plate 1	A1	DNA Plate 1	A1		C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\InProgress5b_Ligation1_Accel_NGS_2S_DNA_v1.0.pro	
+03-Jan-18 3:12:47 PM	Event	1						Main protocol complete	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\InProgress5b_Ligation1_Accel_NGS_2S_DNA_v1.0.pro	
+03-Jan-18 3:13:05 PM	Event	1						Main protocol starting	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\6_CleanUp3_Accel_NGS_2S_DNA_v1.0.pro	
+03-Jan-18 3:14:22 PM	Transfer	1	25.5	PEGNaCl reservoir 1	A1	AMPure XP Cleanup 1 1	A1		C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\6_CleanUp3_Accel_NGS_2S_DNA_v1.0.pro	
+03-Jan-18 3:20:12 PM	Transfer	1	12	AMPure XP Cleanup 1 1	A1	AMPure XP Cleanup 1 1	A1		C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\6_CleanUp3_Accel_NGS_2S_DNA_v1.0.pro	
+03-Jan-18 3:34:57 PM	Transfer	1	50.5	AMPure XP Cleanup 1 1	A1	1	A1		C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\6_CleanUp3_Accel_NGS_2S_DNA_v1.0.pro	
+03-Jan-18 3:36:40 PM	Transfer	1	180	Ethanol Reservoir 1	A1	AMPure XP Cleanup 1 1	A1		C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\6_CleanUp3_Accel_NGS_2S_DNA_v1.0.pro	
+03-Jan-18 3:37:50 PM	Transfer	1	183	AMPure XP Cleanup 1 1	A1	1	A1		C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\6_CleanUp3_Accel_NGS_2S_DNA_v1.0.pro	
+03-Jan-18 4:22:00 PM	Transfer	1	175	Ethanol Reservoir 1	A1	AMPure XP Cleanup 1 1	A1		C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\6_CleanUp3_Accel_NGS_2S_DNA_v1.0.pro	
+03-Jan-18 4:23:31 PM	Transfer	1	183.5	AMPure XP Cleanup 1 1	A1	1	A1		C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\6_CleanUp3_Accel_NGS_2S_DNA_v1.0.pro	
+03-Jan-18 4:24:40 PM	Event	1						Main protocol complete	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\6_CleanUp3_Accel_NGS_2S_DNA_v1.0.pro	
+03-Jan-18 4:24:51 PM	Event	1						Main protocol starting	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\InProgress7_Elution3_Accel_NGS_2S_DNA_v1.0.pro	
+03-Jan-18 4:26:44 PM	Transfer	1	20	Elution Plate 1	A1	DNA Plate 1	A1		C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\InProgress7_Elution3_Accel_NGS_2S_DNA_v1.0.pro	
+03-Jan-18 4:28:30 PM	Event	1						Main protocol complete	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\InProgress7_Elution3_Accel_NGS_2S_DNA_v1.0.pro	
+03-Jan-18 4:28:43 PM	Event	1						Main protocol starting	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\InProgress7_Ligation2_Accel_NGS_2S_DNA_v1.0.pro	
+03-Jan-18 4:30:39 PM	Transfer	1	30	Master Mix Plate 1	Column 4	Reaction Plate 1	Column 1		C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\InProgress7_Ligation2_Accel_NGS_2S_DNA_v1.0.pro	
+03-Jan-18 4:31:06 PM	Transfer	1	30	Master Mix Plate 1	Column 4	Reaction Plate 1	Column 2		C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\InProgress7_Ligation2_Accel_NGS_2S_DNA_v1.0.pro	
+03-Jan-18 4:31:33 PM	Transfer	1	30	Master Mix Plate 1	Column 4	Reaction Plate 1	Column 3		C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\InProgress7_Ligation2_Accel_NGS_2S_DNA_v1.0.pro	
+03-Jan-18 4:32:00 PM	Transfer	1	30	Master Mix Plate 1	Column 4	Reaction Plate 1	Column 4		C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\InProgress7_Ligation2_Accel_NGS_2S_DNA_v1.0.pro	
+03-Jan-18 4:32:27 PM	Transfer	1	30	Master Mix Plate 1	Column 4	Reaction Plate 1	Column 5		C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\InProgress7_Ligation2_Accel_NGS_2S_DNA_v1.0.pro	
+03-Jan-18 4:32:54 PM	Transfer	1	30	Master Mix Plate 1	Column 4	Reaction Plate 1	Column 6		C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\InProgress7_Ligation2_Accel_NGS_2S_DNA_v1.0.pro	
+03-Jan-18 4:33:21 PM	Transfer	1	30	Master Mix Plate 1	Column 4	Reaction Plate 1	Column 7		C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\InProgress7_Ligation2_Accel_NGS_2S_DNA_v1.0.pro	
+03-Jan-18 4:33:48 PM	Transfer	1	30	Master Mix Plate 1	Column 4	Reaction Plate 1	Column 8		C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\InProgress7_Ligation2_Accel_NGS_2S_DNA_v1.0.pro	
+03-Jan-18 4:34:16 PM	Transfer	1	30	Master Mix Plate 1	Column 4	Reaction Plate 1	Column 9		C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\InProgress7_Ligation2_Accel_NGS_2S_DNA_v1.0.pro	
+03-Jan-18 4:34:43 PM	Transfer	1	30	Master Mix Plate 1	Column 4	Reaction Plate 1	Column 10		C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\InProgress7_Ligation2_Accel_NGS_2S_DNA_v1.0.pro	
+03-Jan-18 4:35:10 PM	Transfer	1	30	Master Mix Plate 1	Column 4	Reaction Plate 1	Column 11		C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\InProgress7_Ligation2_Accel_NGS_2S_DNA_v1.0.pro	
+03-Jan-18 4:35:37 PM	Transfer	1	30	Master Mix Plate 1	Column 4	Reaction Plate 1	Column 12		C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\InProgress7_Ligation2_Accel_NGS_2S_DNA_v1.0.pro	
+03-Jan-18 4:39:55 PM	Transfer	1	20	Elution Plate 1	A1	DNA Plate 1	A1		C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\InProgress7_Ligation2_Accel_NGS_2S_DNA_v1.0.pro	
+03-Jan-18 4:41:47 PM	Transfer	1	32	Reaction Plate 1	A1	DNA Plate 1	A1		C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\InProgress7_Ligation2_Accel_NGS_2S_DNA_v1.0.pro	
+03-Jan-18 4:45:18 PM	Event	1						Main protocol complete	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\InProgress7_Ligation2_Accel_NGS_2S_DNA_v1.0.pro	
+03-Jan-18 4:45:44 PM	Event	1						Main protocol starting	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\8_CleanUp4_Accel_NGS_2S_DNA_v1.0.pro	
+03-Jan-18 4:47:02 PM	Transfer	1	42.5	PEGNaCl reservoir 1	A1	AMPure XP Cleanup 1 1	A1		C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\8_CleanUp4_Accel_NGS_2S_DNA_v1.0.pro	
+03-Jan-18 4:54:03 PM	Transfer	1	12	AMPure XP Cleanup 1 1	A1	AMPure XP Cleanup 1 1	A1		C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\8_CleanUp4_Accel_NGS_2S_DNA_v1.0.pro	
+03-Jan-18 4:57:03 PM	Transfer	1	87.5	AMPure XP Cleanup 1 1	A1	1	A1		C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\8_CleanUp4_Accel_NGS_2S_DNA_v1.0.pro	
+03-Jan-18 4:58:47 PM	Transfer	1	180	Ethanol Reservoir 1	A1	AMPure XP Cleanup 1 1	A1		C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\8_CleanUp4_Accel_NGS_2S_DNA_v1.0.pro	
+03-Jan-18 4:59:57 PM	Transfer	1	183	AMPure XP Cleanup 1 1	A1	1	A1		C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\8_CleanUp4_Accel_NGS_2S_DNA_v1.0.pro	
+03-Jan-18 5:01:40 PM	Transfer	1	175	Ethanol Reservoir 1	A1	AMPure XP Cleanup 1 1	A1		C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\8_CleanUp4_Accel_NGS_2S_DNA_v1.0.pro	
+03-Jan-18 5:03:11 PM	Transfer	1	183.5	AMPure XP Cleanup 1 1	A1	1	A1		C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\8_CleanUp4_Accel_NGS_2S_DNA_v1.0.pro	
+03-Jan-18 5:05:15 PM	Transfer	1	22.5	Resuspension Buffer 1	A1	AMPure XP Cleanup 1 1	A1		C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\8_CleanUp4_Accel_NGS_2S_DNA_v1.0.pro	
+03-Jan-18 5:09:10 PM	Transfer	1	20	AMPure XP Cleanup 1 1	A1	Sample Collection Plate 1	A1		C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\8_CleanUp4_Accel_NGS_2S_DNA_v1.0.pro	
+03-Jan-18 5:42:35 PM	Event	1						Main protocol complete	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\8_CleanUp4_Accel_NGS_2S_DNA_v1.0.pro	

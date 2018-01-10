@@ -1,0 +1,275 @@
+28-Nov-17 9:36:49 AM	Info					Error library: The error library file path is empty.			0	
+28-Nov-17 9:36:49 AM	Info					System Startup			0	
+28-Nov-17 9:36:49 AM	Info	AccessoriesWizard				Dll loaded:    AccessoriesWizard.dll    6.0.0			0	
+28-Nov-17 9:36:49 AM	Info	AccessoryManager				Dll loaded:    AccessoryManager.dll    2.0.0			0	
+28-Nov-17 9:36:49 AM	Info	AgilentBenchBotController				Dll loaded:    AgilentBenchBotController.dll    1.21.4226			0	
+28-Nov-17 9:36:49 AM	Info	ArgonShelfAccessoryDriver				Dll loaded:    ArgonShelfAccessoryDriver.dll    2.0.1			0	
+28-Nov-17 9:36:49 AM	Info	BTILHCRunner				Dll loaded:    BTILHCRunner.dll    2.00.2			0	
+28-Nov-17 9:36:49 AM	Info	ContextHelp				Dll loaded:    ContextHelp.dll    3.0.0			0	
+28-Nov-17 9:36:49 AM	Info	DDRStringTable				Dll loaded:    DDRStringTable.dll    1.2.14			0	
+28-Nov-17 9:36:49 AM	Info	DeviceEnumerator				Dll loaded:    DeviceEnumerator.dll    9.0.0			0	
+28-Nov-17 9:36:49 AM	Info	EchoAppHelper				Dll loaded:    EchoAppHelper.dll    1.0.0			0	
+28-Nov-17 9:36:49 AM	Info	ErrorLibrary				Dll loaded:    ErrorLibrary.dll    2.0.1			0	
+28-Nov-17 9:36:49 AM	Info	EvaporatorAccessoryDriver				Dll loaded:    EvaporatorAccessoryDriver.dll    9.0.0			0	
+28-Nov-17 9:36:49 AM	Info	GuidanceDiscovery				Dll loaded:    GuidanceDiscovery.dll    2.0.0			0	
+28-Nov-17 9:36:49 AM	Info	Host				Dll loaded:    Host.dll    1.0.4226			0	
+28-Nov-17 9:36:49 AM	Info	ImportExport				Dll loaded:    ImportExport.dll    2.0.0			0	
+28-Nov-17 9:36:49 AM	Info	InhecoMTCdll				Dll loaded:    InhecoMTCdll.dll    1.2.4			0	
+28-Nov-17 9:36:49 AM	Info	InhecoShakeandHeatAccessoryDriver				Dll loaded:    InhecoShakeandHeatAccessoryDriver.dll    1.0.0			0	
+28-Nov-17 9:36:49 AM	Info	IWorksAccessory				Dll loaded:    IWorksAccessory.dll    8.0.1			0	
+28-Nov-17 9:36:49 AM	Info	js32				Dll loaded:    js32.dll    Unknown.0.0			0	
+28-Nov-17 9:36:49 AM	Info	LabelDesigner				Dll loaded:    LabelDesigner.dll    5.0.7			0	
+28-Nov-17 9:36:49 AM	Info	LabelerHardware				Dll loaded:    LabelerHardware.dll    14.0.23			0	
+28-Nov-17 9:36:49 AM	Info	libnspr4				Dll loaded:    libnspr4.dll    4.1.0			0	
+28-Nov-17 9:36:49 AM	Info	LidHotelAccessoryDriver				Dll loaded:    LidHotelAccessoryDriver.dll    8.0.0			0	
+28-Nov-17 9:36:49 AM	Info	lm				Dll loaded:    lm.dll    3.0.0			0	
+28-Nov-17 9:36:49 AM	Info	Loader				Dll loaded:    Loader.dll    1.0.4226			0	
+28-Nov-17 9:36:49 AM	Info	MagBeadAccessoryDriver				Dll loaded:    MagBeadAccessoryDriver.dll    8.0.0			0	
+28-Nov-17 9:36:49 AM	Info	MetaDataPropertyManager				Dll loaded:    MetaDataPropertyManager.dll    13.0.0			0	
+28-Nov-17 9:36:49 AM	Info	mfc71				Dll loaded:    mfc71.dll    7.10.3077			0	
+28-Nov-17 9:36:49 AM	Info	mfc71u				Dll loaded:    mfc71u.dll    7.10.3077			0	
+28-Nov-17 9:36:49 AM	Info	MicroPierceInterface				Dll loaded:    MicroPierceInterface.dll    1.0.0			0	
+28-Nov-17 9:36:49 AM	Info	MicroPierceWrapper				Dll loaded:    MicroPierceWrapper.dll    1.0.0			0	
+28-Nov-17 9:36:49 AM	Info	MicroStirInterface				Dll loaded:    MicroStirInterface.dll    1.0.0			0	
+28-Nov-17 9:36:49 AM	Info	MicroStirWrapper				Dll loaded:    MicroStirWrapper.dll    1.0.0			0	
+28-Nov-17 9:36:49 AM	Info	msvcr71				Dll loaded:    msvcr71.dll    7.10.3052			0	
+28-Nov-17 9:36:49 AM	Info	MTController				Dll loaded:    MTController.dll    5.0.0			0	
+28-Nov-17 9:36:49 AM	Info	NestableTipBoxInsertAccessoryDriver				Dll loaded:    NestableTipBoxInsertAccessoryDriver.dll    2.0.0			0	
+28-Nov-17 9:36:49 AM	Info	ObjectDatabase				Dll loaded:    ObjectDatabase.dll    4.0.0			0	
+28-Nov-17 9:36:49 AM	Info	ObjectManager				Dll loaded:    ObjectManager.dll    7.0.1			0	
+28-Nov-17 9:36:49 AM	Info	PackardFusionRemoteConnectorOCX				Dll loaded:    PackardFusionRemoteConnectorOCX.dll    4.0.0			0	
+28-Nov-17 9:36:49 AM	Info	PackardFusionRemoteControlPlugIn				Dll loaded:    PackardFusionRemoteControlPlugIn.dll    4.0.0			0	
+28-Nov-17 9:36:49 AM	Info	PackardFusionRemoteControlWrapperDLL				Dll loaded:    PackardFusionRemoteControlWrapperDLL.dll    4.0.0			0	
+28-Nov-17 9:36:49 AM	Info	PicServoExtDll				Dll loaded:    PicServoExtDll.dll    10.0.0			0	
+28-Nov-17 9:36:49 AM	Info	PipetteHeadMode				Dll loaded:    PipetteHeadMode.dll    2.0.0			0	
+28-Nov-17 9:36:49 AM	Info	PipetteTechniqueEditor				Dll loaded:    PipetteTechniqueEditor.dll    3.0.0			0	
+28-Nov-17 9:36:49 AM	Info	PlateMapDatabase				Dll loaded:    PlateMapDatabase.dll    17.0.1			0	
+28-Nov-17 9:36:49 AM	Info	ProfileChangeLog				Dll loaded:    ProfileChangeLog.dll    2.0.0			0	
+28-Nov-17 9:36:49 AM	Info	ProfileManager				Dll loaded:    ProfileManager.dll    10.0.1			0	
+28-Nov-17 9:36:49 AM	Info	ProfSkin284m				Dll loaded:    ProfSkin284m.dll    2.8.4			0	
+28-Nov-17 9:36:49 AM	Info	ProfUIS284m				Dll loaded:    ProfUIS284m.dll    2.8.4			0	
+28-Nov-17 9:36:49 AM	Info	ProfUisProfileManager				Dll loaded:    ProfUisProfileManager.dll    10.0.0			0	
+28-Nov-17 9:36:49 AM	Info	SciLexer				Dll loaded:    SciLexer.dll    1.71.0			0	
+28-Nov-17 9:36:49 AM	Info	SerialDilution				Dll loaded:    SerialDilution.dll    13.0.0			0	
+28-Nov-17 9:36:49 AM	Info	SSIdll				Dll loaded:    SSIdll.dll    Unknown.0.0			0	
+28-Nov-17 9:36:49 AM	Info	TeleshakeAccessoryDriver				Dll loaded:    TeleshakeAccessoryDriver.dll    9.0.2			0	
+28-Nov-17 9:36:49 AM	Info	TipPosition				Dll loaded:    TipPosition.dll    3.0.0			0	
+28-Nov-17 9:36:49 AM	Info	TipTracking				Dll loaded:    TipTracking.dll    3.0.0			0	
+28-Nov-17 9:36:49 AM	Info	tmlcomm				Dll loaded:    tmlcomm.dll    3.2.2			0	
+28-Nov-17 9:36:49 AM	Info	TML_lib				Dll loaded:    TML_lib.dll    2.0.1			0	
+28-Nov-17 9:36:49 AM	Info	Toolbox				Dll loaded:    Toolbox.dll    1.0.4226			0	
+28-Nov-17 9:36:49 AM	Info	V11DeviceDriver				Dll loaded:    V11DeviceDriver.dll    11.0.0			0	
+28-Nov-17 9:36:49 AM	Info	V11FieldComposer				Dll loaded:    V11FieldComposer.dll    4.0.0			0	
+28-Nov-17 9:36:49 AM	Info	V11GanttChart				Dll loaded:    V11GanttChart.dll    2.0.1			0	
+28-Nov-17 9:36:49 AM	Info	V11Labware				Dll loaded:    V11Labware.dll    25.0.14			0	
+28-Nov-17 9:36:49 AM	Info	V11Liquids				Dll loaded:    V11Liquids.dll    9.0.0			0	
+28-Nov-17 9:36:49 AM	Info	V11Migrator				Dll loaded:    V11Migrator.dll    2.0.3			0	
+28-Nov-17 9:36:49 AM	Info	V11PipettingFormatWizard				Dll loaded:    V11PipettingFormatWizard.dll    2.0.0			0	
+28-Nov-17 9:36:49 AM	Info	V11PumpAccessoryDriver				Dll loaded:    V11PumpAccessoryDriver.dll    3.0.2			0	
+28-Nov-17 9:36:49 AM	Info	V11SharedClasses				Dll loaded:    V11SharedClasses.dll    1.1.0			0	
+28-Nov-17 9:36:49 AM	Info	V11WellSelect				Dll loaded:    V11WellSelect.dll    8.0.0			0	
+28-Nov-17 9:36:49 AM	Info	V11WellVolumeVisualizer				Dll loaded:    V11WellVolumeVisualizer.dll    6.0.0			0	
+28-Nov-17 9:36:49 AM	Info	V11Wizard				Dll loaded:    V11Wizard.dll    2.0.0			0	
+28-Nov-17 9:36:49 AM	Info	VacuumFiltrationAccessoryDriver				Dll loaded:    VacuumFiltrationAccessoryDriver.dll    10.0.1			0	
+28-Nov-17 9:36:49 AM	Info	VacuumLocatingStationDriver				Dll loaded:    VacuumLocatingStationDriver.dll    7.0.0			0	
+28-Nov-17 9:36:49 AM	Info	VacuumShelfAccessoryDriver				Dll loaded:    VacuumShelfAccessoryDriver.dll    2.0.2			0	
+28-Nov-17 9:36:49 AM	Info	VHookInterface				Dll loaded:    VHookInterface.dll    7.0.0			0	
+28-Nov-17 9:36:49 AM	Info	VWorks4COM				Dll loaded:    VWorks4COM.dll    4.0.0			0	
+28-Nov-17 9:36:49 AM	Info	VWorks4Defs				Dll loaded:    VWorks4Defs.dll    6.0.3			0	
+28-Nov-17 9:36:49 AM	Info	VWorks4DeviceManager				Dll loaded:    VWorks4DeviceManager.dll    4.0.0			0	
+28-Nov-17 9:36:49 AM	Info	VWorks4EmailDaemon				Dll loaded:    VWorks4EmailDaemon.dll    3.0.0			0	
+28-Nov-17 9:36:49 AM	Info	VWorks4FormManager				Dll loaded:    VWorks4FormManager.dll    1.0.0			0	
+28-Nov-17 9:36:49 AM	Info	VWorks4GUI				Dll loaded:    VWorks4GUI.dll    3.0.0			0	
+28-Nov-17 9:36:49 AM	Info	VWorks4GUIFramework				Dll loaded:    VWorks4GUIFramework.dll    3.0.1			0	
+28-Nov-17 9:36:49 AM	Info	VWorks4Hooks				Dll loaded:    VWorks4Hooks.dll    3.0.0			0	
+28-Nov-17 9:36:49 AM	Info	VWorks4LabelDesigner				Dll loaded:    VWorks4LabelDesigner.dll    3.0.0			0	
+28-Nov-17 9:36:49 AM	Info	VWorks4Logger				Dll loaded:    VWorks4Logger.dll    4.0.0			0	
+28-Nov-17 9:36:49 AM	Info	VWorks4MacroLibrary				Dll loaded:    VWorks4MacroLibrary.dll    1.0.0			0	
+28-Nov-17 9:36:49 AM	Info	VWorks4Progress				Dll loaded:    VWorks4Progress.dll    3.0.0			0	
+28-Nov-17 9:36:49 AM	Info	VWorks4ProtocolEditor				Dll loaded:    VWorks4ProtocolEditor.dll    4.0.0			0	
+28-Nov-17 9:36:49 AM	Info	VWorks4Security				Dll loaded:    VWorks4Security.dll    3.0.0			0	
+28-Nov-17 9:36:49 AM	Info	VWorks4UserDatabase				Dll loaded:    VWorks4UserDatabase.dll    3.0.0			0	
+28-Nov-17 9:36:49 AM	Info	VWorks4UserManager				Dll loaded:    VWorks4UserManager.dll    3.0.0			0	
+28-Nov-17 9:36:49 AM	Info	WeighPadAccessoryDriver				Dll loaded:    WeighPadAccessoryDriver.dll    2.0.0			0	
+28-Nov-17 9:36:49 AM	Info	Agilent BenchCel				Plugin loaded from cache:   AgilentBenchCel.dll   20.1.2			0	
+28-Nov-17 9:36:49 AM	Info	Agilent Bravo				Plugin loaded from cache:   AgilentBravo.dll   17.1.0			0	
+28-Nov-17 9:36:49 AM	Info	Agilent Generic I/O Module				Plugin loaded from cache:   AgilentGenericIO.dll   5.0.0			0	
+28-Nov-17 9:36:49 AM	Info	Agilent Labware MiniHub				Plugin loaded from cache:   AgilentLabwareMiniHub.dll   1.0.3			0	
+28-Nov-17 9:36:49 AM	Info	Agilent Phantom Robot				Plugin loaded from cache:   AgilentPhantomRobot.dll   9.0.5			0	
+28-Nov-17 9:36:49 AM	Info	Agilent Phantom Stacker				Plugin loaded from cache:   AgilentPhantomStacker.dll   2.0.1			0	
+28-Nov-17 9:36:49 AM	Info	Agilent Plate Hotel				Plugin loaded from cache:   AgilentPlateHotel.dll   1.0.3			0	
+28-Nov-17 9:36:50 AM	Info	Agilent Plate Hub Carousel				Plugin loaded from cache:   AgilentPlateHubCarousel.dll   8.0.1			0	
+28-Nov-17 9:36:50 AM	Info	Waste Bin				Plugin loaded from cache:   AgilentWasteBin.dll   3.0.0			0	
+28-Nov-17 9:36:50 AM	Info	Agilent Weigh Pad				Plugin loaded from cache:   AgilentWeighPad.dll   8.0.0			0	
+28-Nov-17 9:36:50 AM	Info	Keyence Barcode Reader				Plugin loaded from cache:   KeyenceBarcodeReader.dll   6.0.0			0	
+28-Nov-17 9:36:50 AM	Info	Plate Pad, Standard				Plugin loaded from cache:   PlatePad.dll   6.0.0			0	
+28-Nov-17 9:37:00 AM	Info					administrator logged in			1	
+28-Nov-17 9:37:05 AM	Info	Agilent Labware MiniHub				Plugin loaded:   AgilentLabwareMiniHub.dll   1.0.3			1	
+28-Nov-17 9:37:06 AM	Info					Hooks plugin loaded:    AgilentBenchCel.dll			0	
+28-Nov-17 9:37:06 AM	Info	Agilent BenchCel				Plugin loaded:   AgilentBenchCel.dll   20.1.2			1	
+28-Nov-17 9:37:09 AM	Info					Hooks plugin loaded:    AgilentBravo.dll			0	
+28-Nov-17 9:37:09 AM	Info	Agilent Bravo				Plugin loaded:   AgilentBravo.dll   17.1.0			1	
+28-Nov-17 9:37:12 AM	Info					File loaded		C:\VWorks Workspace\Device Files\BravoMiniPHBenchCel_round_magnet_RED_insert.dev	1	
+28-Nov-17 9:37:12 AM	Info					Changed "device file" to "C:\VWorks Workspace\Device Files\BravoMiniPHBenchCel_round_magnet_RED_insert.dev"		Protocol File - 1	1	
+28-Nov-17 9:37:12 AM	Info					File created		Protocol File - 1	1	
+28-Nov-17 9:37:19 AM	Info			process - 1		Changed "process process - 1, parameter Plate type" to "96 Nunc Deep Well 1 mL"		Protocol File - 1	1	
+28-Nov-17 9:37:38 AM	Info			process - 1	1	Added task "Downstack" to process "process - 1"		Protocol File - 1	1	
+28-Nov-17 9:37:38 AM	Script					Initializing scripting engine...			1	
+28-Nov-17 9:37:38 AM	Script					Tue Nov 28 2017 09:37:38 GMT+0800 (Malay Peninsula Standard Time)			1	
+28-Nov-17 9:37:40 AM	Info			process - 1	1	Selected "BenchCel - 1.Stacker 2" for task "Downstack"		Protocol File - 1	1	
+28-Nov-17 9:37:47 AM	Info			process - 1	2	Added task "Place Plate" to process "process - 1"		Protocol File - 1	1	
+28-Nov-17 9:37:49 AM	Info			process - 1	2	Changed "task Place Plate, parameter Device to use" to "Bravo - 1"		Protocol File - 1	1	
+28-Nov-17 9:37:51 AM	Info			process - 1	2	Changed "task Place Plate, parameter Location to use" from "1" to "3"		Protocol File - 1	1	
+28-Nov-17 9:38:02 AM	Info			process - 1	3	Added task "Upstack" to process "process - 1"		Protocol File - 1	1	
+28-Nov-17 9:38:05 AM	Info			process - 1	3	Selected "BenchCel - 1.Stacker 2" for task "Upstack"		Protocol File - 1	1	
+28-Nov-17 9:38:08 AM	Info					Compile complete with 0 errors and 0 warnings			1	
+28-Nov-17 9:38:10 AM	Info					Runset Manager: Added the run "Protocol File - 1" to Runset Manager.			1	
+28-Nov-17 9:38:11 AM	Event					Scheduler started			1	
+28-Nov-17 9:38:11 AM	Info	Agilent Labware MiniHub - 1				Initializing device		C:\VWorks Workspace\Device Files\BravoMiniPHBenchCel_round_magnet_RED_insert.dev	1	
+28-Nov-17 9:38:11 AM	Info	BenchCel - 1				Initializing device		C:\VWorks Workspace\Device Files\BravoMiniPHBenchCel_round_magnet_RED_insert.dev	1	
+28-Nov-17 9:38:11 AM	Info	Bravo - 1				Initializing device		C:\VWorks Workspace\Device Files\BravoMiniPHBenchCel_round_magnet_RED_insert.dev	1	
+28-Nov-17 9:38:12 AM	Info	BenchCel - 1				Initialization complete		C:\VWorks Workspace\Device Files\BravoMiniPHBenchCel_round_magnet_RED_insert.dev	1	
+28-Nov-17 9:38:12 AM	Error	Bravo - 1				Cannot detect device specified by Ethernet device ID "0".  Check that the device is powered on, and that there is an ethernet connection to the device.			1	
+28-Nov-17 9:38:12 AM	Info					Error library: Select best match error handler: "Default" and action type "show error dialog"			1	
+28-Nov-17 9:38:17 AM	Info	Bravo - 1				Aborting on: Cannot detect device specified by Ethernet device ID "0".  Check that the device is powered on, and that there is an ethernet connection to the device.			1	
+28-Nov-17 9:38:17 AM	Event					Scheduler stopped			1	
+28-Nov-17 9:38:17 AM	Info	Bravo - 1				Initialization failed		C:\VWorks Workspace\Device Files\BravoMiniPHBenchCel_round_magnet_RED_insert.dev	1	
+28-Nov-17 9:38:20 AM	Event					Scheduler aborted			1	
+28-Nov-17 9:38:20 AM	Event					None protocol aborted by user		Protocol File - 1	1	
+28-Nov-17 9:38:22 AM	Info	Agilent Labware MiniHub - 1				Initialization complete		C:\VWorks Workspace\Device Files\BravoMiniPHBenchCel_round_magnet_RED_insert.dev	1	
+28-Nov-17 9:38:49 AM	Info					Compile complete with 0 errors and 0 warnings			1	
+28-Nov-17 9:38:51 AM	Info					Runset Manager: Added the run "Protocol File - 1<1>" to Runset Manager.			1	
+28-Nov-17 9:38:52 AM	Event					Scheduler started			1	
+28-Nov-17 9:38:52 AM	Info	Bravo - 1				Initializing device		C:\VWorks Workspace\Device Files\BravoMiniPHBenchCel_round_magnet_RED_insert.dev	1	
+28-Nov-17 9:38:57 AM	Error	Bravo - 1				There appears to be a plate present in, or in front of the gripper's plate presence sensor.			1	
+28-Nov-17 9:38:57 AM	Error	Bravo - 1				  - Choose "Retry" to check the plate presence sensor again.			1	
+28-Nov-17 9:38:57 AM	Error	Bravo - 1				  - Choose "Ignore" to continue to home the G axis.  Please note that any plate currently held by the gripper will be dropped.			1	
+28-Nov-17 9:38:57 AM	Error	Bravo - 1				  - Choose "Abort" to cancel initialization.			1	
+28-Nov-17 9:38:57 AM	Info					Error library: Select best match error handler: "Default" and action type "show error dialog"			1	
+28-Nov-17 9:39:15 AM	Info	Bravo - 1				Ignoring: There appears to be a plate present in, or in front of the gripper's plate presence sensor.			1	
+28-Nov-17 9:39:15 AM	Info	Bravo - 1				  - Choose "Retry" to check the plate presence sensor again.			1	
+28-Nov-17 9:39:15 AM	Info	Bravo - 1				  - Choose "Ignore" to continue to home the G axis.  Please note that any plate currently held by the gripper will be dropped.			1	
+28-Nov-17 9:39:15 AM	Info	Bravo - 1				  - Choose "Abort" to cancel initialization.			1	
+28-Nov-17 9:39:15 AM	Error	Bravo - 1				Please verify that it is safe to home the W-axis (the aspirate/dispense axis).  If there is fluid in the tips you may want to manually home the W-axis in diagnostics over a waste position.			1	
+28-Nov-17 9:39:15 AM	Error	Bravo - 1				  - Choose "Retry" to continue homing the W-axis.			1	
+28-Nov-17 9:39:15 AM	Error	Bravo - 1				  - Choose "Ignore" to leave the W-axis unhomed.			1	
+28-Nov-17 9:39:15 AM	Error	Bravo - 1				  - Choose "Abort" to cancel initialization.			1	
+28-Nov-17 9:39:15 AM	Info					Error library: Select best match error handler: "Default" and action type "show error dialog"			1	
+28-Nov-17 9:39:21 AM	Info	Bravo - 1				Retrying: Please verify that it is safe to home the W-axis (the aspirate/dispense axis).  If there is fluid in the tips you may want to manually home the W-axis in diagnostics over a waste position.			1	
+28-Nov-17 9:39:21 AM	Info	Bravo - 1				  - Choose "Retry" to continue homing the W-axis.			1	
+28-Nov-17 9:39:21 AM	Info	Bravo - 1				  - Choose "Ignore" to leave the W-axis unhomed.			1	
+28-Nov-17 9:39:21 AM	Info	Bravo - 1				  - Choose "Abort" to cancel initialization.			1	
+28-Nov-17 9:39:21 AM	Error	Bravo - 1				Location 4 Device not found (FindTheUniversalControl failed, return value = 0). CMTCSTCController::GetController failed for controllerID: -1			1	
+28-Nov-17 9:39:21 AM	Info					Error library: Select best match error handler: "Default" and action type "show error dialog"			1	
+28-Nov-17 9:39:28 AM	Info	Bravo - 1				Ignoring: Location 4 Device not found (FindTheUniversalControl failed, return value = 0). CMTCSTCController::GetController failed for controllerID: -1			1	
+28-Nov-17 9:39:28 AM	Error	Bravo - 1				Location 6 Device not found (FindTheUniversalControl failed, return value = 0). CMTCSTCController::GetController failed for controllerID: -1			1	
+28-Nov-17 9:39:28 AM	Info					Error library: Select best match error handler: "Default" and action type "show error dialog"			1	
+28-Nov-17 9:39:32 AM	Info	Bravo - 1				Ignoring: Location 6 Device not found (FindTheUniversalControl failed, return value = 0). CMTCSTCController::GetController failed for controllerID: -1			1	
+28-Nov-17 9:39:33 AM	Info	Bravo - 1				Initialization complete		C:\VWorks Workspace\Device Files\BravoMiniPHBenchCel_round_magnet_RED_insert.dev	1	
+28-Nov-17 9:39:33 AM	Info					Error library: Protocol started using error library file: ""			1	
+28-Nov-17 9:39:33 AM	Event	BenchCel - 1	Stacker 2	process - 1		Load stacker rack at location "Stacker 2" of device "BenchCel - 1" with plate "process - 1" of labware type "96 Nunc Deep Well 1 mL"		Protocol File - 1	1	
+28-Nov-17 9:39:35 AM	Info			process - 1		1 plate required		Protocol File - 1	1	
+28-Nov-17 9:39:35 AM	Event					Main protocol starting		Protocol File - 1	1	
+28-Nov-17 9:39:36 AM	Event			process - 1 1		Process starting, north barcode: No bar code, east barcode: No bar code, south barcode: No bar code, west barcode: No bar code		Protocol File - 1	1	
+28-Nov-17 9:39:36 AM	Event	BenchCel - 1	Stacker 2	process - 1 1	1	Downstack from BenchCel - 1.Stacker 2		Protocol File - 1	1	
+28-Nov-17 9:39:36 AM	Event	BenchCel - 1	Stacker 2	process - 1 1	1	Completed: Downstack from BenchCel - 1.Stacker 2		Protocol File - 1	1	
+28-Nov-17 9:39:36 AM	Event	Bravo - 1	3	process - 1 1	2	Place plate at Bravo - 1 3		Protocol File - 1	1	
+28-Nov-17 9:39:36 AM	Event	BenchCel - 1		process - 1 1		Move plate from BenchCel - 1 Stacker 2, teachpoint Stacker 2 to Bravo - 1 3, teachpoint Bravo3			1	
+28-Nov-17 9:39:46 AM	Event	BenchCel - 1	Stacker 2			The stack is empty			1	
+28-Nov-17 9:39:46 AM	Event	BenchCel - 1		process - 1 1		Finished moving plate from BenchCel - 1 Stacker 2, teachpoint Stacker 2 to Bravo - 1 3, teachpoint Bravo3			1	
+28-Nov-17 9:39:46 AM	Event	Bravo - 1	3	process - 1 1	2	Completed: Place plate at Bravo - 1 3		Protocol File - 1	1	
+28-Nov-17 9:39:46 AM	Event	BenchCel - 1	Stacker 2	process - 1 1	3	Upstack to BenchCel - 1.Stacker 2		Protocol File - 1	1	
+28-Nov-17 9:39:46 AM	Event	BenchCel - 1		process - 1 1		Move plate from Bravo - 1 3, teachpoint Bravo3 to BenchCel - 1 Stacker 2, teachpoint Stacker 2			1	
+28-Nov-17 9:39:52 AM	Event	BenchCel - 1		process - 1 1		Finished moving plate from Bravo - 1 3, teachpoint Bravo3 to BenchCel - 1 Stacker 2, teachpoint Stacker 2			1	
+28-Nov-17 9:39:52 AM	Event	BenchCel - 1	Stacker 2	process - 1 1	3	Completed: Upstack to BenchCel - 1.Stacker 2		Protocol File - 1	1	
+28-Nov-17 9:39:52 AM	Event			process - 1 1		Process finishing		Protocol File - 1	1	
+28-Nov-17 9:39:52 AM	Info					Elapsed time since start: 1 minute 0 seconds.		Protocol File - 1	1	
+28-Nov-17 9:39:54 AM	Event					Main protocol complete		Protocol File - 1	1	
+28-Nov-17 9:39:57 AM	Event	BenchCel - 1	Stacker 2	process - 1		Unload stacker rack at location "Stacker 2" of device "BenchCel - 1" with plate "process - 1" of labware type "96 Nunc Deep Well 1 mL"		Protocol File - 1	1	
+28-Nov-17 9:40:01 AM	Info	BenchCel - 1				Reset stack height: stack height at Stacker 2 is set to 0			1	
+28-Nov-17 9:40:06 AM	Info					Compile complete with 0 errors and 0 warnings			1	
+28-Nov-17 9:40:11 AM	Info					Runset Manager: Added the run "Protocol File - 1<2>" to Runset Manager.			1	
+28-Nov-17 9:40:12 AM	Event					Scheduler started			1	
+28-Nov-17 9:40:13 AM	Info					Error library: Protocol started using error library file: ""			1	
+28-Nov-17 9:40:13 AM	Event	BenchCel - 1	Stacker 2	process - 1		Load stacker rack at location "Stacker 2" of device "BenchCel - 1" with plate "process - 1" of labware type "96 Nunc Deep Well 1 mL"		Protocol File - 1	1	
+28-Nov-17 9:40:15 AM	Info			process - 1		5 plate(s) required		Protocol File - 1	1	
+28-Nov-17 9:40:15 AM	Event					Main protocol starting		Protocol File - 1	1	
+28-Nov-17 9:40:15 AM	Event			process - 1 1		Process starting, north barcode: No bar code, east barcode: No bar code, south barcode: No bar code, west barcode: No bar code		Protocol File - 1	1	
+28-Nov-17 9:40:15 AM	Event	BenchCel - 1	Stacker 2	process - 1 1	1	Downstack from BenchCel - 1.Stacker 2		Protocol File - 1	1	
+28-Nov-17 9:40:15 AM	Event	BenchCel - 1	Stacker 2	process - 1 1	1	Completed: Downstack from BenchCel - 1.Stacker 2		Protocol File - 1	1	
+28-Nov-17 9:40:15 AM	Event	Bravo - 1	3	process - 1 1	2	Place plate at Bravo - 1 3		Protocol File - 1	1	
+28-Nov-17 9:40:15 AM	Event	BenchCel - 1		process - 1 1		Move plate from BenchCel - 1 Stacker 2, teachpoint Stacker 2 to Bravo - 1 3, teachpoint Bravo3			1	
+28-Nov-17 9:40:25 AM	Event	BenchCel - 1	Stacker 2			The stack is empty			1	
+28-Nov-17 9:40:25 AM	Event	BenchCel - 1		process - 1 1		Finished moving plate from BenchCel - 1 Stacker 2, teachpoint Stacker 2 to Bravo - 1 3, teachpoint Bravo3			1	
+28-Nov-17 9:40:25 AM	Event	Bravo - 1	3	process - 1 1	2	Completed: Place plate at Bravo - 1 3		Protocol File - 1	1	
+28-Nov-17 9:40:25 AM	Event	BenchCel - 1	Stacker 2	process - 1 1	3	Upstack to BenchCel - 1.Stacker 2		Protocol File - 1	1	
+28-Nov-17 9:40:25 AM	Event	BenchCel - 1		process - 1 1		Move plate from Bravo - 1 3, teachpoint Bravo3 to BenchCel - 1 Stacker 2, teachpoint Stacker 2			1	
+28-Nov-17 9:40:32 AM	Event	BenchCel - 1		process - 1 1		Finished moving plate from Bravo - 1 3, teachpoint Bravo3 to BenchCel - 1 Stacker 2, teachpoint Stacker 2			1	
+28-Nov-17 9:40:32 AM	Event	BenchCel - 1	Stacker 2	process - 1 1	3	Completed: Upstack to BenchCel - 1.Stacker 2		Protocol File - 1	1	
+28-Nov-17 9:40:32 AM	Event			process - 1 1		Process finishing		Protocol File - 1	1	
+28-Nov-17 9:40:32 AM	Event			process - 1 2		Process starting, north barcode: No bar code, east barcode: No bar code, south barcode: No bar code, west barcode: No bar code		Protocol File - 1	1	
+28-Nov-17 9:40:32 AM	Event	BenchCel - 1	Stacker 2	process - 1 2	1	Downstack from BenchCel - 1.Stacker 2		Protocol File - 1	1	
+28-Nov-17 9:40:32 AM	Event	BenchCel - 1	Stacker 2	process - 1 2	1	Completed: Downstack from BenchCel - 1.Stacker 2		Protocol File - 1	1	
+28-Nov-17 9:40:32 AM	Event	Bravo - 1	3	process - 1 2	2	Place plate at Bravo - 1 3		Protocol File - 1	1	
+28-Nov-17 9:40:32 AM	Event	BenchCel - 1		process - 1 2		Move plate from BenchCel - 1 Stacker 2, teachpoint Stacker 2 to Bravo - 1 3, teachpoint Bravo3			1	
+28-Nov-17 9:40:42 AM	Event	BenchCel - 1	Stacker 2			The stack is empty			1	
+28-Nov-17 9:40:42 AM	Event	BenchCel - 1		process - 1 2		Finished moving plate from BenchCel - 1 Stacker 2, teachpoint Stacker 2 to Bravo - 1 3, teachpoint Bravo3			1	
+28-Nov-17 9:40:42 AM	Event	Bravo - 1	3	process - 1 2	2	Completed: Place plate at Bravo - 1 3		Protocol File - 1	1	
+28-Nov-17 9:40:42 AM	Event	BenchCel - 1	Stacker 2	process - 1 2	3	Upstack to BenchCel - 1.Stacker 2		Protocol File - 1	1	
+28-Nov-17 9:40:42 AM	Event	BenchCel - 1		process - 1 2		Move plate from Bravo - 1 3, teachpoint Bravo3 to BenchCel - 1 Stacker 2, teachpoint Stacker 2			1	
+28-Nov-17 9:40:48 AM	Event	BenchCel - 1		process - 1 2		Finished moving plate from Bravo - 1 3, teachpoint Bravo3 to BenchCel - 1 Stacker 2, teachpoint Stacker 2			1	
+28-Nov-17 9:40:48 AM	Event	BenchCel - 1	Stacker 2	process - 1 2	3	Completed: Upstack to BenchCel - 1.Stacker 2		Protocol File - 1	1	
+28-Nov-17 9:40:48 AM	Event			process - 1 2		Process finishing		Protocol File - 1	1	
+28-Nov-17 9:40:48 AM	Event			process - 1 3		Process starting, north barcode: No bar code, east barcode: No bar code, south barcode: No bar code, west barcode: No bar code		Protocol File - 1	1	
+28-Nov-17 9:40:48 AM	Event	BenchCel - 1	Stacker 2	process - 1 3	1	Downstack from BenchCel - 1.Stacker 2		Protocol File - 1	1	
+28-Nov-17 9:40:49 AM	Event	BenchCel - 1	Stacker 2	process - 1 3	1	Completed: Downstack from BenchCel - 1.Stacker 2		Protocol File - 1	1	
+28-Nov-17 9:40:49 AM	Event	Bravo - 1	3	process - 1 3	2	Place plate at Bravo - 1 3		Protocol File - 1	1	
+28-Nov-17 9:40:49 AM	Event	BenchCel - 1		process - 1 3		Move plate from BenchCel - 1 Stacker 2, teachpoint Stacker 2 to Bravo - 1 3, teachpoint Bravo3			1	
+28-Nov-17 9:40:58 AM	Event	BenchCel - 1	Stacker 2			The stack is empty			1	
+28-Nov-17 9:40:58 AM	Event	BenchCel - 1		process - 1 3		Finished moving plate from BenchCel - 1 Stacker 2, teachpoint Stacker 2 to Bravo - 1 3, teachpoint Bravo3			1	
+28-Nov-17 9:40:58 AM	Event	Bravo - 1	3	process - 1 3	2	Completed: Place plate at Bravo - 1 3		Protocol File - 1	1	
+28-Nov-17 9:40:58 AM	Event	BenchCel - 1	Stacker 2	process - 1 3	3	Upstack to BenchCel - 1.Stacker 2		Protocol File - 1	1	
+28-Nov-17 9:40:58 AM	Event	BenchCel - 1		process - 1 3		Move plate from Bravo - 1 3, teachpoint Bravo3 to BenchCel - 1 Stacker 2, teachpoint Stacker 2			1	
+28-Nov-17 9:41:05 AM	Event	BenchCel - 1		process - 1 3		Finished moving plate from Bravo - 1 3, teachpoint Bravo3 to BenchCel - 1 Stacker 2, teachpoint Stacker 2			1	
+28-Nov-17 9:41:05 AM	Event	BenchCel - 1	Stacker 2	process - 1 3	3	Completed: Upstack to BenchCel - 1.Stacker 2		Protocol File - 1	1	
+28-Nov-17 9:41:05 AM	Event			process - 1 3		Process finishing		Protocol File - 1	1	
+28-Nov-17 9:41:05 AM	Event			process - 1 4		Process starting, north barcode: No bar code, east barcode: No bar code, south barcode: No bar code, west barcode: No bar code		Protocol File - 1	1	
+28-Nov-17 9:41:05 AM	Event	BenchCel - 1	Stacker 2	process - 1 4	1	Downstack from BenchCel - 1.Stacker 2		Protocol File - 1	1	
+28-Nov-17 9:41:05 AM	Event	BenchCel - 1	Stacker 2	process - 1 4	1	Completed: Downstack from BenchCel - 1.Stacker 2		Protocol File - 1	1	
+28-Nov-17 9:41:05 AM	Event	Bravo - 1	3	process - 1 4	2	Place plate at Bravo - 1 3		Protocol File - 1	1	
+28-Nov-17 9:41:05 AM	Event	BenchCel - 1		process - 1 4		Move plate from BenchCel - 1 Stacker 2, teachpoint Stacker 2 to Bravo - 1 3, teachpoint Bravo3			1	
+28-Nov-17 9:41:15 AM	Event	BenchCel - 1	Stacker 2			The stack is empty			1	
+28-Nov-17 9:41:15 AM	Event	BenchCel - 1		process - 1 4		Finished moving plate from BenchCel - 1 Stacker 2, teachpoint Stacker 2 to Bravo - 1 3, teachpoint Bravo3			1	
+28-Nov-17 9:41:15 AM	Event	Bravo - 1	3	process - 1 4	2	Completed: Place plate at Bravo - 1 3		Protocol File - 1	1	
+28-Nov-17 9:41:15 AM	Event	BenchCel - 1	Stacker 2	process - 1 4	3	Upstack to BenchCel - 1.Stacker 2		Protocol File - 1	1	
+28-Nov-17 9:41:15 AM	Event	BenchCel - 1		process - 1 4		Move plate from Bravo - 1 3, teachpoint Bravo3 to BenchCel - 1 Stacker 2, teachpoint Stacker 2			1	
+28-Nov-17 9:41:22 AM	Event	BenchCel - 1		process - 1 4		Finished moving plate from Bravo - 1 3, teachpoint Bravo3 to BenchCel - 1 Stacker 2, teachpoint Stacker 2			1	
+28-Nov-17 9:41:22 AM	Event	BenchCel - 1	Stacker 2	process - 1 4	3	Completed: Upstack to BenchCel - 1.Stacker 2		Protocol File - 1	1	
+28-Nov-17 9:41:22 AM	Event			process - 1 4		Process finishing		Protocol File - 1	1	
+28-Nov-17 9:41:22 AM	Event			process - 1 5		Process starting, north barcode: No bar code, east barcode: No bar code, south barcode: No bar code, west barcode: No bar code		Protocol File - 1	1	
+28-Nov-17 9:41:22 AM	Event	BenchCel - 1	Stacker 2	process - 1 5	1	Downstack from BenchCel - 1.Stacker 2		Protocol File - 1	1	
+28-Nov-17 9:41:22 AM	Event	BenchCel - 1	Stacker 2	process - 1 5	1	Completed: Downstack from BenchCel - 1.Stacker 2		Protocol File - 1	1	
+28-Nov-17 9:41:22 AM	Event	Bravo - 1	3	process - 1 5	2	Place plate at Bravo - 1 3		Protocol File - 1	1	
+28-Nov-17 9:41:22 AM	Event	BenchCel - 1		process - 1 5		Move plate from BenchCel - 1 Stacker 2, teachpoint Stacker 2 to Bravo - 1 3, teachpoint Bravo3			1	
+28-Nov-17 9:41:31 AM	Event	BenchCel - 1	Stacker 2			The stack is empty			1	
+28-Nov-17 9:41:31 AM	Event	BenchCel - 1		process - 1 5		Finished moving plate from BenchCel - 1 Stacker 2, teachpoint Stacker 2 to Bravo - 1 3, teachpoint Bravo3			1	
+28-Nov-17 9:41:31 AM	Event	Bravo - 1	3	process - 1 5	2	Completed: Place plate at Bravo - 1 3		Protocol File - 1	1	
+28-Nov-17 9:41:32 AM	Event	BenchCel - 1	Stacker 2	process - 1 5	3	Upstack to BenchCel - 1.Stacker 2		Protocol File - 1	1	
+28-Nov-17 9:41:32 AM	Event	BenchCel - 1		process - 1 5		Move plate from Bravo - 1 3, teachpoint Bravo3 to BenchCel - 1 Stacker 2, teachpoint Stacker 2			1	
+28-Nov-17 9:41:38 AM	Event	BenchCel - 1		process - 1 5		Finished moving plate from Bravo - 1 3, teachpoint Bravo3 to BenchCel - 1 Stacker 2, teachpoint Stacker 2			1	
+28-Nov-17 9:41:38 AM	Event	BenchCel - 1	Stacker 2	process - 1 5	3	Completed: Upstack to BenchCel - 1.Stacker 2		Protocol File - 1	1	
+28-Nov-17 9:41:38 AM	Event			process - 1 5		Process finishing		Protocol File - 1	1	
+28-Nov-17 9:41:38 AM	Info					Elapsed time since start: 1 minute 26 seconds.		Protocol File - 1	1	
+28-Nov-17 9:41:40 AM	Event					Main protocol complete		Protocol File - 1	1	
+28-Nov-17 9:41:42 AM	Event	BenchCel - 1	Stacker 2	process - 1		Unload stacker rack at location "Stacker 2" of device "BenchCel - 1" with plate "process - 1" of labware type "96 Nunc Deep Well 1 mL"		Protocol File - 1	1	
+28-Nov-17 9:41:46 AM	Info	BenchCel - 1				Reset stack height: stack height at Stacker 2 is set to 0			1	
+28-Nov-17 9:41:57 AM	Info					Runset Manager: Deleted the run "Protocol File - 1" from Runset Manager.			1	
+28-Nov-17 9:41:57 AM	Info					Runset Manager: Deleted the run "Protocol File - 1<1>" from Runset Manager.			1	
+28-Nov-17 9:41:57 AM	Info					Runset Manager: Deleted the run "Protocol File - 1<2>" from Runset Manager.			1	
+28-Nov-17 9:41:57 AM	Info					File unloaded		Protocol File - 1	1	
+28-Nov-17 9:41:57 AM	Info	Agilent Labware MiniHub - 1				Closing device		C:\VWorks Workspace\Device Files\BravoMiniPHBenchCel_round_magnet_RED_insert.dev	1	
+28-Nov-17 9:41:57 AM	Info	BenchCel - 1				Closing device		C:\VWorks Workspace\Device Files\BravoMiniPHBenchCel_round_magnet_RED_insert.dev	1	
+28-Nov-17 9:41:57 AM	Info	Bravo - 1				Closing device		C:\VWorks Workspace\Device Files\BravoMiniPHBenchCel_round_magnet_RED_insert.dev	1	
+28-Nov-17 9:41:57 AM	Info					File unloaded		C:\VWorks Workspace\Device Files\BravoMiniPHBenchCel_round_magnet_RED_insert.dev	1	
+28-Nov-17 9:41:59 AM	Info					administrator logged out. Session 1 closed			1	
+28-Nov-17 9:41:59 AM	Info					System Shutdown			0	

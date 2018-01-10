@@ -1,0 +1,149 @@
+08-Nov-17 2:55:22 PM	Info					Error library: The error library file path is empty.			0	
+08-Nov-17 2:55:22 PM	Info					System Startup			0	
+08-Nov-17 2:55:22 PM	Info	AccessoriesWizard				Dll loaded:    AccessoriesWizard.dll    6.0.0			0	
+08-Nov-17 2:55:22 PM	Info	AccessoryManager				Dll loaded:    AccessoryManager.dll    2.0.0			0	
+08-Nov-17 2:55:22 PM	Info	AgilentBenchBotController				Dll loaded:    AgilentBenchBotController.dll    1.21.4226			0	
+08-Nov-17 2:55:22 PM	Info	ArgonShelfAccessoryDriver				Dll loaded:    ArgonShelfAccessoryDriver.dll    2.0.1			0	
+08-Nov-17 2:55:22 PM	Info	BTILHCRunner				Dll loaded:    BTILHCRunner.dll    2.00.2			0	
+08-Nov-17 2:55:22 PM	Info	ContextHelp				Dll loaded:    ContextHelp.dll    3.0.0			0	
+08-Nov-17 2:55:22 PM	Info	DDRStringTable				Dll loaded:    DDRStringTable.dll    1.2.14			0	
+08-Nov-17 2:55:22 PM	Info	DeviceEnumerator				Dll loaded:    DeviceEnumerator.dll    9.0.0			0	
+08-Nov-17 2:55:22 PM	Info	EchoAppHelper				Dll loaded:    EchoAppHelper.dll    1.0.0			0	
+08-Nov-17 2:55:22 PM	Info	ErrorLibrary				Dll loaded:    ErrorLibrary.dll    2.0.1			0	
+08-Nov-17 2:55:22 PM	Info	EvaporatorAccessoryDriver				Dll loaded:    EvaporatorAccessoryDriver.dll    9.0.0			0	
+08-Nov-17 2:55:22 PM	Info	GuidanceDiscovery				Dll loaded:    GuidanceDiscovery.dll    2.0.0			0	
+08-Nov-17 2:55:22 PM	Info	Host				Dll loaded:    Host.dll    1.0.4226			0	
+08-Nov-17 2:55:22 PM	Info	ImportExport				Dll loaded:    ImportExport.dll    2.0.0			0	
+08-Nov-17 2:55:22 PM	Info	InhecoMTCdll				Dll loaded:    InhecoMTCdll.dll    1.2.4			0	
+08-Nov-17 2:55:22 PM	Info	InhecoShakeandHeatAccessoryDriver				Dll loaded:    InhecoShakeandHeatAccessoryDriver.dll    1.0.0			0	
+08-Nov-17 2:55:22 PM	Info	IWorksAccessory				Dll loaded:    IWorksAccessory.dll    8.0.1			0	
+08-Nov-17 2:55:22 PM	Info	js32				Dll loaded:    js32.dll    Unknown.0.0			0	
+08-Nov-17 2:55:22 PM	Info	LabelDesigner				Dll loaded:    LabelDesigner.dll    5.0.7			0	
+08-Nov-17 2:55:22 PM	Info	LabelerHardware				Dll loaded:    LabelerHardware.dll    14.0.23			0	
+08-Nov-17 2:55:22 PM	Info	libnspr4				Dll loaded:    libnspr4.dll    4.1.0			0	
+08-Nov-17 2:55:22 PM	Info	LidHotelAccessoryDriver				Dll loaded:    LidHotelAccessoryDriver.dll    8.0.0			0	
+08-Nov-17 2:55:22 PM	Info	lm				Dll loaded:    lm.dll    3.0.0			0	
+08-Nov-17 2:55:22 PM	Info	Loader				Dll loaded:    Loader.dll    1.0.4226			0	
+08-Nov-17 2:55:22 PM	Info	MagBeadAccessoryDriver				Dll loaded:    MagBeadAccessoryDriver.dll    8.0.0			0	
+08-Nov-17 2:55:22 PM	Info	MetaDataPropertyManager				Dll loaded:    MetaDataPropertyManager.dll    13.0.0			0	
+08-Nov-17 2:55:22 PM	Info	mfc71				Dll loaded:    mfc71.dll    7.10.3077			0	
+08-Nov-17 2:55:22 PM	Info	mfc71u				Dll loaded:    mfc71u.dll    7.10.3077			0	
+08-Nov-17 2:55:22 PM	Info	MicroPierceInterface				Dll loaded:    MicroPierceInterface.dll    1.0.0			0	
+08-Nov-17 2:55:22 PM	Info	MicroPierceWrapper				Dll loaded:    MicroPierceWrapper.dll    1.0.0			0	
+08-Nov-17 2:55:22 PM	Info	MicroStirInterface				Dll loaded:    MicroStirInterface.dll    1.0.0			0	
+08-Nov-17 2:55:22 PM	Info	MicroStirWrapper				Dll loaded:    MicroStirWrapper.dll    1.0.0			0	
+08-Nov-17 2:55:22 PM	Info	msvcr71				Dll loaded:    msvcr71.dll    7.10.3052			0	
+08-Nov-17 2:55:22 PM	Info	MTController				Dll loaded:    MTController.dll    5.0.0			0	
+08-Nov-17 2:55:22 PM	Info	NestableTipBoxInsertAccessoryDriver				Dll loaded:    NestableTipBoxInsertAccessoryDriver.dll    2.0.0			0	
+08-Nov-17 2:55:22 PM	Info	ObjectDatabase				Dll loaded:    ObjectDatabase.dll    4.0.0			0	
+08-Nov-17 2:55:22 PM	Info	ObjectManager				Dll loaded:    ObjectManager.dll    7.0.1			0	
+08-Nov-17 2:55:22 PM	Info	PackardFusionRemoteConnectorOCX				Dll loaded:    PackardFusionRemoteConnectorOCX.dll    4.0.0			0	
+08-Nov-17 2:55:23 PM	Info	PackardFusionRemoteControlPlugIn				Dll loaded:    PackardFusionRemoteControlPlugIn.dll    4.0.0			0	
+08-Nov-17 2:55:23 PM	Info	PackardFusionRemoteControlWrapperDLL				Dll loaded:    PackardFusionRemoteControlWrapperDLL.dll    4.0.0			0	
+08-Nov-17 2:55:23 PM	Info	PicServoExtDll				Dll loaded:    PicServoExtDll.dll    10.0.0			0	
+08-Nov-17 2:55:23 PM	Info	PipetteHeadMode				Dll loaded:    PipetteHeadMode.dll    2.0.0			0	
+08-Nov-17 2:55:23 PM	Info	PipetteTechniqueEditor				Dll loaded:    PipetteTechniqueEditor.dll    3.0.0			0	
+08-Nov-17 2:55:23 PM	Info	PlateMapDatabase				Dll loaded:    PlateMapDatabase.dll    17.0.1			0	
+08-Nov-17 2:55:23 PM	Info	ProfileChangeLog				Dll loaded:    ProfileChangeLog.dll    2.0.0			0	
+08-Nov-17 2:55:23 PM	Info	ProfileManager				Dll loaded:    ProfileManager.dll    10.0.1			0	
+08-Nov-17 2:55:23 PM	Info	ProfSkin284m				Dll loaded:    ProfSkin284m.dll    2.8.4			0	
+08-Nov-17 2:55:23 PM	Info	ProfUIS284m				Dll loaded:    ProfUIS284m.dll    2.8.4			0	
+08-Nov-17 2:55:23 PM	Info	ProfUisProfileManager				Dll loaded:    ProfUisProfileManager.dll    10.0.0			0	
+08-Nov-17 2:55:23 PM	Info	SciLexer				Dll loaded:    SciLexer.dll    1.71.0			0	
+08-Nov-17 2:55:23 PM	Info	SerialDilution				Dll loaded:    SerialDilution.dll    13.0.0			0	
+08-Nov-17 2:55:23 PM	Info	SSIdll				Dll loaded:    SSIdll.dll    Unknown.0.0			0	
+08-Nov-17 2:55:23 PM	Info	TeleshakeAccessoryDriver				Dll loaded:    TeleshakeAccessoryDriver.dll    9.0.2			0	
+08-Nov-17 2:55:23 PM	Info	TipPosition				Dll loaded:    TipPosition.dll    3.0.0			0	
+08-Nov-17 2:55:23 PM	Info	TipTracking				Dll loaded:    TipTracking.dll    3.0.0			0	
+08-Nov-17 2:55:23 PM	Info	tmlcomm				Dll loaded:    tmlcomm.dll    3.2.2			0	
+08-Nov-17 2:55:23 PM	Info	TML_lib				Dll loaded:    TML_lib.dll    2.0.1			0	
+08-Nov-17 2:55:23 PM	Info	Toolbox				Dll loaded:    Toolbox.dll    1.0.4226			0	
+08-Nov-17 2:55:23 PM	Info	V11DeviceDriver				Dll loaded:    V11DeviceDriver.dll    11.0.0			0	
+08-Nov-17 2:55:23 PM	Info	V11FieldComposer				Dll loaded:    V11FieldComposer.dll    4.0.0			0	
+08-Nov-17 2:55:23 PM	Info	V11GanttChart				Dll loaded:    V11GanttChart.dll    2.0.1			0	
+08-Nov-17 2:55:23 PM	Info	V11Labware				Dll loaded:    V11Labware.dll    25.0.14			0	
+08-Nov-17 2:55:23 PM	Info	V11Liquids				Dll loaded:    V11Liquids.dll    9.0.0			0	
+08-Nov-17 2:55:23 PM	Info	V11Migrator				Dll loaded:    V11Migrator.dll    2.0.3			0	
+08-Nov-17 2:55:23 PM	Info	V11PipettingFormatWizard				Dll loaded:    V11PipettingFormatWizard.dll    2.0.0			0	
+08-Nov-17 2:55:23 PM	Info	V11PumpAccessoryDriver				Dll loaded:    V11PumpAccessoryDriver.dll    3.0.2			0	
+08-Nov-17 2:55:23 PM	Info	V11SharedClasses				Dll loaded:    V11SharedClasses.dll    1.1.0			0	
+08-Nov-17 2:55:23 PM	Info	V11WellSelect				Dll loaded:    V11WellSelect.dll    8.0.0			0	
+08-Nov-17 2:55:23 PM	Info	V11WellVolumeVisualizer				Dll loaded:    V11WellVolumeVisualizer.dll    6.0.0			0	
+08-Nov-17 2:55:23 PM	Info	V11Wizard				Dll loaded:    V11Wizard.dll    2.0.0			0	
+08-Nov-17 2:55:23 PM	Info	VacuumFiltrationAccessoryDriver				Dll loaded:    VacuumFiltrationAccessoryDriver.dll    10.0.1			0	
+08-Nov-17 2:55:23 PM	Info	VacuumLocatingStationDriver				Dll loaded:    VacuumLocatingStationDriver.dll    7.0.0			0	
+08-Nov-17 2:55:23 PM	Info	VacuumShelfAccessoryDriver				Dll loaded:    VacuumShelfAccessoryDriver.dll    2.0.2			0	
+08-Nov-17 2:55:23 PM	Info	VHookInterface				Dll loaded:    VHookInterface.dll    7.0.0			0	
+08-Nov-17 2:55:23 PM	Info	VWorks4COM				Dll loaded:    VWorks4COM.dll    4.0.0			0	
+08-Nov-17 2:55:23 PM	Info	VWorks4Defs				Dll loaded:    VWorks4Defs.dll    6.0.3			0	
+08-Nov-17 2:55:23 PM	Info	VWorks4DeviceManager				Dll loaded:    VWorks4DeviceManager.dll    4.0.0			0	
+08-Nov-17 2:55:23 PM	Info	VWorks4EmailDaemon				Dll loaded:    VWorks4EmailDaemon.dll    3.0.0			0	
+08-Nov-17 2:55:23 PM	Info	VWorks4FormManager				Dll loaded:    VWorks4FormManager.dll    1.0.0			0	
+08-Nov-17 2:55:23 PM	Info	VWorks4GUI				Dll loaded:    VWorks4GUI.dll    3.0.0			0	
+08-Nov-17 2:55:23 PM	Info	VWorks4GUIFramework				Dll loaded:    VWorks4GUIFramework.dll    3.0.1			0	
+08-Nov-17 2:55:23 PM	Info	VWorks4Hooks				Dll loaded:    VWorks4Hooks.dll    3.0.0			0	
+08-Nov-17 2:55:23 PM	Info	VWorks4LabelDesigner				Dll loaded:    VWorks4LabelDesigner.dll    3.0.0			0	
+08-Nov-17 2:55:23 PM	Info	VWorks4Logger				Dll loaded:    VWorks4Logger.dll    4.0.0			0	
+08-Nov-17 2:55:23 PM	Info	VWorks4MacroLibrary				Dll loaded:    VWorks4MacroLibrary.dll    1.0.0			0	
+08-Nov-17 2:55:23 PM	Info	VWorks4Progress				Dll loaded:    VWorks4Progress.dll    3.0.0			0	
+08-Nov-17 2:55:23 PM	Info	VWorks4ProtocolEditor				Dll loaded:    VWorks4ProtocolEditor.dll    4.0.0			0	
+08-Nov-17 2:55:23 PM	Info	VWorks4Security				Dll loaded:    VWorks4Security.dll    3.0.0			0	
+08-Nov-17 2:55:23 PM	Info	VWorks4UserDatabase				Dll loaded:    VWorks4UserDatabase.dll    3.0.0			0	
+08-Nov-17 2:55:23 PM	Info	VWorks4UserManager				Dll loaded:    VWorks4UserManager.dll    3.0.0			0	
+08-Nov-17 2:55:23 PM	Info	WeighPadAccessoryDriver				Dll loaded:    WeighPadAccessoryDriver.dll    2.0.0			0	
+08-Nov-17 2:55:23 PM	Info	Agilent BenchCel				Plugin loaded from cache:   AgilentBenchCel.dll   20.1.2			0	
+08-Nov-17 2:55:23 PM	Info	Agilent Bravo				Plugin loaded from cache:   AgilentBravo.dll   17.1.0			0	
+08-Nov-17 2:55:23 PM	Info	Agilent Generic I/O Module				Plugin loaded from cache:   AgilentGenericIO.dll   5.0.0			0	
+08-Nov-17 2:55:23 PM	Info	Agilent Labware MiniHub				Plugin loaded from cache:   AgilentLabwareMiniHub.dll   1.0.3			0	
+08-Nov-17 2:55:23 PM	Info	Agilent Phantom Robot				Plugin loaded from cache:   AgilentPhantomRobot.dll   9.0.5			0	
+08-Nov-17 2:55:23 PM	Info	Agilent Phantom Stacker				Plugin loaded from cache:   AgilentPhantomStacker.dll   2.0.1			0	
+08-Nov-17 2:55:23 PM	Info	Agilent Plate Hotel				Plugin loaded from cache:   AgilentPlateHotel.dll   1.0.3			0	
+08-Nov-17 2:55:23 PM	Info	Agilent Plate Hub Carousel				Plugin loaded from cache:   AgilentPlateHubCarousel.dll   8.0.1			0	
+08-Nov-17 2:55:23 PM	Info	Waste Bin				Plugin loaded from cache:   AgilentWasteBin.dll   3.0.0			0	
+08-Nov-17 2:55:23 PM	Info	Agilent Weigh Pad				Plugin loaded from cache:   AgilentWeighPad.dll   8.0.0			0	
+08-Nov-17 2:55:23 PM	Info	Keyence Barcode Reader				Plugin loaded from cache:   KeyenceBarcodeReader.dll   6.0.0			0	
+08-Nov-17 2:55:23 PM	Info	Plate Pad, Standard				Plugin loaded from cache:   PlatePad.dll   6.0.0			0	
+08-Nov-17 2:56:05 PM	Info					admininistrator login failed			0	
+08-Nov-17 2:56:32 PM	Info					administrator logged in			1	
+08-Nov-17 2:56:52 PM	Info	Agilent Labware MiniHub				Plugin loaded:   AgilentLabwareMiniHub.dll   1.0.3			1	
+08-Nov-17 2:56:53 PM	Info					Hooks plugin loaded:    AgilentBenchCel.dll			0	
+08-Nov-17 2:56:53 PM	Info	Agilent BenchCel				Plugin loaded:   AgilentBenchCel.dll   20.1.2			1	
+08-Nov-17 2:56:56 PM	Info					Hooks plugin loaded:    AgilentBravo.dll			0	
+08-Nov-17 2:56:57 PM	Info	Agilent Bravo				Plugin loaded:   AgilentBravo.dll   17.1.0			1	
+08-Nov-17 2:57:00 PM	Info					File loaded		C:\VWorks Workspace\Device Files\BravoMiniPHBenchCel_round_magnet_RED_insert.dev	1	
+08-Nov-17 2:57:25 PM	Info	Agilent Labware MiniHub - 1				Initializing device		C:\VWorks Workspace\Device Files\BravoMiniPHBenchCel_round_magnet_RED_insert.dev	1	
+08-Nov-17 2:57:25 PM	Info	BenchCel - 1				Initializing device		C:\VWorks Workspace\Device Files\BravoMiniPHBenchCel_round_magnet_RED_insert.dev	1	
+08-Nov-17 2:57:25 PM	Info	Bravo - 1				Initializing device		C:\VWorks Workspace\Device Files\BravoMiniPHBenchCel_round_magnet_RED_insert.dev	1	
+08-Nov-17 2:57:26 PM	Info	BenchCel - 1				Initialization complete		C:\VWorks Workspace\Device Files\BravoMiniPHBenchCel_round_magnet_RED_insert.dev	1	
+08-Nov-17 2:57:36 PM	Info	Agilent Labware MiniHub - 1				Initialization complete		C:\VWorks Workspace\Device Files\BravoMiniPHBenchCel_round_magnet_RED_insert.dev	1	
+08-Nov-17 2:57:40 PM	Error	Bravo - 1				Location 4 Device not found (FindTheUniversalControl failed, return value = 0). CMTCSTCController::GetController failed for controllerID: -1			1	
+08-Nov-17 2:57:40 PM	Info					Error library: Select best match error handler: "Default" and action type "show error dialog"			1	
+08-Nov-17 2:57:51 PM	Info	Bravo - 1				Ignoring: Location 4 Device not found (FindTheUniversalControl failed, return value = 0). CMTCSTCController::GetController failed for controllerID: -1			1	
+08-Nov-17 2:57:51 PM	Error	Bravo - 1				Location 6 Device not found (FindTheUniversalControl failed, return value = 0). CMTCSTCController::GetController failed for controllerID: -1			1	
+08-Nov-17 2:57:51 PM	Info					Error library: Select best match error handler: "Default" and action type "show error dialog"			1	
+08-Nov-17 2:57:53 PM	Info	Bravo - 1				Ignoring: Location 6 Device not found (FindTheUniversalControl failed, return value = 0). CMTCSTCController::GetController failed for controllerID: -1			1	
+08-Nov-17 2:57:54 PM	Info	Bravo - 1				Initialization complete		C:\VWorks Workspace\Device Files\BravoMiniPHBenchCel_round_magnet_RED_insert.dev	1	
+08-Nov-17 2:58:16 PM	Info	Agilent Labware MiniHub - 1				Opening diagnostics		C:\VWorks Workspace\Device Files\BravoMiniPHBenchCel_round_magnet_RED_insert.dev	1	
+08-Nov-17 2:58:39 PM	Info	Agilent Labware MiniHub - 1				motor stopped.			1	
+08-Nov-17 2:59:11 PM	Info	Agilent Labware MiniHub - 1				motor started.			1	
+08-Nov-17 2:59:18 PM	Info	Agilent Labware MiniHub - 1				Closing diagnostics		C:\VWorks Workspace\Device Files\BravoMiniPHBenchCel_round_magnet_RED_insert.dev	1	
+08-Nov-17 2:59:33 PM	Info	Agilent Labware MiniHub - 1				Initializing device		C:\VWorks Workspace\Device Files\BravoMiniPHBenchCel_round_magnet_RED_insert.dev	1	
+08-Nov-17 2:59:33 PM	Info	BenchCel - 1				Initializing device		C:\VWorks Workspace\Device Files\BravoMiniPHBenchCel_round_magnet_RED_insert.dev	1	
+08-Nov-17 2:59:33 PM	Info	Bravo - 1				Initializing device		C:\VWorks Workspace\Device Files\BravoMiniPHBenchCel_round_magnet_RED_insert.dev	1	
+08-Nov-17 2:59:34 PM	Info	BenchCel - 1				Initialization complete		C:\VWorks Workspace\Device Files\BravoMiniPHBenchCel_round_magnet_RED_insert.dev	1	
+08-Nov-17 2:59:48 PM	Error	Bravo - 1				Location 4 Device not found (FindTheUniversalControl failed, return value = 0). CMTCSTCController::GetController failed for controllerID: -1			1	
+08-Nov-17 2:59:48 PM	Info					Error library: Select best match error handler: "Default" and action type "show error dialog"			1	
+08-Nov-17 2:59:49 PM	Info	Agilent Labware MiniHub - 1				Initialization complete		C:\VWorks Workspace\Device Files\BravoMiniPHBenchCel_round_magnet_RED_insert.dev	1	
+08-Nov-17 2:59:57 PM	Info	Bravo - 1				Ignoring: Location 4 Device not found (FindTheUniversalControl failed, return value = 0). CMTCSTCController::GetController failed for controllerID: -1			1	
+08-Nov-17 2:59:57 PM	Error	Bravo - 1				Location 6 Device not found (FindTheUniversalControl failed, return value = 0). CMTCSTCController::GetController failed for controllerID: -1			1	
+08-Nov-17 2:59:57 PM	Info					Error library: Select best match error handler: "Default" and action type "show error dialog"			1	
+08-Nov-17 3:00:00 PM	Info	Bravo - 1				Ignoring: Location 6 Device not found (FindTheUniversalControl failed, return value = 0). CMTCSTCController::GetController failed for controllerID: -1			1	
+08-Nov-17 3:00:00 PM	Info	Bravo - 1				Initialization complete		C:\VWorks Workspace\Device Files\BravoMiniPHBenchCel_round_magnet_RED_insert.dev	1	
+08-Nov-17 3:00:05 PM	Info	Agilent Labware MiniHub - 1				Closing device		C:\VWorks Workspace\Device Files\BravoMiniPHBenchCel_round_magnet_RED_insert.dev	1	
+08-Nov-17 3:00:05 PM	Info	BenchCel - 1				Closing device		C:\VWorks Workspace\Device Files\BravoMiniPHBenchCel_round_magnet_RED_insert.dev	1	
+08-Nov-17 3:00:05 PM	Info	Bravo - 1				Closing device		C:\VWorks Workspace\Device Files\BravoMiniPHBenchCel_round_magnet_RED_insert.dev	1	
+08-Nov-17 3:00:05 PM	Info					File unloaded		C:\VWorks Workspace\Device Files\BravoMiniPHBenchCel_round_magnet_RED_insert.dev	1	
+08-Nov-17 3:00:30 PM	Info					File loaded		C:\VWorks Workspace\Forms\SCELSE\Working Program\Accel_NGS.VWForm	1	
+08-Nov-17 3:03:25 PM	Info					File unloaded		C:\VWorks Workspace\Forms\SCELSE\Working Program\Accel_NGS.VWForm	1	
+08-Nov-17 3:03:25 PM	Info					administrator logged out. Session 1 closed			1	
+08-Nov-17 3:03:25 PM	Info					System Shutdown			0	

@@ -1,0 +1,1088 @@
+27-Sep-17 9:30:34 AM	Info					Error library: The error library file path is empty.			0	
+27-Sep-17 9:30:34 AM	Info					System Startup			0	
+27-Sep-17 9:30:34 AM	Info	AccessoriesWizard				Dll loaded:    AccessoriesWizard.dll    6.0.0			0	
+27-Sep-17 9:30:34 AM	Info	AccessoryManager				Dll loaded:    AccessoryManager.dll    2.0.0			0	
+27-Sep-17 9:30:34 AM	Info	AgilentBenchBotController				Dll loaded:    AgilentBenchBotController.dll    1.21.4226			0	
+27-Sep-17 9:30:34 AM	Info	ArgonShelfAccessoryDriver				Dll loaded:    ArgonShelfAccessoryDriver.dll    2.0.1			0	
+27-Sep-17 9:30:34 AM	Info	BTILHCRunner				Dll loaded:    BTILHCRunner.dll    2.00.2			0	
+27-Sep-17 9:30:34 AM	Info	ContextHelp				Dll loaded:    ContextHelp.dll    3.0.0			0	
+27-Sep-17 9:30:34 AM	Info	DDRStringTable				Dll loaded:    DDRStringTable.dll    1.2.14			0	
+27-Sep-17 9:30:34 AM	Info	DeviceEnumerator				Dll loaded:    DeviceEnumerator.dll    9.0.0			0	
+27-Sep-17 9:30:34 AM	Info	EchoAppHelper				Dll loaded:    EchoAppHelper.dll    1.0.0			0	
+27-Sep-17 9:30:34 AM	Info	ErrorLibrary				Dll loaded:    ErrorLibrary.dll    2.0.1			0	
+27-Sep-17 9:30:34 AM	Info	EvaporatorAccessoryDriver				Dll loaded:    EvaporatorAccessoryDriver.dll    9.0.0			0	
+27-Sep-17 9:30:34 AM	Info	GuidanceDiscovery				Dll loaded:    GuidanceDiscovery.dll    2.0.0			0	
+27-Sep-17 9:30:34 AM	Info	Host				Dll loaded:    Host.dll    1.0.4226			0	
+27-Sep-17 9:30:34 AM	Info	ImportExport				Dll loaded:    ImportExport.dll    2.0.0			0	
+27-Sep-17 9:30:34 AM	Info	InhecoMTCdll				Dll loaded:    InhecoMTCdll.dll    1.2.4			0	
+27-Sep-17 9:30:34 AM	Info	InhecoShakeandHeatAccessoryDriver				Dll loaded:    InhecoShakeandHeatAccessoryDriver.dll    1.0.0			0	
+27-Sep-17 9:30:34 AM	Info	IWorksAccessory				Dll loaded:    IWorksAccessory.dll    8.0.1			0	
+27-Sep-17 9:30:34 AM	Info	js32				Dll loaded:    js32.dll    Unknown.0.0			0	
+27-Sep-17 9:30:34 AM	Info	LabelDesigner				Dll loaded:    LabelDesigner.dll    5.0.7			0	
+27-Sep-17 9:30:34 AM	Info	LabelerHardware				Dll loaded:    LabelerHardware.dll    14.0.23			0	
+27-Sep-17 9:30:34 AM	Info	libnspr4				Dll loaded:    libnspr4.dll    4.1.0			0	
+27-Sep-17 9:30:34 AM	Info	LidHotelAccessoryDriver				Dll loaded:    LidHotelAccessoryDriver.dll    8.0.0			0	
+27-Sep-17 9:30:34 AM	Info	lm				Dll loaded:    lm.dll    3.0.0			0	
+27-Sep-17 9:30:34 AM	Info	Loader				Dll loaded:    Loader.dll    1.0.4226			0	
+27-Sep-17 9:30:34 AM	Info	MagBeadAccessoryDriver				Dll loaded:    MagBeadAccessoryDriver.dll    8.0.0			0	
+27-Sep-17 9:30:34 AM	Info	MetaDataPropertyManager				Dll loaded:    MetaDataPropertyManager.dll    13.0.0			0	
+27-Sep-17 9:30:34 AM	Info	mfc71				Dll loaded:    mfc71.dll    7.10.3077			0	
+27-Sep-17 9:30:34 AM	Info	mfc71u				Dll loaded:    mfc71u.dll    7.10.3077			0	
+27-Sep-17 9:30:34 AM	Info	MicroPierceInterface				Dll loaded:    MicroPierceInterface.dll    1.0.0			0	
+27-Sep-17 9:30:34 AM	Info	MicroPierceWrapper				Dll loaded:    MicroPierceWrapper.dll    1.0.0			0	
+27-Sep-17 9:30:34 AM	Info	MicroStirInterface				Dll loaded:    MicroStirInterface.dll    1.0.0			0	
+27-Sep-17 9:30:34 AM	Info	MicroStirWrapper				Dll loaded:    MicroStirWrapper.dll    1.0.0			0	
+27-Sep-17 9:30:34 AM	Info	msvcr71				Dll loaded:    msvcr71.dll    7.10.3052			0	
+27-Sep-17 9:30:34 AM	Info	MTController				Dll loaded:    MTController.dll    5.0.0			0	
+27-Sep-17 9:30:34 AM	Info	NestableTipBoxInsertAccessoryDriver				Dll loaded:    NestableTipBoxInsertAccessoryDriver.dll    2.0.0			0	
+27-Sep-17 9:30:34 AM	Info	ObjectDatabase				Dll loaded:    ObjectDatabase.dll    4.0.0			0	
+27-Sep-17 9:30:34 AM	Info	ObjectManager				Dll loaded:    ObjectManager.dll    7.0.1			0	
+27-Sep-17 9:30:34 AM	Info	PackardFusionRemoteConnectorOCX				Dll loaded:    PackardFusionRemoteConnectorOCX.dll    4.0.0			0	
+27-Sep-17 9:30:34 AM	Info	PackardFusionRemoteControlPlugIn				Dll loaded:    PackardFusionRemoteControlPlugIn.dll    4.0.0			0	
+27-Sep-17 9:30:34 AM	Info	PackardFusionRemoteControlWrapperDLL				Dll loaded:    PackardFusionRemoteControlWrapperDLL.dll    4.0.0			0	
+27-Sep-17 9:30:34 AM	Info	PicServoExtDll				Dll loaded:    PicServoExtDll.dll    10.0.0			0	
+27-Sep-17 9:30:34 AM	Info	PipetteHeadMode				Dll loaded:    PipetteHeadMode.dll    2.0.0			0	
+27-Sep-17 9:30:34 AM	Info	PipetteTechniqueEditor				Dll loaded:    PipetteTechniqueEditor.dll    3.0.0			0	
+27-Sep-17 9:30:34 AM	Info	PlateMapDatabase				Dll loaded:    PlateMapDatabase.dll    17.0.1			0	
+27-Sep-17 9:30:34 AM	Info	ProfileChangeLog				Dll loaded:    ProfileChangeLog.dll    2.0.0			0	
+27-Sep-17 9:30:34 AM	Info	ProfileManager				Dll loaded:    ProfileManager.dll    10.0.1			0	
+27-Sep-17 9:30:34 AM	Info	ProfSkin284m				Dll loaded:    ProfSkin284m.dll    2.8.4			0	
+27-Sep-17 9:30:34 AM	Info	ProfUIS284m				Dll loaded:    ProfUIS284m.dll    2.8.4			0	
+27-Sep-17 9:30:34 AM	Info	ProfUisProfileManager				Dll loaded:    ProfUisProfileManager.dll    10.0.0			0	
+27-Sep-17 9:30:34 AM	Info	SciLexer				Dll loaded:    SciLexer.dll    1.71.0			0	
+27-Sep-17 9:30:34 AM	Info	SerialDilution				Dll loaded:    SerialDilution.dll    13.0.0			0	
+27-Sep-17 9:30:34 AM	Info	SSIdll				Dll loaded:    SSIdll.dll    Unknown.0.0			0	
+27-Sep-17 9:30:34 AM	Info	TeleshakeAccessoryDriver				Dll loaded:    TeleshakeAccessoryDriver.dll    9.0.2			0	
+27-Sep-17 9:30:34 AM	Info	TipPosition				Dll loaded:    TipPosition.dll    3.0.0			0	
+27-Sep-17 9:30:34 AM	Info	TipTracking				Dll loaded:    TipTracking.dll    3.0.0			0	
+27-Sep-17 9:30:34 AM	Info	tmlcomm				Dll loaded:    tmlcomm.dll    3.2.2			0	
+27-Sep-17 9:30:34 AM	Info	TML_lib				Dll loaded:    TML_lib.dll    2.0.1			0	
+27-Sep-17 9:30:34 AM	Info	Toolbox				Dll loaded:    Toolbox.dll    1.0.4226			0	
+27-Sep-17 9:30:34 AM	Info	V11DeviceDriver				Dll loaded:    V11DeviceDriver.dll    11.0.0			0	
+27-Sep-17 9:30:34 AM	Info	V11FieldComposer				Dll loaded:    V11FieldComposer.dll    4.0.0			0	
+27-Sep-17 9:30:34 AM	Info	V11GanttChart				Dll loaded:    V11GanttChart.dll    2.0.1			0	
+27-Sep-17 9:30:34 AM	Info	V11Labware				Dll loaded:    V11Labware.dll    25.0.14			0	
+27-Sep-17 9:30:34 AM	Info	V11Liquids				Dll loaded:    V11Liquids.dll    9.0.0			0	
+27-Sep-17 9:30:34 AM	Info	V11Migrator				Dll loaded:    V11Migrator.dll    2.0.3			0	
+27-Sep-17 9:30:34 AM	Info	V11PipettingFormatWizard				Dll loaded:    V11PipettingFormatWizard.dll    2.0.0			0	
+27-Sep-17 9:30:34 AM	Info	V11PumpAccessoryDriver				Dll loaded:    V11PumpAccessoryDriver.dll    3.0.2			0	
+27-Sep-17 9:30:34 AM	Info	V11SharedClasses				Dll loaded:    V11SharedClasses.dll    1.1.0			0	
+27-Sep-17 9:30:34 AM	Info	V11WellSelect				Dll loaded:    V11WellSelect.dll    8.0.0			0	
+27-Sep-17 9:30:34 AM	Info	V11WellVolumeVisualizer				Dll loaded:    V11WellVolumeVisualizer.dll    6.0.0			0	
+27-Sep-17 9:30:34 AM	Info	V11Wizard				Dll loaded:    V11Wizard.dll    2.0.0			0	
+27-Sep-17 9:30:34 AM	Info	VacuumFiltrationAccessoryDriver				Dll loaded:    VacuumFiltrationAccessoryDriver.dll    10.0.1			0	
+27-Sep-17 9:30:34 AM	Info	VacuumLocatingStationDriver				Dll loaded:    VacuumLocatingStationDriver.dll    7.0.0			0	
+27-Sep-17 9:30:34 AM	Info	VacuumShelfAccessoryDriver				Dll loaded:    VacuumShelfAccessoryDriver.dll    2.0.2			0	
+27-Sep-17 9:30:34 AM	Info	VHookInterface				Dll loaded:    VHookInterface.dll    7.0.0			0	
+27-Sep-17 9:30:34 AM	Info	VWorks4COM				Dll loaded:    VWorks4COM.dll    4.0.0			0	
+27-Sep-17 9:30:34 AM	Info	VWorks4Defs				Dll loaded:    VWorks4Defs.dll    6.0.3			0	
+27-Sep-17 9:30:34 AM	Info	VWorks4DeviceManager				Dll loaded:    VWorks4DeviceManager.dll    4.0.0			0	
+27-Sep-17 9:30:34 AM	Info	VWorks4EmailDaemon				Dll loaded:    VWorks4EmailDaemon.dll    3.0.0			0	
+27-Sep-17 9:30:34 AM	Info	VWorks4FormManager				Dll loaded:    VWorks4FormManager.dll    1.0.0			0	
+27-Sep-17 9:30:34 AM	Info	VWorks4GUI				Dll loaded:    VWorks4GUI.dll    3.0.0			0	
+27-Sep-17 9:30:34 AM	Info	VWorks4GUIFramework				Dll loaded:    VWorks4GUIFramework.dll    3.0.1			0	
+27-Sep-17 9:30:34 AM	Info	VWorks4Hooks				Dll loaded:    VWorks4Hooks.dll    3.0.0			0	
+27-Sep-17 9:30:34 AM	Info	VWorks4LabelDesigner				Dll loaded:    VWorks4LabelDesigner.dll    3.0.0			0	
+27-Sep-17 9:30:34 AM	Info	VWorks4Logger				Dll loaded:    VWorks4Logger.dll    4.0.0			0	
+27-Sep-17 9:30:34 AM	Info	VWorks4MacroLibrary				Dll loaded:    VWorks4MacroLibrary.dll    1.0.0			0	
+27-Sep-17 9:30:34 AM	Info	VWorks4Progress				Dll loaded:    VWorks4Progress.dll    3.0.0			0	
+27-Sep-17 9:30:34 AM	Info	VWorks4ProtocolEditor				Dll loaded:    VWorks4ProtocolEditor.dll    4.0.0			0	
+27-Sep-17 9:30:34 AM	Info	VWorks4Security				Dll loaded:    VWorks4Security.dll    3.0.0			0	
+27-Sep-17 9:30:34 AM	Info	VWorks4UserDatabase				Dll loaded:    VWorks4UserDatabase.dll    3.0.0			0	
+27-Sep-17 9:30:34 AM	Info	VWorks4UserManager				Dll loaded:    VWorks4UserManager.dll    3.0.0			0	
+27-Sep-17 9:30:34 AM	Info	WeighPadAccessoryDriver				Dll loaded:    WeighPadAccessoryDriver.dll    2.0.0			0	
+27-Sep-17 9:30:34 AM	Info	Agilent BenchCel				Plugin loaded from cache:   AgilentBenchCel.dll   20.1.2			0	
+27-Sep-17 9:30:35 AM	Info	Agilent Bravo				Plugin loaded from cache:   AgilentBravo.dll   17.1.0			0	
+27-Sep-17 9:30:35 AM	Info	Agilent Generic I/O Module				Plugin loaded from cache:   AgilentGenericIO.dll   5.0.0			0	
+27-Sep-17 9:30:35 AM	Info	Agilent Labware MiniHub				Plugin loaded from cache:   AgilentLabwareMiniHub.dll   1.0.3			0	
+27-Sep-17 9:30:35 AM	Info	Agilent Phantom Robot				Plugin loaded from cache:   AgilentPhantomRobot.dll   9.0.5			0	
+27-Sep-17 9:30:35 AM	Info	Agilent Phantom Stacker				Plugin loaded from cache:   AgilentPhantomStacker.dll   2.0.1			0	
+27-Sep-17 9:30:35 AM	Info	Agilent Plate Hotel				Plugin loaded from cache:   AgilentPlateHotel.dll   1.0.3			0	
+27-Sep-17 9:30:35 AM	Info	Agilent Plate Hub Carousel				Plugin loaded from cache:   AgilentPlateHubCarousel.dll   8.0.1			0	
+27-Sep-17 9:30:35 AM	Info	Waste Bin				Plugin loaded from cache:   AgilentWasteBin.dll   3.0.0			0	
+27-Sep-17 9:30:35 AM	Info	Agilent Weigh Pad				Plugin loaded from cache:   AgilentWeighPad.dll   8.0.0			0	
+27-Sep-17 9:30:35 AM	Info	Keyence Barcode Reader				Plugin loaded from cache:   KeyenceBarcodeReader.dll   6.0.0			0	
+27-Sep-17 9:30:35 AM	Info	Plate Pad, Standard				Plugin loaded from cache:   PlatePad.dll   6.0.0			0	
+27-Sep-17 9:30:50 AM	Info					administrator logged in			1	
+27-Sep-17 9:31:07 AM	Info	Agilent Labware MiniHub				Plugin loaded:   AgilentLabwareMiniHub.dll   1.0.3			1	
+27-Sep-17 9:31:07 AM	Info					Hooks plugin loaded:    AgilentBenchCel.dll			0	
+27-Sep-17 9:31:07 AM	Info	Agilent BenchCel				Plugin loaded:   AgilentBenchCel.dll   20.1.2			1	
+27-Sep-17 9:31:11 AM	Info					Hooks plugin loaded:    AgilentBravo.dll			0	
+27-Sep-17 9:31:11 AM	Info	Agilent Bravo				Plugin loaded:   AgilentBravo.dll   17.1.0			1	
+27-Sep-17 9:31:15 AM	Info					File loaded		C:\VWorks Workspace\Device Files\BravoMiniPHBenchCel_round_magnet_RED_insert.dev	1	
+27-Sep-17 9:31:15 AM	Info					File loaded	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:31:20 AM	Info	Agilent Labware MiniHub - 1				Initializing device		C:\VWorks Workspace\Device Files\BravoMiniPHBenchCel_round_magnet_RED_insert.dev	1	
+27-Sep-17 9:31:20 AM	Info	BenchCel - 1				Initializing device		C:\VWorks Workspace\Device Files\BravoMiniPHBenchCel_round_magnet_RED_insert.dev	1	
+27-Sep-17 9:31:20 AM	Info	Bravo - 1				Initializing device		C:\VWorks Workspace\Device Files\BravoMiniPHBenchCel_round_magnet_RED_insert.dev	1	
+27-Sep-17 9:31:21 AM	Info	BenchCel - 1				Initialization complete		C:\VWorks Workspace\Device Files\BravoMiniPHBenchCel_round_magnet_RED_insert.dev	1	
+27-Sep-17 9:31:28 AM	Error	Bravo - 1				There appears to be a plate present in, or in front of the gripper's plate presence sensor.			1	
+27-Sep-17 9:31:28 AM	Error	Bravo - 1				  - Choose "Retry" to check the plate presence sensor again.			1	
+27-Sep-17 9:31:28 AM	Error	Bravo - 1				  - Choose "Ignore" to continue to home the G axis.  Please note that any plate currently held by the gripper will be dropped.			1	
+27-Sep-17 9:31:28 AM	Error	Bravo - 1				  - Choose "Abort" to cancel initialization.			1	
+27-Sep-17 9:31:28 AM	Info					Error library: Select best match error handler: "Default" and action type "show error dialog"			1	
+27-Sep-17 9:31:32 AM	Info	Agilent Labware MiniHub - 1				Initialization complete		C:\VWorks Workspace\Device Files\BravoMiniPHBenchCel_round_magnet_RED_insert.dev	1	
+27-Sep-17 9:31:48 AM	Info	Bravo - 1				Ignoring: There appears to be a plate present in, or in front of the gripper's plate presence sensor.			1	
+27-Sep-17 9:31:48 AM	Info	Bravo - 1				  - Choose "Retry" to check the plate presence sensor again.			1	
+27-Sep-17 9:31:48 AM	Info	Bravo - 1				  - Choose "Ignore" to continue to home the G axis.  Please note that any plate currently held by the gripper will be dropped.			1	
+27-Sep-17 9:31:48 AM	Info	Bravo - 1				  - Choose "Abort" to cancel initialization.			1	
+27-Sep-17 9:31:48 AM	Error	Bravo - 1				Please verify that it is safe to home the W-axis (the aspirate/dispense axis).  If there is fluid in the tips you may want to manually home the W-axis in diagnostics over a waste position.			1	
+27-Sep-17 9:31:48 AM	Error	Bravo - 1				  - Choose "Retry" to continue homing the W-axis.			1	
+27-Sep-17 9:31:48 AM	Error	Bravo - 1				  - Choose "Ignore" to leave the W-axis unhomed.			1	
+27-Sep-17 9:31:48 AM	Error	Bravo - 1				  - Choose "Abort" to cancel initialization.			1	
+27-Sep-17 9:31:48 AM	Info					Error library: Select best match error handler: "Default" and action type "show error dialog"			1	
+27-Sep-17 9:32:19 AM	Info	Bravo - 1				Retrying: Please verify that it is safe to home the W-axis (the aspirate/dispense axis).  If there is fluid in the tips you may want to manually home the W-axis in diagnostics over a waste position.			1	
+27-Sep-17 9:32:19 AM	Info	Bravo - 1				  - Choose "Retry" to continue homing the W-axis.			1	
+27-Sep-17 9:32:19 AM	Info	Bravo - 1				  - Choose "Ignore" to leave the W-axis unhomed.			1	
+27-Sep-17 9:32:19 AM	Info	Bravo - 1				  - Choose "Abort" to cancel initialization.			1	
+27-Sep-17 9:32:19 AM	Info	Bravo - 1				Initialization complete		C:\VWorks Workspace\Device Files\BravoMiniPHBenchCel_round_magnet_RED_insert.dev	1	
+27-Sep-17 9:32:23 AM	Script					Initializing scripting engine...			1	
+27-Sep-17 9:32:23 AM	Script					Wed Sep 27 2017 09:32:22 GMT+0800 (Malay Peninsula Standard Time)			1	
+27-Sep-17 9:32:25 AM	Warning			DNA tips from minihub	1	No plate to unload from the device Agilent Labware MiniHub - 1 location : cassette 4, slot 2		7a_Elution.pro	1	
+27-Sep-17 9:32:25 AM	Warning			DNA tips from minihub	1	There aren't any available plates for the unload task to unload		7a_Elution.pro	1	
+27-Sep-17 9:32:25 AM	Warning			Elution Plate	1	No plate to unload from the device Agilent Labware MiniHub - 1 location : cassette 2, slot 2		7a_Elution.pro	1	
+27-Sep-17 9:32:25 AM	Warning			Elution Plate	1	There aren't any available plates for the unload task to unload		7a_Elution.pro	1	
+27-Sep-17 9:32:25 AM	Warning			Reaction Plate	1	No plate to unload from the device Agilent Labware MiniHub - 1 location : cassette 3, slot 3		7a_Elution.pro	1	
+27-Sep-17 9:32:25 AM	Warning			Reaction Plate	1	There aren't any available plates for the unload task to unload		7a_Elution.pro	1	
+27-Sep-17 9:32:25 AM	Warning			Used DNA tips from minihub	1	No plate to unload from the device Agilent Labware MiniHub - 1 location : cassette 4, slot 1		7a_Elution.pro	1	
+27-Sep-17 9:32:25 AM	Warning			Used DNA tips from minihub	1	There aren't any available plates for the unload task to unload		7a_Elution.pro	1	
+27-Sep-17 9:32:25 AM	Info					Compile complete with 0 errors and 8 warnings			1	
+27-Sep-17 9:32:26 AM	Info					Runset Manager: Added the run "C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro" to Runset Manager.			1	
+27-Sep-17 9:32:27 AM	Event					Scheduler started			1	
+27-Sep-17 9:32:28 AM	Script					Successfully opened tiptracking.js file.			1	
+27-Sep-17 9:32:28 AM	Info					Error library: Protocol started using error library file: ""			1	
+27-Sep-17 9:32:28 AM	Event					Startup protocol starting	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:32:28 AM	Event			startup process - 1 1		Process starting, north barcode: No bar code, east barcode: No bar code, south barcode: No bar code, west barcode: No bar code	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:32:28 AM	Event			startup process - 1 1	1	JavaScript	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:32:28 AM	Event			startup process - 1 1	1	Completed: JavaScript	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:32:28 AM	Script					13			1	
+27-Sep-17 9:32:28 AM	Script					0			1	
+27-Sep-17 9:32:28 AM	Script					12			1	
+27-Sep-17 9:32:28 AM	Script					0			1	
+27-Sep-17 9:32:28 AM	Script					2			1	
+27-Sep-17 9:32:28 AM	Script					3,3,8,1			1	
+27-Sep-17 9:32:28 AM	Script					1			1	
+27-Sep-17 9:32:28 AM	Script					1			1	
+27-Sep-17 9:32:28 AM	Script					13			1	
+27-Sep-17 9:32:28 AM	Script					0			1	
+27-Sep-17 9:32:28 AM	Script					3			1	
+27-Sep-17 9:32:28 AM	Script					2			1	
+27-Sep-17 9:32:28 AM	Script					1			1	
+27-Sep-17 9:32:28 AM	Script					NaN			1	
+27-Sep-17 9:32:28 AM	Script					Successfully retrieved variables from previous protocol			1	
+27-Sep-17 9:32:28 AM	Event			startup process - 1 1	2	Configure static labware on Bravo - 1	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:32:28 AM	Info			startup process - 1	2	Changed "task Configure Labware, changed variable " to "12 SeaHorse PP Reservoir Pyramid Btm"	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:32:29 AM	Event			startup process - 1 1	2	Completed: Configure static labware on Bravo - 1	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:32:29 AM	Script					The number of columns of samples is 1.			1	
+27-Sep-17 9:32:29 AM	Event			startup process - 1 1	3	JavaScript	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:32:29 AM	Event			startup process - 1 1	3	Completed: JavaScript	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:32:29 AM	Event			startup process - 1 1		Process finishing	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:32:29 AM	Event	BenchCel - 1	Stacker 1	DNA tips from stacker		Load stacker rack at location "Stacker 1" of device "BenchCel - 1" with plate "DNA tips from stacker" of labware type "96 V11 LT250 Tip Box 19477.002"	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:32:29 AM	Event	BenchCel - 1	Stacker 2	DNA tips from stacker		Load stacker rack at location "Stacker 2" of device "BenchCel - 1" with plate "DNA tips from stacker" of labware type "96 V11 LT250 Tip Box 19477.002"	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:32:29 AM	Event	BenchCel - 1	Stacker 3	UsedTipUpstack		Load stacker rack at location "Stacker 3" of device "BenchCel - 1" with plate "UsedTipUpstack" of labware type "96 V11 LT250 Tip Box 19477.002"	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:32:29 AM	Event	BenchCel - 1	Stacker 4	UsedTipUpstack		Load stacker rack at location "Stacker 4" of device "BenchCel - 1" with plate "UsedTipUpstack" of labware type "96 V11 LT250 Tip Box 19477.002"	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:32:29 AM	Info			Elution Plate		1 plate required	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:32:29 AM	Info			DNA Plate		Plates are spawned on demand	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:32:29 AM	Info			DNA tips from stacker		Plates are spawned on demand	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:32:29 AM	Info			DNA tips from minihub		Plates are spawned on demand	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:32:29 AM	Info			DNA transfer tips		Plates are spawned on demand	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:32:29 AM	Info			Master Mix Plate		Plates are spawned on demand	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:32:29 AM	Info			Reaction Plate		Plates are spawned on demand	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:32:29 AM	Info			MasterMix Tips		Plates are spawned on demand	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:32:29 AM	Info			Used MasterMix tips		Plates are spawned on demand	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:32:29 AM	Info			Used DNA tips from minihub		Plates are spawned on demand	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:32:29 AM	Info			Used DNA transfer tips		Plates are spawned on demand	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:32:29 AM	Info			UsedTipUpstack		Plates are spawned on demand	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:32:30 AM	Event					Main protocol starting	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:32:30 AM	Event					Startup protocol complete	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:32:30 AM	Event			Elution Plate 1		Process starting, north barcode: No bar code, east barcode: No bar code, south barcode: No bar code, west barcode: No bar code	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:32:30 AM	Event	Agilent Labware MiniHub - 1	Cassette 2, slot 2	Elution Plate 1	1	Unload from plate storage device	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:32:30 AM	Event	Agilent Labware MiniHub - 1		Elution Plate 1		Agilent Labware MiniHub - 1 Unload the plate from Location : cassette 2, slot 2 to Cassette 2, Slot 2	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:32:30 AM	Event	Agilent Labware MiniHub - 1	Cassette 2, slot 2	Elution Plate 1	1	Completed: Unload from plate storage device	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:32:30 AM	Event	Bravo - 1	4	Elution Plate 1	2	Place plate at Bravo - 1 4	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:32:30 AM	Event	BenchCel - 1		Elution Plate 1		Move plate from Agilent Labware MiniHub - 1 Cassette 2, Slot 2, teachpoint MiniHub02 to Bravo - 1 3, teachpoint Bravo3			1	
+27-Sep-17 9:32:44 AM	Event	BenchCel - 1		Elution Plate 1		Finished moving plate from Agilent Labware MiniHub - 1 Cassette 2, Slot 2, teachpoint MiniHub02 to Bravo - 1 3, teachpoint Bravo3			1	
+27-Sep-17 9:32:44 AM	Event	Bravo - 1		Elution Plate 1		Move plate from Bravo - 1 3, teachpoint 3 to Bravo - 1 4, teachpoint 4			1	
+27-Sep-17 9:32:54 AM	Event	Bravo - 1		Elution Plate 1		Finished moving plate from Bravo - 1 3, teachpoint 3 to Bravo - 1 4, teachpoint 4			1	
+27-Sep-17 9:32:54 AM	Event	Bravo - 1	4	Elution Plate 1	2	Completed: Place plate at Bravo - 1 4	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:32:54 AM	Event			Elution Plate 1	3	Spawn Master Mix Plate	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:32:54 AM	Event			Elution Plate 1	3	Completed: Spawn Master Mix Plate	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:32:54 AM	Event			Master Mix Plate 1		Process starting, north barcode: No bar code, east barcode: No bar code, south barcode: No bar code, west barcode: No bar code	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:32:54 AM	Event	Bravo - 1	9	Master Mix Plate 1	1	Place plate at Bravo - 1 9	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:32:54 AM	Event	Bravo - 1	9	Master Mix Plate 1	1	Completed: Place plate at Bravo - 1 9	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:32:54 AM	Event			Elution Plate 1	4	Spawn DNA Plate	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:32:54 AM	Event			Elution Plate 1	4	Completed: Spawn DNA Plate	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:32:54 AM	Event			DNA Plate 1		Process starting, north barcode: No bar code, east barcode: No bar code, south barcode: No bar code, west barcode: No bar code	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:32:54 AM	Event	Bravo - 1	5	DNA Plate 1	1	Place plate at Bravo - 1 5	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:32:54 AM	Event	Bravo - 1	5	DNA Plate 1	1	Completed: Place plate at Bravo - 1 5	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:32:54 AM	Event			Elution Plate 1	5	Spawn Used DNA tips from minihub	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:32:54 AM	Event			Elution Plate 1	5	Completed: Spawn Used DNA tips from minihub	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:32:54 AM	Event			Used DNA tips from minihub 1		Process starting, north barcode: No bar code, east barcode: No bar code, south barcode: No bar code, west barcode: No bar code	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:32:55 AM	Event	Agilent Labware MiniHub - 1	Cassette 4, slot 1	Used DNA tips from minihub 1	1	Unload from plate storage device	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:32:55 AM	Event	Agilent Labware MiniHub - 1		Used DNA tips from minihub 1		Agilent Labware MiniHub - 1 Unload the plate from Location : cassette 4, slot 1 to Cassette 4, Slot 1	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:32:55 AM	Event	Agilent Labware MiniHub - 1	Cassette 4, slot 1	Used DNA tips from minihub 1	1	Completed: Unload from plate storage device	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:32:55 AM	Script					Spawning DNA tips at position 2.			1	
+27-Sep-17 9:32:55 AM	Event			Elution Plate 1	7	Spawn DNA tips from minihub	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:32:55 AM	Event			Elution Plate 1	7	Completed: Spawn DNA tips from minihub	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:32:55 AM	Event			DNA tips from minihub 1		Process starting, north barcode: No bar code, east barcode: No bar code, south barcode: No bar code, west barcode: No bar code	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:32:55 AM	Event	Bravo - 1	8	Used DNA tips from minihub 1	2	Place plate at Bravo - 1 8	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:32:55 AM	Event	BenchCel - 1		Used DNA tips from minihub 1		Move plate from Agilent Labware MiniHub - 1 Cassette 4, Slot 1, teachpoint MiniHub01 to Bravo - 1 3, teachpoint Bravo3			1	
+27-Sep-17 9:32:55 AM	Event	Agilent Labware MiniHub - 1	Cassette 4, slot 2	DNA tips from minihub 1	1	Unload from plate storage device	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:32:55 AM	Event	Agilent Labware MiniHub - 1		DNA tips from minihub 1		Agilent Labware MiniHub - 1 Unload the plate from Location : cassette 4, slot 2 to Cassette 4, Slot 2	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:32:55 AM	Event	Agilent Labware MiniHub - 1	Cassette 4, slot 2	DNA tips from minihub 1	1	Completed: Unload from plate storage device	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:33:12 AM	Event	BenchCel - 1		Used DNA tips from minihub 1		Finished moving plate from Agilent Labware MiniHub - 1 Cassette 4, Slot 1, teachpoint MiniHub01 to Bravo - 1 3, teachpoint Bravo3			1	
+27-Sep-17 9:33:12 AM	Event	Bravo - 1		Used DNA tips from minihub 1		Move plate from Bravo - 1 3, teachpoint 3 to Bravo - 1 8, teachpoint 8			1	
+27-Sep-17 9:33:23 AM	Event	Bravo - 1		Used DNA tips from minihub 1		Finished moving plate from Bravo - 1 3, teachpoint 3 to Bravo - 1 8, teachpoint 8			1	
+27-Sep-17 9:33:23 AM	Event	Bravo - 1	8	Used DNA tips from minihub 1	2	Completed: Place plate at Bravo - 1 8	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:33:23 AM	Event	Bravo - 1	2	DNA tips from minihub 1	2	Place plate at Bravo - 1 2	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:33:23 AM	Event	BenchCel - 1		DNA tips from minihub 1		Move plate from Agilent Labware MiniHub - 1 Cassette 4, Slot 2, teachpoint MiniHub02 to Bravo - 1 3, teachpoint Bravo3			1	
+27-Sep-17 9:33:23 AM	Event			Used DNA tips from minihub 1	3	Spawn Used DNA transfer tips	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:33:23 AM	Event			Used DNA tips from minihub 1	3	Completed: Spawn Used DNA transfer tips	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:33:23 AM	Event			Used DNA tips from minihub 1		Process finishing	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:33:23 AM	Event			Used DNA transfer tips 1		Process starting, north barcode: No bar code, east barcode: No bar code, south barcode: No bar code, west barcode: No bar code	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:33:23 AM	Event	Bravo - 1	8	Used DNA transfer tips 1	1	Place plate at Bravo - 1 8	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:33:23 AM	Event	Bravo - 1	8	Used DNA transfer tips 1	1	Completed: Place plate at Bravo - 1 8	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:33:34 AM	Event	BenchCel - 1		DNA tips from minihub 1		Finished moving plate from Agilent Labware MiniHub - 1 Cassette 4, Slot 2, teachpoint MiniHub02 to Bravo - 1 3, teachpoint Bravo3			1	
+27-Sep-17 9:33:34 AM	Event	Bravo - 1		DNA tips from minihub 1		Move plate from Bravo - 1 3, teachpoint 3 to Bravo - 1 2, teachpoint 2			1	
+27-Sep-17 9:33:44 AM	Event	Bravo - 1		DNA tips from minihub 1		Finished moving plate from Bravo - 1 3, teachpoint 3 to Bravo - 1 2, teachpoint 2			1	
+27-Sep-17 9:33:44 AM	Event	Bravo - 1	2	DNA tips from minihub 1	2	Completed: Place plate at Bravo - 1 2	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:33:44 AM	Event			DNA tips from minihub 1	3	Spawn DNA transfer tips	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:33:44 AM	Event			DNA tips from minihub 1	3	Completed: Spawn DNA transfer tips	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:33:44 AM	Event			DNA transfer tips 1		Process starting, north barcode: No bar code, east barcode: No bar code, south barcode: No bar code, west barcode: No bar code	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:33:44 AM	Event			DNA tips from minihub 1		Process finishing	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:33:44 AM	Event	Bravo - 1	2	DNA transfer tips 1	1	Place plate at Bravo - 1 2	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:33:44 AM	Event	Bravo - 1	2	DNA transfer tips 1	1	Completed: Place plate at Bravo - 1 2	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:34:01 AM	Info			Transfer DNA 1	1	Task will run immediately in order to prevent a deadlock			1	
+27-Sep-17 9:34:01 AM	Event	Bravo - 1	5	Transfer DNA 1	1	Begin task group	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:34:01 AM	Event	Bravo - 1	2	Transfer DNA 1	1	Begin task group	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:34:01 AM	Event	Bravo - 1	4	Transfer DNA 1	1	Begin task group	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:34:01 AM	Event	Bravo - 1	8	Transfer DNA 1	1	Begin task group	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:34:01 AM	Event	Bravo - 1	5	Transfer DNA 1	1	Completed: Begin task group	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:34:01 AM	Event	Bravo - 1	2	Transfer DNA 1	1	Completed: Begin task group	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:34:01 AM	Event	Bravo - 1	4	Transfer DNA 1	1	Completed: Begin task group	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:34:01 AM	Event	Bravo - 1	8	Transfer DNA 1	1	Completed: Begin task group	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:34:01 AM	Event	Bravo - 1	Default Location	Transfer DNA 1	2	Set head mode to 8 rows: A-H, 1 column: 1	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:34:01 AM	Event	Bravo - 1	Default Location	Transfer DNA 1	2	Completed: Set head mode to 8 rows: A-H, 1 column: 1	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:34:01 AM	Script					Pressing tips on at 1,1			1	
+27-Sep-17 9:34:02 AM	Event	Bravo - 1	2	Transfer DNA 1	3	Tips On in 1 selection(s) from DNA transfer tips 1 at Location 2	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:34:09 AM	Error	Bravo - 1	2	DNA transfer tips 1		Exceeded destination position on the Z-axis.Destination position is "105.973 mm" and the actual position is "111.345 mm".	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:34:09 AM	Info					Error library: Select best match error handler: "Default" and action type "show error dialog"			1	
+27-Sep-17 9:34:17 AM	Info	Bravo - 1	2			Ignoring: Exceeded destination position on the Z-axis.Destination position is "105.973 mm" and the actual position is "111.345 mm".			1	
+27-Sep-17 9:34:17 AM	Event	Bravo - 1	2	Transfer DNA 1	3	Completed: Tips On in 1 selection(s) from DNA transfer tips 1 at Location 2	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:34:17 AM	Script					The number of columns taken from the new tip box is 13 columns.			1	
+27-Sep-17 9:34:17 AM	Event			Transfer DNA 1	4	JavaScript	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:34:17 AM	Event			Transfer DNA 1	4	Completed: JavaScript	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:34:17 AM	Event	Bravo - 1	4	Transfer DNA 1	5	Aspirate 20 킠 (pre-aspirate 4 킠) in 1 selection(s) from Elution Plate 1 at Location 4	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:34:31 AM	Event	Bravo - 1	4	Transfer DNA 1	5	Completed: Aspirate 20 킠 (pre-aspirate 4 킠) in 1 selection(s) from Elution Plate 1 at Location 4	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:34:31 AM	Event	Bravo - 1	5	Transfer DNA 1	6	Dispense 26.10491071 킠 in 1 selection(s) to DNA Plate 1 at Location 5	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:34:40 AM	Event	Bravo - 1	5	Transfer DNA 1	6	Completed: Dispense 26.10491071 킠 in 1 selection(s) to DNA Plate 1 at Location 5	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:34:40 AM	Event	Bravo - 1	5	Transfer DNA 1	7	Shake from DNA Plate 1 at Location 5	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:34:42 AM	Event	Bravo - 1	5	Transfer DNA 1	7	Completed: Shake from DNA Plate 1 at Location 5	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:34:42 AM	Event	Bravo - 1	5	Transfer DNA 1	8	Mix 15 킠 in 1 selection(s) from DNA Plate 1 at Location 5	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:35:52 AM	Event	Bravo - 1	5	Transfer DNA 1	8	Completed: Mix 15 킠 in 1 selection(s) from DNA Plate 1 at Location 5	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:35:53 AM	Event	Bravo - 1	5	Transfer DNA 1	9	Shake from DNA Plate 1 at Location 5	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:35:54 AM	Event	Bravo - 1	5	Transfer DNA 1	9	Completed: Shake from DNA Plate 1 at Location 5	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:35:54 AM	Event	Bravo - 1	5	Transfer DNA 1	10	Dispense 0.006696428571 킠 in 1 selection(s) to DNA Plate 1 at Location 5	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:36:04 AM	Event	Bravo - 1	5	Transfer DNA 1	10	Completed: Dispense 0.006696428571 킠 in 1 selection(s) to DNA Plate 1 at Location 5	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:36:04 AM	Script					Taking tips off at 1,12			1	
+27-Sep-17 9:36:04 AM	Event	Bravo - 1	8	Transfer DNA 1	11	Tips Off in 1 selection(s) from Used DNA transfer tips 1 at Location 8	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:36:12 AM	Event	Bravo - 1	8	Transfer DNA 1	11	Completed: Tips Off in 1 selection(s) from Used DNA transfer tips 1 at Location 8	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:36:12 AM	Script					The number of columns placed in the used tip box is 1 columns.			1	
+27-Sep-17 9:36:12 AM	Event			Transfer DNA 1	12	JavaScript	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:36:12 AM	Event			Transfer DNA 1	12	Completed: JavaScript	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:36:12 AM	Event			Transfer DNA 1	13	End task group	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:36:12 AM	Event			Transfer DNA 1	13	Completed: End task group	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:36:12 AM	Event			DNA Plate 1		Process finishing	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:36:12 AM	Event			Transfer DNA 1		Process finishing	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:36:12 AM	Event	Agilent Labware MiniHub - 1	Cassette 2, slot 2	Elution Plate 1	9	Load into plate storage device	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:36:12 AM	Event	Bravo - 1		Elution Plate 1		Move plate from Bravo - 1 4, teachpoint 4 to Bravo - 1 3, teachpoint 3			1	
+27-Sep-17 9:36:22 AM	Event	Bravo - 1		Elution Plate 1		Finished moving plate from Bravo - 1 4, teachpoint 4 to Bravo - 1 3, teachpoint 3			1	
+27-Sep-17 9:36:22 AM	Event	BenchCel - 1		Elution Plate 1		Move plate from Bravo - 1 3, teachpoint Bravo3 to Agilent Labware MiniHub - 1 Cassette 2, Slot 2, teachpoint MiniHub02			1	
+27-Sep-17 9:36:22 AM	Event	Bravo - 1	8	Used DNA transfer tips 1	3	Place plate at Bravo - 1 8	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:36:22 AM	Event	Bravo - 1	8	Used DNA transfer tips 1	3	Completed: Place plate at Bravo - 1 8	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:36:22 AM	Event	Bravo - 1	7	DNA transfer tips 1	3	Place plate at Bravo - 1 7	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:36:22 AM	Event	Bravo - 1		DNA transfer tips 1		Move plate from Bravo - 1 2, teachpoint 2 to Bravo - 1 7, teachpoint 7			1	
+27-Sep-17 9:36:22 AM	Script					Used DNA transfer tips 1 Used tip box is not full.			1	
+27-Sep-17 9:36:22 AM	Script					Tip box still has space.			1	
+27-Sep-17 9:36:22 AM	Script					Used DNA transfer tips 1 Used tip box is not full.			1	
+27-Sep-17 9:36:22 AM	Script					Tip box still has space.			1	
+27-Sep-17 9:36:37 AM	Event	BenchCel - 1		Elution Plate 1		Finished moving plate from Bravo - 1 3, teachpoint Bravo3 to Agilent Labware MiniHub - 1 Cassette 2, Slot 2, teachpoint MiniHub02			1	
+27-Sep-17 9:36:37 AM	Event	Agilent Labware MiniHub - 1		Elution Plate 1	9	Agilent Labware MiniHub - 1 Load the plate from Cassette 2, Slot 2 into Location : cassette 2, slot 2	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:36:37 AM	Event	Agilent Labware MiniHub - 1	Cassette 2, slot 2	Elution Plate 1	9	Completed: Load into plate storage device	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:36:37 AM	Event			Elution Plate 1		Process finishing	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:36:37 AM	Event	Agilent Labware MiniHub - 1	Cassette 4, slot 1	Used DNA transfer tips 1	5	Load into plate storage device	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:36:48 AM	Event	Bravo - 1		DNA transfer tips 1		Finished moving plate from Bravo - 1 2, teachpoint 2 to Bravo - 1 7, teachpoint 7			1	
+27-Sep-17 9:36:48 AM	Event	Bravo - 1	7	DNA transfer tips 1	3	Completed: Place plate at Bravo - 1 7	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:36:48 AM	Event	Bravo - 1		Used DNA transfer tips 1		Move plate from Bravo - 1 8, teachpoint 8 to Bravo - 1 3, teachpoint 3			1	
+27-Sep-17 9:36:48 AM	Event			DNA transfer tips 1	4	Signal Elution_Done of Master Mix Plate 1	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:36:48 AM	Event			DNA transfer tips 1	4	Completed: Signal Elution_Done of Master Mix Plate 1	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:36:48 AM	Event			Master Mix Plate 1	2	Waitfor "Elution_Done" has been signaled	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:36:48 AM	Event			Master Mix Plate 1	2	Completed: Waitfor "Elution_Done" has been signaled	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:36:48 AM	Event			DNA transfer tips 1		Process finishing	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:36:48 AM	Event			Master Mix Plate 1	3	Spawn Reaction Plate	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:36:48 AM	Event			Master Mix Plate 1	3	Completed: Spawn Reaction Plate	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:36:48 AM	Event			Reaction Plate 1		Process starting, north barcode: No bar code, east barcode: No bar code, south barcode: No bar code, west barcode: No bar code	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:36:48 AM	Event			Master Mix Plate 1	4	Spawn MasterMix Tips	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:36:48 AM	Event			Master Mix Plate 1	4	Completed: Spawn MasterMix Tips	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:36:48 AM	Event			MasterMix Tips 1		Process starting, north barcode: No bar code, east barcode: No bar code, south barcode: No bar code, west barcode: No bar code	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:36:48 AM	Event			Master Mix Plate 1	5	Spawn Used MasterMix tips	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:36:48 AM	Event			Master Mix Plate 1	5	Completed: Spawn Used MasterMix tips	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:36:48 AM	Event			Used MasterMix tips 1		Process starting, north barcode: No bar code, east barcode: No bar code, south barcode: No bar code, west barcode: No bar code	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:36:59 AM	Event	Bravo - 1		Used DNA transfer tips 1		Finished moving plate from Bravo - 1 8, teachpoint 8 to Bravo - 1 3, teachpoint 3			1	
+27-Sep-17 9:36:59 AM	Event	BenchCel - 1		Used DNA transfer tips 1		Move plate from Bravo - 1 3, teachpoint Bravo3 to Agilent Labware MiniHub - 1 Cassette 4, Slot 1, teachpoint MiniHub01			1	
+27-Sep-17 9:37:15 AM	Event	BenchCel - 1		Used DNA transfer tips 1		Finished moving plate from Bravo - 1 3, teachpoint Bravo3 to Agilent Labware MiniHub - 1 Cassette 4, Slot 1, teachpoint MiniHub01			1	
+27-Sep-17 9:37:15 AM	Event	Agilent Labware MiniHub - 1		Used DNA transfer tips 1	5	Agilent Labware MiniHub - 1 Load the plate from Cassette 4, Slot 1 into Location : cassette 4, slot 1	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:37:15 AM	Event	Agilent Labware MiniHub - 1	Cassette 4, slot 1	Used DNA transfer tips 1	5	Completed: Load into plate storage device	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:37:15 AM	Event	Agilent Labware MiniHub - 1	Cassette 1, slot 2	MasterMix Tips 1	1	Unload from plate storage device	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:37:15 AM	Event			Used DNA transfer tips 1		Process finishing	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:37:15 AM	Event	Agilent Labware MiniHub - 1		MasterMix Tips 1		Agilent Labware MiniHub - 1 Unload the plate from Location : cassette 1, slot 2 to Cassette 1, Slot 2	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:37:15 AM	Event	Agilent Labware MiniHub - 1	Cassette 1, slot 2	MasterMix Tips 1	1	Completed: Unload from plate storage device	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:37:16 AM	Event	Agilent Labware MiniHub - 1	Cassette 3, slot 3	Reaction Plate 1	1	Unload from plate storage device	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:37:16 AM	Event	Agilent Labware MiniHub - 1		Reaction Plate 1		Agilent Labware MiniHub - 1 Unload the plate from Location : cassette 3, slot 3 to Cassette 3, Slot 3	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:37:16 AM	Event	Agilent Labware MiniHub - 1	Cassette 3, slot 3	Reaction Plate 1	1	Completed: Unload from plate storage device	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:37:16 AM	Event	Bravo - 1	2	MasterMix Tips 1	2	Place plate at Bravo - 1 2	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:37:16 AM	Event	BenchCel - 1		MasterMix Tips 1		Move plate from Agilent Labware MiniHub - 1 Cassette 1, Slot 2, teachpoint MiniHub02 to Bravo - 1 3, teachpoint Bravo3			1	
+27-Sep-17 9:37:16 AM	Event	Agilent Labware MiniHub - 1	Cassette 1, slot 1	Used MasterMix tips 1	1	Unload from plate storage device	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:37:16 AM	Event	Agilent Labware MiniHub - 1		Used MasterMix tips 1		Agilent Labware MiniHub - 1 Unload the plate from Location : cassette 1, slot 1 to Cassette 1, Slot 1	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:37:16 AM	Event	Agilent Labware MiniHub - 1	Cassette 1, slot 1	Used MasterMix tips 1	1	Completed: Unload from plate storage device	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:37:29 AM	Event	BenchCel - 1		MasterMix Tips 1		Finished moving plate from Agilent Labware MiniHub - 1 Cassette 1, Slot 2, teachpoint MiniHub02 to Bravo - 1 3, teachpoint Bravo3			1	
+27-Sep-17 9:37:29 AM	Event	Bravo - 1		MasterMix Tips 1		Move plate from Bravo - 1 3, teachpoint 3 to Bravo - 1 2, teachpoint 2			1	
+27-Sep-17 9:37:38 AM	Event	Bravo - 1		MasterMix Tips 1		Finished moving plate from Bravo - 1 3, teachpoint 3 to Bravo - 1 2, teachpoint 2			1	
+27-Sep-17 9:37:39 AM	Event	Bravo - 1	2	MasterMix Tips 1	2	Completed: Place plate at Bravo - 1 2	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:37:39 AM	Event	Bravo - 1	6	Reaction Plate 1	2	Place plate at Bravo - 1 6	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:37:39 AM	Event	BenchCel - 1		Reaction Plate 1		Move plate from Agilent Labware MiniHub - 1 Cassette 3, Slot 3, teachpoint MiniHub03 to Bravo - 1 3, teachpoint Bravo3			1	
+27-Sep-17 9:37:56 AM	Event	BenchCel - 1		Reaction Plate 1		Finished moving plate from Agilent Labware MiniHub - 1 Cassette 3, Slot 3, teachpoint MiniHub03 to Bravo - 1 3, teachpoint Bravo3			1	
+27-Sep-17 9:37:56 AM	Event	Bravo - 1		Reaction Plate 1		Move plate from Bravo - 1 3, teachpoint 3 to Bravo - 1 6, teachpoint 6			1	
+27-Sep-17 9:38:05 AM	Event	Bravo - 1		Reaction Plate 1		Finished moving plate from Bravo - 1 3, teachpoint 3 to Bravo - 1 6, teachpoint 6			1	
+27-Sep-17 9:38:05 AM	Event	Bravo - 1	6	Reaction Plate 1	2	Completed: Place plate at Bravo - 1 6	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:38:05 AM	Event	Bravo - 1	8	Used MasterMix tips 1	2	Place plate at Bravo - 1 8	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:38:05 AM	Event	BenchCel - 1		Used MasterMix tips 1		Move plate from Agilent Labware MiniHub - 1 Cassette 1, Slot 1, teachpoint MiniHub01 to Bravo - 1 3, teachpoint Bravo3			1	
+27-Sep-17 9:38:23 AM	Event	BenchCel - 1		Used MasterMix tips 1		Finished moving plate from Agilent Labware MiniHub - 1 Cassette 1, Slot 1, teachpoint MiniHub01 to Bravo - 1 3, teachpoint Bravo3			1	
+27-Sep-17 9:38:23 AM	Event	Bravo - 1		Used MasterMix tips 1		Move plate from Bravo - 1 3, teachpoint 3 to Bravo - 1 8, teachpoint 8			1	
+27-Sep-17 9:38:34 AM	Event	Bravo - 1		Used MasterMix tips 1		Finished moving plate from Bravo - 1 3, teachpoint 3 to Bravo - 1 8, teachpoint 8			1	
+27-Sep-17 9:38:34 AM	Event	Bravo - 1	8	Used MasterMix tips 1	2	Completed: Place plate at Bravo - 1 8	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:38:34 AM	Event			Used MasterMix tips 1	3	Signal MM_Tips_Placed of Master Mix Plate 1	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:38:34 AM	Event			Used MasterMix tips 1	3	Completed: Signal MM_Tips_Placed of Master Mix Plate 1	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:38:34 AM	Event			Master Mix Plate 1	6	Waitfor "MM_Tips_Placed" has been signaled	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:38:34 AM	Event			Master Mix Plate 1	6	Completed: Waitfor "MM_Tips_Placed" has been signaled	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:38:34 AM	Event	Bravo - 1		Used MasterMix tips 1		Move plate from Bravo - 1 8, teachpoint 8 to Bravo - 1 3, teachpoint 3			1	
+27-Sep-17 9:38:45 AM	Event	Bravo - 1		Used MasterMix tips 1		Finished moving plate from Bravo - 1 8, teachpoint 8 to Bravo - 1 3, teachpoint 3			1	
+27-Sep-17 9:38:45 AM	Event	Bravo - 1	9	Master Mix Addition 1	1	Begin task group	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:38:45 AM	Event	Bravo - 1	2	Master Mix Addition 1	1	Begin task group	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:38:45 AM	Event	Bravo - 1	6	Master Mix Addition 1	1	Begin task group	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:38:45 AM	Event	Bravo - 1	3	Master Mix Addition 1	1	Begin task group	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:38:45 AM	Event	Bravo - 1	9	Master Mix Addition 1	1	Completed: Begin task group	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:38:45 AM	Event	Bravo - 1	2	Master Mix Addition 1	1	Completed: Begin task group	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:38:45 AM	Event	Bravo - 1	6	Master Mix Addition 1	1	Completed: Begin task group	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:38:45 AM	Event	Bravo - 1	3	Master Mix Addition 1	1	Completed: Begin task group	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:38:45 AM	Event	Bravo - 1	Default Location	Master Mix Addition 1	2	Set head mode to 1 column: 12	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:38:45 AM	Event	Bravo - 1	Default Location	Master Mix Addition 1	2	Completed: Set head mode to 1 column: 12	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:38:46 AM	Script					Pressing master mix tips on at 1,13			1	
+27-Sep-17 9:38:46 AM	Event	Bravo - 1	2	Master Mix Addition 1	3	Tips On in 0 selection(s) from MasterMix Tips 1 at Location 2	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:38:46 AM	Event	Bravo - 1	2	Master Mix Addition 1	3	Completed: Tips On in 0 selection(s) from MasterMix Tips 1 at Location 2	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:38:47 AM	Event			Master Mix Addition 1	4	Loop iteration 1	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:38:47 AM	Event			Master Mix Addition 1	4	Completed: Loop iteration 1	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:38:47 AM	Event	Bravo - 1	9	Master Mix Addition 1	5	Aspirate 30 킠 in 1 selection(s) from Master Mix Plate 1 at Location 9	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:38:58 AM	Event	Bravo - 1	9	Master Mix Addition 1	5	Completed: Aspirate 30 킠 in 1 selection(s) from Master Mix Plate 1 at Location 9	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:38:58 AM	Event	Bravo - 1	6	Master Mix Addition 1	6	Dispense 31.93526786 킠 in 1 selection(s) to Reaction Plate 1 at Location 6	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:39:12 AM	Event	Bravo - 1	6	Master Mix Addition 1	6	Completed: Dispense 31.93526786 킠 in 1 selection(s) to Reaction Plate 1 at Location 6	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:39:12 AM	Event			Master Mix Addition 1	7	loop end	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:39:12 AM	Event			Master Mix Addition 1	7	Completed: loop end	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:39:12 AM	Script					Taking tips off at 1,13			1	
+27-Sep-17 9:39:13 AM	Event	Bravo - 1	3	Master Mix Addition 1	8	Tips Off in 0 selection(s) from Used MasterMix tips 1 at Location 3	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:39:13 AM	Event	Bravo - 1	3	Master Mix Addition 1	8	Completed: Tips Off in 0 selection(s) from Used MasterMix tips 1 at Location 3	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:39:13 AM	Event			Master Mix Addition 1	9	End task group	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:39:13 AM	Event			Master Mix Addition 1	9	Completed: End task group	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:39:13 AM	Event			Master Mix Plate 1		Process finishing	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:39:13 AM	Event			Reaction Plate 1		Process finishing	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:39:13 AM	Event			Master Mix Addition 1		Process finishing	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:39:13 AM	Event	Agilent Labware MiniHub - 1	Cassette 1, slot 1	Used MasterMix tips 1	5	Load into plate storage device	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:39:13 AM	Event	BenchCel - 1		Used MasterMix tips 1		Move plate from Bravo - 1 3, teachpoint Bravo3 to Agilent Labware MiniHub - 1 Cassette 1, Slot 1, teachpoint MiniHub01			1	
+27-Sep-17 9:39:23 AM	Event	BenchCel - 1		Used MasterMix tips 1		Finished moving plate from Bravo - 1 3, teachpoint Bravo3 to Agilent Labware MiniHub - 1 Cassette 1, Slot 1, teachpoint MiniHub01			1	
+27-Sep-17 9:39:23 AM	Event	Agilent Labware MiniHub - 1		Used MasterMix tips 1	5	Agilent Labware MiniHub - 1 Load the plate from Cassette 1, Slot 1 into Location : cassette 1, slot 1	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:39:23 AM	Event	Agilent Labware MiniHub - 1	Cassette 1, slot 1	Used MasterMix tips 1	5	Completed: Load into plate storage device	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:39:23 AM	Event			Used MasterMix tips 1		Process finishing	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:39:23 AM	Event	Agilent Labware MiniHub - 1	Cassette 1, slot 2	MasterMix Tips 1	4	Load into plate storage device	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:39:23 AM	Event	Bravo - 1		MasterMix Tips 1		Move plate from Bravo - 1 2, teachpoint 2 to Bravo - 1 3, teachpoint 3			1	
+27-Sep-17 9:39:33 AM	Event	Bravo - 1		MasterMix Tips 1		Finished moving plate from Bravo - 1 2, teachpoint 2 to Bravo - 1 3, teachpoint 3			1	
+27-Sep-17 9:39:33 AM	Event	BenchCel - 1		MasterMix Tips 1		Move plate from Bravo - 1 3, teachpoint Bravo3 to Agilent Labware MiniHub - 1 Cassette 1, Slot 2, teachpoint MiniHub02			1	
+27-Sep-17 9:39:44 AM	Event	BenchCel - 1		MasterMix Tips 1		Finished moving plate from Bravo - 1 3, teachpoint Bravo3 to Agilent Labware MiniHub - 1 Cassette 1, Slot 2, teachpoint MiniHub02			1	
+27-Sep-17 9:39:44 AM	Event	Agilent Labware MiniHub - 1		MasterMix Tips 1	4	Agilent Labware MiniHub - 1 Load the plate from Cassette 1, Slot 2 into Location : cassette 1, slot 2	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:39:44 AM	Event	Agilent Labware MiniHub - 1	Cassette 1, slot 2	MasterMix Tips 1	4	Completed: Load into plate storage device	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:39:44 AM	Event			MasterMix Tips 1		Process finishing	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:39:45 AM	Event					Cleanup protocol starting	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:39:47 AM	Event					Main protocol complete	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:39:47 AM	Event			cleanup process - 1 1		Process starting, north barcode: No bar code, east barcode: No bar code, south barcode: No bar code, west barcode: No bar code	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:39:47 AM	Event			cleanup process - 1 1	3	JavaScript	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:39:47 AM	Event			cleanup process - 1 1	3	Completed: JavaScript	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:39:47 AM	Event			cleanup process - 1 1	4	JavaScript	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:39:47 AM	Event			cleanup process - 1 1	4	Completed: JavaScript	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:39:47 AM	Event			cleanup process - 1 1		Process finishing	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:39:48 AM	Info					Elapsed time since start: 7 minutes 21 seconds.	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:39:48 AM	Event					Cleanup protocol complete	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:39:48 AM	Event			DNA Plate 1		Process finishing	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:39:48 AM	Event			Reaction Plate 1		Process finishing	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:39:48 AM	Event			DNA transfer tips 1		Process finishing	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:39:48 AM	Event			Master Mix Plate 1		Process finishing	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:39:55 AM	Event	BenchCel - 1	Stacker 1	DNA tips from stacker		Unload stacker rack at location "Stacker 1" of device "BenchCel - 1" with plate "DNA tips from stacker" of labware type "96 V11 LT250 Tip Box 19477.002"	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:40:00 AM	Info	BenchCel - 1				Reset stack height: stack height at Stacker 1 is set to 0			1	
+27-Sep-17 9:40:00 AM	Event	BenchCel - 1	Stacker 2	DNA tips from stacker		Unload stacker rack at location "Stacker 2" of device "BenchCel - 1" with plate "DNA tips from stacker" of labware type "96 V11 LT250 Tip Box 19477.002"	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:40:00 AM	Info	BenchCel - 1				Reset stack height: stack height at Stacker 2 is set to 0			1	
+27-Sep-17 9:40:00 AM	Event	BenchCel - 1	Stacker 3	UsedTipUpstack		Unload stacker rack at location "Stacker 3" of device "BenchCel - 1" with plate "UsedTipUpstack" of labware type "96 V11 LT250 Tip Box 19477.002"	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:40:00 AM	Info	BenchCel - 1				Reset stack height: stack height at Stacker 3 is set to 0			1	
+27-Sep-17 9:40:00 AM	Event	BenchCel - 1	Stacker 4	UsedTipUpstack		Unload stacker rack at location "Stacker 4" of device "BenchCel - 1" with plate "UsedTipUpstack" of labware type "96 V11 LT250 Tip Box 19477.002"	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:40:00 AM	Info	BenchCel - 1				Reset stack height: stack height at Stacker 4 is set to 0			1	
+27-Sep-17 9:40:47 AM	Info					Simulation mode toggled on			1	
+27-Sep-17 9:52:13 AM	Info					Compile protocol			1	
+27-Sep-17 9:52:15 AM	Warning			DNA tips from minihub	1	No plate to unload from the device Agilent Labware MiniHub - 1 location : cassette 4, slot 2		7a_Elution.pro	1	
+27-Sep-17 9:52:15 AM	Warning			DNA tips from minihub	1	There aren't any available plates for the unload task to unload		7a_Elution.pro	1	
+27-Sep-17 9:52:15 AM	Warning			Reaction Plate	1	No plate to unload from the device Agilent Labware MiniHub - 1 location : cassette 3, slot 3		7a_Elution.pro	1	
+27-Sep-17 9:52:15 AM	Warning			Reaction Plate	1	There aren't any available plates for the unload task to unload		7a_Elution.pro	1	
+27-Sep-17 9:52:15 AM	Warning			Used DNA transfer tips	5	There is already a plate at the device Agilent Labware MiniHub - 1 in cassette 4, slot 1		7a_Elution.pro	1	
+27-Sep-17 9:52:15 AM	Warning	Bravo - 1		Master Mix Addition	3	Invalid well selection parameter.		7a_Elution.pro	1	
+27-Sep-17 9:52:15 AM	Warning	Bravo - 1		Master Mix Addition	8	Invalid well selection parameter.		7a_Elution.pro	1	
+27-Sep-17 9:52:15 AM	Info					Compile complete with 0 errors and 7 warnings			1	
+27-Sep-17 9:52:21 AM	Warning			DNA tips from minihub	1	No plate to unload from the device Agilent Labware MiniHub - 1 location : cassette 4, slot 2		7a_Elution.pro	1	
+27-Sep-17 9:52:21 AM	Warning			DNA tips from minihub	1	There aren't any available plates for the unload task to unload		7a_Elution.pro	1	
+27-Sep-17 9:52:21 AM	Warning			Reaction Plate	1	No plate to unload from the device Agilent Labware MiniHub - 1 location : cassette 3, slot 3		7a_Elution.pro	1	
+27-Sep-17 9:52:22 AM	Warning			Reaction Plate	1	There aren't any available plates for the unload task to unload		7a_Elution.pro	1	
+27-Sep-17 9:52:22 AM	Warning			Used DNA transfer tips	5	There is already a plate at the device Agilent Labware MiniHub - 1 in cassette 4, slot 1		7a_Elution.pro	1	
+27-Sep-17 9:52:22 AM	Warning	Bravo - 1		Master Mix Addition	3	Invalid well selection parameter.		7a_Elution.pro	1	
+27-Sep-17 9:52:22 AM	Warning	Bravo - 1		Master Mix Addition	8	Invalid well selection parameter.		7a_Elution.pro	1	
+27-Sep-17 9:52:22 AM	Info					Compile complete with 0 errors and 7 warnings			1	
+27-Sep-17 9:52:23 AM	Info					Runset Manager: Added the run "C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro<1>" to Runset Manager.			1	
+27-Sep-17 9:52:24 AM	Event					Scheduler started			1	
+27-Sep-17 9:52:24 AM	Script					Successfully opened tiptracking.js file.			1	
+27-Sep-17 9:52:25 AM	Info					Error library: Protocol started using error library file: ""			1	
+27-Sep-17 9:52:25 AM	Event					Startup protocol starting	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:25 AM	Event			startup process - 1 1		Process starting, north barcode: No bar code, east barcode: No bar code, south barcode: No bar code, west barcode: No bar code	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:25 AM	Event			startup process - 1 1		After 1 second...	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:25 AM	Event			startup process - 1 1	1	JavaScript	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:25 AM	Event			startup process - 1 1		After 1 second...	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:25 AM	Event			startup process - 1 1	1	Completed: JavaScript	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:25 AM	Script					14			1	
+27-Sep-17 9:52:25 AM	Script					0			1	
+27-Sep-17 9:52:25 AM	Script					13			1	
+27-Sep-17 9:52:25 AM	Script					1			1	
+27-Sep-17 9:52:25 AM	Script					2			1	
+27-Sep-17 9:52:25 AM	Script					3,3,8,1			1	
+27-Sep-17 9:52:25 AM	Script					1			1	
+27-Sep-17 9:52:25 AM	Script					0			1	
+27-Sep-17 9:52:25 AM	Script					12			1	
+27-Sep-17 9:52:25 AM	Script					0			1	
+27-Sep-17 9:52:25 AM	Script					3			1	
+27-Sep-17 9:52:25 AM	Script					2			1	
+27-Sep-17 9:52:25 AM	Script					1			1	
+27-Sep-17 9:52:25 AM	Script					NaN			1	
+27-Sep-17 9:52:25 AM	Script					Successfully retrieved variables from previous protocol			1	
+27-Sep-17 9:52:25 AM	Event			startup process - 1 1		After 1 second...	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:25 AM	Event			startup process - 1 1	2	Configure static labware on Bravo - 1	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:25 AM	Info			startup process - 1	2	Changed "task Configure Labware, changed variable " to "12 SeaHorse PP Reservoir Pyramid Btm"	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:25 AM	Event			startup process - 1 1		After 1 second...	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:26 AM	Event			startup process - 1 1	2	Completed: Configure static labware on Bravo - 1	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:26 AM	Script					The number of columns of samples is 1.			1	
+27-Sep-17 9:52:26 AM	Event			startup process - 1 1		After 1 second...	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:26 AM	Event			startup process - 1 1	3	JavaScript	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:26 AM	Event			startup process - 1 1		After 1 second...	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:26 AM	Event			startup process - 1 1	3	Completed: JavaScript	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:26 AM	Event			startup process - 1 1		Process finishing	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:26 AM	Event	BenchCel - 1	Stacker 1	DNA tips from stacker		Load stacker rack at location "Stacker 1" of device "BenchCel - 1" with plate "DNA tips from stacker" of labware type "96 V11 LT250 Tip Box 19477.002"	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:26 AM	Event	BenchCel - 1	Stacker 2	DNA tips from stacker		Load stacker rack at location "Stacker 2" of device "BenchCel - 1" with plate "DNA tips from stacker" of labware type "96 V11 LT250 Tip Box 19477.002"	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:26 AM	Event	BenchCel - 1	Stacker 3	UsedTipUpstack		Load stacker rack at location "Stacker 3" of device "BenchCel - 1" with plate "UsedTipUpstack" of labware type "96 V11 LT250 Tip Box 19477.002"	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:26 AM	Event	BenchCel - 1	Stacker 4	UsedTipUpstack		Load stacker rack at location "Stacker 4" of device "BenchCel - 1" with plate "UsedTipUpstack" of labware type "96 V11 LT250 Tip Box 19477.002"	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:26 AM	Info			Elution Plate		1 plate required	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:26 AM	Info			DNA Plate		Plates are spawned on demand	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:26 AM	Info			DNA tips from stacker		Plates are spawned on demand	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:26 AM	Info			DNA tips from minihub		Plates are spawned on demand	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:26 AM	Info			DNA transfer tips		Plates are spawned on demand	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:26 AM	Info			Master Mix Plate		Plates are spawned on demand	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:26 AM	Info			Reaction Plate		Plates are spawned on demand	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:26 AM	Info			MasterMix Tips		Plates are spawned on demand	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:26 AM	Info			Used MasterMix tips		Plates are spawned on demand	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:26 AM	Info			Used DNA tips from minihub		Plates are spawned on demand	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:26 AM	Info			Used DNA transfer tips		Plates are spawned on demand	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:26 AM	Info			UsedTipUpstack		Plates are spawned on demand	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:26 AM	Event					Main protocol starting	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:27 AM	Event					Startup protocol complete	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:27 AM	Event			Elution Plate 1		Process starting, north barcode: No bar code, east barcode: No bar code, south barcode: No bar code, west barcode: No bar code	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:27 AM	Event			Elution Plate 1		After 1 second...	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:27 AM	Event	Agilent Labware MiniHub - 1	Cassette 2, slot 2	Elution Plate 1	1	Unload from plate storage device	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:27 AM	Event	Agilent Labware MiniHub - 1		Elution Plate 1		Agilent Labware MiniHub - 1 Unload the plate from Location : cassette 2, slot 2 to Cassette 2, Slot 2	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:27 AM	Event			Elution Plate 1		After 1 second...	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:27 AM	Event	Agilent Labware MiniHub - 1	Cassette 2, slot 2	Elution Plate 1	1	Completed: Unload from plate storage device	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:27 AM	Event			Elution Plate 1		After 1 second...	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:27 AM	Event	Bravo - 1	4	Elution Plate 1	2	Place plate at Bravo - 1 4	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:27 AM	Event			Elution Plate 1		After 1 second...	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:27 AM	Event	BenchCel - 1		Elution Plate 1		Move plate from Agilent Labware MiniHub - 1 Cassette 2, Slot 2, teachpoint MiniHub02 to Bravo - 1 3, teachpoint Bravo3			1	
+27-Sep-17 9:52:27 AM	Event			Elution Plate 1		After 7 seconds...	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:27 AM	Event	BenchCel - 1		Elution Plate 1		Finished moving plate from Agilent Labware MiniHub - 1 Cassette 2, Slot 2, teachpoint MiniHub02 to Bravo - 1 3, teachpoint Bravo3			1	
+27-Sep-17 9:52:27 AM	Event			Elution Plate 1		After 7 seconds...	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:27 AM	Event	Bravo - 1		Elution Plate 1		Move plate from Bravo - 1 3, teachpoint 3 to Bravo - 1 4, teachpoint 4			1	
+27-Sep-17 9:52:27 AM	Event			Elution Plate 1		After 17 seconds...	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:27 AM	Event	Bravo - 1		Elution Plate 1		Finished moving plate from Bravo - 1 3, teachpoint 3 to Bravo - 1 4, teachpoint 4			1	
+27-Sep-17 9:52:27 AM	Event			Elution Plate 1		After 17 seconds...	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:27 AM	Event	Bravo - 1	4	Elution Plate 1	2	Completed: Place plate at Bravo - 1 4	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:27 AM	Event			Elution Plate 1		After 17 seconds...	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:28 AM	Event			Elution Plate 1	3	Spawn Master Mix Plate	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:28 AM	Event			Elution Plate 1		After 17 seconds...	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:28 AM	Event			Elution Plate 1	3	Completed: Spawn Master Mix Plate	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:28 AM	Event			Master Mix Plate 1		Process starting, north barcode: No bar code, east barcode: No bar code, south barcode: No bar code, west barcode: No bar code	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:28 AM	Event			Master Mix Plate 1		After 17 seconds...	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:28 AM	Event	Bravo - 1	9	Master Mix Plate 1	1	Place plate at Bravo - 1 9	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:28 AM	Event			Master Mix Plate 1		After 17 seconds...	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:28 AM	Event	Bravo - 1	9	Master Mix Plate 1	1	Completed: Place plate at Bravo - 1 9	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:28 AM	Event			Elution Plate 1		After 17 seconds...	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:28 AM	Event			Elution Plate 1	4	Spawn DNA Plate	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:28 AM	Event			Elution Plate 1		After 17 seconds...	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:28 AM	Event			Elution Plate 1	4	Completed: Spawn DNA Plate	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:28 AM	Event			DNA Plate 1		Process starting, north barcode: No bar code, east barcode: No bar code, south barcode: No bar code, west barcode: No bar code	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:28 AM	Event			DNA Plate 1		After 17 seconds...	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:28 AM	Event	Bravo - 1	5	DNA Plate 1	1	Place plate at Bravo - 1 5	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:28 AM	Event			DNA Plate 1		After 17 seconds...	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:28 AM	Event	Bravo - 1	5	DNA Plate 1	1	Completed: Place plate at Bravo - 1 5	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:28 AM	Event			Elution Plate 1		After 17 seconds...	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:28 AM	Event			Elution Plate 1	5	Spawn Used DNA tips from minihub	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:28 AM	Event			Elution Plate 1		After 17 seconds...	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:28 AM	Event			Elution Plate 1	5	Completed: Spawn Used DNA tips from minihub	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:28 AM	Event			Used DNA tips from minihub 1		Process starting, north barcode: No bar code, east barcode: No bar code, south barcode: No bar code, west barcode: No bar code	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:29 AM	Event			Used DNA tips from minihub 1		After 17 seconds...	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:29 AM	Event	Agilent Labware MiniHub - 1	Cassette 4, slot 1	Used DNA tips from minihub 1	1	Unload from plate storage device	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:29 AM	Event	Agilent Labware MiniHub - 1		Used DNA tips from minihub 1		Agilent Labware MiniHub - 1 Unload the plate from Location : cassette 4, slot 1 to Cassette 4, Slot 1	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:29 AM	Event			Used DNA tips from minihub 1		After 17 seconds...	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:29 AM	Event	Agilent Labware MiniHub - 1	Cassette 4, slot 1	Used DNA tips from minihub 1	1	Completed: Unload from plate storage device	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:29 AM	Script					Spawning DNA tips at position 2.			1	
+27-Sep-17 9:52:29 AM	Event			Elution Plate 1		After 17 seconds...	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:29 AM	Event			Elution Plate 1	7	Spawn DNA tips from minihub	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:29 AM	Event			DNA tips from minihub 1		Process starting, north barcode: No bar code, east barcode: No bar code, south barcode: No bar code, west barcode: No bar code	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:29 AM	Event			Elution Plate 1		After 17 seconds...	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:29 AM	Event			Elution Plate 1	7	Completed: Spawn DNA tips from minihub	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:29 AM	Event			DNA tips from minihub 1		After 17 seconds...	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:29 AM	Event	Agilent Labware MiniHub - 1	Cassette 4, slot 2	DNA tips from minihub 1	1	Unload from plate storage device	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:29 AM	Event	Agilent Labware MiniHub - 1		DNA tips from minihub 1		Agilent Labware MiniHub - 1 Unload the plate from Location : cassette 4, slot 2 to Cassette 4, Slot 2	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:29 AM	Event			DNA tips from minihub 1		After 17 seconds...	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:29 AM	Event	Agilent Labware MiniHub - 1	Cassette 4, slot 2	DNA tips from minihub 1	1	Completed: Unload from plate storage device	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:29 AM	Event			Used DNA tips from minihub 1		After 17 seconds...	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:29 AM	Event	Bravo - 1	8	Used DNA tips from minihub 1	2	Place plate at Bravo - 1 8	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:29 AM	Event			Used DNA tips from minihub 1		After 17 seconds...	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:29 AM	Event	BenchCel - 1		Used DNA tips from minihub 1		Move plate from Agilent Labware MiniHub - 1 Cassette 4, Slot 1, teachpoint MiniHub01 to Bravo - 1 3, teachpoint Bravo3			1	
+27-Sep-17 9:52:29 AM	Event			Used DNA tips from minihub 1		After 23 seconds...	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:29 AM	Event	BenchCel - 1		Used DNA tips from minihub 1		Finished moving plate from Agilent Labware MiniHub - 1 Cassette 4, Slot 1, teachpoint MiniHub01 to Bravo - 1 3, teachpoint Bravo3			1	
+27-Sep-17 9:52:30 AM	Event			Used DNA tips from minihub 1		After 23 seconds...	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:30 AM	Event	Bravo - 1		Used DNA tips from minihub 1		Move plate from Bravo - 1 3, teachpoint 3 to Bravo - 1 8, teachpoint 8			1	
+27-Sep-17 9:52:30 AM	Event			Used DNA tips from minihub 1		After 33 seconds...	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:30 AM	Event	Bravo - 1		Used DNA tips from minihub 1		Finished moving plate from Bravo - 1 3, teachpoint 3 to Bravo - 1 8, teachpoint 8			1	
+27-Sep-17 9:52:30 AM	Event			Used DNA tips from minihub 1		After 33 seconds...	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:30 AM	Event	Bravo - 1	8	Used DNA tips from minihub 1	2	Completed: Place plate at Bravo - 1 8	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:30 AM	Event			DNA tips from minihub 1		After 17 seconds...	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:30 AM	Event	Bravo - 1	2	DNA tips from minihub 1	2	Place plate at Bravo - 1 2	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:30 AM	Event			DNA tips from minihub 1		After 23 seconds...	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:30 AM	Event	BenchCel - 1		DNA tips from minihub 1		Move plate from Agilent Labware MiniHub - 1 Cassette 4, Slot 2, teachpoint MiniHub02 to Bravo - 1 3, teachpoint Bravo3			1	
+27-Sep-17 9:52:30 AM	Event			DNA tips from minihub 1		After 29 seconds...	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:30 AM	Event	BenchCel - 1		DNA tips from minihub 1		Finished moving plate from Agilent Labware MiniHub - 1 Cassette 4, Slot 2, teachpoint MiniHub02 to Bravo - 1 3, teachpoint Bravo3			1	
+27-Sep-17 9:52:30 AM	Event			DNA tips from minihub 1		After 33 seconds...	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:30 AM	Event	Bravo - 1		DNA tips from minihub 1		Move plate from Bravo - 1 3, teachpoint 3 to Bravo - 1 2, teachpoint 2			1	
+27-Sep-17 9:52:30 AM	Event			DNA tips from minihub 1		After 43 seconds...	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:30 AM	Event	Bravo - 1		DNA tips from minihub 1		Finished moving plate from Bravo - 1 3, teachpoint 3 to Bravo - 1 2, teachpoint 2			1	
+27-Sep-17 9:52:30 AM	Event			DNA tips from minihub 1		After 43 seconds...	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:30 AM	Event	Bravo - 1	2	DNA tips from minihub 1	2	Completed: Place plate at Bravo - 1 2	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:30 AM	Event			Used DNA tips from minihub 1		After 33 seconds...	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:30 AM	Event			Used DNA tips from minihub 1	3	Spawn Used DNA transfer tips	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:30 AM	Event			Used DNA tips from minihub 1		After 33 seconds...	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:30 AM	Event			Used DNA tips from minihub 1	3	Completed: Spawn Used DNA transfer tips	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:30 AM	Event			Used DNA transfer tips 1		Process starting, north barcode: No bar code, east barcode: No bar code, south barcode: No bar code, west barcode: No bar code	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:31 AM	Event			Used DNA tips from minihub 1		Process finishing	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:31 AM	Event			Used DNA transfer tips 1		After 33 seconds...	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:31 AM	Event	Bravo - 1	8	Used DNA transfer tips 1	1	Place plate at Bravo - 1 8	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:31 AM	Event			Used DNA transfer tips 1		After 33 seconds...	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:31 AM	Event	Bravo - 1	8	Used DNA transfer tips 1	1	Completed: Place plate at Bravo - 1 8	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:31 AM	Event			DNA tips from minihub 1		After 43 seconds...	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:31 AM	Event			DNA tips from minihub 1	3	Spawn DNA transfer tips	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:31 AM	Event			DNA tips from minihub 1		After 43 seconds...	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:31 AM	Event			DNA tips from minihub 1	3	Completed: Spawn DNA transfer tips	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:31 AM	Event			DNA transfer tips 1		Process starting, north barcode: No bar code, east barcode: No bar code, south barcode: No bar code, west barcode: No bar code	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:31 AM	Event			DNA tips from minihub 1		Process finishing	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:31 AM	Event			DNA transfer tips 1		After 43 seconds...	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:31 AM	Event	Bravo - 1	2	DNA transfer tips 1	1	Place plate at Bravo - 1 2	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:31 AM	Event			DNA transfer tips 1		After 43 seconds...	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:31 AM	Event	Bravo - 1	2	DNA transfer tips 1	1	Completed: Place plate at Bravo - 1 2	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:32 AM	Info			Transfer DNA 1	1	Task will run immediately in order to prevent a deadlock			1	
+27-Sep-17 9:52:32 AM	Event			Transfer DNA 1		After 51 seconds...	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:32 AM	Event	Bravo - 1	5	Transfer DNA 1	1	Begin task group	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:32 AM	Event	Bravo - 1	2	Transfer DNA 1	1	Begin task group	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:32 AM	Event	Bravo - 1	4	Transfer DNA 1	1	Begin task group	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:32 AM	Event	Bravo - 1	8	Transfer DNA 1	1	Begin task group	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:32 AM	Event			Transfer DNA 1		After 51 seconds...	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:32 AM	Event	Bravo - 1	5	Transfer DNA 1	1	Completed: Begin task group	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:32 AM	Event	Bravo - 1	2	Transfer DNA 1	1	Completed: Begin task group	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:32 AM	Event	Bravo - 1	4	Transfer DNA 1	1	Completed: Begin task group	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:32 AM	Event	Bravo - 1	8	Transfer DNA 1	1	Completed: Begin task group	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:32 AM	Event			Transfer DNA 1		After 51 seconds...	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:32 AM	Event	Bravo - 1	Default Location	Transfer DNA 1	2	Set head mode to 8 rows: A-H, 1 column: 1	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:32 AM	Event			Transfer DNA 1		After 51 seconds...	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:33 AM	Event	Bravo - 1	Default Location	Transfer DNA 1	2	Completed: Set head mode to 8 rows: A-H, 1 column: 1	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:33 AM	Script					Pressing tips on at 1,1			1	
+27-Sep-17 9:52:33 AM	Event			Transfer DNA 1		After 51 seconds...	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:33 AM	Event	Bravo - 1	2	Transfer DNA 1	3	Tips On in 1 selection(s) from DNA transfer tips 1 at Location 2	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:33 AM	Event			Transfer DNA 1		After 1 minute 6 seconds...	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:33 AM	Event	Bravo - 1	2	Transfer DNA 1	3	Completed: Tips On in 1 selection(s) from DNA transfer tips 1 at Location 2	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:33 AM	Script					The number of columns taken from the new tip box is 14 columns.			1	
+27-Sep-17 9:52:33 AM	Event			Transfer DNA 1		After 1 minute 6 seconds...	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:33 AM	Event			Transfer DNA 1	4	JavaScript	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:33 AM	Event			Transfer DNA 1		After 1 minute 6 seconds...	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:33 AM	Event			Transfer DNA 1	4	Completed: JavaScript	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:33 AM	Event			Transfer DNA 1		After 1 minute 6 seconds...	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:33 AM	Event	Bravo - 1	4	Transfer DNA 1	5	Aspirate 20 킠 (pre-aspirate 4 킠) in 1 selection(s) from Elution Plate 1 at Location 4	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:33 AM	Event			Transfer DNA 1		After 1 minute 20 seconds...	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:33 AM	Event	Bravo - 1	4	Transfer DNA 1	5	Completed: Aspirate 20 킠 (pre-aspirate 4 킠) in 1 selection(s) from Elution Plate 1 at Location 4	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:33 AM	Event			Transfer DNA 1		After 1 minute 20 seconds...	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:33 AM	Event	Bravo - 1	5	Transfer DNA 1	6	Dispense 0.08258928571 킠 in 1 selection(s) to DNA Plate 1 at Location 5	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:34 AM	Event			Transfer DNA 1		After 1 minute 30 seconds...	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:34 AM	Event	Bravo - 1	5	Transfer DNA 1	6	Completed: Dispense 0.08258928571 킠 in 1 selection(s) to DNA Plate 1 at Location 5	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:34 AM	Event			Transfer DNA 1		After 1 minute 30 seconds...	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:34 AM	Event	Bravo - 1	5	Transfer DNA 1	7	Shake from DNA Plate 1 at Location 5	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:34 AM	Event			Transfer DNA 1		After 1 minute 32 seconds...	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:34 AM	Event	Bravo - 1	5	Transfer DNA 1	7	Completed: Shake from DNA Plate 1 at Location 5	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:34 AM	Event			Transfer DNA 1		After 1 minute 32 seconds...	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:34 AM	Event	Bravo - 1	5	Transfer DNA 1	8	Mix 15 킠 in 1 selection(s) from DNA Plate 1 at Location 5	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:34 AM	Event			Transfer DNA 1		After 2 minutes 42 seconds...	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:34 AM	Event	Bravo - 1	5	Transfer DNA 1	8	Completed: Mix 15 킠 in 1 selection(s) from DNA Plate 1 at Location 5	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:34 AM	Event			Transfer DNA 1		After 2 minutes 42 seconds...	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:34 AM	Event	Bravo - 1	5	Transfer DNA 1	9	Shake from DNA Plate 1 at Location 5	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:34 AM	Event			Transfer DNA 1		After 2 minutes 44 seconds...	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:34 AM	Event	Bravo - 1	5	Transfer DNA 1	9	Completed: Shake from DNA Plate 1 at Location 5	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:34 AM	Event			Transfer DNA 1		After 2 minutes 44 seconds...	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:34 AM	Event	Bravo - 1	5	Transfer DNA 1	10	Dispense 0.08258928571 킠 in 1 selection(s) to DNA Plate 1 at Location 5	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:34 AM	Event			Transfer DNA 1		After 2 minutes 53 seconds...	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:35 AM	Event	Bravo - 1	5	Transfer DNA 1	10	Completed: Dispense 0.08258928571 킠 in 1 selection(s) to DNA Plate 1 at Location 5	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:35 AM	Script					Taking tips off at 1,11			1	
+27-Sep-17 9:52:35 AM	Event			Transfer DNA 1		After 2 minutes 53 seconds...	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:35 AM	Event	Bravo - 1	8	Transfer DNA 1	11	Tips Off in 1 selection(s) from Used DNA transfer tips 1 at Location 8	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:35 AM	Event			Transfer DNA 1		After 3 minutes 1 second...	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:35 AM	Event	Bravo - 1	8	Transfer DNA 1	11	Completed: Tips Off in 1 selection(s) from Used DNA transfer tips 1 at Location 8	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:35 AM	Script					The number of columns placed in the used tip box is 2 columns.			1	
+27-Sep-17 9:52:35 AM	Event			Transfer DNA 1		After 3 minutes 1 second...	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:35 AM	Event			Transfer DNA 1	12	JavaScript	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:35 AM	Event			Transfer DNA 1		After 3 minutes 1 second...	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:35 AM	Event			Transfer DNA 1	12	Completed: JavaScript	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:35 AM	Event			Transfer DNA 1		After 3 minutes 1 second...	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:35 AM	Event			Transfer DNA 1	13	End task group	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:35 AM	Event			Transfer DNA 1		After 3 minutes 1 second...	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:35 AM	Event			Transfer DNA 1	13	Completed: End task group	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:35 AM	Event			DNA Plate 1		Process finishing	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:35 AM	Event			Transfer DNA 1		Process finishing	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:35 AM	Event			Elution Plate 1		After 3 minutes 1 second...	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:35 AM	Event	Agilent Labware MiniHub - 1	Cassette 2, slot 2	Elution Plate 1	9	Load into plate storage device	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:35 AM	Event			Elution Plate 1		After 3 minutes 1 second...	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:36 AM	Event	Bravo - 1		Elution Plate 1		Move plate from Bravo - 1 4, teachpoint 4 to Bravo - 1 3, teachpoint 3			1	
+27-Sep-17 9:52:36 AM	Event			Elution Plate 1		After 3 minutes 11 seconds...	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:36 AM	Event	Bravo - 1		Elution Plate 1		Finished moving plate from Bravo - 1 4, teachpoint 4 to Bravo - 1 3, teachpoint 3			1	
+27-Sep-17 9:52:36 AM	Event			Elution Plate 1		After 3 minutes 11 seconds...	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:36 AM	Event	BenchCel - 1		Elution Plate 1		Move plate from Bravo - 1 3, teachpoint Bravo3 to Agilent Labware MiniHub - 1 Cassette 2, Slot 2, teachpoint MiniHub02			1	
+27-Sep-17 9:52:36 AM	Event			Elution Plate 1		After 3 minutes 17 seconds...	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:36 AM	Event	BenchCel - 1		Elution Plate 1		Finished moving plate from Bravo - 1 3, teachpoint Bravo3 to Agilent Labware MiniHub - 1 Cassette 2, Slot 2, teachpoint MiniHub02			1	
+27-Sep-17 9:52:36 AM	Event	Agilent Labware MiniHub - 1		Elution Plate 1	9	Agilent Labware MiniHub - 1 Load the plate from Cassette 2, Slot 2 into Location : cassette 2, slot 2	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:36 AM	Event			Elution Plate 1		After 3 minutes 17 seconds...	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:36 AM	Event	Agilent Labware MiniHub - 1	Cassette 2, slot 2	Elution Plate 1	9	Completed: Load into plate storage device	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:36 AM	Event			Elution Plate 1		Process finishing	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:36 AM	Event			Used DNA transfer tips 1		After 3 minutes 11 seconds...	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:36 AM	Event	Bravo - 1	8	Used DNA transfer tips 1	3	Place plate at Bravo - 1 8	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:36 AM	Event			Used DNA transfer tips 1		After 3 minutes 11 seconds...	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:36 AM	Event	Bravo - 1	8	Used DNA transfer tips 1	3	Completed: Place plate at Bravo - 1 8	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:36 AM	Event			DNA transfer tips 1		After 3 minutes 11 seconds...	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:36 AM	Event	Bravo - 1	7	DNA transfer tips 1	3	Place plate at Bravo - 1 7	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:36 AM	Event			DNA transfer tips 1		After 3 minutes 11 seconds...	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:36 AM	Event	Bravo - 1		DNA transfer tips 1		Move plate from Bravo - 1 2, teachpoint 2 to Bravo - 1 7, teachpoint 7			1	
+27-Sep-17 9:52:36 AM	Event			DNA transfer tips 1		After 3 minutes 21 seconds...	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:36 AM	Event	Bravo - 1		DNA transfer tips 1		Finished moving plate from Bravo - 1 2, teachpoint 2 to Bravo - 1 7, teachpoint 7			1	
+27-Sep-17 9:52:36 AM	Event			DNA transfer tips 1		After 3 minutes 21 seconds...	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:36 AM	Event	Bravo - 1	7	DNA transfer tips 1	3	Completed: Place plate at Bravo - 1 7	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:36 AM	Script					Used DNA transfer tips 1 Used tip box is not full.			1	
+27-Sep-17 9:52:37 AM	Script					Tip box still has space.			1	
+27-Sep-17 9:52:37 AM	Script					Used DNA transfer tips 1 Used tip box is not full.			1	
+27-Sep-17 9:52:37 AM	Script					Tip box still has space.			1	
+27-Sep-17 9:52:37 AM	Event			Used DNA transfer tips 1		After 3 minutes 11 seconds...	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:37 AM	Event	Agilent Labware MiniHub - 1	Cassette 4, slot 1	Used DNA transfer tips 1	5	Load into plate storage device	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:37 AM	Event			Used DNA transfer tips 1		After 3 minutes 21 seconds...	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:37 AM	Event	Bravo - 1		Used DNA transfer tips 1		Move plate from Bravo - 1 8, teachpoint 8 to Bravo - 1 3, teachpoint 3			1	
+27-Sep-17 9:52:37 AM	Event			DNA transfer tips 1		After 3 minutes 21 seconds...	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:37 AM	Event			DNA transfer tips 1	4	Signal Elution_Done of Master Mix Plate 1	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:37 AM	Event			DNA transfer tips 1		After 3 minutes 21 seconds...	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:37 AM	Event			DNA transfer tips 1	4	Completed: Signal Elution_Done of Master Mix Plate 1	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:37 AM	Event			Used DNA transfer tips 1		After 3 minutes 31 seconds...	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:37 AM	Event	Bravo - 1		Used DNA transfer tips 1		Finished moving plate from Bravo - 1 8, teachpoint 8 to Bravo - 1 3, teachpoint 3			1	
+27-Sep-17 9:52:37 AM	Event			Used DNA transfer tips 1		After 3 minutes 31 seconds...	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:37 AM	Event	BenchCel - 1		Used DNA transfer tips 1		Move plate from Bravo - 1 3, teachpoint Bravo3 to Agilent Labware MiniHub - 1 Cassette 4, Slot 1, teachpoint MiniHub01			1	
+27-Sep-17 9:52:37 AM	Event			Used DNA transfer tips 1		After 3 minutes 37 seconds...	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:37 AM	Event	BenchCel - 1		Used DNA transfer tips 1		Finished moving plate from Bravo - 1 3, teachpoint Bravo3 to Agilent Labware MiniHub - 1 Cassette 4, Slot 1, teachpoint MiniHub01			1	
+27-Sep-17 9:52:37 AM	Event	Agilent Labware MiniHub - 1		Used DNA transfer tips 1	5	Agilent Labware MiniHub - 1 Load the plate from Cassette 4, Slot 1 into Location : cassette 4, slot 1	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:37 AM	Event			Master Mix Plate 1		After 3 minutes 21 seconds...	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:37 AM	Event			Master Mix Plate 1	2	Waitfor "Elution_Done" has been signaled	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:37 AM	Event			Master Mix Plate 1		After 3 minutes 21 seconds...	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:37 AM	Event			Master Mix Plate 1	2	Completed: Waitfor "Elution_Done" has been signaled	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:37 AM	Event			Used DNA transfer tips 1		After 3 minutes 37 seconds...	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:37 AM	Event	Agilent Labware MiniHub - 1	Cassette 4, slot 1	Used DNA transfer tips 1	5	Completed: Load into plate storage device	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:37 AM	Event			DNA transfer tips 1		Process finishing	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:38 AM	Event			Master Mix Plate 1		After 3 minutes 21 seconds...	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:38 AM	Event			Master Mix Plate 1	3	Spawn Reaction Plate	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:38 AM	Event			Master Mix Plate 1		After 3 minutes 21 seconds...	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:38 AM	Event			Master Mix Plate 1	3	Completed: Spawn Reaction Plate	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:38 AM	Event			Reaction Plate 1		Process starting, north barcode: No bar code, east barcode: No bar code, south barcode: No bar code, west barcode: No bar code	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:38 AM	Event			Reaction Plate 1		After 3 minutes 21 seconds...	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:38 AM	Event	Agilent Labware MiniHub - 1	Cassette 3, slot 3	Reaction Plate 1	1	Unload from plate storage device	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:38 AM	Event	Agilent Labware MiniHub - 1		Reaction Plate 1		Agilent Labware MiniHub - 1 Unload the plate from Location : cassette 3, slot 3 to Cassette 3, Slot 3	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:38 AM	Event			Reaction Plate 1		After 3 minutes 21 seconds...	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:38 AM	Event	Agilent Labware MiniHub - 1	Cassette 3, slot 3	Reaction Plate 1	1	Completed: Unload from plate storage device	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:38 AM	Event			Used DNA transfer tips 1		Process finishing	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:38 AM	Event			Master Mix Plate 1		After 3 minutes 21 seconds...	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:38 AM	Event			Master Mix Plate 1	4	Spawn MasterMix Tips	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:38 AM	Event			Master Mix Plate 1		After 3 minutes 21 seconds...	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:38 AM	Event			Master Mix Plate 1	4	Completed: Spawn MasterMix Tips	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:38 AM	Event			MasterMix Tips 1		Process starting, north barcode: No bar code, east barcode: No bar code, south barcode: No bar code, west barcode: No bar code	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:38 AM	Event			MasterMix Tips 1		After 3 minutes 21 seconds...	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:38 AM	Event	Agilent Labware MiniHub - 1	Cassette 1, slot 2	MasterMix Tips 1	1	Unload from plate storage device	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:38 AM	Event	Agilent Labware MiniHub - 1		MasterMix Tips 1		Agilent Labware MiniHub - 1 Unload the plate from Location : cassette 1, slot 2 to Cassette 1, Slot 2	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:38 AM	Event			MasterMix Tips 1		After 3 minutes 21 seconds...	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:38 AM	Event	Agilent Labware MiniHub - 1	Cassette 1, slot 2	MasterMix Tips 1	1	Completed: Unload from plate storage device	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:39 AM	Event			Reaction Plate 1		After 3 minutes 21 seconds...	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:39 AM	Event	Bravo - 1	6	Reaction Plate 1	2	Place plate at Bravo - 1 6	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:39 AM	Event			Master Mix Plate 1		After 3 minutes 21 seconds...	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:39 AM	Event			Master Mix Plate 1	5	Spawn Used MasterMix tips	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:39 AM	Event			Master Mix Plate 1		After 3 minutes 21 seconds...	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:39 AM	Event			Master Mix Plate 1	5	Completed: Spawn Used MasterMix tips	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:39 AM	Event			Used MasterMix tips 1		Process starting, north barcode: No bar code, east barcode: No bar code, south barcode: No bar code, west barcode: No bar code	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:39 AM	Event			Used MasterMix tips 1		After 3 minutes 21 seconds...	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:39 AM	Event	Agilent Labware MiniHub - 1	Cassette 1, slot 1	Used MasterMix tips 1	1	Unload from plate storage device	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:39 AM	Event	Agilent Labware MiniHub - 1		Used MasterMix tips 1		Agilent Labware MiniHub - 1 Unload the plate from Location : cassette 1, slot 1 to Cassette 1, Slot 1	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:39 AM	Event			Used MasterMix tips 1		After 3 minutes 21 seconds...	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:39 AM	Event	Agilent Labware MiniHub - 1	Cassette 1, slot 1	Used MasterMix tips 1	1	Completed: Unload from plate storage device	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:39 AM	Event			Reaction Plate 1		After 3 minutes 37 seconds...	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:39 AM	Event	BenchCel - 1		Reaction Plate 1		Move plate from Agilent Labware MiniHub - 1 Cassette 3, Slot 3, teachpoint MiniHub03 to Bravo - 1 3, teachpoint Bravo3			1	
+27-Sep-17 9:52:39 AM	Event			Reaction Plate 1		After 3 minutes 43 seconds...	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:39 AM	Event	BenchCel - 1		Reaction Plate 1		Finished moving plate from Agilent Labware MiniHub - 1 Cassette 3, Slot 3, teachpoint MiniHub03 to Bravo - 1 3, teachpoint Bravo3			1	
+27-Sep-17 9:52:39 AM	Event			Reaction Plate 1		After 3 minutes 43 seconds...	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:39 AM	Event	Bravo - 1		Reaction Plate 1		Move plate from Bravo - 1 3, teachpoint 3 to Bravo - 1 6, teachpoint 6			1	
+27-Sep-17 9:52:40 AM	Event			Reaction Plate 1		After 3 minutes 53 seconds...	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:40 AM	Event	Bravo - 1		Reaction Plate 1		Finished moving plate from Bravo - 1 3, teachpoint 3 to Bravo - 1 6, teachpoint 6			1	
+27-Sep-17 9:52:40 AM	Event			Reaction Plate 1		After 3 minutes 53 seconds...	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:40 AM	Event	Bravo - 1	6	Reaction Plate 1	2	Completed: Place plate at Bravo - 1 6	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:40 AM	Event			MasterMix Tips 1		After 3 minutes 37 seconds...	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:40 AM	Event	Bravo - 1	2	MasterMix Tips 1	2	Place plate at Bravo - 1 2	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:40 AM	Event			MasterMix Tips 1		After 3 minutes 43 seconds...	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:40 AM	Event	BenchCel - 1		MasterMix Tips 1		Move plate from Agilent Labware MiniHub - 1 Cassette 1, Slot 2, teachpoint MiniHub02 to Bravo - 1 3, teachpoint Bravo3			1	
+27-Sep-17 9:52:40 AM	Event			MasterMix Tips 1		After 3 minutes 49 seconds...	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:40 AM	Event	BenchCel - 1		MasterMix Tips 1		Finished moving plate from Agilent Labware MiniHub - 1 Cassette 1, Slot 2, teachpoint MiniHub02 to Bravo - 1 3, teachpoint Bravo3			1	
+27-Sep-17 9:52:40 AM	Event			MasterMix Tips 1		After 3 minutes 53 seconds...	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:40 AM	Event	Bravo - 1		MasterMix Tips 1		Move plate from Bravo - 1 3, teachpoint 3 to Bravo - 1 2, teachpoint 2			1	
+27-Sep-17 9:52:40 AM	Event			MasterMix Tips 1		After 4 minutes 3 seconds...	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:40 AM	Event	Bravo - 1		MasterMix Tips 1		Finished moving plate from Bravo - 1 3, teachpoint 3 to Bravo - 1 2, teachpoint 2			1	
+27-Sep-17 9:52:40 AM	Event			MasterMix Tips 1		After 4 minutes 3 seconds...	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:40 AM	Event	Bravo - 1	2	MasterMix Tips 1	2	Completed: Place plate at Bravo - 1 2	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:40 AM	Event			Used MasterMix tips 1		After 3 minutes 53 seconds...	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:40 AM	Event	Bravo - 1	8	Used MasterMix tips 1	2	Place plate at Bravo - 1 8	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:40 AM	Event			Used MasterMix tips 1		After 3 minutes 53 seconds...	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:40 AM	Event	BenchCel - 1		Used MasterMix tips 1		Move plate from Agilent Labware MiniHub - 1 Cassette 1, Slot 1, teachpoint MiniHub01 to Bravo - 1 3, teachpoint Bravo3			1	
+27-Sep-17 9:52:40 AM	Event			Used MasterMix tips 1		After 3 minutes 59 seconds...	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:40 AM	Event	BenchCel - 1		Used MasterMix tips 1		Finished moving plate from Agilent Labware MiniHub - 1 Cassette 1, Slot 1, teachpoint MiniHub01 to Bravo - 1 3, teachpoint Bravo3			1	
+27-Sep-17 9:52:40 AM	Event			Used MasterMix tips 1		After 4 minutes 3 seconds...	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:40 AM	Event	Bravo - 1		Used MasterMix tips 1		Move plate from Bravo - 1 3, teachpoint 3 to Bravo - 1 8, teachpoint 8			1	
+27-Sep-17 9:52:40 AM	Event			Used MasterMix tips 1		After 4 minutes 13 seconds...	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:40 AM	Event	Bravo - 1		Used MasterMix tips 1		Finished moving plate from Bravo - 1 3, teachpoint 3 to Bravo - 1 8, teachpoint 8			1	
+27-Sep-17 9:52:40 AM	Event			Used MasterMix tips 1		After 4 minutes 13 seconds...	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:40 AM	Event	Bravo - 1	8	Used MasterMix tips 1	2	Completed: Place plate at Bravo - 1 8	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:41 AM	Event			Used MasterMix tips 1		After 4 minutes 13 seconds...	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:41 AM	Event			Used MasterMix tips 1	3	Signal MM_Tips_Placed of Master Mix Plate 1	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:41 AM	Event			Used MasterMix tips 1		After 4 minutes 13 seconds...	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:41 AM	Event			Used MasterMix tips 1	3	Completed: Signal MM_Tips_Placed of Master Mix Plate 1	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:41 AM	Event			Master Mix Plate 1		After 4 minutes 13 seconds...	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:41 AM	Event			Master Mix Plate 1	6	Waitfor "MM_Tips_Placed" has been signaled	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:41 AM	Event			Master Mix Plate 1		After 4 minutes 13 seconds...	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:41 AM	Event			Master Mix Plate 1	6	Completed: Waitfor "MM_Tips_Placed" has been signaled	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:41 AM	Event			Used MasterMix tips 1		After 4 minutes 13 seconds...	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:41 AM	Event	Bravo - 1		Used MasterMix tips 1		Move plate from Bravo - 1 8, teachpoint 8 to Bravo - 1 3, teachpoint 3			1	
+27-Sep-17 9:52:41 AM	Event			Used MasterMix tips 1		After 4 minutes 23 seconds...	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:41 AM	Event	Bravo - 1		Used MasterMix tips 1		Finished moving plate from Bravo - 1 8, teachpoint 8 to Bravo - 1 3, teachpoint 3			1	
+27-Sep-17 9:52:41 AM	Event			Master Mix Addition 1		After 4 minutes 23 seconds...	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:41 AM	Event	Bravo - 1	9	Master Mix Addition 1	1	Begin task group	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:41 AM	Event	Bravo - 1	2	Master Mix Addition 1	1	Begin task group	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:41 AM	Event	Bravo - 1	6	Master Mix Addition 1	1	Begin task group	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:41 AM	Event	Bravo - 1	3	Master Mix Addition 1	1	Begin task group	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:41 AM	Event			Master Mix Addition 1		After 4 minutes 23 seconds...	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:41 AM	Event	Bravo - 1	9	Master Mix Addition 1	1	Completed: Begin task group	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:41 AM	Event	Bravo - 1	2	Master Mix Addition 1	1	Completed: Begin task group	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:41 AM	Event	Bravo - 1	6	Master Mix Addition 1	1	Completed: Begin task group	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:41 AM	Event	Bravo - 1	3	Master Mix Addition 1	1	Completed: Begin task group	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:41 AM	Event			Master Mix Addition 1		After 4 minutes 23 seconds...	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:42 AM	Event	Bravo - 1	Default Location	Master Mix Addition 1	2	Set head mode to 1 column: 12	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:42 AM	Event			Master Mix Addition 1		After 4 minutes 23 seconds...	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:42 AM	Event	Bravo - 1	Default Location	Master Mix Addition 1	2	Completed: Set head mode to 1 column: 12	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:42 AM	Script					Pressing master mix tips on at 1,14			1	
+27-Sep-17 9:52:42 AM	Event			Master Mix Addition 1		After 4 minutes 23 seconds...	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:42 AM	Event	Bravo - 1	2	Master Mix Addition 1	3	Tips On in 0 selection(s) from MasterMix Tips 1 at Location 2	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:42 AM	Event			Master Mix Addition 1		After 4 minutes 24 seconds...	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:42 AM	Event	Bravo - 1	2	Master Mix Addition 1	3	Completed: Tips On in 0 selection(s) from MasterMix Tips 1 at Location 2	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:42 AM	Event			Master Mix Addition 1		After 4 minutes 24 seconds...	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:42 AM	Event			Master Mix Addition 1	4	Loop iteration 1	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:42 AM	Event			Master Mix Addition 1		After 4 minutes 24 seconds...	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:42 AM	Event			Master Mix Addition 1	4	Completed: Loop iteration 1	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:42 AM	Event			Master Mix Addition 1		After 4 minutes 24 seconds...	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:42 AM	Event	Bravo - 1	9	Master Mix Addition 1	5	Aspirate 30 킠 in 1 selection(s) from Master Mix Plate 1 at Location 9	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:42 AM	Event			Master Mix Addition 1		After 4 minutes 36 seconds...	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:42 AM	Event	Bravo - 1	9	Master Mix Addition 1	5	Completed: Aspirate 30 킠 in 1 selection(s) from Master Mix Plate 1 at Location 9	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:42 AM	Event			Master Mix Addition 1		After 4 minutes 36 seconds...	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:42 AM	Event	Bravo - 1	6	Master Mix Addition 1	6	Dispense 0.08258928571 킠 in 1 selection(s) to Reaction Plate 1 at Location 6	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:43 AM	Event			Master Mix Addition 1		After 4 minutes 50 seconds...	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:43 AM	Event	Bravo - 1	6	Master Mix Addition 1	6	Completed: Dispense 0.08258928571 킠 in 1 selection(s) to Reaction Plate 1 at Location 6	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:43 AM	Event			Master Mix Addition 1		After 4 minutes 50 seconds...	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:43 AM	Event			Master Mix Addition 1	7	loop end	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:43 AM	Event			Master Mix Addition 1		After 4 minutes 50 seconds...	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:43 AM	Event			Master Mix Addition 1	7	Completed: loop end	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:43 AM	Script					Taking tips off at 1,14			1	
+27-Sep-17 9:52:43 AM	Event			Master Mix Addition 1		After 4 minutes 50 seconds...	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:43 AM	Event	Bravo - 1	3	Master Mix Addition 1	8	Tips Off in 0 selection(s) from Used MasterMix tips 1 at Location 3	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:43 AM	Event			Master Mix Addition 1		After 4 minutes 50 seconds...	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:43 AM	Event	Bravo - 1	3	Master Mix Addition 1	8	Completed: Tips Off in 0 selection(s) from Used MasterMix tips 1 at Location 3	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:43 AM	Event			Master Mix Addition 1		After 4 minutes 50 seconds...	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:43 AM	Event			Master Mix Addition 1	9	End task group	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:43 AM	Event			Master Mix Addition 1		After 4 minutes 50 seconds...	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:43 AM	Event			Master Mix Addition 1	9	Completed: End task group	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:43 AM	Event			Master Mix Plate 1		Process finishing	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:43 AM	Event			Reaction Plate 1		Process finishing	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:43 AM	Event			Master Mix Addition 1		Process finishing	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:44 AM	Event			Used MasterMix tips 1		After 4 minutes 50 seconds...	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:44 AM	Event	Agilent Labware MiniHub - 1	Cassette 1, slot 1	Used MasterMix tips 1	5	Load into plate storage device	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:44 AM	Event			Used MasterMix tips 1		After 4 minutes 50 seconds...	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:44 AM	Event	BenchCel - 1		Used MasterMix tips 1		Move plate from Bravo - 1 3, teachpoint Bravo3 to Agilent Labware MiniHub - 1 Cassette 1, Slot 1, teachpoint MiniHub01			1	
+27-Sep-17 9:52:44 AM	Event			Used MasterMix tips 1		After 4 minutes 56 seconds...	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:44 AM	Event	BenchCel - 1		Used MasterMix tips 1		Finished moving plate from Bravo - 1 3, teachpoint Bravo3 to Agilent Labware MiniHub - 1 Cassette 1, Slot 1, teachpoint MiniHub01			1	
+27-Sep-17 9:52:44 AM	Event	Agilent Labware MiniHub - 1		Used MasterMix tips 1	5	Agilent Labware MiniHub - 1 Load the plate from Cassette 1, Slot 1 into Location : cassette 1, slot 1	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:44 AM	Event			Used MasterMix tips 1		After 4 minutes 56 seconds...	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:44 AM	Event	Agilent Labware MiniHub - 1	Cassette 1, slot 1	Used MasterMix tips 1	5	Completed: Load into plate storage device	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:44 AM	Event			MasterMix Tips 1		After 4 minutes 50 seconds...	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:44 AM	Event	Agilent Labware MiniHub - 1	Cassette 1, slot 2	MasterMix Tips 1	4	Load into plate storage device	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:44 AM	Event			MasterMix Tips 1		After 4 minutes 50 seconds...	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:44 AM	Event	Bravo - 1		MasterMix Tips 1		Move plate from Bravo - 1 2, teachpoint 2 to Bravo - 1 3, teachpoint 3			1	
+27-Sep-17 9:52:44 AM	Event			MasterMix Tips 1		After 5 minutes 0 seconds...	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:44 AM	Event	Bravo - 1		MasterMix Tips 1		Finished moving plate from Bravo - 1 2, teachpoint 2 to Bravo - 1 3, teachpoint 3			1	
+27-Sep-17 9:52:44 AM	Event			Used MasterMix tips 1		Process finishing	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:44 AM	Event			MasterMix Tips 1		After 5 minutes 0 seconds...	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:44 AM	Event	BenchCel - 1		MasterMix Tips 1		Move plate from Bravo - 1 3, teachpoint Bravo3 to Agilent Labware MiniHub - 1 Cassette 1, Slot 2, teachpoint MiniHub02			1	
+27-Sep-17 9:52:44 AM	Event			MasterMix Tips 1		After 5 minutes 6 seconds...	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:44 AM	Event	BenchCel - 1		MasterMix Tips 1		Finished moving plate from Bravo - 1 3, teachpoint Bravo3 to Agilent Labware MiniHub - 1 Cassette 1, Slot 2, teachpoint MiniHub02			1	
+27-Sep-17 9:52:44 AM	Event	Agilent Labware MiniHub - 1		MasterMix Tips 1	4	Agilent Labware MiniHub - 1 Load the plate from Cassette 1, Slot 2 into Location : cassette 1, slot 2	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:44 AM	Event			MasterMix Tips 1		After 5 minutes 6 seconds...	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:44 AM	Event	Agilent Labware MiniHub - 1	Cassette 1, slot 2	MasterMix Tips 1	4	Completed: Load into plate storage device	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:45 AM	Event			MasterMix Tips 1		Process finishing	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:45 AM	Event					Cleanup protocol starting	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:45 AM	Event					Main protocol complete	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:45 AM	Event			cleanup process - 1 1		Process starting, north barcode: No bar code, east barcode: No bar code, south barcode: No bar code, west barcode: No bar code	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:45 AM	Event			cleanup process - 1 1		After 5 minutes 6 seconds...	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:45 AM	Event			cleanup process - 1 1	3	JavaScript	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:45 AM	Event			cleanup process - 1 1		After 5 minutes 6 seconds...	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:45 AM	Event			cleanup process - 1 1	3	Completed: JavaScript	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:45 AM	Event			cleanup process - 1 1		After 5 minutes 6 seconds...	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:45 AM	Event			cleanup process - 1 1	4	JavaScript	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:45 AM	Event			cleanup process - 1 1		After 5 minutes 6 seconds...	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:45 AM	Event			cleanup process - 1 1	4	Completed: JavaScript	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:45 AM	Event			cleanup process - 1 1		Process finishing	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:46 AM	Info					Total simulation time: 5 minutes 6 seconds.	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:46 AM	Event					Cleanup protocol complete	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:46 AM	Event			DNA Plate 1		Process finishing	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:46 AM	Event			Reaction Plate 1		Process finishing	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:46 AM	Event			DNA transfer tips 1		Process finishing	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:46 AM	Event			Master Mix Plate 1		Process finishing	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:50 AM	Info					Simulation mode toggled off			1	
+27-Sep-17 9:52:53 AM	Warning			DNA tips from minihub	1	No plate to unload from the device Agilent Labware MiniHub - 1 location : cassette 4, slot 2		7a_Elution.pro	1	
+27-Sep-17 9:52:53 AM	Warning			DNA tips from minihub	1	There aren't any available plates for the unload task to unload		7a_Elution.pro	1	
+27-Sep-17 9:52:53 AM	Warning			Reaction Plate	1	No plate to unload from the device Agilent Labware MiniHub - 1 location : cassette 3, slot 3		7a_Elution.pro	1	
+27-Sep-17 9:52:53 AM	Warning			Reaction Plate	1	There aren't any available plates for the unload task to unload		7a_Elution.pro	1	
+27-Sep-17 9:52:53 AM	Warning			Used DNA transfer tips	5	There is already a plate at the device Agilent Labware MiniHub - 1 in cassette 4, slot 1		7a_Elution.pro	1	
+27-Sep-17 9:52:53 AM	Warning	Bravo - 1		Master Mix Addition	3	Invalid well selection parameter.		7a_Elution.pro	1	
+27-Sep-17 9:52:53 AM	Warning	Bravo - 1		Master Mix Addition	8	Invalid well selection parameter.		7a_Elution.pro	1	
+27-Sep-17 9:52:53 AM	Info					Compile complete with 0 errors and 7 warnings			1	
+27-Sep-17 9:52:55 AM	Info					Runset Manager: Added the run "C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro<2>" to Runset Manager.			1	
+27-Sep-17 9:52:56 AM	Event					Scheduler started			1	
+27-Sep-17 9:52:57 AM	Script					Successfully opened tiptracking.js file.			1	
+27-Sep-17 9:52:57 AM	Info					Error library: Protocol started using error library file: ""			1	
+27-Sep-17 9:52:57 AM	Event					Startup protocol starting	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:57 AM	Event			startup process - 1 1		Process starting, north barcode: No bar code, east barcode: No bar code, south barcode: No bar code, west barcode: No bar code	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:57 AM	Event			startup process - 1 1	1	JavaScript	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:57 AM	Event			startup process - 1 1	1	Completed: JavaScript	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:57 AM	Script					15			1	
+27-Sep-17 9:52:57 AM	Script					0			1	
+27-Sep-17 9:52:57 AM	Script					14			1	
+27-Sep-17 9:52:57 AM	Script					2			1	
+27-Sep-17 9:52:57 AM	Script					2			1	
+27-Sep-17 9:52:57 AM	Script					3,3,8,1			1	
+27-Sep-17 9:52:57 AM	Script					1			1	
+27-Sep-17 9:52:57 AM	Script					-1			1	
+27-Sep-17 9:52:57 AM	Script					11			1	
+27-Sep-17 9:52:57 AM	Script					0			1	
+27-Sep-17 9:52:57 AM	Script					3			1	
+27-Sep-17 9:52:57 AM	Script					2			1	
+27-Sep-17 9:52:57 AM	Script					1			1	
+27-Sep-17 9:52:57 AM	Script					NaN			1	
+27-Sep-17 9:52:57 AM	Script					Successfully retrieved variables from previous protocol			1	
+27-Sep-17 9:52:57 AM	Event			startup process - 1 1	2	Configure static labware on Bravo - 1	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:57 AM	Info			startup process - 1	2	Changed "task Configure Labware, changed variable " to "12 SeaHorse PP Reservoir Pyramid Btm"	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:58 AM	Event			startup process - 1 1	2	Completed: Configure static labware on Bravo - 1	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:58 AM	Script					The number of columns of samples is 1.			1	
+27-Sep-17 9:52:58 AM	Event			startup process - 1 1	3	JavaScript	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:58 AM	Event			startup process - 1 1	3	Completed: JavaScript	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:58 AM	Event			startup process - 1 1		Process finishing	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:52:58 AM	Event	BenchCel - 1	Stacker 1	DNA tips from stacker		Load stacker rack at location "Stacker 1" of device "BenchCel - 1" with plate "DNA tips from stacker" of labware type "96 V11 LT250 Tip Box 19477.002"	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:53:00 AM	Event	BenchCel - 1	Stacker 2	DNA tips from stacker		Load stacker rack at location "Stacker 2" of device "BenchCel - 1" with plate "DNA tips from stacker" of labware type "96 V11 LT250 Tip Box 19477.002"	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:53:06 AM	Event	BenchCel - 1	Stacker 3	UsedTipUpstack		Load stacker rack at location "Stacker 3" of device "BenchCel - 1" with plate "UsedTipUpstack" of labware type "96 V11 LT250 Tip Box 19477.002"	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:53:10 AM	Event	BenchCel - 1	Stacker 4	UsedTipUpstack		Load stacker rack at location "Stacker 4" of device "BenchCel - 1" with plate "UsedTipUpstack" of labware type "96 V11 LT250 Tip Box 19477.002"	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:53:15 AM	Info			Elution Plate		1 plate required	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:53:15 AM	Info			DNA Plate		Plates are spawned on demand	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:53:15 AM	Info			DNA tips from stacker		Plates are spawned on demand	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:53:15 AM	Info			DNA tips from minihub		Plates are spawned on demand	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:53:15 AM	Info			DNA transfer tips		Plates are spawned on demand	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:53:15 AM	Info			Master Mix Plate		Plates are spawned on demand	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:53:15 AM	Info			Reaction Plate		Plates are spawned on demand	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:53:15 AM	Info			MasterMix Tips		Plates are spawned on demand	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:53:15 AM	Info			Used MasterMix tips		Plates are spawned on demand	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:53:15 AM	Info			Used DNA tips from minihub		Plates are spawned on demand	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:53:15 AM	Info			Used DNA transfer tips		Plates are spawned on demand	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:53:15 AM	Info			UsedTipUpstack		Plates are spawned on demand	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:53:15 AM	Event					Main protocol starting	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:53:16 AM	Event					Startup protocol complete	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:53:16 AM	Event			Elution Plate 1		Process starting, north barcode: No bar code, east barcode: No bar code, south barcode: No bar code, west barcode: No bar code	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:53:16 AM	Event	Agilent Labware MiniHub - 1	Cassette 2, slot 2	Elution Plate 1	1	Unload from plate storage device	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:53:16 AM	Event	Agilent Labware MiniHub - 1		Elution Plate 1		Agilent Labware MiniHub - 1 Unload the plate from Location : cassette 2, slot 2 to Cassette 2, Slot 2	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:53:16 AM	Event	Agilent Labware MiniHub - 1	Cassette 2, slot 2	Elution Plate 1	1	Completed: Unload from plate storage device	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:53:16 AM	Event	Bravo - 1	4	Elution Plate 1	2	Place plate at Bravo - 1 4	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:53:16 AM	Event	BenchCel - 1		Elution Plate 1		Move plate from Agilent Labware MiniHub - 1 Cassette 2, Slot 2, teachpoint MiniHub02 to Bravo - 1 3, teachpoint Bravo3			1	
+27-Sep-17 9:53:29 AM	Event	BenchCel - 1		Elution Plate 1		Finished moving plate from Agilent Labware MiniHub - 1 Cassette 2, Slot 2, teachpoint MiniHub02 to Bravo - 1 3, teachpoint Bravo3			1	
+27-Sep-17 9:53:29 AM	Event	Bravo - 1		Elution Plate 1		Move plate from Bravo - 1 3, teachpoint 3 to Bravo - 1 4, teachpoint 4			1	
+27-Sep-17 9:53:39 AM	Event	Bravo - 1		Elution Plate 1		Finished moving plate from Bravo - 1 3, teachpoint 3 to Bravo - 1 4, teachpoint 4			1	
+27-Sep-17 9:53:39 AM	Event	Bravo - 1	4	Elution Plate 1	2	Completed: Place plate at Bravo - 1 4	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:53:39 AM	Event			Elution Plate 1	3	Spawn Master Mix Plate	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:53:39 AM	Event			Elution Plate 1	3	Completed: Spawn Master Mix Plate	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:53:39 AM	Event			Master Mix Plate 1		Process starting, north barcode: No bar code, east barcode: No bar code, south barcode: No bar code, west barcode: No bar code	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:53:39 AM	Event	Bravo - 1	9	Master Mix Plate 1	1	Place plate at Bravo - 1 9	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:53:39 AM	Event	Bravo - 1	9	Master Mix Plate 1	1	Completed: Place plate at Bravo - 1 9	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:53:39 AM	Event			Elution Plate 1	4	Spawn DNA Plate	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:53:39 AM	Event			Elution Plate 1	4	Completed: Spawn DNA Plate	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:53:39 AM	Event			DNA Plate 1		Process starting, north barcode: No bar code, east barcode: No bar code, south barcode: No bar code, west barcode: No bar code	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:53:39 AM	Event	Bravo - 1	5	DNA Plate 1	1	Place plate at Bravo - 1 5	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:53:39 AM	Event	Bravo - 1	5	DNA Plate 1	1	Completed: Place plate at Bravo - 1 5	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:53:39 AM	Event			Elution Plate 1	5	Spawn Used DNA tips from minihub	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:53:39 AM	Event			Elution Plate 1	5	Completed: Spawn Used DNA tips from minihub	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:53:39 AM	Event			Used DNA tips from minihub 1		Process starting, north barcode: No bar code, east barcode: No bar code, south barcode: No bar code, west barcode: No bar code	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:53:40 AM	Event	Agilent Labware MiniHub - 1	Cassette 4, slot 1	Used DNA tips from minihub 1	1	Unload from plate storage device	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:53:40 AM	Event	Agilent Labware MiniHub - 1		Used DNA tips from minihub 1		Agilent Labware MiniHub - 1 Unload the plate from Location : cassette 4, slot 1 to Cassette 4, Slot 1	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:53:40 AM	Event	Agilent Labware MiniHub - 1	Cassette 4, slot 1	Used DNA tips from minihub 1	1	Completed: Unload from plate storage device	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:53:40 AM	Script					Spawning DNA tips at position 2.			1	
+27-Sep-17 9:53:40 AM	Event			Elution Plate 1	7	Spawn DNA tips from minihub	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:53:40 AM	Event			Elution Plate 1	7	Completed: Spawn DNA tips from minihub	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:53:40 AM	Event			DNA tips from minihub 1		Process starting, north barcode: No bar code, east barcode: No bar code, south barcode: No bar code, west barcode: No bar code	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:53:40 AM	Event	Bravo - 1	8	Used DNA tips from minihub 1	2	Place plate at Bravo - 1 8	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:53:40 AM	Event	BenchCel - 1		Used DNA tips from minihub 1		Move plate from Agilent Labware MiniHub - 1 Cassette 4, Slot 1, teachpoint MiniHub01 to Bravo - 1 3, teachpoint Bravo3			1	
+27-Sep-17 9:53:40 AM	Event	Agilent Labware MiniHub - 1	Cassette 4, slot 2	DNA tips from minihub 1	1	Unload from plate storage device	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:53:40 AM	Event	Agilent Labware MiniHub - 1		DNA tips from minihub 1		Agilent Labware MiniHub - 1 Unload the plate from Location : cassette 4, slot 2 to Cassette 4, Slot 2	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:53:40 AM	Event	Agilent Labware MiniHub - 1	Cassette 4, slot 2	DNA tips from minihub 1	1	Completed: Unload from plate storage device	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:53:57 AM	Event	BenchCel - 1		Used DNA tips from minihub 1		Finished moving plate from Agilent Labware MiniHub - 1 Cassette 4, Slot 1, teachpoint MiniHub01 to Bravo - 1 3, teachpoint Bravo3			1	
+27-Sep-17 9:53:57 AM	Event	Bravo - 1		Used DNA tips from minihub 1		Move plate from Bravo - 1 3, teachpoint 3 to Bravo - 1 8, teachpoint 8			1	
+27-Sep-17 9:54:08 AM	Event	Bravo - 1		Used DNA tips from minihub 1		Finished moving plate from Bravo - 1 3, teachpoint 3 to Bravo - 1 8, teachpoint 8			1	
+27-Sep-17 9:54:08 AM	Event	Bravo - 1	8	Used DNA tips from minihub 1	2	Completed: Place plate at Bravo - 1 8	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:54:08 AM	Event			Used DNA tips from minihub 1	3	Spawn Used DNA transfer tips	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:54:08 AM	Event			Used DNA tips from minihub 1	3	Completed: Spawn Used DNA transfer tips	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:54:08 AM	Event			Used DNA transfer tips 1		Process starting, north barcode: No bar code, east barcode: No bar code, south barcode: No bar code, west barcode: No bar code	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:54:08 AM	Event	Bravo - 1	2	DNA tips from minihub 1	2	Place plate at Bravo - 1 2	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:54:08 AM	Event	BenchCel - 1		DNA tips from minihub 1		Move plate from Agilent Labware MiniHub - 1 Cassette 4, Slot 2, teachpoint MiniHub02 to Bravo - 1 3, teachpoint Bravo3			1	
+27-Sep-17 9:54:08 AM	Event			Used DNA tips from minihub 1		Process finishing	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:54:08 AM	Event	Bravo - 1	8	Used DNA transfer tips 1	1	Place plate at Bravo - 1 8	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:54:08 AM	Event	Bravo - 1	8	Used DNA transfer tips 1	1	Completed: Place plate at Bravo - 1 8	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:54:19 AM	Event	BenchCel - 1		DNA tips from minihub 1		Finished moving plate from Agilent Labware MiniHub - 1 Cassette 4, Slot 2, teachpoint MiniHub02 to Bravo - 1 3, teachpoint Bravo3			1	
+27-Sep-17 9:54:19 AM	Event	Bravo - 1		DNA tips from minihub 1		Move plate from Bravo - 1 3, teachpoint 3 to Bravo - 1 2, teachpoint 2			1	
+27-Sep-17 9:54:29 AM	Event	Bravo - 1		DNA tips from minihub 1		Finished moving plate from Bravo - 1 3, teachpoint 3 to Bravo - 1 2, teachpoint 2			1	
+27-Sep-17 9:54:29 AM	Event	Bravo - 1	2	DNA tips from minihub 1	2	Completed: Place plate at Bravo - 1 2	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:54:29 AM	Event			DNA tips from minihub 1	3	Spawn DNA transfer tips	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:54:29 AM	Event			DNA tips from minihub 1	3	Completed: Spawn DNA transfer tips	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:54:29 AM	Event			DNA transfer tips 1		Process starting, north barcode: No bar code, east barcode: No bar code, south barcode: No bar code, west barcode: No bar code	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:54:29 AM	Event			DNA tips from minihub 1		Process finishing	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:54:29 AM	Event	Bravo - 1	2	DNA transfer tips 1	1	Place plate at Bravo - 1 2	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:54:29 AM	Event	Bravo - 1	2	DNA transfer tips 1	1	Completed: Place plate at Bravo - 1 2	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:54:35 AM	Info			Transfer DNA 1	1	Task will run immediately in order to prevent a deadlock			1	
+27-Sep-17 9:54:35 AM	Event	Bravo - 1	5	Transfer DNA 1	1	Begin task group	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:54:35 AM	Event	Bravo - 1	2	Transfer DNA 1	1	Begin task group	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:54:35 AM	Event	Bravo - 1	4	Transfer DNA 1	1	Begin task group	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:54:35 AM	Event	Bravo - 1	8	Transfer DNA 1	1	Begin task group	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:54:35 AM	Event	Bravo - 1	5	Transfer DNA 1	1	Completed: Begin task group	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:54:35 AM	Event	Bravo - 1	2	Transfer DNA 1	1	Completed: Begin task group	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:54:35 AM	Event	Bravo - 1	4	Transfer DNA 1	1	Completed: Begin task group	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:54:35 AM	Event	Bravo - 1	8	Transfer DNA 1	1	Completed: Begin task group	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:54:35 AM	Event	Bravo - 1	Default Location	Transfer DNA 1	2	Set head mode to 8 rows: A-H, 1 column: 1	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:54:35 AM	Event	Bravo - 1	Default Location	Transfer DNA 1	2	Completed: Set head mode to 8 rows: A-H, 1 column: 1	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:54:35 AM	Script					Pressing tips on at 1,1			1	
+27-Sep-17 9:54:35 AM	Event	Bravo - 1	2	Transfer DNA 1	3	Tips On in 1 selection(s) from DNA transfer tips 1 at Location 2	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:54:43 AM	Error	Bravo - 1	2	DNA transfer tips 1		Exceeded destination position on the Z-axis.Destination position is "105.973 mm" and the actual position is "111.393 mm".	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:54:43 AM	Info					Error library: Select best match error handler: "Default" and action type "show error dialog"			1	
+27-Sep-17 9:55:40 AM	Info	Bravo - 1	2			Retrying: Exceeded destination position on the Z-axis.Destination position is "105.973 mm" and the actual position is "111.393 mm".			1	
+27-Sep-17 9:55:40 AM	Event	Bravo - 1	2	Transfer DNA 1	3	Completed: Tips On in 1 selection(s) from DNA transfer tips 1 at Location 2	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:55:40 AM	Script					The number of columns taken from the new tip box is 15 columns.			1	
+27-Sep-17 9:55:40 AM	Event			Transfer DNA 1	4	JavaScript	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:55:40 AM	Event			Transfer DNA 1	4	Completed: JavaScript	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:55:40 AM	Event	Bravo - 1	4	Transfer DNA 1	5	Aspirate 20 킠 (pre-aspirate 4 킠) in 1 selection(s) from Elution Plate 1 at Location 4	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:55:54 AM	Event	Bravo - 1	4	Transfer DNA 1	5	Completed: Aspirate 20 킠 (pre-aspirate 4 킠) in 1 selection(s) from Elution Plate 1 at Location 4	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:55:54 AM	Event	Bravo - 1	5	Transfer DNA 1	6	Dispense 26.10267857 킠 in 1 selection(s) to DNA Plate 1 at Location 5	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:56:03 AM	Event	Bravo - 1	5	Transfer DNA 1	6	Completed: Dispense 26.10267857 킠 in 1 selection(s) to DNA Plate 1 at Location 5	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:56:03 AM	Event	Bravo - 1	5	Transfer DNA 1	7	Shake from DNA Plate 1 at Location 5	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:56:05 AM	Event	Bravo - 1	5	Transfer DNA 1	7	Completed: Shake from DNA Plate 1 at Location 5	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:56:05 AM	Event	Bravo - 1	5	Transfer DNA 1	8	Mix 15 킠 in 1 selection(s) from DNA Plate 1 at Location 5	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:57:15 AM	Event	Bravo - 1	5	Transfer DNA 1	8	Completed: Mix 15 킠 in 1 selection(s) from DNA Plate 1 at Location 5	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:57:16 AM	Event	Bravo - 1	5	Transfer DNA 1	9	Shake from DNA Plate 1 at Location 5	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:57:17 AM	Event	Bravo - 1	5	Transfer DNA 1	9	Completed: Shake from DNA Plate 1 at Location 5	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:57:18 AM	Event	Bravo - 1	5	Transfer DNA 1	10	Dispense 0 킠 in 1 selection(s) to DNA Plate 1 at Location 5	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:57:27 AM	Event	Bravo - 1	5	Transfer DNA 1	10	Completed: Dispense 0 킠 in 1 selection(s) to DNA Plate 1 at Location 5	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:57:27 AM	Script					Taking tips off at 1,10			1	
+27-Sep-17 9:57:27 AM	Event	Bravo - 1	8	Transfer DNA 1	11	Tips Off in 1 selection(s) from Used DNA transfer tips 1 at Location 8	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:57:31 AM	Error	Bravo - 1	8	Used DNA transfer tips 1		The robot disable is active.  The Bravo was ejecting tips into the tip box at Location 8.	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 9:57:31 AM	Info					Error library: Select best match error handler: "Default" and action type "show error dialog"			1	
+27-Sep-17 10:05:46 AM	Info	Bravo - 1				Opening diagnostics		C:\VWorks Workspace\Device Files\BravoMiniPHBenchCel_round_magnet_RED_insert.dev	1	
+27-Sep-17 10:05:57 AM	Info	Bravo - 1				Bravo diagnostics: Jog Z-axis -20.0 mm			1	
+27-Sep-17 10:06:00 AM	Info	Bravo - 1				Bravo diagnostics: command complete			1	
+27-Sep-17 10:06:12 AM	Info	Bravo - 1				Bravo diagnostics: Jog G-axis -5.0 mm			1	
+27-Sep-17 10:06:12 AM	Info	Bravo - 1				Bravo diagnostics: The G-Axis was commanded to an invalid destination position.  The commanded position was -4.99365 mm while the allowable range is between -4 and 11 mm.			1	
+27-Sep-17 10:06:15 AM	Info	Bravo - 1				Bravo diagnostics: user clicked Abort			1	
+27-Sep-17 10:06:25 AM	Info	Bravo - 1				Bravo diagnostics: Jog G-axis -5.0 mm			1	
+27-Sep-17 10:06:25 AM	Info	Bravo - 1				Bravo diagnostics: The G-Axis was commanded to an invalid destination position.  The commanded position was -4.99365 mm while the allowable range is between -4 and 11 mm.			1	
+27-Sep-17 10:06:28 AM	Info	Bravo - 1				Bravo diagnostics: user clicked Ignore			1	
+27-Sep-17 10:06:28 AM	Info	Bravo - 1				Bravo diagnostics: command complete			1	
+27-Sep-17 10:07:13 AM	Info	Bravo - 1				Bravo diagnostics: Jog G-axis 5.0 mm			1	
+27-Sep-17 10:07:18 AM	Info	Bravo - 1				Bravo diagnostics: Error in moving to position on the G-Axis.			1	
+27-Sep-17 10:07:21 AM	Info	Bravo - 1				Bravo diagnostics: user clicked Abort			1	
+27-Sep-17 10:07:25 AM	Info	Bravo - 1				Bravo diagnostics: Jog G-axis -5.0 mm			1	
+27-Sep-17 10:07:30 AM	Info	Bravo - 1				Bravo diagnostics: command complete			1	
+27-Sep-17 10:07:51 AM	Info	Bravo - 1				Bravo diagnostics: Jog W-axis -20.0 킠			1	
+27-Sep-17 10:07:53 AM	Info	Bravo - 1				Bravo diagnostics: command complete			1	
+27-Sep-17 10:07:56 AM	Info	Bravo - 1				Bravo diagnostics: Jog W-axis -20.0 킠			1	
+27-Sep-17 10:07:59 AM	Info	Bravo - 1				Bravo diagnostics: command complete			1	
+27-Sep-17 10:08:03 AM	Info	Bravo - 1				Bravo diagnostics: Home W-axis			1	
+27-Sep-17 10:08:09 AM	Info	Bravo - 1				Bravo diagnostics: command complete			1	
+27-Sep-17 10:12:13 AM	Info	Bravo - 1				Closing diagnostics		C:\VWorks Workspace\Device Files\BravoMiniPHBenchCel_round_magnet_RED_insert.dev	1	
+27-Sep-17 10:12:18 AM	Info	Bravo - 1	8			Aborting on: The robot disable is active.  The Bravo was ejecting tips into the tip box at Location 8.			1	
+27-Sep-17 10:12:18 AM	Event					Scheduler stopped			1	
+27-Sep-17 10:12:18 AM	Event	Bravo - 1	8	Transfer DNA 1	11	Completed: Tips Off in 1 selection(s) from Used DNA transfer tips 1 at Location 8	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 10:12:21 AM	Event					Scheduler aborted			1	
+27-Sep-17 10:12:23 AM	Event					Main protocol aborted by user	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 10:12:23 AM	Event			Elution Plate 1		Process finishing	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 10:12:23 AM	Event			Master Mix Plate 1		Process finishing	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 10:12:23 AM	Event			DNA Plate 1		Process finishing	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 10:12:23 AM	Event			Used DNA transfer tips 1		Process finishing	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 10:12:23 AM	Event			DNA transfer tips 1		Process finishing	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 10:12:23 AM	Event					Cleanup protocol starting	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 10:12:24 AM	Event					Main protocol aborted by user	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 10:12:24 AM	Event			DNA transfer tips 1		Process finishing	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 10:12:24 AM	Event			Elution Plate 1		Process finishing	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 10:12:24 AM	Event			DNA Plate 1		Process finishing	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 10:12:24 AM	Event			Used DNA transfer tips 1		Process finishing	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 10:12:24 AM	Event			Master Mix Plate 1		Process finishing	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 10:12:25 AM	Event			Transfer DNA 1		Process finishing	7a_Elution	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 10:12:28 AM	Info					File unloaded		C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	1	
+27-Sep-17 10:12:29 AM	Info	Agilent Labware MiniHub - 1				Closing device		C:\VWorks Workspace\Device Files\BravoMiniPHBenchCel_round_magnet_RED_insert.dev	1	
+27-Sep-17 10:12:29 AM	Info	BenchCel - 1				Closing device		C:\VWorks Workspace\Device Files\BravoMiniPHBenchCel_round_magnet_RED_insert.dev	1	
+27-Sep-17 10:12:29 AM	Info	Bravo - 1				Closing device		C:\VWorks Workspace\Device Files\BravoMiniPHBenchCel_round_magnet_RED_insert.dev	1	
+27-Sep-17 10:12:29 AM	Info					File unloaded		C:\VWorks Workspace\Device Files\BravoMiniPHBenchCel_round_magnet_RED_insert.dev	1	
+27-Sep-17 10:12:31 AM	Info					administrator logged out. Session 1 closed			1	
+27-Sep-17 10:12:31 AM	Info					System Shutdown			0	

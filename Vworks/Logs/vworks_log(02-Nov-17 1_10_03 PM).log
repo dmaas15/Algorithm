@@ -1,0 +1,803 @@
+02-Nov-17 1:10:04 PM	Info					Error library: The error library file path is empty.			0	
+02-Nov-17 1:10:04 PM	Info					System Startup			0	
+02-Nov-17 1:10:04 PM	Info	AccessoriesWizard				Dll loaded:    AccessoriesWizard.dll    6.0.0			0	
+02-Nov-17 1:10:04 PM	Info	AccessoryManager				Dll loaded:    AccessoryManager.dll    2.0.0			0	
+02-Nov-17 1:10:04 PM	Info	AgilentBenchBotController				Dll loaded:    AgilentBenchBotController.dll    1.21.4226			0	
+02-Nov-17 1:10:04 PM	Info	ArgonShelfAccessoryDriver				Dll loaded:    ArgonShelfAccessoryDriver.dll    2.0.1			0	
+02-Nov-17 1:10:04 PM	Info	BTILHCRunner				Dll loaded:    BTILHCRunner.dll    2.00.2			0	
+02-Nov-17 1:10:04 PM	Info	ContextHelp				Dll loaded:    ContextHelp.dll    3.0.0			0	
+02-Nov-17 1:10:04 PM	Info	DDRStringTable				Dll loaded:    DDRStringTable.dll    1.2.14			0	
+02-Nov-17 1:10:04 PM	Info	DeviceEnumerator				Dll loaded:    DeviceEnumerator.dll    9.0.0			0	
+02-Nov-17 1:10:04 PM	Info	EchoAppHelper				Dll loaded:    EchoAppHelper.dll    1.0.0			0	
+02-Nov-17 1:10:04 PM	Info	ErrorLibrary				Dll loaded:    ErrorLibrary.dll    2.0.1			0	
+02-Nov-17 1:10:04 PM	Info	EvaporatorAccessoryDriver				Dll loaded:    EvaporatorAccessoryDriver.dll    9.0.0			0	
+02-Nov-17 1:10:04 PM	Info	GuidanceDiscovery				Dll loaded:    GuidanceDiscovery.dll    2.0.0			0	
+02-Nov-17 1:10:04 PM	Info	Host				Dll loaded:    Host.dll    1.0.4226			0	
+02-Nov-17 1:10:04 PM	Info	ImportExport				Dll loaded:    ImportExport.dll    2.0.0			0	
+02-Nov-17 1:10:05 PM	Info	InhecoMTCdll				Dll loaded:    InhecoMTCdll.dll    1.2.4			0	
+02-Nov-17 1:10:05 PM	Info	InhecoShakeandHeatAccessoryDriver				Dll loaded:    InhecoShakeandHeatAccessoryDriver.dll    1.0.0			0	
+02-Nov-17 1:10:05 PM	Info	IWorksAccessory				Dll loaded:    IWorksAccessory.dll    8.0.1			0	
+02-Nov-17 1:10:05 PM	Info	js32				Dll loaded:    js32.dll    Unknown.0.0			0	
+02-Nov-17 1:10:05 PM	Info	LabelDesigner				Dll loaded:    LabelDesigner.dll    5.0.7			0	
+02-Nov-17 1:10:05 PM	Info	LabelerHardware				Dll loaded:    LabelerHardware.dll    14.0.23			0	
+02-Nov-17 1:10:05 PM	Info	libnspr4				Dll loaded:    libnspr4.dll    4.1.0			0	
+02-Nov-17 1:10:05 PM	Info	LidHotelAccessoryDriver				Dll loaded:    LidHotelAccessoryDriver.dll    8.0.0			0	
+02-Nov-17 1:10:05 PM	Info	lm				Dll loaded:    lm.dll    3.0.0			0	
+02-Nov-17 1:10:05 PM	Info	Loader				Dll loaded:    Loader.dll    1.0.4226			0	
+02-Nov-17 1:10:05 PM	Info	MagBeadAccessoryDriver				Dll loaded:    MagBeadAccessoryDriver.dll    8.0.0			0	
+02-Nov-17 1:10:05 PM	Info	MetaDataPropertyManager				Dll loaded:    MetaDataPropertyManager.dll    13.0.0			0	
+02-Nov-17 1:10:05 PM	Info	mfc71				Dll loaded:    mfc71.dll    7.10.3077			0	
+02-Nov-17 1:10:05 PM	Info	mfc71u				Dll loaded:    mfc71u.dll    7.10.3077			0	
+02-Nov-17 1:10:05 PM	Info	MicroPierceInterface				Dll loaded:    MicroPierceInterface.dll    1.0.0			0	
+02-Nov-17 1:10:05 PM	Info	MicroPierceWrapper				Dll loaded:    MicroPierceWrapper.dll    1.0.0			0	
+02-Nov-17 1:10:05 PM	Info	MicroStirInterface				Dll loaded:    MicroStirInterface.dll    1.0.0			0	
+02-Nov-17 1:10:05 PM	Info	MicroStirWrapper				Dll loaded:    MicroStirWrapper.dll    1.0.0			0	
+02-Nov-17 1:10:05 PM	Info	msvcr71				Dll loaded:    msvcr71.dll    7.10.3052			0	
+02-Nov-17 1:10:05 PM	Info	MTController				Dll loaded:    MTController.dll    5.0.0			0	
+02-Nov-17 1:10:05 PM	Info	NestableTipBoxInsertAccessoryDriver				Dll loaded:    NestableTipBoxInsertAccessoryDriver.dll    2.0.0			0	
+02-Nov-17 1:10:05 PM	Info	ObjectDatabase				Dll loaded:    ObjectDatabase.dll    4.0.0			0	
+02-Nov-17 1:10:05 PM	Info	ObjectManager				Dll loaded:    ObjectManager.dll    7.0.1			0	
+02-Nov-17 1:10:05 PM	Info	PackardFusionRemoteConnectorOCX				Dll loaded:    PackardFusionRemoteConnectorOCX.dll    4.0.0			0	
+02-Nov-17 1:10:05 PM	Info	PackardFusionRemoteControlPlugIn				Dll loaded:    PackardFusionRemoteControlPlugIn.dll    4.0.0			0	
+02-Nov-17 1:10:05 PM	Info	PackardFusionRemoteControlWrapperDLL				Dll loaded:    PackardFusionRemoteControlWrapperDLL.dll    4.0.0			0	
+02-Nov-17 1:10:05 PM	Info	PicServoExtDll				Dll loaded:    PicServoExtDll.dll    10.0.0			0	
+02-Nov-17 1:10:05 PM	Info	PipetteHeadMode				Dll loaded:    PipetteHeadMode.dll    2.0.0			0	
+02-Nov-17 1:10:05 PM	Info	PipetteTechniqueEditor				Dll loaded:    PipetteTechniqueEditor.dll    3.0.0			0	
+02-Nov-17 1:10:05 PM	Info	PlateMapDatabase				Dll loaded:    PlateMapDatabase.dll    17.0.1			0	
+02-Nov-17 1:10:05 PM	Info	ProfileChangeLog				Dll loaded:    ProfileChangeLog.dll    2.0.0			0	
+02-Nov-17 1:10:05 PM	Info	ProfileManager				Dll loaded:    ProfileManager.dll    10.0.1			0	
+02-Nov-17 1:10:05 PM	Info	ProfSkin284m				Dll loaded:    ProfSkin284m.dll    2.8.4			0	
+02-Nov-17 1:10:05 PM	Info	ProfUIS284m				Dll loaded:    ProfUIS284m.dll    2.8.4			0	
+02-Nov-17 1:10:05 PM	Info	ProfUisProfileManager				Dll loaded:    ProfUisProfileManager.dll    10.0.0			0	
+02-Nov-17 1:10:05 PM	Info	SciLexer				Dll loaded:    SciLexer.dll    1.71.0			0	
+02-Nov-17 1:10:05 PM	Info	SerialDilution				Dll loaded:    SerialDilution.dll    13.0.0			0	
+02-Nov-17 1:10:05 PM	Info	SSIdll				Dll loaded:    SSIdll.dll    Unknown.0.0			0	
+02-Nov-17 1:10:05 PM	Info	TeleshakeAccessoryDriver				Dll loaded:    TeleshakeAccessoryDriver.dll    9.0.2			0	
+02-Nov-17 1:10:05 PM	Info	TipPosition				Dll loaded:    TipPosition.dll    3.0.0			0	
+02-Nov-17 1:10:05 PM	Info	TipTracking				Dll loaded:    TipTracking.dll    3.0.0			0	
+02-Nov-17 1:10:05 PM	Info	tmlcomm				Dll loaded:    tmlcomm.dll    3.2.2			0	
+02-Nov-17 1:10:05 PM	Info	TML_lib				Dll loaded:    TML_lib.dll    2.0.1			0	
+02-Nov-17 1:10:05 PM	Info	Toolbox				Dll loaded:    Toolbox.dll    1.0.4226			0	
+02-Nov-17 1:10:05 PM	Info	V11DeviceDriver				Dll loaded:    V11DeviceDriver.dll    11.0.0			0	
+02-Nov-17 1:10:05 PM	Info	V11FieldComposer				Dll loaded:    V11FieldComposer.dll    4.0.0			0	
+02-Nov-17 1:10:05 PM	Info	V11GanttChart				Dll loaded:    V11GanttChart.dll    2.0.1			0	
+02-Nov-17 1:10:05 PM	Info	V11Labware				Dll loaded:    V11Labware.dll    25.0.14			0	
+02-Nov-17 1:10:05 PM	Info	V11Liquids				Dll loaded:    V11Liquids.dll    9.0.0			0	
+02-Nov-17 1:10:05 PM	Info	V11Migrator				Dll loaded:    V11Migrator.dll    2.0.3			0	
+02-Nov-17 1:10:05 PM	Info	V11PipettingFormatWizard				Dll loaded:    V11PipettingFormatWizard.dll    2.0.0			0	
+02-Nov-17 1:10:05 PM	Info	V11PumpAccessoryDriver				Dll loaded:    V11PumpAccessoryDriver.dll    3.0.2			0	
+02-Nov-17 1:10:05 PM	Info	V11SharedClasses				Dll loaded:    V11SharedClasses.dll    1.1.0			0	
+02-Nov-17 1:10:05 PM	Info	V11WellSelect				Dll loaded:    V11WellSelect.dll    8.0.0			0	
+02-Nov-17 1:10:05 PM	Info	V11WellVolumeVisualizer				Dll loaded:    V11WellVolumeVisualizer.dll    6.0.0			0	
+02-Nov-17 1:10:05 PM	Info	V11Wizard				Dll loaded:    V11Wizard.dll    2.0.0			0	
+02-Nov-17 1:10:05 PM	Info	VacuumFiltrationAccessoryDriver				Dll loaded:    VacuumFiltrationAccessoryDriver.dll    10.0.1			0	
+02-Nov-17 1:10:05 PM	Info	VacuumLocatingStationDriver				Dll loaded:    VacuumLocatingStationDriver.dll    7.0.0			0	
+02-Nov-17 1:10:05 PM	Info	VacuumShelfAccessoryDriver				Dll loaded:    VacuumShelfAccessoryDriver.dll    2.0.2			0	
+02-Nov-17 1:10:05 PM	Info	VHookInterface				Dll loaded:    VHookInterface.dll    7.0.0			0	
+02-Nov-17 1:10:05 PM	Info	VWorks4COM				Dll loaded:    VWorks4COM.dll    4.0.0			0	
+02-Nov-17 1:10:05 PM	Info	VWorks4Defs				Dll loaded:    VWorks4Defs.dll    6.0.3			0	
+02-Nov-17 1:10:05 PM	Info	VWorks4DeviceManager				Dll loaded:    VWorks4DeviceManager.dll    4.0.0			0	
+02-Nov-17 1:10:05 PM	Info	VWorks4EmailDaemon				Dll loaded:    VWorks4EmailDaemon.dll    3.0.0			0	
+02-Nov-17 1:10:05 PM	Info	VWorks4FormManager				Dll loaded:    VWorks4FormManager.dll    1.0.0			0	
+02-Nov-17 1:10:05 PM	Info	VWorks4GUI				Dll loaded:    VWorks4GUI.dll    3.0.0			0	
+02-Nov-17 1:10:05 PM	Info	VWorks4GUIFramework				Dll loaded:    VWorks4GUIFramework.dll    3.0.1			0	
+02-Nov-17 1:10:05 PM	Info	VWorks4Hooks				Dll loaded:    VWorks4Hooks.dll    3.0.0			0	
+02-Nov-17 1:10:05 PM	Info	VWorks4LabelDesigner				Dll loaded:    VWorks4LabelDesigner.dll    3.0.0			0	
+02-Nov-17 1:10:05 PM	Info	VWorks4Logger				Dll loaded:    VWorks4Logger.dll    4.0.0			0	
+02-Nov-17 1:10:05 PM	Info	VWorks4MacroLibrary				Dll loaded:    VWorks4MacroLibrary.dll    1.0.0			0	
+02-Nov-17 1:10:05 PM	Info	VWorks4Progress				Dll loaded:    VWorks4Progress.dll    3.0.0			0	
+02-Nov-17 1:10:05 PM	Info	VWorks4ProtocolEditor				Dll loaded:    VWorks4ProtocolEditor.dll    4.0.0			0	
+02-Nov-17 1:10:05 PM	Info	VWorks4Security				Dll loaded:    VWorks4Security.dll    3.0.0			0	
+02-Nov-17 1:10:05 PM	Info	VWorks4UserDatabase				Dll loaded:    VWorks4UserDatabase.dll    3.0.0			0	
+02-Nov-17 1:10:05 PM	Info	VWorks4UserManager				Dll loaded:    VWorks4UserManager.dll    3.0.0			0	
+02-Nov-17 1:10:05 PM	Info	WeighPadAccessoryDriver				Dll loaded:    WeighPadAccessoryDriver.dll    2.0.0			0	
+02-Nov-17 1:10:05 PM	Info	Agilent BenchCel				Plugin loaded from cache:   AgilentBenchCel.dll   20.1.2			0	
+02-Nov-17 1:10:05 PM	Info	Agilent Bravo				Plugin loaded from cache:   AgilentBravo.dll   17.1.0			0	
+02-Nov-17 1:10:05 PM	Info	Agilent Generic I/O Module				Plugin loaded from cache:   AgilentGenericIO.dll   5.0.0			0	
+02-Nov-17 1:10:05 PM	Info	Agilent Labware MiniHub				Plugin loaded from cache:   AgilentLabwareMiniHub.dll   1.0.3			0	
+02-Nov-17 1:10:06 PM	Info	Agilent Phantom Robot				Plugin loaded from cache:   AgilentPhantomRobot.dll   9.0.5			0	
+02-Nov-17 1:10:06 PM	Info	Agilent Phantom Stacker				Plugin loaded from cache:   AgilentPhantomStacker.dll   2.0.1			0	
+02-Nov-17 1:10:06 PM	Info	Agilent Plate Hotel				Plugin loaded from cache:   AgilentPlateHotel.dll   1.0.3			0	
+02-Nov-17 1:10:06 PM	Info	Agilent Plate Hub Carousel				Plugin loaded from cache:   AgilentPlateHubCarousel.dll   8.0.1			0	
+02-Nov-17 1:10:06 PM	Info	Waste Bin				Plugin loaded from cache:   AgilentWasteBin.dll   3.0.0			0	
+02-Nov-17 1:10:06 PM	Info	Agilent Weigh Pad				Plugin loaded from cache:   AgilentWeighPad.dll   8.0.0			0	
+02-Nov-17 1:10:06 PM	Info	Keyence Barcode Reader				Plugin loaded from cache:   KeyenceBarcodeReader.dll   6.0.0			0	
+02-Nov-17 1:10:06 PM	Info	Plate Pad, Standard				Plugin loaded from cache:   PlatePad.dll   6.0.0			0	
+02-Nov-17 1:10:39 PM	Info					administrator logged in			1	
+02-Nov-17 1:10:53 PM	Info					File loaded		C:\VWorks Workspace\Forms\SCELSE\Working Program\TruSeqRNA_StrandSpecific.VWForm	1	
+02-Nov-17 1:18:07 PM	Info	Agilent Labware MiniHub				Plugin loaded:   AgilentLabwareMiniHub.dll   1.0.3			1	
+02-Nov-17 1:18:07 PM	Info					Hooks plugin loaded:    AgilentBenchCel.dll			0	
+02-Nov-17 1:18:07 PM	Info	Agilent BenchCel				Plugin loaded:   AgilentBenchCel.dll   20.1.2			1	
+02-Nov-17 1:18:11 PM	Info					Hooks plugin loaded:    AgilentBravo.dll			0	
+02-Nov-17 1:18:11 PM	Info	Agilent Bravo				Plugin loaded:   AgilentBravo.dll   17.1.0			1	
+02-Nov-17 1:18:14 PM	Info					File loaded		C:\VWorks Workspace\Device Files\TruSeq\TruSeq RNA_DNA Sample Prep_v1.0\BravoMiniPHBenchCel_round_magnet_RED_insert.dev	1	
+02-Nov-17 1:18:15 PM	Info					File loaded	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:18:41 PM	Script					Initializing scripting engine...			1	
+02-Nov-17 1:18:41 PM	Script					Thu Nov 02 2017 13:18:41 GMT+0800 (Malay Peninsula Standard Time)			1	
+02-Nov-17 1:21:00 PM	Info					Simulation mode toggled on			1	
+02-Nov-17 1:21:05 PM	Info					Compile complete with 0 errors and 0 warnings			1	
+02-Nov-17 1:21:14 PM	Info					Runset Manager: Added the run "C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro" to Runset Manager.			1	
+02-Nov-17 1:21:15 PM	Event					Scheduler started			1	
+02-Nov-17 1:21:15 PM	Script					Successfully opened tiptracking.js file.			1	
+02-Nov-17 1:21:15 PM	Script					Clearing Plate Inventory			1	
+02-Nov-17 1:21:15 PM	Info					Error library: Protocol started using error library file: ""			1	
+02-Nov-17 1:21:15 PM	Event					Startup protocol starting	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:15 PM	Event			RNADepletion 1		Process starting, north barcode: No bar code, east barcode: No bar code, south barcode: No bar code, west barcode: No bar code	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:15 PM	Event			RNADepletion 1		After 1 second...	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:16 PM	Event			RNADepletion 1	1	JavaScript	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:16 PM	Event			RNADepletion 1		After 1 second...	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:16 PM	Event			RNADepletion 1	1	Completed: JavaScript	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:16 PM	Script					Need tips is 1			1	
+02-Nov-17 1:21:16 PM	Script					Col is 0			1	
+02-Nov-17 1:21:16 PM	Script					used _col is 0			1	
+02-Nov-17 1:21:16 PM	Script					Nunc is 1			1	
+02-Nov-17 1:21:16 PM	Script					tips_on_loc is 13			1	
+02-Nov-17 1:21:16 PM	Script					tips_off_loc is13			1	
+02-Nov-17 1:21:16 PM	Script					Collection is2			1	
+02-Nov-17 1:21:16 PM	Script					DNA_plate is1			1	
+02-Nov-17 1:21:16 PM	Script					spri_case is0			1	
+02-Nov-17 1:21:16 PM	Event			RNADepletion 1		After 1 second...	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:16 PM	Event			RNADepletion 1	2	Configure static labware on Bravo - 1	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:16 PM	Info			RNADepletion	2	Changed "task Configure Labware, changed variable " to "96 Deep Well PP Sqr Well V Btm"	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:16 PM	Event			RNADepletion 1		After 1 second...	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:16 PM	Event			RNADepletion 1	2	Completed: Configure static labware on Bravo - 1	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:17 PM	Event			RNADepletion 1		After 1 second...	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:17 PM	Event			RNADepletion 1	3	Display user message: Columns of Samples; Enter the number of columns of samples.  	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:17 PM	Event			RNADepletion 1	3	This has to be either 1, 2, 3, 4, 6, or 12 columns of samples.	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:17 PM	Event			RNADepletion 1	3	Five columns will be processed as 6 columns, and anything between 6 and 12 columns will be treated as a full plate.	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:24 PM	Event			RNADepletion 1		After 4 seconds...	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:24 PM	Event			RNADepletion 1	3	Completed: Display user message: Columns of Samples; Enter the number of columns of samples.  	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:24 PM	Event			RNADepletion 1	3	This has to be either 1, 2, 3, 4, 6, or 12 columns of samples.	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:24 PM	Event			RNADepletion 1	3	Five columns will be processed as 6 columns, and anything between 6 and 12 columns will be treated as a full plate.	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:24 PM	Script					User has entered 6 columns.			1	
+02-Nov-17 1:21:24 PM	Script					script:ReferenceError: formProtocolName is not defined			1	
+02-Nov-17 1:21:24 PM	Event			RNADepletion 1		After 4 seconds...	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:24 PM	Event			RNADepletion 1	5	Display user message: Inventory Editor; Have you cleared the inventory from previous runs?	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:24 PM	Event			RNADepletion 1	5	Go to Tools-->Inventory Editor-->Inventory Management and delete all plates	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:24 PM	Event			RNADepletion 1	5	in View by plate.	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:24 PM	Event			RNADepletion 1		After 5 seconds...	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:24 PM	Event			RNADepletion 1	5	Completed: Display user message: Inventory Editor; Have you cleared the inventory from previous runs?	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:24 PM	Event			RNADepletion 1	5	Go to Tools-->Inventory Editor-->Inventory Management and delete all plates	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:24 PM	Event			RNADepletion 1	5	in View by plate.	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:24 PM	Script					The number of columns that will be processed is 6.			1	
+02-Nov-17 1:21:24 PM	Script					The head mode configuration is 3,3,8,6			1	
+02-Nov-17 1:21:24 PM	Event			RNADepletion 1		After 5 seconds...	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:24 PM	Event			RNADepletion 1	6	JavaScript	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:24 PM	Event			RNADepletion 1		After 5 seconds...	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:24 PM	Event			RNADepletion 1	6	Completed: JavaScript	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:24 PM	Script					The volumes used in this protocol are from case 0			1	
+02-Nov-17 1:21:24 PM	Script					The volume of DNA is 52.5ul			1	
+02-Nov-17 1:21:24 PM	Script					The volume of beads is 99ul			1	
+02-Nov-17 1:21:25 PM	Script					The volume of DNA and beads is 151.5ul			1	
+02-Nov-17 1:21:25 PM	Script					Supernatant volume is 146.5ul			1	
+02-Nov-17 1:21:25 PM	Script					The elution volume is 11ul			1	
+02-Nov-17 1:21:25 PM	Event			RNADepletion 1		After 5 seconds...	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:25 PM	Event			RNADepletion 1	7	JavaScript	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:25 PM	Event			RNADepletion 1		After 5 seconds...	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:25 PM	Event			RNADepletion 1	7	Completed: JavaScript	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:25 PM	Script					script:ReferenceError: formProtocolName is not defined			1	
+02-Nov-17 1:21:25 PM	Event			RNADepletion 1		After 5 seconds...	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:25 PM	Event			RNADepletion 1	8	Display user message: Check log; Check the log to confirm that the correct run parameters have been entered.	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:25 PM	Event			RNADepletion 1	8	Pause and abort protocol if the parameters are incorrect.	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:25 PM	Event			RNADepletion 1		After 6 seconds...	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:25 PM	Event			RNADepletion 1	8	Completed: Display user message: Check log; Check the log to confirm that the correct run parameters have been entered.	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:25 PM	Event			RNADepletion 1	8	Pause and abort protocol if the parameters are incorrect.	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:25 PM	Event			RNADepletion 1		Process finishing	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:25 PM	Event	BenchCel - 1	Stacker 1	TipControl		Load stacker rack at location "Stacker 1" of device "BenchCel - 1" with plate "TipControl" of labware type "96 V11 LT250 Tip Box 19477.002"	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:25 PM	Event	BenchCel - 1	Stacker 2	TipControl		Load stacker rack at location "Stacker 2" of device "BenchCel - 1" with plate "TipControl" of labware type "96 V11 LT250 Tip Box 19477.002"	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:25 PM	Event	BenchCel - 1	Stacker 3	Upstack 3		Load stacker rack at location "Stacker 3" of device "BenchCel - 1" with plate "Upstack 3" of labware type "96 V11 LT250 Tip Box 19477.002"	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:25 PM	Event	BenchCel - 1	Stacker 4	Upstack 4		Load stacker rack at location "Stacker 4" of device "BenchCel - 1" with plate "Upstack 4" of labware type "96 V11 LT250 Tip Box 19477.002"	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:25 PM	Info			Mixing plate		1 plate required	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:25 PM	Info			RNA in Eppendorf		Plates are spawned on demand	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:25 PM	Info			RNARemovalBeads		1 plate required	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:25 PM	Info			SupernatantReceivingPlate		1 plate required	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:25 PM	Info			TipControl		Plates are spawned on demand	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:25 PM	Info			UsedTipUpStack		Plates are spawned on demand	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:25 PM	Info			tips1		Plates are spawned on demand	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:25 PM	Info			emptytips1		Plates are spawned on demand	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:26 PM	Info			tips2		Plates are spawned on demand	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:26 PM	Info			emptytips2		Plates are spawned on demand	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:26 PM	Info			tips3		Plates are spawned on demand	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:26 PM	Info			emptytips3		Plates are spawned on demand	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:26 PM	Info			tips4		Plates are spawned on demand	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:26 PM	Info			emptytips4		Plates are spawned on demand	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:26 PM	Info			Upstack 3		Plates are spawned on demand	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:26 PM	Info			Upstack 4		Plates are spawned on demand	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:26 PM	Event					Main protocol starting	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:26 PM	Event					Startup protocol complete	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:26 PM	Event			RNARemovalBeads 1		Process starting, north barcode: No bar code, east barcode: No bar code, south barcode: No bar code, west barcode: No bar code	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:26 PM	Event			Mixing plate 1		Process starting, north barcode: No bar code, east barcode: No bar code, south barcode: No bar code, west barcode: No bar code	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:26 PM	Event			SupernatantReceivingPlate 1		Process starting, north barcode: No bar code, east barcode: No bar code, south barcode: No bar code, west barcode: No bar code	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:26 PM	Event			RNARemovalBeads 1		After 6 seconds...	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:26 PM	Event	Bravo - 1	6	RNARemovalBeads 1	1	Place plate at Bravo - 1 6	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:26 PM	Event			RNARemovalBeads 1		After 6 seconds...	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:26 PM	Event	Bravo - 1	6	RNARemovalBeads 1	1	Completed: Place plate at Bravo - 1 6	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:26 PM	Event			Mixing plate 1		After 6 seconds...	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:26 PM	Event	Bravo - 1	5	Mixing plate 1	1	Place plate at Bravo - 1 5	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:26 PM	Event			Mixing plate 1		After 6 seconds...	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:26 PM	Event	Bravo - 1	5	Mixing plate 1	1	Completed: Place plate at Bravo - 1 5	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:27 PM	Event			SupernatantReceivingPlate 1		After 6 seconds...	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:27 PM	Event	Bravo - 1	4	SupernatantReceivingPlate 1	1	Place plate at Bravo - 1 4	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:27 PM	Event			SupernatantReceivingPlate 1		After 6 seconds...	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:27 PM	Event	Bravo - 1	4	SupernatantReceivingPlate 1	1	Completed: Place plate at Bravo - 1 4	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:27 PM	Event			Mixing plate 1		After 6 seconds...	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:27 PM	Event			Mixing plate 1	2	Spawn tips1	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:27 PM	Event			Mixing plate 1		After 6 seconds...	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:27 PM	Event			Mixing plate 1	2	Completed: Spawn tips1	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:27 PM	Event			tips1 1		Process starting, north barcode: No bar code, east barcode: No bar code, south barcode: No bar code, west barcode: No bar code	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:27 PM	Event			tips1 1		After 6 seconds...	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:27 PM	Event	Bravo - 1	2	tips1 1	1	Place plate at Bravo - 1 2	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:27 PM	Event			tips1 1		After 6 seconds...	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:27 PM	Event	Bravo - 1	2	tips1 1	1	Completed: Place plate at Bravo - 1 2	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:27 PM	Event			Mixing plate 1		After 6 seconds...	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:27 PM	Event			Mixing plate 1	3	Spawn emptytips1	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:27 PM	Event			Mixing plate 1		After 6 seconds...	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:27 PM	Event			Mixing plate 1	3	Completed: Spawn emptytips1	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:27 PM	Event			emptytips1 1		Process starting, north barcode: No bar code, east barcode: No bar code, south barcode: No bar code, west barcode: No bar code	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:27 PM	Event			emptytips1 1		After 6 seconds...	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:27 PM	Event	Bravo - 1	8	emptytips1 1	1	Place plate at Bravo - 1 8	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:27 PM	Event			emptytips1 1		After 6 seconds...	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:28 PM	Event	Bravo - 1	8	emptytips1 1	1	Completed: Place plate at Bravo - 1 8	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:28 PM	Event			Mixing plate 1		After 6 seconds...	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:28 PM	Event			Mixing plate 1	4	Spawn RNA in Eppendorf	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:28 PM	Event			Mixing plate 1		After 6 seconds...	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:28 PM	Event			Mixing plate 1	4	Completed: Spawn RNA in Eppendorf	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:28 PM	Event			RNA in Eppendorf 1		Process starting, north barcode: No bar code, east barcode: No bar code, south barcode: No bar code, west barcode: No bar code	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:28 PM	Event			RNA in Eppendorf 1		After 6 seconds...	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:28 PM	Event	Bravo - 1	7	RNA in Eppendorf 1	1	Place plate at Bravo - 1 7	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:28 PM	Event			RNA in Eppendorf 1		After 6 seconds...	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:28 PM	Event	Bravo - 1	7	RNA in Eppendorf 1	1	Completed: Place plate at Bravo - 1 7	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:28 PM	Event			RNA-BufferMix 1		After 6 seconds...	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:28 PM	Event	Bravo - 1	5	RNA-BufferMix 1	1	Begin task group	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:28 PM	Event	Bravo - 1	7	RNA-BufferMix 1	1	Begin task group	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:28 PM	Event	Bravo - 1	8	RNA-BufferMix 1	1	Begin task group	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:28 PM	Event	Bravo - 1	2	RNA-BufferMix 1	1	Begin task group	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:28 PM	Event			RNA-BufferMix 1		After 6 seconds...	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:28 PM	Event	Bravo - 1	5	RNA-BufferMix 1	1	Completed: Begin task group	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:28 PM	Event	Bravo - 1	7	RNA-BufferMix 1	1	Completed: Begin task group	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:28 PM	Event	Bravo - 1	8	RNA-BufferMix 1	1	Completed: Begin task group	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:28 PM	Event	Bravo - 1	2	RNA-BufferMix 1	1	Completed: Begin task group	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:29 PM	Script					The head mode is 3,3,8,6			1	
+02-Nov-17 1:21:29 PM	Event			RNA-BufferMix 1		After 6 seconds...	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:29 PM	Event	Bravo - 1	Default Location	RNA-BufferMix 1	2	Set head mode to 8 rows: A-H, 6 columns: 1-6	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:29 PM	Event			RNA-BufferMix 1		After 6 seconds...	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:29 PM	Event	Bravo - 1	Default Location	RNA-BufferMix 1	2	Completed: Set head mode to 8 rows: A-H, 6 columns: 1-6	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:29 PM	Script					Pressing tips on at 1,7			1	
+02-Nov-17 1:21:29 PM	Event			RNA-BufferMix 1		After 6 seconds...	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:29 PM	Event	Bravo - 1	2	RNA-BufferMix 1	3	Tips On in 1 selection(s) from tips1 1	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:29 PM	Event			RNA-BufferMix 1		After 15 seconds...	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:29 PM	Event	Bravo - 1	2	RNA-BufferMix 1	3	Completed: Tips On in 1 selection(s) from tips1 1	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:29 PM	Script					The number of columns taken from the new tip box is 6 columns.			1	
+02-Nov-17 1:21:29 PM	Event			RNA-BufferMix 1		After 15 seconds...	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:29 PM	Event			RNA-BufferMix 1	4	JavaScript	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:30 PM	Event			RNA-BufferMix 1		After 15 seconds...	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:30 PM	Event			RNA-BufferMix 1	4	Completed: JavaScript	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:30 PM	Event			RNA-BufferMix 1		After 15 seconds...	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:30 PM	Event	Bravo - 1	7	RNA-BufferMix 1	5	Aspirate 10 킠 in 1 selection(s) from RNA in Eppendorf 1	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:30 PM	Event			RNA-BufferMix 1		After 29 seconds...	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:30 PM	Event	Bravo - 1	7	RNA-BufferMix 1	5	Completed: Aspirate 10 킠 in 1 selection(s) from RNA in Eppendorf 1	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:30 PM	Event			RNA-BufferMix 1		After 29 seconds...	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:30 PM	Event	Bravo - 1	5	RNA-BufferMix 1	6	Dispense contents of tips in 1 selection(s) to Mixing plate 1	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:30 PM	Event			RNA-BufferMix 1		After 38 seconds...	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:30 PM	Event	Bravo - 1	5	RNA-BufferMix 1	6	Completed: Dispense contents of tips in 1 selection(s) to Mixing plate 1	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:30 PM	Event			RNA-BufferMix 1		After 38 seconds...	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:31 PM	Event	Bravo - 1	5	RNA-BufferMix 1	7	Mix 15 킠 in 1 selection(s) from Mixing plate 1	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:31 PM	Event			RNA-BufferMix 1		After 1 minute 18 seconds...	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:31 PM	Event	Bravo - 1	5	RNA-BufferMix 1	7	Completed: Mix 15 킠 in 1 selection(s) from Mixing plate 1	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:31 PM	Script					Taking tips off at 1,7			1	
+02-Nov-17 1:21:31 PM	Event			RNA-BufferMix 1		After 1 minute 18 seconds...	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:31 PM	Event	Bravo - 1	8	RNA-BufferMix 1	8	Tips Off in 1 selection(s) from emptytips1 1	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:31 PM	Event			RNA-BufferMix 1		After 1 minute 25 seconds...	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:31 PM	Event	Bravo - 1	8	RNA-BufferMix 1	8	Completed: Tips Off in 1 selection(s) from emptytips1 1	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:31 PM	Event			RNA-BufferMix 1		After 1 minute 25 seconds...	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:31 PM	Event	Bravo - 1	Default Location	RNA-BufferMix 1	9	Wait for the user to press the "Go" button	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:31 PM	Event			RNA-BufferMix 1		After 9 minutes 4 seconds...	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:31 PM	Event	Bravo - 1	Default Location	RNA-BufferMix 1	9	Completed: Wait for the user to press the "Go" button	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:31 PM	Script					The number of columns placed in the used tip box is 6 columns.			1	
+02-Nov-17 1:21:31 PM	Event			RNA-BufferMix 1		After 9 minutes 4 seconds...	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:31 PM	Event			RNA-BufferMix 1	10	JavaScript	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:31 PM	Event			RNA-BufferMix 1		After 9 minutes 4 seconds...	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:31 PM	Event			RNA-BufferMix 1	10	Completed: JavaScript	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:32 PM	Event			RNA-BufferMix 1		After 9 minutes 4 seconds...	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:32 PM	Event			RNA-BufferMix 1	11	End task group	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:32 PM	Event			RNA-BufferMix 1		After 9 minutes 4 seconds...	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:32 PM	Event			RNA-BufferMix 1	11	Completed: End task group	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:32 PM	Event			RNA-BufferMix 1		Process finishing	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:32 PM	Event			tips1 1		After 9 minutes 4 seconds...	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:32 PM	Event	Bravo - 1	2	tips1 1	3	Place plate at Bravo - 1 2	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:32 PM	Event			tips1 1		After 9 minutes 4 seconds...	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:32 PM	Event	Bravo - 1	2	tips1 1	3	Completed: Place plate at Bravo - 1 2	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:32 PM	Event			emptytips1 1		After 9 minutes 4 seconds...	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:32 PM	Event	Bravo - 1	8	emptytips1 1	3	Place plate at Bravo - 1 8	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:32 PM	Event			emptytips1 1		After 9 minutes 4 seconds...	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:32 PM	Event	Bravo - 1	8	emptytips1 1	3	Completed: Place plate at Bravo - 1 8	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:32 PM	Event			RNA in Eppendorf 1		After 9 minutes 4 seconds...	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:32 PM	Event	Agilent Labware MiniHub - 1	Cassette 1, slot 3	RNA in Eppendorf 1	3	Load into plate storage device	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:32 PM	Event			RNA in Eppendorf 1		After 9 minutes 4 seconds...	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:32 PM	Event	Bravo - 1		RNA in Eppendorf 1		Move plate from Bravo - 1 7, teachpoint 7 to Bravo - 1 3, teachpoint 3			1	
+02-Nov-17 1:21:33 PM	Event			RNA in Eppendorf 1		After 9 minutes 14 seconds...	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:33 PM	Event	Bravo - 1		RNA in Eppendorf 1		Finished moving plate from Bravo - 1 7, teachpoint 7 to Bravo - 1 3, teachpoint 3			1	
+02-Nov-17 1:21:33 PM	Event			RNA in Eppendorf 1		After 9 minutes 14 seconds...	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:33 PM	Event	BenchCel - 1		RNA in Eppendorf 1		Move plate from Bravo - 1 3, teachpoint Bravo3 to Agilent Labware MiniHub - 1 Cassette 1, Slot 3, teachpoint MiniHub03			1	
+02-Nov-17 1:21:33 PM	Event			RNA in Eppendorf 1		After 9 minutes 20 seconds...	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:33 PM	Event	BenchCel - 1		RNA in Eppendorf 1		Finished moving plate from Bravo - 1 3, teachpoint Bravo3 to Agilent Labware MiniHub - 1 Cassette 1, Slot 3, teachpoint MiniHub03			1	
+02-Nov-17 1:21:33 PM	Event	Agilent Labware MiniHub - 1		RNA in Eppendorf 1	3	Agilent Labware MiniHub - 1 Load the plate from Cassette 1, Slot 3 into Location : cassette 1, slot 3	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:33 PM	Event			RNA in Eppendorf 1		After 9 minutes 20 seconds...	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:33 PM	Event	Agilent Labware MiniHub - 1	Cassette 1, slot 3	RNA in Eppendorf 1	3	Completed: Load into plate storage device	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:33 PM	Script					tips1 1 Tip box is not empty.			1	
+02-Nov-17 1:21:33 PM	Event			tips1 1		After 9 minutes 4 seconds...	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:33 PM	Event			tips1 1	4	Spawn tips2	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:33 PM	Event			tips1 1		After 9 minutes 4 seconds...	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:33 PM	Event			tips1 1	4	Completed: Spawn tips2	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:33 PM	Event			tips2 1		Process starting, north barcode: No bar code, east barcode: No bar code, south barcode: No bar code, west barcode: No bar code	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:33 PM	Script					emptytips1 1 Used tip box is not full.			1	
+02-Nov-17 1:21:33 PM	Script					Tip box is not full so it will move to next subprocess.			1	
+02-Nov-17 1:21:33 PM	Event			emptytips1 1		After 9 minutes 4 seconds...	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:33 PM	Event			emptytips1 1	4	Spawn emptytips2	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:33 PM	Event			emptytips1 1		After 9 minutes 4 seconds...	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:33 PM	Event			emptytips1 1	4	Completed: Spawn emptytips2	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:33 PM	Event			emptytips2 1		Process starting, north barcode: No bar code, east barcode: No bar code, south barcode: No bar code, west barcode: No bar code	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:33 PM	Event			RNA in Eppendorf 1		Process finishing	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:34 PM	Script					tips1 1 Tip box is not empty.			1	
+02-Nov-17 1:21:34 PM	Script					tips1 1 Tip box is not empty.			1	
+02-Nov-17 1:21:34 PM	Script					tips1 1 Tip box is not empty.			1	
+02-Nov-17 1:21:34 PM	Event			tips1 1		Process finishing	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:34 PM	Event			tips2 1		After 9 minutes 4 seconds...	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:34 PM	Event	Bravo - 1	2	tips2 1	1	Place plate at Bravo - 1 2	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:34 PM	Event			tips2 1		After 9 minutes 4 seconds...	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:34 PM	Event	Bravo - 1	2	tips2 1	1	Completed: Place plate at Bravo - 1 2	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:34 PM	Script					emptytips1 1 Used tip box is not full.			1	
+02-Nov-17 1:21:34 PM	Script					Tip box still has space.			1	
+02-Nov-17 1:21:34 PM	Event			emptytips1 1		Process finishing	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:34 PM	Event			emptytips2 1		After 9 minutes 4 seconds...	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:34 PM	Event	Bravo - 1	8	emptytips2 1	1	Place plate at Bravo - 1 8	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:34 PM	Event			emptytips2 1		After 9 minutes 4 seconds...	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:34 PM	Event	Bravo - 1	8	emptytips2 1	1	Completed: Place plate at Bravo - 1 8	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:35 PM	Event			RNABeadsMixing 1		After 9 minutes 14 seconds...	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:35 PM	Event	Bravo - 1	6	RNABeadsMixing 1	1	Begin task group	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:35 PM	Event	Bravo - 1	8	RNABeadsMixing 1	1	Begin task group	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:35 PM	Event	Bravo - 1	2	RNABeadsMixing 1	1	Begin task group	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:35 PM	Event			RNABeadsMixing 1		After 9 minutes 14 seconds...	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:35 PM	Event	Bravo - 1	6	RNABeadsMixing 1	1	Completed: Begin task group	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:35 PM	Event	Bravo - 1	8	RNABeadsMixing 1	1	Completed: Begin task group	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:35 PM	Event	Bravo - 1	2	RNABeadsMixing 1	1	Completed: Begin task group	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:35 PM	Script					The head mode is 3,3,8,6			1	
+02-Nov-17 1:21:35 PM	Event			RNABeadsMixing 1		After 9 minutes 14 seconds...	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:35 PM	Event	Bravo - 1	Default Location	RNABeadsMixing 1	2	Set head mode to 8 rows: A-H, 6 columns: 1-6	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:35 PM	Event			RNABeadsMixing 1		After 9 minutes 14 seconds...	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:35 PM	Event	Bravo - 1	Default Location	RNABeadsMixing 1	2	Completed: Set head mode to 8 rows: A-H, 6 columns: 1-6	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:35 PM	Script					Pressing tips on at 1,1			1	
+02-Nov-17 1:21:35 PM	Event			RNABeadsMixing 1		After 9 minutes 14 seconds...	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:35 PM	Event	Bravo - 1	2	RNABeadsMixing 1	3	Tips On in 1 selection(s) from tips2 1	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:35 PM	Event			RNABeadsMixing 1		After 9 minutes 22 seconds...	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:35 PM	Event	Bravo - 1	2	RNABeadsMixing 1	3	Completed: Tips On in 1 selection(s) from tips2 1	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:35 PM	Script					The number of columns taken from the new tip box is 12 columns.			1	
+02-Nov-17 1:21:36 PM	Event			RNABeadsMixing 1		After 9 minutes 22 seconds...	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:36 PM	Event			RNABeadsMixing 1	4	JavaScript	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:36 PM	Event			RNABeadsMixing 1		After 9 minutes 22 seconds...	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:36 PM	Event			RNABeadsMixing 1	4	Completed: JavaScript	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:36 PM	Event			RNABeadsMixing 1		After 9 minutes 22 seconds...	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:36 PM	Event	Bravo - 1	6	RNABeadsMixing 1	5	Mix 30 킠 (pre-aspirate 2 킠) in 1 selection(s) from RNARemovalBeads 1	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:36 PM	Event			RNABeadsMixing 1		After 10 minutes 46 seconds...	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:36 PM	Event	Bravo - 1	6	RNABeadsMixing 1	5	Completed: Mix 30 킠 (pre-aspirate 2 킠) in 1 selection(s) from RNARemovalBeads 1	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:36 PM	Script					Taking tips off at 1,1			1	
+02-Nov-17 1:21:36 PM	Event			RNABeadsMixing 1		After 10 minutes 46 seconds...	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:36 PM	Event	Bravo - 1	8	RNABeadsMixing 1	6	Tips Off in 1 selection(s) from emptytips2 1	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:36 PM	Event			RNABeadsMixing 1		After 10 minutes 53 seconds...	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:36 PM	Event	Bravo - 1	8	RNABeadsMixing 1	6	Completed: Tips Off in 1 selection(s) from emptytips2 1	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:36 PM	Script					The number of columns placed in the used tip box is 12 columns.			1	
+02-Nov-17 1:21:36 PM	Event			RNABeadsMixing 1		After 10 minutes 53 seconds...	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:36 PM	Event			RNABeadsMixing 1	7	JavaScript	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:36 PM	Event			RNABeadsMixing 1		After 10 minutes 53 seconds...	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:37 PM	Event			RNABeadsMixing 1	7	Completed: JavaScript	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:37 PM	Event			RNABeadsMixing 1		After 10 minutes 53 seconds...	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:37 PM	Event			RNABeadsMixing 1	8	End task group	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:37 PM	Event			RNABeadsMixing 1		After 10 minutes 53 seconds...	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:37 PM	Event			RNABeadsMixing 1	8	Completed: End task group	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:37 PM	Event			RNABeadsMixing 1		Process finishing	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:37 PM	Event			tips2 1		After 10 minutes 53 seconds...	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:37 PM	Event	Bravo - 1	2	tips2 1	3	Place plate at Bravo - 1 2	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:37 PM	Event			tips2 1		After 10 minutes 53 seconds...	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:37 PM	Event	Bravo - 1	2	tips2 1	3	Completed: Place plate at Bravo - 1 2	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:37 PM	Event			emptytips2 1		After 10 minutes 53 seconds...	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:37 PM	Event	Bravo - 1	8	emptytips2 1	3	Place plate at Bravo - 1 8	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:37 PM	Event			emptytips2 1		After 10 minutes 53 seconds...	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:37 PM	Event	Bravo - 1	8	emptytips2 1	3	Completed: Place plate at Bravo - 1 8	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:37 PM	Script					tips2 1 Tip box empty.			1	
+02-Nov-17 1:21:37 PM	Script					tips2 1 Tip box empty.			1	
+02-Nov-17 1:21:37 PM	Script					emptytips2 1 Used tip box is full.			1	
+02-Nov-17 1:21:37 PM	Script					emptytips2 1 Used tip box is full.			1	
+02-Nov-17 1:21:38 PM	Script					Upstacking emptytips2 1			1	
+02-Nov-17 1:21:38 PM	Event			emptytips2 1		After 10 minutes 53 seconds...	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:38 PM	Event			emptytips2 1	5	Spawn UsedTipUpStack	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:38 PM	Event			emptytips2 1		After 10 minutes 53 seconds...	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:38 PM	Event			emptytips2 1	5	Completed: Spawn UsedTipUpStack	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:38 PM	Event			UsedTipUpStack 1		Process starting, north barcode: No bar code, east barcode: No bar code, south barcode: No bar code, west barcode: No bar code	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:38 PM	Event			emptytips2 1		Process finishing	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:38 PM	Event			UsedTipUpStack 1		After 10 minutes 53 seconds...	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:38 PM	Event	Bravo - 1	8	UsedTipUpStack 1	1	Place plate at Bravo - 1 8	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:38 PM	Event			UsedTipUpStack 1		After 10 minutes 53 seconds...	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:38 PM	Event	Bravo - 1	8	UsedTipUpStack 1	1	Completed: Place plate at Bravo - 1 8	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:38 PM	Script					Upstacking used tip box to Stacker 3.			1	
+02-Nov-17 1:21:38 PM	Event			UsedTipUpStack 1		After 10 minutes 53 seconds...	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:38 PM	Event			UsedTipUpStack 1	2	Spawn Upstack 3	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:38 PM	Event			UsedTipUpStack 1		After 10 minutes 53 seconds...	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:38 PM	Event			UsedTipUpStack 1	2	Completed: Spawn Upstack 3	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:38 PM	Event			Upstack 3 1		Process starting, north barcode: No bar code, east barcode: No bar code, south barcode: No bar code, west barcode: No bar code	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:39 PM	Event			UsedTipUpStack 1		Process finishing	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:39 PM	Event			Upstack 3 1		After 10 minutes 53 seconds...	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:39 PM	Event	Bravo - 1	8	Upstack 3 1	1	Place plate at Bravo - 1 8	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:39 PM	Event			Upstack 3 1		After 10 minutes 53 seconds...	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:39 PM	Event	Bravo - 1	8	Upstack 3 1	1	Completed: Place plate at Bravo - 1 8	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:39 PM	Event			Upstack 3 1		After 10 minutes 53 seconds...	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:39 PM	Event	BenchCel - 1	Stacker 3	Upstack 3 1	2	Upstack to BenchCel - 1.Stacker 3	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:39 PM	Event			Upstack 3 1		After 10 minutes 53 seconds...	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:39 PM	Event	Bravo - 1		Upstack 3 1		Move plate from Bravo - 1 8, teachpoint 8 to Bravo - 1 3, teachpoint 3			1	
+02-Nov-17 1:21:39 PM	Event			Upstack 3 1		After 11 minutes 3 seconds...	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:39 PM	Event	Bravo - 1		Upstack 3 1		Finished moving plate from Bravo - 1 8, teachpoint 8 to Bravo - 1 3, teachpoint 3			1	
+02-Nov-17 1:21:39 PM	Event			Upstack 3 1		After 11 minutes 3 seconds...	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:39 PM	Event	BenchCel - 1		Upstack 3 1		Move plate from Bravo - 1 3, teachpoint Bravo3 to BenchCel - 1 Stacker 3, teachpoint Stacker 3			1	
+02-Nov-17 1:21:39 PM	Event			Upstack 3 1		After 11 minutes 9 seconds...	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:39 PM	Event	BenchCel - 1		Upstack 3 1		Finished moving plate from Bravo - 1 3, teachpoint Bravo3 to BenchCel - 1 Stacker 3, teachpoint Stacker 3			1	
+02-Nov-17 1:21:39 PM	Event			Upstack 3 1		After 11 minutes 9 seconds...	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:39 PM	Event	BenchCel - 1	Stacker 3	Upstack 3 1	2	Completed: Upstack to BenchCel - 1.Stacker 3	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:39 PM	Event			Upstack 3 1		Process finishing	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:39 PM	Event			tips2 1		After 11 minutes 3 seconds...	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:39 PM	Event	Bravo - 1	8	tips2 1	5	Place plate at Bravo - 1 8	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:39 PM	Event			tips2 1		After 11 minutes 3 seconds...	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:39 PM	Event	Bravo - 1		tips2 1		Move plate from Bravo - 1 2, teachpoint 2 to Bravo - 1 8, teachpoint 8			1	
+02-Nov-17 1:21:39 PM	Event			tips2 1		After 11 minutes 13 seconds...	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:40 PM	Event	Bravo - 1		tips2 1		Finished moving plate from Bravo - 1 2, teachpoint 2 to Bravo - 1 8, teachpoint 8			1	
+02-Nov-17 1:21:40 PM	Event			tips2 1		After 11 minutes 13 seconds...	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:40 PM	Event	Bravo - 1	8	tips2 1	5	Completed: Place plate at Bravo - 1 8	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:40 PM	Script					tips2 1 Tip box empty.			1	
+02-Nov-17 1:21:40 PM	Event			tips2 1		After 11 minutes 13 seconds...	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:40 PM	Event			tips2 1	6	Spawn emptytips3	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:40 PM	Event			tips2 1		After 11 minutes 13 seconds...	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:40 PM	Event			tips2 1	6	Completed: Spawn emptytips3	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:40 PM	Event			emptytips3 1		Process starting, north barcode: No bar code, east barcode: No bar code, south barcode: No bar code, west barcode: No bar code	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:40 PM	Script					tips2 1 Tip box empty.			1	
+02-Nov-17 1:21:40 PM	Event			tips2 1		After 11 minutes 13 seconds...	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:40 PM	Event			tips2 1	7	Spawn TipControl	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:40 PM	Event			tips2 1		After 11 minutes 13 seconds...	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:40 PM	Event			tips2 1	7	Completed: Spawn TipControl	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:40 PM	Event			TipControl 1		Process starting, north barcode: No bar code, east barcode: No bar code, south barcode: No bar code, west barcode: No bar code	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:40 PM	Event			TipControl 1		After 11 minutes 13 seconds...	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:40 PM	Event	BenchCel - 1	Stacker 1	TipControl 1	1	Downstack from BenchCel - 1.Stacker 1	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:40 PM	Event			TipControl 1		After 11 minutes 13 seconds...	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:40 PM	Event	BenchCel - 1	Stacker 1	TipControl 1	1	Completed: Downstack from BenchCel - 1.Stacker 1	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:41 PM	Event			tips2 1		Process finishing	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:41 PM	Event			emptytips3 1		After 11 minutes 13 seconds...	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:41 PM	Event	Bravo - 1	8	emptytips3 1	1	Place plate at Bravo - 1 8	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:41 PM	Event			emptytips3 1		After 11 minutes 13 seconds...	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:41 PM	Event	Bravo - 1	8	emptytips3 1	1	Completed: Place plate at Bravo - 1 8	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:41 PM	Event			TipControl 1		After 11 minutes 13 seconds...	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:41 PM	Event	Bravo - 1	2	TipControl 1	2	Place plate at Bravo - 1 2	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:41 PM	Event			TipControl 1		After 11 minutes 13 seconds...	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:41 PM	Event	BenchCel - 1		TipControl 1		Move plate from BenchCel - 1 Stacker 1, teachpoint Stacker 1 to Bravo - 1 3, teachpoint Bravo3			1	
+02-Nov-17 1:21:41 PM	Event	BenchCel - 1	Stacker 1			The stack is empty			1	
+02-Nov-17 1:21:41 PM	Event			TipControl 1		After 11 minutes 19 seconds...	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:41 PM	Event	BenchCel - 1		TipControl 1		Finished moving plate from BenchCel - 1 Stacker 1, teachpoint Stacker 1 to Bravo - 1 3, teachpoint Bravo3			1	
+02-Nov-17 1:21:41 PM	Event			TipControl 1		After 11 minutes 19 seconds...	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:41 PM	Event	Bravo - 1		TipControl 1		Move plate from Bravo - 1 3, teachpoint 3 to Bravo - 1 2, teachpoint 2			1	
+02-Nov-17 1:21:41 PM	Event			TipControl 1		After 11 minutes 29 seconds...	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:41 PM	Event	Bravo - 1		TipControl 1		Finished moving plate from Bravo - 1 3, teachpoint 3 to Bravo - 1 2, teachpoint 2			1	
+02-Nov-17 1:21:41 PM	Event			TipControl 1		After 11 minutes 29 seconds...	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:41 PM	Event	Bravo - 1	2	TipControl 1	2	Completed: Place plate at Bravo - 1 2	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:41 PM	Script					Spawning new tipbox for tips3.			1	
+02-Nov-17 1:21:41 PM	Event			TipControl 1		After 11 minutes 29 seconds...	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:42 PM	Event			TipControl 1	5	Spawn tips3	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:42 PM	Event			TipControl 1		After 11 minutes 29 seconds...	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:42 PM	Event			TipControl 1	5	Completed: Spawn tips3	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:42 PM	Event			tips3 1		Process starting, north barcode: No bar code, east barcode: No bar code, south barcode: No bar code, west barcode: No bar code	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:42 PM	Event			TipControl 1		Process finishing	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:42 PM	Event			tips3 1		After 11 minutes 29 seconds...	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:42 PM	Event	Bravo - 1	2	tips3 1	1	Place plate at Bravo - 1 2	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:42 PM	Event			tips3 1		After 11 minutes 29 seconds...	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:42 PM	Event	Bravo - 1	2	tips3 1	1	Completed: Place plate at Bravo - 1 2	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:42 PM	Event			MixBeadswithRNA 1		After 11 minutes 29 seconds...	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:42 PM	Event	Bravo - 1	5	MixBeadswithRNA 1	1	Begin task group	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:42 PM	Event	Bravo - 1	6	MixBeadswithRNA 1	1	Begin task group	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:42 PM	Event	Bravo - 1	8	MixBeadswithRNA 1	1	Begin task group	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:42 PM	Event	Bravo - 1	2	MixBeadswithRNA 1	1	Begin task group	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:42 PM	Event			MixBeadswithRNA 1		After 11 minutes 29 seconds...	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:42 PM	Event	Bravo - 1	5	MixBeadswithRNA 1	1	Completed: Begin task group	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:42 PM	Event	Bravo - 1	6	MixBeadswithRNA 1	1	Completed: Begin task group	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:42 PM	Event	Bravo - 1	8	MixBeadswithRNA 1	1	Completed: Begin task group	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:42 PM	Event	Bravo - 1	2	MixBeadswithRNA 1	1	Completed: Begin task group	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:42 PM	Script					The head mode is 3,3,8,6			1	
+02-Nov-17 1:21:42 PM	Event			MixBeadswithRNA 1		After 11 minutes 29 seconds...	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:43 PM	Event	Bravo - 1	Default Location	MixBeadswithRNA 1	2	Set head mode to 8 rows: A-H, 6 columns: 1-6	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:43 PM	Event			MixBeadswithRNA 1		After 11 minutes 29 seconds...	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:43 PM	Event	Bravo - 1	Default Location	MixBeadswithRNA 1	2	Completed: Set head mode to 8 rows: A-H, 6 columns: 1-6	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:43 PM	Script					Pressing tips on at 1,7			1	
+02-Nov-17 1:21:43 PM	Event			MixBeadswithRNA 1		After 11 minutes 29 seconds...	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:43 PM	Event	Bravo - 1	2	MixBeadswithRNA 1	3	Tips On in 1 selection(s) from tips3 1	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:43 PM	Event			MixBeadswithRNA 1		After 11 minutes 37 seconds...	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:43 PM	Event	Bravo - 1	2	MixBeadswithRNA 1	3	Completed: Tips On in 1 selection(s) from tips3 1	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:43 PM	Script					The number of columns taken from the new tip box is 6 columns.			1	
+02-Nov-17 1:21:43 PM	Event			MixBeadswithRNA 1		After 11 minutes 37 seconds...	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:43 PM	Event			MixBeadswithRNA 1	4	JavaScript	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:43 PM	Event			MixBeadswithRNA 1		After 11 minutes 37 seconds...	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:43 PM	Event			MixBeadswithRNA 1	4	Completed: JavaScript	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:43 PM	Event			MixBeadswithRNA 1		After 11 minutes 37 seconds...	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:44 PM	Event	Bravo - 1	5	MixBeadswithRNA 1	5	Aspirate 20 킠 in 1 selection(s) from Mixing plate 1	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:44 PM	Event			MixBeadswithRNA 1		After 11 minutes 50 seconds...	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:44 PM	Event	Bravo - 1	5	MixBeadswithRNA 1	5	Completed: Aspirate 20 킠 in 1 selection(s) from Mixing plate 1	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:44 PM	Event			MixBeadswithRNA 1		After 11 minutes 50 seconds...	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:44 PM	Event	Bravo - 1	6	MixBeadswithRNA 1	6	Dispense contents of tips in 1 selection(s) to RNARemovalBeads 1	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:44 PM	Event			MixBeadswithRNA 1		After 12 minutes 2 seconds...	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:44 PM	Event	Bravo - 1	6	MixBeadswithRNA 1	6	Completed: Dispense contents of tips in 1 selection(s) to RNARemovalBeads 1	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:44 PM	Event			MixBeadswithRNA 1		After 12 minutes 2 seconds...	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:44 PM	Event	Bravo - 1	6	MixBeadswithRNA 1	7	Mix 45 킠 (pre-aspirate 2 킠) in 1 selection(s) from RNARemovalBeads 1	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:44 PM	Event			MixBeadswithRNA 1		After 15 minutes 7 seconds...	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:44 PM	Event	Bravo - 1	6	MixBeadswithRNA 1	7	Completed: Mix 45 킠 (pre-aspirate 2 킠) in 1 selection(s) from RNARemovalBeads 1	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:44 PM	Script					Taking tips off at 1,7			1	
+02-Nov-17 1:21:44 PM	Event			MixBeadswithRNA 1		After 15 minutes 7 seconds...	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:44 PM	Event	Bravo - 1	8	MixBeadswithRNA 1	8	Tips Off in 1 selection(s) from emptytips3 1	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:44 PM	Event			MixBeadswithRNA 1		After 15 minutes 14 seconds...	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:44 PM	Event	Bravo - 1	8	MixBeadswithRNA 1	8	Completed: Tips Off in 1 selection(s) from emptytips3 1	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:45 PM	Script					The number of columns placed in the used tip box is 6 columns.			1	
+02-Nov-17 1:21:45 PM	Event			MixBeadswithRNA 1		After 15 minutes 14 seconds...	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:45 PM	Event			MixBeadswithRNA 1	9	JavaScript	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:45 PM	Event			MixBeadswithRNA 1		After 15 minutes 14 seconds...	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:45 PM	Event			MixBeadswithRNA 1	9	Completed: JavaScript	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:45 PM	Event			MixBeadswithRNA 1		After 15 minutes 14 seconds...	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:45 PM	Event			MixBeadswithRNA 1	10	End task group	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:45 PM	Event			MixBeadswithRNA 1		After 15 minutes 14 seconds...	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:45 PM	Event			MixBeadswithRNA 1	10	Completed: End task group	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:45 PM	Event			MixBeadswithRNA 1		Process finishing	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:45 PM	Event			Mixing plate 1		After 15 minutes 14 seconds...	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:45 PM	Event	Agilent Labware MiniHub - 1	Cassette 1, slot 4	Mixing plate 1	7	Load into plate storage device	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:45 PM	Event			Mixing plate 1		After 15 minutes 14 seconds...	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:45 PM	Event	Bravo - 1		Mixing plate 1		Move plate from Bravo - 1 5, teachpoint 5 to Bravo - 1 3, teachpoint 3			1	
+02-Nov-17 1:21:45 PM	Event			Mixing plate 1		After 15 minutes 24 seconds...	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:45 PM	Event	Bravo - 1		Mixing plate 1		Finished moving plate from Bravo - 1 5, teachpoint 5 to Bravo - 1 3, teachpoint 3			1	
+02-Nov-17 1:21:45 PM	Event			Mixing plate 1		After 15 minutes 24 seconds...	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:45 PM	Event	BenchCel - 1		Mixing plate 1		Move plate from Bravo - 1 3, teachpoint Bravo3 to Agilent Labware MiniHub - 1 Cassette 1, Slot 4, teachpoint MiniHub04			1	
+02-Nov-17 1:21:45 PM	Event			Mixing plate 1		After 15 minutes 30 seconds...	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:45 PM	Event	BenchCel - 1		Mixing plate 1		Finished moving plate from Bravo - 1 3, teachpoint Bravo3 to Agilent Labware MiniHub - 1 Cassette 1, Slot 4, teachpoint MiniHub04			1	
+02-Nov-17 1:21:46 PM	Event	Agilent Labware MiniHub - 1		Mixing plate 1	7	Agilent Labware MiniHub - 1 Load the plate from Cassette 1, Slot 4 into Location : cassette 1, slot 4	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:46 PM	Event			Mixing plate 1		After 15 minutes 30 seconds...	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:46 PM	Event	Agilent Labware MiniHub - 1	Cassette 1, slot 4	Mixing plate 1	7	Completed: Load into plate storage device	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:46 PM	Event			RNARemovalBeads 1		After 15 minutes 14 seconds...	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:46 PM	Event	Bravo - 1	5	RNARemovalBeads 1	4	Incubate for 1 minute	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:46 PM	Event			Mixing plate 1		Process finishing	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:46 PM	Event			RNARemovalBeads 1		After 15 minutes 24 seconds...	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:46 PM	Event	Bravo - 1		RNARemovalBeads 1		Move plate from Bravo - 1 6, teachpoint 6 to Bravo - 1 5, teachpoint 5			1	
+02-Nov-17 1:21:46 PM	Event			RNARemovalBeads 1		After 15 minutes 34 seconds...	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:46 PM	Event	Bravo - 1		RNARemovalBeads 1		Finished moving plate from Bravo - 1 6, teachpoint 6 to Bravo - 1 5, teachpoint 5			1	
+02-Nov-17 1:21:46 PM	Event			RNARemovalBeads 1		After 16 minutes 34 seconds...	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:46 PM	Event	Bravo - 1	5	RNARemovalBeads 1	4	Completed: Incubate for 1 minute	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:46 PM	Event			emptytips3 1		After 15 minutes 34 seconds...	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:46 PM	Event	Bravo - 1	8	emptytips3 1	3	Place plate at Bravo - 1 8	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:46 PM	Event			emptytips3 1		After 15 minutes 34 seconds...	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:46 PM	Event	Bravo - 1	8	emptytips3 1	3	Completed: Place plate at Bravo - 1 8	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:46 PM	Event			tips3 1		After 15 minutes 34 seconds...	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:46 PM	Event	Bravo - 1	2	tips3 1	3	Place plate at Bravo - 1 2	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:46 PM	Event			tips3 1		After 15 minutes 34 seconds...	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:46 PM	Event	Bravo - 1	2	tips3 1	3	Completed: Place plate at Bravo - 1 2	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:46 PM	Script					emptytips3 1 Used tip box is not full.			1	
+02-Nov-17 1:21:46 PM	Script					Tip box is not full so it will move to next subprocess.			1	
+02-Nov-17 1:21:46 PM	Event			emptytips3 1		After 15 minutes 34 seconds...	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:47 PM	Event			emptytips3 1	4	Spawn emptytips4	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:47 PM	Event			emptytips3 1		After 15 minutes 34 seconds...	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:47 PM	Event			emptytips3 1	4	Completed: Spawn emptytips4	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:47 PM	Event			emptytips4 1		Process starting, north barcode: No bar code, east barcode: No bar code, south barcode: No bar code, west barcode: No bar code	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:47 PM	Script					tips3 1 Tip box is not empty.			1	
+02-Nov-17 1:21:47 PM	Event			tips3 1		After 15 minutes 34 seconds...	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:47 PM	Event			tips3 1	4	Spawn tips4	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:47 PM	Event			tips3 1		After 15 minutes 34 seconds...	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:47 PM	Event			tips3 1	4	Completed: Spawn tips4	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:47 PM	Event			tips4 1		Process starting, north barcode: No bar code, east barcode: No bar code, south barcode: No bar code, west barcode: No bar code	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:47 PM	Script					emptytips3 1 Used tip box is not full.			1	
+02-Nov-17 1:21:47 PM	Script					Tip box still has space.			1	
+02-Nov-17 1:21:47 PM	Event			emptytips3 1		Process finishing	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:47 PM	Event			emptytips4 1		After 15 minutes 34 seconds...	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:47 PM	Event	Bravo - 1	8	emptytips4 1	1	Place plate at Bravo - 1 8	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:47 PM	Event			emptytips4 1		After 15 minutes 34 seconds...	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:47 PM	Event	Bravo - 1	8	emptytips4 1	1	Completed: Place plate at Bravo - 1 8	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:47 PM	Script					tips3 1 Tip box is not empty.			1	
+02-Nov-17 1:21:47 PM	Script					tips3 1 Tip box is not empty.			1	
+02-Nov-17 1:21:48 PM	Script					tips3 1 Tip box is not empty.			1	
+02-Nov-17 1:21:48 PM	Event			tips3 1		Process finishing	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:48 PM	Event			tips4 1		After 15 minutes 34 seconds...	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:48 PM	Event	Bravo - 1	2	tips4 1	1	Place plate at Bravo - 1 2	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:48 PM	Event			tips4 1		After 15 minutes 34 seconds...	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:48 PM	Event	Bravo - 1	2	tips4 1	1	Completed: Place plate at Bravo - 1 2	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:48 PM	Event			RNARemovalBeads 1		After 16 minutes 34 seconds...	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:48 PM	Event	Bravo - 1	7	RNARemovalBeads 1	5	Place plate at Bravo - 1 7	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:48 PM	Event			RNARemovalBeads 1		After 16 minutes 34 seconds...	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:48 PM	Event	Bravo - 1		RNARemovalBeads 1		Move plate from Bravo - 1 5, teachpoint 5 to Bravo - 1 7, teachpoint 7			1	
+02-Nov-17 1:21:48 PM	Event			RNARemovalBeads 1		After 16 minutes 44 seconds...	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:48 PM	Event	Bravo - 1		RNARemovalBeads 1		Finished moving plate from Bravo - 1 5, teachpoint 5 to Bravo - 1 7, teachpoint 7			1	
+02-Nov-17 1:21:48 PM	Event			RNARemovalBeads 1		After 16 minutes 44 seconds...	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:48 PM	Event	Bravo - 1	7	RNARemovalBeads 1	5	Completed: Place plate at Bravo - 1 7	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:48 PM	Event			RNARemovalBeads 1		After 16 minutes 44 seconds...	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:48 PM	Event	Bravo - 1	7	RNARemovalBeads 1	6	Incubate for 1 minute	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:48 PM	Event			RNARemovalBeads 1		After 17 minutes 44 seconds...	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:48 PM	Event	Bravo - 1	7	RNARemovalBeads 1	6	Completed: Incubate for 1 minute	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:49 PM	Event			TransfertSupernatant 1		After 17 minutes 44 seconds...	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:49 PM	Event	Bravo - 1	7	TransfertSupernatant 1	1	Begin task group	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:49 PM	Event	Bravo - 1	4	TransfertSupernatant 1	1	Begin task group	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:49 PM	Event	Bravo - 1	8	TransfertSupernatant 1	1	Begin task group	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:49 PM	Event	Bravo - 1	2	TransfertSupernatant 1	1	Begin task group	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:49 PM	Event			TransfertSupernatant 1		After 17 minutes 44 seconds...	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:49 PM	Event	Bravo - 1	7	TransfertSupernatant 1	1	Completed: Begin task group	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:49 PM	Event	Bravo - 1	4	TransfertSupernatant 1	1	Completed: Begin task group	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:49 PM	Event	Bravo - 1	8	TransfertSupernatant 1	1	Completed: Begin task group	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:49 PM	Event	Bravo - 1	2	TransfertSupernatant 1	1	Completed: Begin task group	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:49 PM	Script					The head mode is 3,3,8,6			1	
+02-Nov-17 1:21:49 PM	Event			TransfertSupernatant 1		After 17 minutes 44 seconds...	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:49 PM	Event	Bravo - 1	Default Location	TransfertSupernatant 1	2	Set head mode to 8 rows: A-H, 6 columns: 1-6	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:49 PM	Event			TransfertSupernatant 1		After 17 minutes 44 seconds...	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:49 PM	Event	Bravo - 1	Default Location	TransfertSupernatant 1	2	Completed: Set head mode to 8 rows: A-H, 6 columns: 1-6	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:49 PM	Script					Pressing tips on at 1,1			1	
+02-Nov-17 1:21:49 PM	Event			TransfertSupernatant 1		After 17 minutes 44 seconds...	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:49 PM	Event	Bravo - 1	2	TransfertSupernatant 1	3	Tips On in 1 selection(s) from tips4 1	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:49 PM	Event			TransfertSupernatant 1		After 17 minutes 52 seconds...	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:49 PM	Event	Bravo - 1	2	TransfertSupernatant 1	3	Completed: Tips On in 1 selection(s) from tips4 1	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:50 PM	Script					The number of columns taken from the new tip box is 12 columns.			1	
+02-Nov-17 1:21:50 PM	Event			TransfertSupernatant 1		After 17 minutes 52 seconds...	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:50 PM	Event			TransfertSupernatant 1	4	JavaScript	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:50 PM	Event			TransfertSupernatant 1		After 17 minutes 52 seconds...	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:50 PM	Event			TransfertSupernatant 1	4	Completed: JavaScript	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:50 PM	Event			TransfertSupernatant 1		After 17 minutes 52 seconds...	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:50 PM	Event	Bravo - 1	7	TransfertSupernatant 1	5	Aspirate 52.5 킠 (pre-aspirate 5 킠) in 1 selection(s) from RNARemovalBeads 1	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:50 PM	Event			TransfertSupernatant 1		After 18 minutes 11 seconds...	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:50 PM	Event	Bravo - 1	7	TransfertSupernatant 1	5	Completed: Aspirate 52.5 킠 (pre-aspirate 5 킠) in 1 selection(s) from RNARemovalBeads 1	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:50 PM	Event			TransfertSupernatant 1		After 18 minutes 11 seconds...	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:50 PM	Event	Bravo - 1	4	TransfertSupernatant 1	6	Dispense contents of tips in 1 selection(s) to SupernatantReceivingPlate 1	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:50 PM	Event			TransfertSupernatant 1		After 18 minutes 32 seconds...	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:50 PM	Event	Bravo - 1	4	TransfertSupernatant 1	6	Completed: Dispense contents of tips in 1 selection(s) to SupernatantReceivingPlate 1	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:50 PM	Script					Taking tips off at 1,1			1	
+02-Nov-17 1:21:50 PM	Event			TransfertSupernatant 1		After 18 minutes 32 seconds...	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:51 PM	Event	Bravo - 1	8	TransfertSupernatant 1	7	Tips Off in 1 selection(s) from emptytips4 1	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:51 PM	Event			TransfertSupernatant 1		After 18 minutes 39 seconds...	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:51 PM	Event	Bravo - 1	8	TransfertSupernatant 1	7	Completed: Tips Off in 1 selection(s) from emptytips4 1	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:51 PM	Script					The number of columns placed in the used tip box is 12 columns.			1	
+02-Nov-17 1:21:51 PM	Event			TransfertSupernatant 1		After 18 minutes 39 seconds...	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:51 PM	Event			TransfertSupernatant 1	8	JavaScript	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:51 PM	Event			TransfertSupernatant 1		After 18 minutes 39 seconds...	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:51 PM	Event			TransfertSupernatant 1	8	Completed: JavaScript	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:51 PM	Event			TransfertSupernatant 1		After 18 minutes 39 seconds...	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:51 PM	Event			TransfertSupernatant 1	9	End task group	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:51 PM	Event			TransfertSupernatant 1		After 18 minutes 39 seconds...	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:51 PM	Event			TransfertSupernatant 1	9	Completed: End task group	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:51 PM	Event			TransfertSupernatant 1		Process finishing	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:51 PM	Event			RNARemovalBeads 1		After 18 minutes 39 seconds...	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:51 PM	Event	Agilent Labware MiniHub - 1	Cassette 1, slot 2	RNARemovalBeads 1	8	Load into plate storage device	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:51 PM	Event			RNARemovalBeads 1		After 18 minutes 39 seconds...	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:51 PM	Event	Bravo - 1		RNARemovalBeads 1		Move plate from Bravo - 1 7, teachpoint 7 to Bravo - 1 3, teachpoint 3			1	
+02-Nov-17 1:21:51 PM	Event			RNARemovalBeads 1		After 18 minutes 49 seconds...	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:51 PM	Event	Bravo - 1		RNARemovalBeads 1		Finished moving plate from Bravo - 1 7, teachpoint 7 to Bravo - 1 3, teachpoint 3			1	
+02-Nov-17 1:21:51 PM	Event			RNARemovalBeads 1		After 18 minutes 49 seconds...	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:52 PM	Event	BenchCel - 1		RNARemovalBeads 1		Move plate from Bravo - 1 3, teachpoint Bravo3 to Agilent Labware MiniHub - 1 Cassette 1, Slot 2, teachpoint MiniHub02			1	
+02-Nov-17 1:21:52 PM	Event			RNARemovalBeads 1		After 18 minutes 55 seconds...	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:52 PM	Event	BenchCel - 1		RNARemovalBeads 1		Finished moving plate from Bravo - 1 3, teachpoint Bravo3 to Agilent Labware MiniHub - 1 Cassette 1, Slot 2, teachpoint MiniHub02			1	
+02-Nov-17 1:21:52 PM	Event	Agilent Labware MiniHub - 1		RNARemovalBeads 1	8	Agilent Labware MiniHub - 1 Load the plate from Cassette 1, Slot 2 into Location : cassette 1, slot 2	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:52 PM	Event			RNARemovalBeads 1		After 18 minutes 55 seconds...	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:52 PM	Event	Agilent Labware MiniHub - 1	Cassette 1, slot 2	RNARemovalBeads 1	8	Completed: Load into plate storage device	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:52 PM	Event			RNARemovalBeads 1		Process finishing	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:52 PM	Event			SupernatantReceivingPlate 1		After 18 minutes 49 seconds...	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:52 PM	Event	Bravo - 1	7	SupernatantReceivingPlate 1	3	Place plate at Bravo - 1 7	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:52 PM	Event			SupernatantReceivingPlate 1		After 18 minutes 49 seconds...	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:52 PM	Event	Bravo - 1		SupernatantReceivingPlate 1		Move plate from Bravo - 1 4, teachpoint 4 to Bravo - 1 7, teachpoint 7			1	
+02-Nov-17 1:21:52 PM	Event			SupernatantReceivingPlate 1		After 18 minutes 59 seconds...	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:52 PM	Event	Bravo - 1		SupernatantReceivingPlate 1		Finished moving plate from Bravo - 1 4, teachpoint 4 to Bravo - 1 7, teachpoint 7			1	
+02-Nov-17 1:21:52 PM	Event			SupernatantReceivingPlate 1		After 18 minutes 59 seconds...	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:52 PM	Event	Bravo - 1	7	SupernatantReceivingPlate 1	3	Completed: Place plate at Bravo - 1 7	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:52 PM	Event			SupernatantReceivingPlate 1		Process finishing	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:52 PM	Event			emptytips4 1		After 18 minutes 59 seconds...	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:52 PM	Event	Bravo - 1	8	emptytips4 1	3	Place plate at Bravo - 1 8	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:52 PM	Event			emptytips4 1		After 18 minutes 59 seconds...	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:52 PM	Event	Bravo - 1	8	emptytips4 1	3	Completed: Place plate at Bravo - 1 8	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:52 PM	Event			tips4 1		After 18 minutes 59 seconds...	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:52 PM	Event	Bravo - 1	2	tips4 1	3	Place plate at Bravo - 1 2	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:52 PM	Event			tips4 1		After 18 minutes 59 seconds...	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:52 PM	Event	Bravo - 1	2	tips4 1	3	Completed: Place plate at Bravo - 1 2	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:53 PM	Script					emptytips4 1 Used tip box is full.			1	
+02-Nov-17 1:21:53 PM	Script					Upstacking emptytips4 1			1	
+02-Nov-17 1:21:53 PM	Event			emptytips4 1		After 18 minutes 59 seconds...	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:53 PM	Event			emptytips4 1	4	Spawn UsedTipUpStack	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:53 PM	Event			emptytips4 1		After 18 minutes 59 seconds...	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:53 PM	Event			emptytips4 1	4	Completed: Spawn UsedTipUpStack	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:53 PM	Event			UsedTipUpStack 2		Process starting, north barcode: No bar code, east barcode: No bar code, south barcode: No bar code, west barcode: No bar code	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:53 PM	Script					need_tips 1			1	
+02-Nov-17 1:21:53 PM	Script					need_tips 1			1	
+02-Nov-17 1:21:53 PM	Script					need_tips 1			1	
+02-Nov-17 1:21:53 PM	Script					tips4 1 Tip box empty.			1	
+02-Nov-17 1:21:53 PM	Script					Tip box is empty.  Storing tips4 1 in miniplatehub Cassette 4 slot 1			1	
+02-Nov-17 1:21:53 PM	Script					need_tips 1			1	
+02-Nov-17 1:21:53 PM	Script					need_tips 1			1	
+02-Nov-17 1:21:53 PM	Script					need_tips 1			1	
+02-Nov-17 1:21:53 PM	Event			emptytips4 1		Process finishing	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:53 PM	Event			UsedTipUpStack 2		After 18 minutes 59 seconds...	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:53 PM	Event	Bravo - 1	8	UsedTipUpStack 2	1	Place plate at Bravo - 1 8	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:53 PM	Event			UsedTipUpStack 2		After 18 minutes 59 seconds...	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:53 PM	Event	Bravo - 1	8	UsedTipUpStack 2	1	Completed: Place plate at Bravo - 1 8	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:54 PM	Script					Upstacking used tip box to Stacker 4.			1	
+02-Nov-17 1:21:54 PM	Event			UsedTipUpStack 2		After 18 minutes 59 seconds...	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:54 PM	Event			UsedTipUpStack 2	3	Spawn Upstack 4	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:54 PM	Event			UsedTipUpStack 2		After 18 minutes 59 seconds...	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:54 PM	Event			UsedTipUpStack 2	3	Completed: Spawn Upstack 4	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:54 PM	Event			Upstack 4 1		Process starting, north barcode: No bar code, east barcode: No bar code, south barcode: No bar code, west barcode: No bar code	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:54 PM	Event			UsedTipUpStack 2		Process finishing	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:54 PM	Event			Upstack 4 1		After 18 minutes 59 seconds...	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:54 PM	Event	Bravo - 1	8	Upstack 4 1	1	Place plate at Bravo - 1 8	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:54 PM	Event			Upstack 4 1		After 18 minutes 59 seconds...	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:54 PM	Event	Bravo - 1	8	Upstack 4 1	1	Completed: Place plate at Bravo - 1 8	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:54 PM	Event			Upstack 4 1		After 18 minutes 59 seconds...	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:54 PM	Event	BenchCel - 1	Stacker 4	Upstack 4 1	2	Upstack to BenchCel - 1.Stacker 4	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:54 PM	Event			Upstack 4 1		After 18 minutes 59 seconds...	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:54 PM	Event	Bravo - 1		Upstack 4 1		Move plate from Bravo - 1 8, teachpoint 8 to Bravo - 1 3, teachpoint 3			1	
+02-Nov-17 1:21:54 PM	Event			Upstack 4 1		After 19 minutes 9 seconds...	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:54 PM	Event	Bravo - 1		Upstack 4 1		Finished moving plate from Bravo - 1 8, teachpoint 8 to Bravo - 1 3, teachpoint 3			1	
+02-Nov-17 1:21:54 PM	Event			Upstack 4 1		After 19 minutes 9 seconds...	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:54 PM	Event	BenchCel - 1		Upstack 4 1		Move plate from Bravo - 1 3, teachpoint Bravo3 to BenchCel - 1 Stacker 4, teachpoint Stacker 4			1	
+02-Nov-17 1:21:55 PM	Event			Upstack 4 1		After 19 minutes 15 seconds...	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:55 PM	Event	BenchCel - 1		Upstack 4 1		Finished moving plate from Bravo - 1 3, teachpoint Bravo3 to BenchCel - 1 Stacker 4, teachpoint Stacker 4			1	
+02-Nov-17 1:21:55 PM	Event			Upstack 4 1		After 19 minutes 15 seconds...	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:55 PM	Event	BenchCel - 1	Stacker 4	Upstack 4 1	2	Completed: Upstack to BenchCel - 1.Stacker 4	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:55 PM	Event			Upstack 4 1		Process finishing	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:55 PM	Event			tips4 1		After 19 minutes 9 seconds...	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:55 PM	Event	Bravo - 1	8	tips4 1	4	Place plate at Bravo - 1 8	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:55 PM	Event			tips4 1		After 19 minutes 9 seconds...	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:55 PM	Event	Bravo - 1		tips4 1		Move plate from Bravo - 1 2, teachpoint 2 to Bravo - 1 8, teachpoint 8			1	
+02-Nov-17 1:21:55 PM	Event			tips4 1		After 19 minutes 19 seconds...	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:55 PM	Event	Bravo - 1		tips4 1		Finished moving plate from Bravo - 1 2, teachpoint 2 to Bravo - 1 8, teachpoint 8			1	
+02-Nov-17 1:21:55 PM	Event			tips4 1		After 19 minutes 19 seconds...	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:55 PM	Event	Bravo - 1	8	tips4 1	4	Completed: Place plate at Bravo - 1 8	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:55 PM	Event			tips4 1		Process finishing	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:55 PM	Event					Cleanup protocol starting	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:55 PM	Event					Main protocol complete	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:55 PM	Event			cleanup process - 1 1		Process starting, north barcode: No bar code, east barcode: No bar code, south barcode: No bar code, west barcode: No bar code	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:55 PM	Event			cleanup process - 1 1		After 19 minutes 19 seconds...	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:55 PM	Event			cleanup process - 1 1	3	JavaScript	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:55 PM	Event			cleanup process - 1 1		After 19 minutes 19 seconds...	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:56 PM	Event			cleanup process - 1 1	3	Completed: JavaScript	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:56 PM	Script					mastermix_col 1			1	
+02-Nov-17 1:21:56 PM	Script					need_tips 1			1	
+02-Nov-17 1:21:56 PM	Script					 col 12			1	
+02-Nov-17 1:21:56 PM	Script					used_col 0			1	
+02-Nov-17 1:21:56 PM	Script					Nunc 1			1	
+02-Nov-17 1:21:56 PM	Script					head_mode 3,3,8,6			1	
+02-Nov-17 1:21:56 PM	Script					 columns_samples 6			1	
+02-Nov-17 1:21:56 PM	Script					tips_on_loc 1			1	
+02-Nov-17 1:21:56 PM	Script					tips_off_loc 13			1	
+02-Nov-17 1:21:56 PM	Script					Collection 2			1	
+02-Nov-17 1:21:56 PM	Script					 DNA_plate 1			1	
+02-Nov-17 1:21:56 PM	Script					spri_case 0			1	
+02-Nov-17 1:21:56 PM	Script					protocol_testing undefined			1	
+02-Nov-17 1:21:56 PM	Script					T_plate undefined			1	
+02-Nov-17 1:21:56 PM	Event			cleanup process - 1 1		After 19 minutes 19 seconds...	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:56 PM	Event			cleanup process - 1 1	4	JavaScript	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:56 PM	Event			cleanup process - 1 1		After 19 minutes 19 seconds...	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:56 PM	Event			cleanup process - 1 1	4	Completed: JavaScript	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:56 PM	Event			cleanup process - 1 1		Process finishing	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:56 PM	Info					Total simulation time: 19 minutes 19 seconds.	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:56 PM	Event					Cleanup protocol complete	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:57 PM	Event			SupernatantReceivingPlate 1		Process finishing	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:21:57 PM	Event			tips4 1		Process finishing	1_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:24:23 PM	Info					File loaded	2_RNAcleanXPbeads_RNADepletionEucaryotes	C:\VWorks Workspace\Protocol Files\RNADepletion\2_RNAcleanXPbeads_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:24:42 PM	Info					Compile protocol			1	
+02-Nov-17 1:24:47 PM	Warning			Ethanol Reservoir	1	No plate to unload from the device Agilent Labware MiniHub - 1 location : cassette 2, slot 1		2_RNAcleanXPbeads_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:24:47 PM	Warning			Ethanol Reservoir	1	There aren't any available plates for the unload task to unload		2_RNAcleanXPbeads_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:24:47 PM	Warning			Resuspension buffer	1	No plate to unload from the device Agilent Labware MiniHub - 1 location : cassette 2, slot 2		2_RNAcleanXPbeads_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:24:47 PM	Warning			Resuspension buffer	1	There aren't any available plates for the unload task to unload		2_RNAcleanXPbeads_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:24:47 PM	Warning			RNAXPBeads reservoir	1	No plate to unload from the device Agilent Labware MiniHub - 1 location : cassette 3, slot 2		2_RNAcleanXPbeads_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:24:47 PM	Warning			RNAXPBeads reservoir	1	There aren't any available plates for the unload task to unload		2_RNAcleanXPbeads_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:24:47 PM	Warning			RNA XP Cleanup 1	1	No plate to unload from the device Agilent Labware MiniHub - 1 location : cassette 1, slot 5		2_RNAcleanXPbeads_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:24:47 PM	Warning			RNA XP Cleanup 1	1	There aren't any available plates for the unload task to unload		2_RNAcleanXPbeads_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:24:47 PM	Warning			Sample Collection Plate	1	No plate to unload from the device Agilent Labware MiniHub - 1 location : cassette 2, slot 3		2_RNAcleanXPbeads_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:24:47 PM	Warning			Sample Collection Plate	1	There aren't any available plates for the unload task to unload		2_RNAcleanXPbeads_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:24:47 PM	Info					Compile complete with 0 errors and 10 warnings			1	
+02-Nov-17 1:27:43 PM	Info					File unloaded		C:\VWorks Workspace\Protocol Files\RNADepletion\2_RNAcleanXPbeads_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:27:44 PM	Info					File unloaded		C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	1	
+02-Nov-17 1:27:44 PM	Info					File unloaded		C:\VWorks Workspace\Device Files\TruSeq\TruSeq RNA_DNA Sample Prep_v1.0\BravoMiniPHBenchCel_round_magnet_RED_insert.dev	1	
+02-Nov-17 1:27:57 PM	Info					administrator logged out. Session 1 closed			1	
+02-Nov-17 1:28:10 PM	Info					administrator logged in			2	
+02-Nov-17 1:28:12 PM	Info					Simulation mode toggled off			2	
+02-Nov-17 1:28:15 PM	Info					File unloaded		C:\VWorks Workspace\Forms\SCELSE\Working Program\TruSeqRNA_StrandSpecific.VWForm	2	
+02-Nov-17 1:28:15 PM	Info					administrator logged out. Session 2 closed			2	
+02-Nov-17 1:28:15 PM	Info					System Shutdown			0	

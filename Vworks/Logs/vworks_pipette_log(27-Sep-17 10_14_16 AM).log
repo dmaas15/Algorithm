@@ -1,0 +1,23 @@
+27-Sep-17 10:15:54 AM	Event	1						Main protocol starting	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	
+27-Sep-17 10:18:28 AM	Transfer	1	20	Elution Plate 1	A1	DNA Plate 1	A1		C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	
+27-Sep-17 10:22:56 AM	Transfer	1	30	Master Mix Plate 1	Column 4	Reaction Plate 1	Column 1		C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	
+27-Sep-17 10:23:31 AM	Event	1						Main protocol complete	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	
+27-Sep-17 10:49:55 AM	Event	1						Main protocol starting	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	
+27-Sep-17 10:52:26 AM	Transfer	1	20	Elution Plate 1	A1	DNA Plate 1	A1		C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	
+27-Sep-17 10:57:09 AM	Transfer	1	30	Master Mix Plate 1	Column 4	Reaction Plate 1	Column 1		C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	
+27-Sep-17 10:57:50 AM	Event	1						Main protocol complete	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\7a_Elution.pro	
+27-Sep-17 1:41:14 PM	Event	2						Main protocol starting	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\InProgress3_Elution1_Accel_NGS_2S_DNA_v1.0.pro	
+27-Sep-17 1:44:25 PM	Transfer	2	20	Elution Plate 1	A1	DNA Plate 1	A1		C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\InProgress3_Elution1_Accel_NGS_2S_DNA_v1.0.pro	
+27-Sep-17 1:46:15 PM	Event	2						Main protocol complete	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\InProgress3_Elution1_Accel_NGS_2S_DNA_v1.0.pro	
+27-Sep-17 1:46:57 PM	Event	2						Main protocol starting	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\InProgress3_Repair2_Accel_NGS_2S_DNA_v1.0.pro	
+27-Sep-17 1:47:33 PM	Event	2						Main protocol aborted by user	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\InProgress3_Repair2_Accel_NGS_2S_DNA_v1.0.pro	
+27-Sep-17 1:47:35 PM	Event	2						Main protocol aborted by user	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\InProgress3_Repair2_Accel_NGS_2S_DNA_v1.0.pro	
+27-Sep-17 2:03:27 PM	Event	2						Main protocol starting	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\InProgress3_Repair2_Accel_NGS_2S_DNA_v1.0.pro	
+27-Sep-17 2:05:49 PM	Event	2						Main protocol aborted by user	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\InProgress3_Repair2_Accel_NGS_2S_DNA_v1.0.pro	
+27-Sep-17 2:05:51 PM	Event	2						Main protocol aborted by user	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\InProgress3_Repair2_Accel_NGS_2S_DNA_v1.0.pro	
+27-Sep-17 2:07:52 PM	Event	2						Main protocol starting	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\InProgress3_Repair2_Accel_NGS_2S_DNA_v1.0.pro	
+27-Sep-17 2:09:42 PM	Transfer	2	30	Master Mix Plate 1	Column 2	Reaction Plate 1	Column 1		C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\InProgress3_Repair2_Accel_NGS_2S_DNA_v1.0.pro	
+27-Sep-17 2:13:46 PM	Transfer	2	32	Reaction Plate 1	A1	DNA Plate 1	A1		C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\InProgress3_Repair2_Accel_NGS_2S_DNA_v1.0.pro	
+27-Sep-17 2:16:27 PM	Event	2						Main protocol complete	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\InProgress3_Repair2_Accel_NGS_2S_DNA_v1.0.pro	
+27-Sep-17 2:20:00 PM	Event	2						Main protocol starting	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\1_RepairI_Accel_NGS_2S_DNA_v1.0.pro	
+27-Sep-17 2:20:06 PM	Transfer	2	10	Master Mix Plate 1	Column 1	Reaction Plate 1	Column 1		C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\1_RepairI_Accel_NGS_2S_DNA_v1.0.pro	

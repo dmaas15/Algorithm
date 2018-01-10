@@ -1,0 +1,29 @@
+27-Nov-17 9:18:06 AM	Event	1						Main protocol starting	C:\VWorks Workspace\Protocol Files\visitor demo.pro	
+27-Nov-17 9:20:01 AM	Transfer	1	20	source 1	Column 1	dest1 1	Column 1		C:\VWorks Workspace\Protocol Files\visitor demo.pro	
+27-Nov-17 9:20:39 AM	Transfer	1	20	source 1	Column 7	dest1 1	Column 7		C:\VWorks Workspace\Protocol Files\visitor demo.pro	
+27-Nov-17 9:22:21 AM	Event	1						Main protocol complete	C:\VWorks Workspace\Protocol Files\visitor demo.pro	
+27-Nov-17 9:35:40 AM	Event	1						Main protocol starting	C:\VWorks Workspace\Protocol Files\visitor demo.pro	
+27-Nov-17 9:37:19 AM	Transfer	1	20	source 1	Column 1	dest1 1	Column 1		C:\VWorks Workspace\Protocol Files\visitor demo.pro	
+27-Nov-17 9:37:57 AM	Transfer	1	20	source 1	Column 7	dest1 1	Column 7		C:\VWorks Workspace\Protocol Files\visitor demo.pro	
+27-Nov-17 9:39:29 AM	Event	1						Main protocol complete	C:\VWorks Workspace\Protocol Files\visitor demo.pro	
+27-Nov-17 3:09:36 PM	Event	3						Main protocol starting	C:\VWorks Workspace\Protocol Files\visitor demo_temp.pro	
+27-Nov-17 3:11:15 PM	Transfer	3	20	source 1	Column 1	dest1 1	Column 1		C:\VWorks Workspace\Protocol Files\visitor demo_temp.pro	
+27-Nov-17 3:11:54 PM	Transfer	3	20	source 1	Column 7	dest1 1	Column 7		C:\VWorks Workspace\Protocol Files\visitor demo_temp.pro	
+27-Nov-17 3:15:02 PM	Transfer	3	20	source 2	Column 1	dest1 2	Column 1		C:\VWorks Workspace\Protocol Files\visitor demo_temp.pro	
+27-Nov-17 3:15:40 PM	Transfer	3	20	source 2	Column 7	dest1 2	Column 7		C:\VWorks Workspace\Protocol Files\visitor demo_temp.pro	
+27-Nov-17 3:18:48 PM	Transfer	3	20	source 3	Column 1	dest1 3	Column 1		C:\VWorks Workspace\Protocol Files\visitor demo_temp.pro	
+27-Nov-17 3:19:26 PM	Transfer	3	20	source 3	Column 7	dest1 3	Column 7		C:\VWorks Workspace\Protocol Files\visitor demo_temp.pro	
+27-Nov-17 3:22:34 PM	Transfer	3	20	source 4	Column 1	dest1 4	Column 1		C:\VWorks Workspace\Protocol Files\visitor demo_temp.pro	
+27-Nov-17 3:23:12 PM	Transfer	3	20	source 4	Column 7	dest1 4	Column 7		C:\VWorks Workspace\Protocol Files\visitor demo_temp.pro	
+27-Nov-17 3:26:20 PM	Transfer	3	20	source 5	Column 1	dest1 5	Column 1		C:\VWorks Workspace\Protocol Files\visitor demo_temp.pro	
+27-Nov-17 3:26:58 PM	Transfer	3	20	source 5	Column 7	dest1 5	Column 7		C:\VWorks Workspace\Protocol Files\visitor demo_temp.pro	
+27-Nov-17 3:28:31 PM	Event	3						Main protocol complete	C:\VWorks Workspace\Protocol Files\visitor demo_temp.pro	
+27-Nov-17 3:29:20 PM	Event	3						Main protocol starting	C:\VWorks Workspace\Protocol Files\visitor demo_temp.pro	
+27-Nov-17 3:30:58 PM	Transfer	3	20	source 1	Column 1	dest1 1	Column 1		C:\VWorks Workspace\Protocol Files\visitor demo_temp.pro	
+27-Nov-17 3:31:37 PM	Transfer	3	20	source 1	Column 7	dest1 1	Column 7		C:\VWorks Workspace\Protocol Files\visitor demo_temp.pro	
+27-Nov-17 3:33:09 PM	Event	3						Main protocol complete	C:\VWorks Workspace\Protocol Files\visitor demo_temp.pro	
+27-Nov-17 3:34:04 PM	Event	3						Main protocol starting	C:\VWorks Workspace\Protocol Files\visitor demo_temp.pro	
+27-Nov-17 3:35:43 PM	Transfer	3	20	source 1	Column 1	dest1 1	Column 1		C:\VWorks Workspace\Protocol Files\visitor demo_temp.pro	
+27-Nov-17 3:36:21 PM	Transfer	3	20	source 1	Column 7	dest1 1	Column 7		C:\VWorks Workspace\Protocol Files\visitor demo_temp.pro	
+27-Nov-17 3:37:24 PM	Event	3						Main protocol aborted by user	C:\VWorks Workspace\Protocol Files\visitor demo_temp.pro	
+27-Nov-17 3:37:26 PM	Event	3						Main protocol aborted by user	C:\VWorks Workspace\Protocol Files\visitor demo_temp.pro	

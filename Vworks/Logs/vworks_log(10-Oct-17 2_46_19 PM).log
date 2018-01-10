@@ -1,0 +1,198 @@
+10-Oct-17 2:46:19 PM	Info					Error library: The error library file path is empty.			0	
+10-Oct-17 2:46:19 PM	Info					System Startup			0	
+10-Oct-17 2:46:19 PM	Info	AccessoriesWizard				Dll loaded:    AccessoriesWizard.dll    6.0.0			0	
+10-Oct-17 2:46:19 PM	Info	AccessoryManager				Dll loaded:    AccessoryManager.dll    2.0.0			0	
+10-Oct-17 2:46:19 PM	Info	AgilentBenchBotController				Dll loaded:    AgilentBenchBotController.dll    1.21.4226			0	
+10-Oct-17 2:46:19 PM	Info	ArgonShelfAccessoryDriver				Dll loaded:    ArgonShelfAccessoryDriver.dll    2.0.1			0	
+10-Oct-17 2:46:19 PM	Info	BTILHCRunner				Dll loaded:    BTILHCRunner.dll    2.00.2			0	
+10-Oct-17 2:46:19 PM	Info	ContextHelp				Dll loaded:    ContextHelp.dll    3.0.0			0	
+10-Oct-17 2:46:19 PM	Info	DDRStringTable				Dll loaded:    DDRStringTable.dll    1.2.14			0	
+10-Oct-17 2:46:19 PM	Info	DeviceEnumerator				Dll loaded:    DeviceEnumerator.dll    9.0.0			0	
+10-Oct-17 2:46:19 PM	Info	EchoAppHelper				Dll loaded:    EchoAppHelper.dll    1.0.0			0	
+10-Oct-17 2:46:19 PM	Info	ErrorLibrary				Dll loaded:    ErrorLibrary.dll    2.0.1			0	
+10-Oct-17 2:46:19 PM	Info	EvaporatorAccessoryDriver				Dll loaded:    EvaporatorAccessoryDriver.dll    9.0.0			0	
+10-Oct-17 2:46:19 PM	Info	GuidanceDiscovery				Dll loaded:    GuidanceDiscovery.dll    2.0.0			0	
+10-Oct-17 2:46:19 PM	Info	Host				Dll loaded:    Host.dll    1.0.4226			0	
+10-Oct-17 2:46:19 PM	Info	ImportExport				Dll loaded:    ImportExport.dll    2.0.0			0	
+10-Oct-17 2:46:19 PM	Info	InhecoMTCdll				Dll loaded:    InhecoMTCdll.dll    1.2.4			0	
+10-Oct-17 2:46:19 PM	Info	InhecoShakeandHeatAccessoryDriver				Dll loaded:    InhecoShakeandHeatAccessoryDriver.dll    1.0.0			0	
+10-Oct-17 2:46:19 PM	Info	IWorksAccessory				Dll loaded:    IWorksAccessory.dll    8.0.1			0	
+10-Oct-17 2:46:19 PM	Info	js32				Dll loaded:    js32.dll    Unknown.0.0			0	
+10-Oct-17 2:46:19 PM	Info	LabelDesigner				Dll loaded:    LabelDesigner.dll    5.0.7			0	
+10-Oct-17 2:46:19 PM	Info	LabelerHardware				Dll loaded:    LabelerHardware.dll    14.0.23			0	
+10-Oct-17 2:46:19 PM	Info	libnspr4				Dll loaded:    libnspr4.dll    4.1.0			0	
+10-Oct-17 2:46:19 PM	Info	LidHotelAccessoryDriver				Dll loaded:    LidHotelAccessoryDriver.dll    8.0.0			0	
+10-Oct-17 2:46:19 PM	Info	lm				Dll loaded:    lm.dll    3.0.0			0	
+10-Oct-17 2:46:19 PM	Info	Loader				Dll loaded:    Loader.dll    1.0.4226			0	
+10-Oct-17 2:46:19 PM	Info	MagBeadAccessoryDriver				Dll loaded:    MagBeadAccessoryDriver.dll    8.0.0			0	
+10-Oct-17 2:46:19 PM	Info	MetaDataPropertyManager				Dll loaded:    MetaDataPropertyManager.dll    13.0.0			0	
+10-Oct-17 2:46:19 PM	Info	mfc71				Dll loaded:    mfc71.dll    7.10.3077			0	
+10-Oct-17 2:46:19 PM	Info	mfc71u				Dll loaded:    mfc71u.dll    7.10.3077			0	
+10-Oct-17 2:46:19 PM	Info	MicroPierceInterface				Dll loaded:    MicroPierceInterface.dll    1.0.0			0	
+10-Oct-17 2:46:19 PM	Info	MicroPierceWrapper				Dll loaded:    MicroPierceWrapper.dll    1.0.0			0	
+10-Oct-17 2:46:19 PM	Info	MicroStirInterface				Dll loaded:    MicroStirInterface.dll    1.0.0			0	
+10-Oct-17 2:46:19 PM	Info	MicroStirWrapper				Dll loaded:    MicroStirWrapper.dll    1.0.0			0	
+10-Oct-17 2:46:19 PM	Info	msvcr71				Dll loaded:    msvcr71.dll    7.10.3052			0	
+10-Oct-17 2:46:19 PM	Info	MTController				Dll loaded:    MTController.dll    5.0.0			0	
+10-Oct-17 2:46:19 PM	Info	NestableTipBoxInsertAccessoryDriver				Dll loaded:    NestableTipBoxInsertAccessoryDriver.dll    2.0.0			0	
+10-Oct-17 2:46:19 PM	Info	ObjectDatabase				Dll loaded:    ObjectDatabase.dll    4.0.0			0	
+10-Oct-17 2:46:19 PM	Info	ObjectManager				Dll loaded:    ObjectManager.dll    7.0.1			0	
+10-Oct-17 2:46:19 PM	Info	PackardFusionRemoteConnectorOCX				Dll loaded:    PackardFusionRemoteConnectorOCX.dll    4.0.0			0	
+10-Oct-17 2:46:19 PM	Info	PackardFusionRemoteControlPlugIn				Dll loaded:    PackardFusionRemoteControlPlugIn.dll    4.0.0			0	
+10-Oct-17 2:46:19 PM	Info	PackardFusionRemoteControlWrapperDLL				Dll loaded:    PackardFusionRemoteControlWrapperDLL.dll    4.0.0			0	
+10-Oct-17 2:46:19 PM	Info	PicServoExtDll				Dll loaded:    PicServoExtDll.dll    10.0.0			0	
+10-Oct-17 2:46:19 PM	Info	PipetteHeadMode				Dll loaded:    PipetteHeadMode.dll    2.0.0			0	
+10-Oct-17 2:46:19 PM	Info	PipetteTechniqueEditor				Dll loaded:    PipetteTechniqueEditor.dll    3.0.0			0	
+10-Oct-17 2:46:19 PM	Info	PlateMapDatabase				Dll loaded:    PlateMapDatabase.dll    17.0.1			0	
+10-Oct-17 2:46:19 PM	Info	ProfileChangeLog				Dll loaded:    ProfileChangeLog.dll    2.0.0			0	
+10-Oct-17 2:46:19 PM	Info	ProfileManager				Dll loaded:    ProfileManager.dll    10.0.1			0	
+10-Oct-17 2:46:19 PM	Info	ProfSkin284m				Dll loaded:    ProfSkin284m.dll    2.8.4			0	
+10-Oct-17 2:46:19 PM	Info	ProfUIS284m				Dll loaded:    ProfUIS284m.dll    2.8.4			0	
+10-Oct-17 2:46:19 PM	Info	ProfUisProfileManager				Dll loaded:    ProfUisProfileManager.dll    10.0.0			0	
+10-Oct-17 2:46:19 PM	Info	SciLexer				Dll loaded:    SciLexer.dll    1.71.0			0	
+10-Oct-17 2:46:19 PM	Info	SerialDilution				Dll loaded:    SerialDilution.dll    13.0.0			0	
+10-Oct-17 2:46:19 PM	Info	SSIdll				Dll loaded:    SSIdll.dll    Unknown.0.0			0	
+10-Oct-17 2:46:19 PM	Info	TeleshakeAccessoryDriver				Dll loaded:    TeleshakeAccessoryDriver.dll    9.0.2			0	
+10-Oct-17 2:46:19 PM	Info	TipPosition				Dll loaded:    TipPosition.dll    3.0.0			0	
+10-Oct-17 2:46:19 PM	Info	TipTracking				Dll loaded:    TipTracking.dll    3.0.0			0	
+10-Oct-17 2:46:19 PM	Info	tmlcomm				Dll loaded:    tmlcomm.dll    3.2.2			0	
+10-Oct-17 2:46:19 PM	Info	TML_lib				Dll loaded:    TML_lib.dll    2.0.1			0	
+10-Oct-17 2:46:19 PM	Info	Toolbox				Dll loaded:    Toolbox.dll    1.0.4226			0	
+10-Oct-17 2:46:19 PM	Info	V11DeviceDriver				Dll loaded:    V11DeviceDriver.dll    11.0.0			0	
+10-Oct-17 2:46:19 PM	Info	V11FieldComposer				Dll loaded:    V11FieldComposer.dll    4.0.0			0	
+10-Oct-17 2:46:19 PM	Info	V11GanttChart				Dll loaded:    V11GanttChart.dll    2.0.1			0	
+10-Oct-17 2:46:19 PM	Info	V11Labware				Dll loaded:    V11Labware.dll    25.0.14			0	
+10-Oct-17 2:46:19 PM	Info	V11Liquids				Dll loaded:    V11Liquids.dll    9.0.0			0	
+10-Oct-17 2:46:19 PM	Info	V11Migrator				Dll loaded:    V11Migrator.dll    2.0.3			0	
+10-Oct-17 2:46:19 PM	Info	V11PipettingFormatWizard				Dll loaded:    V11PipettingFormatWizard.dll    2.0.0			0	
+10-Oct-17 2:46:19 PM	Info	V11PumpAccessoryDriver				Dll loaded:    V11PumpAccessoryDriver.dll    3.0.2			0	
+10-Oct-17 2:46:19 PM	Info	V11SharedClasses				Dll loaded:    V11SharedClasses.dll    1.1.0			0	
+10-Oct-17 2:46:19 PM	Info	V11WellSelect				Dll loaded:    V11WellSelect.dll    8.0.0			0	
+10-Oct-17 2:46:19 PM	Info	V11WellVolumeVisualizer				Dll loaded:    V11WellVolumeVisualizer.dll    6.0.0			0	
+10-Oct-17 2:46:19 PM	Info	V11Wizard				Dll loaded:    V11Wizard.dll    2.0.0			0	
+10-Oct-17 2:46:19 PM	Info	VacuumFiltrationAccessoryDriver				Dll loaded:    VacuumFiltrationAccessoryDriver.dll    10.0.1			0	
+10-Oct-17 2:46:19 PM	Info	VacuumLocatingStationDriver				Dll loaded:    VacuumLocatingStationDriver.dll    7.0.0			0	
+10-Oct-17 2:46:19 PM	Info	VacuumShelfAccessoryDriver				Dll loaded:    VacuumShelfAccessoryDriver.dll    2.0.2			0	
+10-Oct-17 2:46:19 PM	Info	VHookInterface				Dll loaded:    VHookInterface.dll    7.0.0			0	
+10-Oct-17 2:46:19 PM	Info	VWorks4COM				Dll loaded:    VWorks4COM.dll    4.0.0			0	
+10-Oct-17 2:46:19 PM	Info	VWorks4Defs				Dll loaded:    VWorks4Defs.dll    6.0.3			0	
+10-Oct-17 2:46:19 PM	Info	VWorks4DeviceManager				Dll loaded:    VWorks4DeviceManager.dll    4.0.0			0	
+10-Oct-17 2:46:19 PM	Info	VWorks4EmailDaemon				Dll loaded:    VWorks4EmailDaemon.dll    3.0.0			0	
+10-Oct-17 2:46:19 PM	Info	VWorks4FormManager				Dll loaded:    VWorks4FormManager.dll    1.0.0			0	
+10-Oct-17 2:46:19 PM	Info	VWorks4GUI				Dll loaded:    VWorks4GUI.dll    3.0.0			0	
+10-Oct-17 2:46:19 PM	Info	VWorks4GUIFramework				Dll loaded:    VWorks4GUIFramework.dll    3.0.1			0	
+10-Oct-17 2:46:19 PM	Info	VWorks4Hooks				Dll loaded:    VWorks4Hooks.dll    3.0.0			0	
+10-Oct-17 2:46:19 PM	Info	VWorks4LabelDesigner				Dll loaded:    VWorks4LabelDesigner.dll    3.0.0			0	
+10-Oct-17 2:46:19 PM	Info	VWorks4Logger				Dll loaded:    VWorks4Logger.dll    4.0.0			0	
+10-Oct-17 2:46:19 PM	Info	VWorks4MacroLibrary				Dll loaded:    VWorks4MacroLibrary.dll    1.0.0			0	
+10-Oct-17 2:46:19 PM	Info	VWorks4Progress				Dll loaded:    VWorks4Progress.dll    3.0.0			0	
+10-Oct-17 2:46:19 PM	Info	VWorks4ProtocolEditor				Dll loaded:    VWorks4ProtocolEditor.dll    4.0.0			0	
+10-Oct-17 2:46:19 PM	Info	VWorks4Security				Dll loaded:    VWorks4Security.dll    3.0.0			0	
+10-Oct-17 2:46:19 PM	Info	VWorks4UserDatabase				Dll loaded:    VWorks4UserDatabase.dll    3.0.0			0	
+10-Oct-17 2:46:19 PM	Info	VWorks4UserManager				Dll loaded:    VWorks4UserManager.dll    3.0.0			0	
+10-Oct-17 2:46:19 PM	Info	WeighPadAccessoryDriver				Dll loaded:    WeighPadAccessoryDriver.dll    2.0.0			0	
+10-Oct-17 2:46:19 PM	Info	Agilent BenchCel				Plugin loaded from cache:   AgilentBenchCel.dll   20.1.2			0	
+10-Oct-17 2:46:19 PM	Info	Agilent Bravo				Plugin loaded from cache:   AgilentBravo.dll   17.1.0			0	
+10-Oct-17 2:46:19 PM	Info	Agilent Generic I/O Module				Plugin loaded from cache:   AgilentGenericIO.dll   5.0.0			0	
+10-Oct-17 2:46:19 PM	Info	Agilent Labware MiniHub				Plugin loaded from cache:   AgilentLabwareMiniHub.dll   1.0.3			0	
+10-Oct-17 2:46:19 PM	Info	Agilent Phantom Robot				Plugin loaded from cache:   AgilentPhantomRobot.dll   9.0.5			0	
+10-Oct-17 2:46:19 PM	Info	Agilent Phantom Stacker				Plugin loaded from cache:   AgilentPhantomStacker.dll   2.0.1			0	
+10-Oct-17 2:46:19 PM	Info	Agilent Plate Hotel				Plugin loaded from cache:   AgilentPlateHotel.dll   1.0.3			0	
+10-Oct-17 2:46:20 PM	Info	Agilent Plate Hub Carousel				Plugin loaded from cache:   AgilentPlateHubCarousel.dll   8.0.1			0	
+10-Oct-17 2:46:20 PM	Info	Waste Bin				Plugin loaded from cache:   AgilentWasteBin.dll   3.0.0			0	
+10-Oct-17 2:46:20 PM	Info	Agilent Weigh Pad				Plugin loaded from cache:   AgilentWeighPad.dll   8.0.0			0	
+10-Oct-17 2:46:20 PM	Info	Keyence Barcode Reader				Plugin loaded from cache:   KeyenceBarcodeReader.dll   6.0.0			0	
+10-Oct-17 2:46:20 PM	Info	Plate Pad, Standard				Plugin loaded from cache:   PlatePad.dll   6.0.0			0	
+10-Oct-17 2:47:02 PM	Info					administrator logged in			1	
+10-Oct-17 2:47:14 PM	Info	Agilent Labware MiniHub				Plugin loaded:   AgilentLabwareMiniHub.dll   1.0.3			1	
+10-Oct-17 2:47:14 PM	Info					Hooks plugin loaded:    AgilentBenchCel.dll			0	
+10-Oct-17 2:47:14 PM	Info	Agilent BenchCel				Plugin loaded:   AgilentBenchCel.dll   20.1.2			1	
+10-Oct-17 2:47:18 PM	Info					Hooks plugin loaded:    AgilentBravo.dll			0	
+10-Oct-17 2:47:18 PM	Info	Agilent Bravo				Plugin loaded:   AgilentBravo.dll   17.1.0			1	
+10-Oct-17 2:47:22 PM	Info					File loaded		C:\VWorks Workspace\Device Files\BravoMiniPHBenchCel_round_magnet_RED_insert.dev	1	
+10-Oct-17 2:47:22 PM	Info					Changed "device file" to "C:\VWorks Workspace\Device Files\BravoMiniPHBenchCel_round_magnet_RED_insert.dev"		Protocol File - 1	1	
+10-Oct-17 2:47:22 PM	Info					File created		Protocol File - 1	1	
+10-Oct-17 2:47:27 PM	Info			process - 1	1	Added task "Unload" to process "process - 1"		Protocol File - 1	1	
+10-Oct-17 2:47:27 PM	Script					Initializing scripting engine...			1	
+10-Oct-17 2:47:27 PM	Script					Tue Oct 10 2017 14:47:27 GMT+0800 (Malay Peninsula Standard Time)			1	
+10-Oct-17 2:47:35 PM	Info			process - 1		Changed "process process - 1, parameter Plate type" to "96 ABI qPCR half skirt in black carrier"		Protocol File - 1	1	
+10-Oct-17 2:47:41 PM	Info			process - 1	1	Add location : Agilent Labware MiniHub - 1, cassette 4, slot 5		Protocol File - 1	1	
+10-Oct-17 2:47:45 PM	Info			process - 1	2	Added task "Place Plate" to process "process - 1"		Protocol File - 1	1	
+10-Oct-17 2:47:49 PM	Info			process - 1	2	Changed "task Place Plate, parameter Device to use" to "Bravo - 1"		Protocol File - 1	1	
+10-Oct-17 2:47:51 PM	Info			process - 1	2	Changed "task Place Plate, parameter Location to use" from "1" to "5"		Protocol File - 1	1	
+10-Oct-17 2:47:56 PM	Info			process - 1	3	Added task "Load" to process "process - 1"		Protocol File - 1	1	
+10-Oct-17 2:47:58 PM	Info			process - 1	3	Changed "task Load, parameter Use original location" from "False" to "True"		Protocol File - 1	1	
+10-Oct-17 2:48:01 PM	Info					Compile protocol			1	
+10-Oct-17 2:48:02 PM	Info					Compile complete with 0 errors and 0 warnings			1	
+10-Oct-17 2:48:05 PM	Info					Compile complete with 0 errors and 0 warnings			1	
+10-Oct-17 2:48:07 PM	Info					Runset Manager: Added the run "Protocol File - 1" to Runset Manager.			1	
+10-Oct-17 2:48:08 PM	Event					Scheduler started			1	
+10-Oct-17 2:48:08 PM	Info	Agilent Labware MiniHub - 1				Initializing device		C:\VWorks Workspace\Device Files\BravoMiniPHBenchCel_round_magnet_RED_insert.dev	1	
+10-Oct-17 2:48:08 PM	Info	BenchCel - 1				Initializing device		C:\VWorks Workspace\Device Files\BravoMiniPHBenchCel_round_magnet_RED_insert.dev	1	
+10-Oct-17 2:48:08 PM	Info	Bravo - 1				Initializing device		C:\VWorks Workspace\Device Files\BravoMiniPHBenchCel_round_magnet_RED_insert.dev	1	
+10-Oct-17 2:48:10 PM	Info	BenchCel - 1				Initialization complete		C:\VWorks Workspace\Device Files\BravoMiniPHBenchCel_round_magnet_RED_insert.dev	1	
+10-Oct-17 2:48:14 PM	Error	Agilent Labware MiniHub - 1				Cannot Home. Please check below for details.			1	
+10-Oct-17 2:48:14 PM	Error	Agilent Labware MiniHub - 1				The controller reported the following faults:			1	
+10-Oct-17 2:48:14 PM	Error	Agilent Labware MiniHub - 1				Controller - NodeID=0			1	
+10-Oct-17 2:48:14 PM	Error	Agilent Labware MiniHub - 1				Axis:1			1	
+10-Oct-17 2:48:14 PM	Error	Agilent Labware MiniHub - 1				Non-Fatal Error: Excessive Following Error			1	
+10-Oct-17 2:48:14 PM	Info					Error library: Select best match error handler: "Default" and action type "show error dialog"			1	
+10-Oct-17 2:48:14 PM	Error	Bravo - 1				There appears to be a plate present in, or in front of the gripper's plate presence sensor.			1	
+10-Oct-17 2:48:14 PM	Error	Bravo - 1				  - Choose "Retry" to check the plate presence sensor again.			1	
+10-Oct-17 2:48:14 PM	Error	Bravo - 1				  - Choose "Ignore" to continue to home the G axis.  Please note that any plate currently held by the gripper will be dropped.			1	
+10-Oct-17 2:48:14 PM	Error	Bravo - 1				  - Choose "Abort" to cancel initialization.			1	
+10-Oct-17 2:48:14 PM	Info					Error library: Select best match error handler: "Default" and action type "show error dialog"			1	
+10-Oct-17 2:48:45 PM	Info	Agilent Labware MiniHub - 1				Retrying: Cannot Home. Please check below for details.			1	
+10-Oct-17 2:48:45 PM	Info	Agilent Labware MiniHub - 1				The controller reported the following faults:			1	
+10-Oct-17 2:48:45 PM	Info	Agilent Labware MiniHub - 1				Controller - NodeID=0			1	
+10-Oct-17 2:48:45 PM	Info	Agilent Labware MiniHub - 1				Axis:1			1	
+10-Oct-17 2:48:45 PM	Info	Agilent Labware MiniHub - 1				Non-Fatal Error: Excessive Following Error			1	
+10-Oct-17 2:48:45 PM	Error	Agilent Labware MiniHub - 1				Cannot Home. Please check below for details.			1	
+10-Oct-17 2:48:45 PM	Error	Agilent Labware MiniHub - 1				The controller reported the following faults:			1	
+10-Oct-17 2:48:45 PM	Error	Agilent Labware MiniHub - 1				Controller - NodeID=0			1	
+10-Oct-17 2:48:45 PM	Error	Agilent Labware MiniHub - 1				Axis:1			1	
+10-Oct-17 2:48:45 PM	Error	Agilent Labware MiniHub - 1				Non-Fatal Error: Excessive Following Error			1	
+10-Oct-17 2:48:45 PM	Info					Error library: Select best match error handler: "Default" and action type "show error dialog"			1	
+10-Oct-17 2:48:50 PM	Info	Bravo - 1				Ignoring: There appears to be a plate present in, or in front of the gripper's plate presence sensor.			1	
+10-Oct-17 2:48:50 PM	Info	Bravo - 1				  - Choose "Retry" to check the plate presence sensor again.			1	
+10-Oct-17 2:48:50 PM	Info	Bravo - 1				  - Choose "Ignore" to continue to home the G axis.  Please note that any plate currently held by the gripper will be dropped.			1	
+10-Oct-17 2:48:50 PM	Info	Bravo - 1				  - Choose "Abort" to cancel initialization.			1	
+10-Oct-17 2:48:50 PM	Error	Bravo - 1				Please verify that it is safe to home the W-axis (the aspirate/dispense axis).  If there is fluid in the tips you may want to manually home the W-axis in diagnostics over a waste position.			1	
+10-Oct-17 2:48:50 PM	Error	Bravo - 1				  - Choose "Retry" to continue homing the W-axis.			1	
+10-Oct-17 2:48:50 PM	Error	Bravo - 1				  - Choose "Ignore" to leave the W-axis unhomed.			1	
+10-Oct-17 2:48:50 PM	Error	Bravo - 1				  - Choose "Abort" to cancel initialization.			1	
+10-Oct-17 2:48:50 PM	Info					Error library: Select best match error handler: "Default" and action type "show error dialog"			1	
+10-Oct-17 2:49:02 PM	Info	Agilent Labware MiniHub - 1				Retrying: Cannot Home. Please check below for details.			1	
+10-Oct-17 2:49:02 PM	Info	Agilent Labware MiniHub - 1				The controller reported the following faults:			1	
+10-Oct-17 2:49:02 PM	Info	Agilent Labware MiniHub - 1				Controller - NodeID=0			1	
+10-Oct-17 2:49:02 PM	Info	Agilent Labware MiniHub - 1				Axis:1			1	
+10-Oct-17 2:49:02 PM	Info	Agilent Labware MiniHub - 1				Non-Fatal Error: Excessive Following Error			1	
+10-Oct-17 2:49:02 PM	Error	Agilent Labware MiniHub - 1				Cannot Home. Please check below for details.			1	
+10-Oct-17 2:49:02 PM	Error	Agilent Labware MiniHub - 1				The controller reported the following faults:			1	
+10-Oct-17 2:49:02 PM	Error	Agilent Labware MiniHub - 1				Controller - NodeID=0			1	
+10-Oct-17 2:49:02 PM	Error	Agilent Labware MiniHub - 1				Axis:1			1	
+10-Oct-17 2:49:02 PM	Error	Agilent Labware MiniHub - 1				Non-Fatal Error: Excessive Following Error			1	
+10-Oct-17 2:49:02 PM	Info					Error library: Select best match error handler: "Default" and action type "show error dialog"			1	
+10-Oct-17 2:49:12 PM	Info	Agilent Labware MiniHub - 1				Aborting on: Cannot Home. Please check below for details.			1	
+10-Oct-17 2:49:12 PM	Info	Agilent Labware MiniHub - 1				The controller reported the following faults:			1	
+10-Oct-17 2:49:12 PM	Info	Agilent Labware MiniHub - 1				Controller - NodeID=0			1	
+10-Oct-17 2:49:12 PM	Info	Agilent Labware MiniHub - 1				Axis:1			1	
+10-Oct-17 2:49:12 PM	Info	Agilent Labware MiniHub - 1				Non-Fatal Error: Excessive Following Error			1	
+10-Oct-17 2:49:12 PM	Event					Scheduler stopped			1	
+10-Oct-17 2:49:12 PM	Info	Agilent Labware MiniHub - 1				Initialization failed		C:\VWorks Workspace\Device Files\BravoMiniPHBenchCel_round_magnet_RED_insert.dev	1	
+10-Oct-17 2:49:13 PM	Info	Bravo - 1				Retrying: Please verify that it is safe to home the W-axis (the aspirate/dispense axis).  If there is fluid in the tips you may want to manually home the W-axis in diagnostics over a waste position.			1	
+10-Oct-17 2:49:13 PM	Info	Bravo - 1				  - Choose "Retry" to continue homing the W-axis.			1	
+10-Oct-17 2:49:13 PM	Info	Bravo - 1				  - Choose "Ignore" to leave the W-axis unhomed.			1	
+10-Oct-17 2:49:13 PM	Info	Bravo - 1				  - Choose "Abort" to cancel initialization.			1	
+10-Oct-17 2:49:14 PM	Info	Bravo - 1				Initialization complete		C:\VWorks Workspace\Device Files\BravoMiniPHBenchCel_round_magnet_RED_insert.dev	1	
+10-Oct-17 2:49:15 PM	Event					Scheduler aborted			1	
+10-Oct-17 2:49:16 PM	Event					None protocol aborted by user		Protocol File - 1	1	
+10-Oct-17 2:50:01 PM	Info					Changed "protocol file" from "Protocol File - 1" to "C:\VWorks Workspace\Protocol Files\Diagnostic Protocols\PCR_BlackCarrier_hub2deck.pro"			1	
+10-Oct-17 2:50:01 PM	Info					File saved	PCR_BlackCarrier_hub2deck	C:\VWorks Workspace\Protocol Files\Diagnostic Protocols\PCR_BlackCarrier_hub2deck.pro	1	
+10-Oct-17 2:50:04 PM	Info					File unloaded		C:\VWorks Workspace\Protocol Files\Diagnostic Protocols\PCR_BlackCarrier_hub2deck.pro	1	
+10-Oct-17 2:50:05 PM	Info	Agilent Labware MiniHub - 1				Closing device		C:\VWorks Workspace\Device Files\BravoMiniPHBenchCel_round_magnet_RED_insert.dev	1	
+10-Oct-17 2:50:05 PM	Info	BenchCel - 1				Closing device		C:\VWorks Workspace\Device Files\BravoMiniPHBenchCel_round_magnet_RED_insert.dev	1	
+10-Oct-17 2:50:05 PM	Info	Bravo - 1				Closing device		C:\VWorks Workspace\Device Files\BravoMiniPHBenchCel_round_magnet_RED_insert.dev	1	
+10-Oct-17 2:50:05 PM	Info					File unloaded		C:\VWorks Workspace\Device Files\BravoMiniPHBenchCel_round_magnet_RED_insert.dev	1	
+10-Oct-17 2:50:07 PM	Info					administrator logged out. Session 1 closed			1	
+10-Oct-17 2:50:07 PM	Info					System Shutdown			0	

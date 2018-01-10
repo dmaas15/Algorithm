@@ -1,0 +1,497 @@
+16-Jan-18 9:34:12 AM	Info					Error library: The error library file path is empty.			0	
+16-Jan-18 9:34:12 AM	Info					System Startup			0	
+16-Jan-18 9:34:12 AM	Info	AccessoriesWizard				Dll loaded:    AccessoriesWizard.dll    6.0.0			0	
+16-Jan-18 9:34:12 AM	Info	AccessoryManager				Dll loaded:    AccessoryManager.dll    2.0.0			0	
+16-Jan-18 9:34:12 AM	Info	AgilentBenchBotController				Dll loaded:    AgilentBenchBotController.dll    1.21.4226			0	
+16-Jan-18 9:34:12 AM	Info	ArgonShelfAccessoryDriver				Dll loaded:    ArgonShelfAccessoryDriver.dll    2.0.1			0	
+16-Jan-18 9:34:12 AM	Info	BTILHCRunner				Dll loaded:    BTILHCRunner.dll    2.00.2			0	
+16-Jan-18 9:34:12 AM	Info	ContextHelp				Dll loaded:    ContextHelp.dll    3.0.0			0	
+16-Jan-18 9:34:12 AM	Info	DDRStringTable				Dll loaded:    DDRStringTable.dll    1.2.14			0	
+16-Jan-18 9:34:12 AM	Info	DeviceEnumerator				Dll loaded:    DeviceEnumerator.dll    9.0.0			0	
+16-Jan-18 9:34:12 AM	Info	EchoAppHelper				Dll loaded:    EchoAppHelper.dll    1.0.0			0	
+16-Jan-18 9:34:12 AM	Info	ErrorLibrary				Dll loaded:    ErrorLibrary.dll    2.0.1			0	
+16-Jan-18 9:34:12 AM	Info	EvaporatorAccessoryDriver				Dll loaded:    EvaporatorAccessoryDriver.dll    9.0.0			0	
+16-Jan-18 9:34:12 AM	Info	GuidanceDiscovery				Dll loaded:    GuidanceDiscovery.dll    2.0.0			0	
+16-Jan-18 9:34:12 AM	Info	Host				Dll loaded:    Host.dll    1.0.4226			0	
+16-Jan-18 9:34:12 AM	Info	ImportExport				Dll loaded:    ImportExport.dll    2.0.0			0	
+16-Jan-18 9:34:12 AM	Info	InhecoMTCdll				Dll loaded:    InhecoMTCdll.dll    1.2.4			0	
+16-Jan-18 9:34:12 AM	Info	InhecoShakeandHeatAccessoryDriver				Dll loaded:    InhecoShakeandHeatAccessoryDriver.dll    1.0.0			0	
+16-Jan-18 9:34:12 AM	Info	IWorksAccessory				Dll loaded:    IWorksAccessory.dll    8.0.1			0	
+16-Jan-18 9:34:12 AM	Info	js32				Dll loaded:    js32.dll    Unknown.0.0			0	
+16-Jan-18 9:34:12 AM	Info	LabelDesigner				Dll loaded:    LabelDesigner.dll    5.0.7			0	
+16-Jan-18 9:34:12 AM	Info	LabelerHardware				Dll loaded:    LabelerHardware.dll    14.0.23			0	
+16-Jan-18 9:34:12 AM	Info	libnspr4				Dll loaded:    libnspr4.dll    4.1.0			0	
+16-Jan-18 9:34:12 AM	Info	LidHotelAccessoryDriver				Dll loaded:    LidHotelAccessoryDriver.dll    8.0.0			0	
+16-Jan-18 9:34:12 AM	Info	lm				Dll loaded:    lm.dll    3.0.0			0	
+16-Jan-18 9:34:12 AM	Info	Loader				Dll loaded:    Loader.dll    1.0.4226			0	
+16-Jan-18 9:34:12 AM	Info	MagBeadAccessoryDriver				Dll loaded:    MagBeadAccessoryDriver.dll    8.0.0			0	
+16-Jan-18 9:34:12 AM	Info	MetaDataPropertyManager				Dll loaded:    MetaDataPropertyManager.dll    13.0.0			0	
+16-Jan-18 9:34:12 AM	Info	mfc71				Dll loaded:    mfc71.dll    7.10.3077			0	
+16-Jan-18 9:34:12 AM	Info	mfc71u				Dll loaded:    mfc71u.dll    7.10.3077			0	
+16-Jan-18 9:34:12 AM	Info	MicroPierceInterface				Dll loaded:    MicroPierceInterface.dll    1.0.0			0	
+16-Jan-18 9:34:12 AM	Info	MicroPierceWrapper				Dll loaded:    MicroPierceWrapper.dll    1.0.0			0	
+16-Jan-18 9:34:12 AM	Info	MicroStirInterface				Dll loaded:    MicroStirInterface.dll    1.0.0			0	
+16-Jan-18 9:34:12 AM	Info	MicroStirWrapper				Dll loaded:    MicroStirWrapper.dll    1.0.0			0	
+16-Jan-18 9:34:12 AM	Info	msvcr71				Dll loaded:    msvcr71.dll    7.10.3052			0	
+16-Jan-18 9:34:12 AM	Info	MTController				Dll loaded:    MTController.dll    5.0.0			0	
+16-Jan-18 9:34:12 AM	Info	NestableTipBoxInsertAccessoryDriver				Dll loaded:    NestableTipBoxInsertAccessoryDriver.dll    2.0.0			0	
+16-Jan-18 9:34:12 AM	Info	ObjectDatabase				Dll loaded:    ObjectDatabase.dll    4.0.0			0	
+16-Jan-18 9:34:12 AM	Info	ObjectManager				Dll loaded:    ObjectManager.dll    7.0.1			0	
+16-Jan-18 9:34:12 AM	Info	PackardFusionRemoteConnectorOCX				Dll loaded:    PackardFusionRemoteConnectorOCX.dll    4.0.0			0	
+16-Jan-18 9:34:12 AM	Info	PackardFusionRemoteControlPlugIn				Dll loaded:    PackardFusionRemoteControlPlugIn.dll    4.0.0			0	
+16-Jan-18 9:34:12 AM	Info	PackardFusionRemoteControlWrapperDLL				Dll loaded:    PackardFusionRemoteControlWrapperDLL.dll    4.0.0			0	
+16-Jan-18 9:34:12 AM	Info	PicServoExtDll				Dll loaded:    PicServoExtDll.dll    10.0.0			0	
+16-Jan-18 9:34:12 AM	Info	PipetteHeadMode				Dll loaded:    PipetteHeadMode.dll    2.0.0			0	
+16-Jan-18 9:34:12 AM	Info	PipetteTechniqueEditor				Dll loaded:    PipetteTechniqueEditor.dll    3.0.0			0	
+16-Jan-18 9:34:12 AM	Info	PlateMapDatabase				Dll loaded:    PlateMapDatabase.dll    17.0.1			0	
+16-Jan-18 9:34:12 AM	Info	ProfileChangeLog				Dll loaded:    ProfileChangeLog.dll    2.0.0			0	
+16-Jan-18 9:34:12 AM	Info	ProfileManager				Dll loaded:    ProfileManager.dll    10.0.1			0	
+16-Jan-18 9:34:12 AM	Info	ProfSkin284m				Dll loaded:    ProfSkin284m.dll    2.8.4			0	
+16-Jan-18 9:34:12 AM	Info	ProfUIS284m				Dll loaded:    ProfUIS284m.dll    2.8.4			0	
+16-Jan-18 9:34:12 AM	Info	ProfUisProfileManager				Dll loaded:    ProfUisProfileManager.dll    10.0.0			0	
+16-Jan-18 9:34:12 AM	Info	SciLexer				Dll loaded:    SciLexer.dll    1.71.0			0	
+16-Jan-18 9:34:12 AM	Info	SerialDilution				Dll loaded:    SerialDilution.dll    13.0.0			0	
+16-Jan-18 9:34:12 AM	Info	SSIdll				Dll loaded:    SSIdll.dll    Unknown.0.0			0	
+16-Jan-18 9:34:12 AM	Info	TeleshakeAccessoryDriver				Dll loaded:    TeleshakeAccessoryDriver.dll    9.0.2			0	
+16-Jan-18 9:34:12 AM	Info	TipPosition				Dll loaded:    TipPosition.dll    3.0.0			0	
+16-Jan-18 9:34:12 AM	Info	TipTracking				Dll loaded:    TipTracking.dll    3.0.0			0	
+16-Jan-18 9:34:12 AM	Info	tmlcomm				Dll loaded:    tmlcomm.dll    3.2.2			0	
+16-Jan-18 9:34:12 AM	Info	TML_lib				Dll loaded:    TML_lib.dll    2.0.1			0	
+16-Jan-18 9:34:12 AM	Info	Toolbox				Dll loaded:    Toolbox.dll    1.0.4226			0	
+16-Jan-18 9:34:12 AM	Info	V11DeviceDriver				Dll loaded:    V11DeviceDriver.dll    11.0.0			0	
+16-Jan-18 9:34:12 AM	Info	V11FieldComposer				Dll loaded:    V11FieldComposer.dll    4.0.0			0	
+16-Jan-18 9:34:12 AM	Info	V11GanttChart				Dll loaded:    V11GanttChart.dll    2.0.1			0	
+16-Jan-18 9:34:12 AM	Info	V11Labware				Dll loaded:    V11Labware.dll    25.0.14			0	
+16-Jan-18 9:34:12 AM	Info	V11Liquids				Dll loaded:    V11Liquids.dll    9.0.0			0	
+16-Jan-18 9:34:12 AM	Info	V11Migrator				Dll loaded:    V11Migrator.dll    2.0.3			0	
+16-Jan-18 9:34:12 AM	Info	V11PipettingFormatWizard				Dll loaded:    V11PipettingFormatWizard.dll    2.0.0			0	
+16-Jan-18 9:34:12 AM	Info	V11PumpAccessoryDriver				Dll loaded:    V11PumpAccessoryDriver.dll    3.0.2			0	
+16-Jan-18 9:34:12 AM	Info	V11SharedClasses				Dll loaded:    V11SharedClasses.dll    1.1.0			0	
+16-Jan-18 9:34:12 AM	Info	V11WellSelect				Dll loaded:    V11WellSelect.dll    8.0.0			0	
+16-Jan-18 9:34:12 AM	Info	V11WellVolumeVisualizer				Dll loaded:    V11WellVolumeVisualizer.dll    6.0.0			0	
+16-Jan-18 9:34:12 AM	Info	V11Wizard				Dll loaded:    V11Wizard.dll    2.0.0			0	
+16-Jan-18 9:34:12 AM	Info	VacuumFiltrationAccessoryDriver				Dll loaded:    VacuumFiltrationAccessoryDriver.dll    10.0.1			0	
+16-Jan-18 9:34:12 AM	Info	VacuumLocatingStationDriver				Dll loaded:    VacuumLocatingStationDriver.dll    7.0.0			0	
+16-Jan-18 9:34:12 AM	Info	VacuumShelfAccessoryDriver				Dll loaded:    VacuumShelfAccessoryDriver.dll    2.0.2			0	
+16-Jan-18 9:34:12 AM	Info	VHookInterface				Dll loaded:    VHookInterface.dll    7.0.0			0	
+16-Jan-18 9:34:12 AM	Info	VWorks4COM				Dll loaded:    VWorks4COM.dll    4.0.0			0	
+16-Jan-18 9:34:12 AM	Info	VWorks4Defs				Dll loaded:    VWorks4Defs.dll    6.0.3			0	
+16-Jan-18 9:34:12 AM	Info	VWorks4DeviceManager				Dll loaded:    VWorks4DeviceManager.dll    4.0.0			0	
+16-Jan-18 9:34:12 AM	Info	VWorks4EmailDaemon				Dll loaded:    VWorks4EmailDaemon.dll    3.0.0			0	
+16-Jan-18 9:34:12 AM	Info	VWorks4FormManager				Dll loaded:    VWorks4FormManager.dll    1.0.0			0	
+16-Jan-18 9:34:12 AM	Info	VWorks4GUI				Dll loaded:    VWorks4GUI.dll    3.0.0			0	
+16-Jan-18 9:34:12 AM	Info	VWorks4GUIFramework				Dll loaded:    VWorks4GUIFramework.dll    3.0.1			0	
+16-Jan-18 9:34:12 AM	Info	VWorks4Hooks				Dll loaded:    VWorks4Hooks.dll    3.0.0			0	
+16-Jan-18 9:34:12 AM	Info	VWorks4LabelDesigner				Dll loaded:    VWorks4LabelDesigner.dll    3.0.0			0	
+16-Jan-18 9:34:12 AM	Info	VWorks4Logger				Dll loaded:    VWorks4Logger.dll    4.0.0			0	
+16-Jan-18 9:34:12 AM	Info	VWorks4MacroLibrary				Dll loaded:    VWorks4MacroLibrary.dll    1.0.0			0	
+16-Jan-18 9:34:12 AM	Info	VWorks4Progress				Dll loaded:    VWorks4Progress.dll    3.0.0			0	
+16-Jan-18 9:34:12 AM	Info	VWorks4ProtocolEditor				Dll loaded:    VWorks4ProtocolEditor.dll    4.0.0			0	
+16-Jan-18 9:34:12 AM	Info	VWorks4Security				Dll loaded:    VWorks4Security.dll    3.0.0			0	
+16-Jan-18 9:34:12 AM	Info	VWorks4UserDatabase				Dll loaded:    VWorks4UserDatabase.dll    3.0.0			0	
+16-Jan-18 9:34:12 AM	Info	VWorks4UserManager				Dll loaded:    VWorks4UserManager.dll    3.0.0			0	
+16-Jan-18 9:34:12 AM	Info	WeighPadAccessoryDriver				Dll loaded:    WeighPadAccessoryDriver.dll    2.0.0			0	
+16-Jan-18 9:34:13 AM	Info	Agilent BenchCel				Plugin loaded from cache:   AgilentBenchCel.dll   20.1.2			0	
+16-Jan-18 9:34:13 AM	Info	Agilent Bravo				Plugin loaded from cache:   AgilentBravo.dll   17.1.0			0	
+16-Jan-18 9:34:13 AM	Info	Agilent Generic I/O Module				Plugin loaded from cache:   AgilentGenericIO.dll   5.0.0			0	
+16-Jan-18 9:34:13 AM	Info	Agilent Labware MiniHub				Plugin loaded from cache:   AgilentLabwareMiniHub.dll   1.0.3			0	
+16-Jan-18 9:34:13 AM	Info	Agilent Phantom Robot				Plugin loaded from cache:   AgilentPhantomRobot.dll   9.0.5			0	
+16-Jan-18 9:34:13 AM	Info	Agilent Phantom Stacker				Plugin loaded from cache:   AgilentPhantomStacker.dll   2.0.1			0	
+16-Jan-18 9:34:13 AM	Info	Agilent Plate Hotel				Plugin loaded from cache:   AgilentPlateHotel.dll   1.0.3			0	
+16-Jan-18 9:34:13 AM	Info	Agilent Plate Hub Carousel				Plugin loaded from cache:   AgilentPlateHubCarousel.dll   8.0.1			0	
+16-Jan-18 9:34:13 AM	Info	Waste Bin				Plugin loaded from cache:   AgilentWasteBin.dll   3.0.0			0	
+16-Jan-18 9:34:13 AM	Info	Agilent Weigh Pad				Plugin loaded from cache:   AgilentWeighPad.dll   8.0.0			0	
+16-Jan-18 9:34:13 AM	Info	Keyence Barcode Reader				Plugin loaded from cache:   KeyenceBarcodeReader.dll   6.0.0			0	
+16-Jan-18 9:34:13 AM	Info	Plate Pad, Standard				Plugin loaded from cache:   PlatePad.dll   6.0.0			0	
+16-Jan-18 9:34:26 AM	Info					administrator logged in			1	
+16-Jan-18 9:34:42 AM	Info	Agilent Labware MiniHub				Plugin loaded:   AgilentLabwareMiniHub.dll   1.0.3			1	
+16-Jan-18 9:34:43 AM	Info					Hooks plugin loaded:    AgilentBenchCel.dll			0	
+16-Jan-18 9:34:43 AM	Info	Agilent BenchCel				Plugin loaded:   AgilentBenchCel.dll   20.1.2			1	
+16-Jan-18 9:34:46 AM	Info					Hooks plugin loaded:    AgilentBravo.dll			0	
+16-Jan-18 9:34:47 AM	Info	Agilent Bravo				Plugin loaded:   AgilentBravo.dll   17.1.0			1	
+16-Jan-18 9:34:50 AM	Info					File loaded		C:\VWorks Workspace\Device Files\TruSeq\TruSeq RNA_DNA Sample Prep_v1.0\BravoMiniPHBenchCel_round_magnet_RED_insert.dev	1	
+16-Jan-18 9:35:02 AM	Info	Bravo - 1				Initializing device		C:\VWorks Workspace\Device Files\TruSeq\TruSeq RNA_DNA Sample Prep_v1.0\BravoMiniPHBenchCel_round_magnet_RED_insert.dev	1	
+16-Jan-18 9:35:08 AM	Error	Bravo - 1				There appears to be a plate present in, or in front of the gripper's plate presence sensor.			1	
+16-Jan-18 9:35:08 AM	Error	Bravo - 1				  - Choose "Retry" to check the plate presence sensor again.			1	
+16-Jan-18 9:35:08 AM	Error	Bravo - 1				  - Choose "Ignore" to continue to home the G axis.  Please note that any plate currently held by the gripper will be dropped.			1	
+16-Jan-18 9:35:08 AM	Error	Bravo - 1				  - Choose "Abort" to cancel initialization.			1	
+16-Jan-18 9:35:08 AM	Info					Error library: Select best match error handler: "Default" and action type "show error dialog"			1	
+16-Jan-18 9:35:26 AM	Info	Bravo - 1				Ignoring: There appears to be a plate present in, or in front of the gripper's plate presence sensor.			1	
+16-Jan-18 9:35:26 AM	Info	Bravo - 1				  - Choose "Retry" to check the plate presence sensor again.			1	
+16-Jan-18 9:35:26 AM	Info	Bravo - 1				  - Choose "Ignore" to continue to home the G axis.  Please note that any plate currently held by the gripper will be dropped.			1	
+16-Jan-18 9:35:26 AM	Info	Bravo - 1				  - Choose "Abort" to cancel initialization.			1	
+16-Jan-18 9:35:26 AM	Error	Bravo - 1				Please verify that it is safe to home the W-axis (the aspirate/dispense axis).  If there is fluid in the tips you may want to manually home the W-axis in diagnostics over a waste position.			1	
+16-Jan-18 9:35:26 AM	Error	Bravo - 1				  - Choose "Retry" to continue homing the W-axis.			1	
+16-Jan-18 9:35:26 AM	Error	Bravo - 1				  - Choose "Ignore" to leave the W-axis unhomed.			1	
+16-Jan-18 9:35:26 AM	Error	Bravo - 1				  - Choose "Abort" to cancel initialization.			1	
+16-Jan-18 9:35:26 AM	Info					Error library: Select best match error handler: "Default" and action type "show error dialog"			1	
+16-Jan-18 9:35:38 AM	Info	Bravo - 1				Retrying: Please verify that it is safe to home the W-axis (the aspirate/dispense axis).  If there is fluid in the tips you may want to manually home the W-axis in diagnostics over a waste position.			1	
+16-Jan-18 9:35:38 AM	Info	Bravo - 1				  - Choose "Retry" to continue homing the W-axis.			1	
+16-Jan-18 9:35:38 AM	Info	Bravo - 1				  - Choose "Ignore" to leave the W-axis unhomed.			1	
+16-Jan-18 9:35:38 AM	Info	Bravo - 1				  - Choose "Abort" to cancel initialization.			1	
+16-Jan-18 9:35:38 AM	Error	Bravo - 1				Location 4 Device not found (FindTheUniversalControl failed, return value = 0). CMTCSTCController::GetController failed for controllerID: -1			1	
+16-Jan-18 9:35:38 AM	Info					Error library: Select best match error handler: "Default" and action type "show error dialog"			1	
+16-Jan-18 9:35:46 AM	Info	Bravo - 1				Ignoring: Location 4 Device not found (FindTheUniversalControl failed, return value = 0). CMTCSTCController::GetController failed for controllerID: -1			1	
+16-Jan-18 9:35:46 AM	Error	Bravo - 1				Location 6 Device not found (FindTheUniversalControl failed, return value = 0). CMTCSTCController::GetController failed for controllerID: -1			1	
+16-Jan-18 9:35:46 AM	Info					Error library: Select best match error handler: "Default" and action type "show error dialog"			1	
+16-Jan-18 9:35:48 AM	Info	Bravo - 1				Ignoring: Location 6 Device not found (FindTheUniversalControl failed, return value = 0). CMTCSTCController::GetController failed for controllerID: -1			1	
+16-Jan-18 9:35:49 AM	Info	Bravo - 1				Initialization complete		C:\VWorks Workspace\Device Files\TruSeq\TruSeq RNA_DNA Sample Prep_v1.0\BravoMiniPHBenchCel_round_magnet_RED_insert.dev	1	
+16-Jan-18 9:35:49 AM	Info	Bravo - 1				Opening diagnostics		C:\VWorks Workspace\Device Files\TruSeq\TruSeq RNA_DNA Sample Prep_v1.0\BravoMiniPHBenchCel_round_magnet_RED_insert.dev	1	
+16-Jan-18 9:38:41 AM	Info	Bravo - 1				Bravo diagnostics: Changed jog/teach speed to Medium.			1	
+16-Jan-18 9:38:44 AM	Info	Bravo - 1				Bravo diagnostics: Jog Z-axis 20.0 mm			1	
+16-Jan-18 9:38:45 AM	Info	Bravo - 1				Bravo diagnostics: command complete			1	
+16-Jan-18 9:38:46 AM	Info	Bravo - 1				Bravo diagnostics: Jog Z-axis 20.0 mm			1	
+16-Jan-18 9:38:47 AM	Info	Bravo - 1				Bravo diagnostics: command complete			1	
+16-Jan-18 9:38:47 AM	Info	Bravo - 1				Bravo diagnostics: Jog Z-axis 20.0 mm			1	
+16-Jan-18 9:38:48 AM	Info	Bravo - 1				Bravo diagnostics: command complete			1	
+16-Jan-18 9:38:49 AM	Info	Bravo - 1				Closing diagnostics		C:\VWorks Workspace\Device Files\TruSeq\TruSeq RNA_DNA Sample Prep_v1.0\BravoMiniPHBenchCel_round_magnet_RED_insert.dev	1	
+16-Jan-18 9:38:51 AM	Info	Bravo - 1				Closing device		C:\VWorks Workspace\Device Files\TruSeq\TruSeq RNA_DNA Sample Prep_v1.0\BravoMiniPHBenchCel_round_magnet_RED_insert.dev	1	
+16-Jan-18 10:08:54 AM	Info					administrator logged out. Session 1 closed			1	
+16-Jan-18 10:39:34 AM	Info					administrator logged in			2	
+16-Jan-18 10:40:43 AM	Info	Agilent Labware MiniHub - 1				Initializing device		C:\VWorks Workspace\Device Files\TruSeq\TruSeq RNA_DNA Sample Prep_v1.0\BravoMiniPHBenchCel_round_magnet_RED_insert.dev	2	
+16-Jan-18 10:40:43 AM	Info	BenchCel - 1				Initializing device		C:\VWorks Workspace\Device Files\TruSeq\TruSeq RNA_DNA Sample Prep_v1.0\BravoMiniPHBenchCel_round_magnet_RED_insert.dev	2	
+16-Jan-18 10:40:43 AM	Info	Bravo - 1				Initializing device		C:\VWorks Workspace\Device Files\TruSeq\TruSeq RNA_DNA Sample Prep_v1.0\BravoMiniPHBenchCel_round_magnet_RED_insert.dev	2	
+16-Jan-18 10:40:45 AM	Info	BenchCel - 1				Initialization complete		C:\VWorks Workspace\Device Files\TruSeq\TruSeq RNA_DNA Sample Prep_v1.0\BravoMiniPHBenchCel_round_magnet_RED_insert.dev	2	
+16-Jan-18 10:40:56 AM	Error	Bravo - 1				There appears to be a plate present in, or in front of the gripper's plate presence sensor.			2	
+16-Jan-18 10:40:56 AM	Error	Bravo - 1				  - Choose "Retry" to check the plate presence sensor again.			2	
+16-Jan-18 10:40:56 AM	Error	Bravo - 1				  - Choose "Ignore" to continue to home the G axis.  Please note that any plate currently held by the gripper will be dropped.			2	
+16-Jan-18 10:40:56 AM	Error	Bravo - 1				  - Choose "Abort" to cancel initialization.			2	
+16-Jan-18 10:40:56 AM	Info					Error library: Select best match error handler: "Default" and action type "show error dialog"			2	
+16-Jan-18 10:40:57 AM	Info	Agilent Labware MiniHub - 1				Initialization complete		C:\VWorks Workspace\Device Files\TruSeq\TruSeq RNA_DNA Sample Prep_v1.0\BravoMiniPHBenchCel_round_magnet_RED_insert.dev	2	
+16-Jan-18 10:42:41 AM	Info	Bravo - 1				Ignoring: There appears to be a plate present in, or in front of the gripper's plate presence sensor.			2	
+16-Jan-18 10:42:41 AM	Info	Bravo - 1				  - Choose "Retry" to check the plate presence sensor again.			2	
+16-Jan-18 10:42:41 AM	Info	Bravo - 1				  - Choose "Ignore" to continue to home the G axis.  Please note that any plate currently held by the gripper will be dropped.			2	
+16-Jan-18 10:42:41 AM	Info	Bravo - 1				  - Choose "Abort" to cancel initialization.			2	
+16-Jan-18 10:42:41 AM	Error	Bravo - 1				Please verify that it is safe to home the W-axis (the aspirate/dispense axis).  If there is fluid in the tips you may want to manually home the W-axis in diagnostics over a waste position.			2	
+16-Jan-18 10:42:41 AM	Error	Bravo - 1				  - Choose "Retry" to continue homing the W-axis.			2	
+16-Jan-18 10:42:41 AM	Error	Bravo - 1				  - Choose "Ignore" to leave the W-axis unhomed.			2	
+16-Jan-18 10:42:41 AM	Error	Bravo - 1				  - Choose "Abort" to cancel initialization.			2	
+16-Jan-18 10:42:41 AM	Info					Error library: Select best match error handler: "Default" and action type "show error dialog"			2	
+16-Jan-18 10:44:05 AM	Info	Bravo - 1				Retrying: Please verify that it is safe to home the W-axis (the aspirate/dispense axis).  If there is fluid in the tips you may want to manually home the W-axis in diagnostics over a waste position.			2	
+16-Jan-18 10:44:05 AM	Info	Bravo - 1				  - Choose "Retry" to continue homing the W-axis.			2	
+16-Jan-18 10:44:05 AM	Info	Bravo - 1				  - Choose "Ignore" to leave the W-axis unhomed.			2	
+16-Jan-18 10:44:05 AM	Info	Bravo - 1				  - Choose "Abort" to cancel initialization.			2	
+16-Jan-18 10:44:05 AM	Error	Bravo - 1				Location 4 Device not found (FindTheUniversalControl failed, return value = 0). CMTCSTCController::GetController failed for controllerID: -1			2	
+16-Jan-18 10:44:05 AM	Info					Error library: Select best match error handler: "Default" and action type "show error dialog"			2	
+16-Jan-18 10:45:08 AM	Info	Bravo - 1				Ignoring: Location 4 Device not found (FindTheUniversalControl failed, return value = 0). CMTCSTCController::GetController failed for controllerID: -1			2	
+16-Jan-18 10:45:08 AM	Error	Bravo - 1				Location 6 Device not found (FindTheUniversalControl failed, return value = 0). CMTCSTCController::GetController failed for controllerID: -1			2	
+16-Jan-18 10:45:08 AM	Info					Error library: Select best match error handler: "Default" and action type "show error dialog"			2	
+16-Jan-18 10:45:10 AM	Info	Bravo - 1				Ignoring: Location 6 Device not found (FindTheUniversalControl failed, return value = 0). CMTCSTCController::GetController failed for controllerID: -1			2	
+16-Jan-18 10:45:10 AM	Info	Bravo - 1				Initialization complete		C:\VWorks Workspace\Device Files\TruSeq\TruSeq RNA_DNA Sample Prep_v1.0\BravoMiniPHBenchCel_round_magnet_RED_insert.dev	2	
+16-Jan-18 10:45:30 AM	Info	Bravo - 1				Closing device		C:\VWorks Workspace\Device Files\TruSeq\TruSeq RNA_DNA Sample Prep_v1.0\BravoMiniPHBenchCel_round_magnet_RED_insert.dev	2	
+16-Jan-18 10:45:31 AM	Info	Bravo - 1				Opening diagnostics		C:\VWorks Workspace\Device Files\TruSeq\TruSeq RNA_DNA Sample Prep_v1.0\BravoMiniPHBenchCel_round_magnet_RED_insert.dev	2	
+16-Jan-18 10:46:45 AM	Info	Bravo - 1				Closing diagnostics		C:\VWorks Workspace\Device Files\TruSeq\TruSeq RNA_DNA Sample Prep_v1.0\BravoMiniPHBenchCel_round_magnet_RED_insert.dev	2	
+16-Jan-18 10:52:27 AM	Info	Agilent Labware MiniHub - 1				Closing device		C:\VWorks Workspace\Device Files\TruSeq\TruSeq RNA_DNA Sample Prep_v1.0\BravoMiniPHBenchCel_round_magnet_RED_insert.dev	2	
+16-Jan-18 10:52:27 AM	Info	BenchCel - 1				Closing device		C:\VWorks Workspace\Device Files\TruSeq\TruSeq RNA_DNA Sample Prep_v1.0\BravoMiniPHBenchCel_round_magnet_RED_insert.dev	2	
+16-Jan-18 10:52:27 AM	Info	Bravo - 1				Closing device		C:\VWorks Workspace\Device Files\TruSeq\TruSeq RNA_DNA Sample Prep_v1.0\BravoMiniPHBenchCel_round_magnet_RED_insert.dev	2	
+16-Jan-18 10:52:27 AM	Info					File unloaded		C:\VWorks Workspace\Device Files\TruSeq\TruSeq RNA_DNA Sample Prep_v1.0\BravoMiniPHBenchCel_round_magnet_RED_insert.dev	2	
+16-Jan-18 10:54:06 AM	Info					File loaded		C:\VWorks Workspace\Device Files\BravoMiniPHBenchCel_round_magnet_RED_insert.dev	2	
+16-Jan-18 10:55:03 AM	Info					File unloaded		C:\VWorks Workspace\Device Files\BravoMiniPHBenchCel_round_magnet_RED_insert.dev	2	
+16-Jan-18 10:55:33 AM	Info					File loaded		C:\VWorks Workspace\Device Files\SureSelect\XT_Illumina\BravoMiniPHBenchCel_round_magnet.dev	2	
+16-Jan-18 10:56:35 AM	Info					File unloaded		C:\VWorks Workspace\Device Files\SureSelect\XT_Illumina\BravoMiniPHBenchCel_round_magnet.dev	2	
+16-Jan-18 10:57:03 AM	Info					File loaded		C:\VWorks Workspace\Device Files\TruSeq\TruSeq RNA_DNA Sample Prep_v1.0\BravoMiniPHBenchCel_round_magnet.dev	2	
+16-Jan-18 10:58:20 AM	Info					File loaded		C:\VWorks Workspace\Device Files\TruSeq\TruSeq RNA_DNA Sample Prep_v1.0\BravoMiniPHBenchCel_round_magnet_RED_insert.dev	2	
+16-Jan-18 10:58:53 AM	Info					File unloaded		C:\VWorks Workspace\Device Files\TruSeq\TruSeq RNA_DNA Sample Prep_v1.0\BravoMiniPHBenchCel_round_magnet_RED_insert.dev	2	
+16-Jan-18 10:59:39 AM	Info					File loaded		C:\VWorks Workspace\Device Files\TruSeq\TruSeq RNA_DNA Sample Prep_v1.0\BravoMiniPHBenchCel_round_magnet_RED_insert.dev	2	
+16-Jan-18 10:59:47 AM	Info	Bravo - 1				Opening diagnostics		C:\VWorks Workspace\Device Files\TruSeq\TruSeq RNA_DNA Sample Prep_v1.0\BravoMiniPHBenchCel_round_magnet_RED_insert.dev	2	
+16-Jan-18 11:01:38 AM	Info	Bravo - 1				Bravo diagnostics: Initializing profile "Bravo-RED Insert Mag and Shaker"			2	
+16-Jan-18 11:01:53 AM	Info	Bravo - 1				Bravo diagnostics: Location 4 Device not found (FindTheUniversalControl failed, return value = 0). CMTCSTCController::GetController failed for controllerID: -1			2	
+16-Jan-18 11:01:55 AM	Info	Bravo - 1				Bravo diagnostics: user clicked Ignore			2	
+16-Jan-18 11:02:01 AM	Info	Bravo - 1				Bravo diagnostics: Location 6 Device not found (FindTheUniversalControl failed, return value = 0). CMTCSTCController::GetController failed for controllerID: -1			2	
+16-Jan-18 11:02:03 AM	Info	Bravo - 1				Bravo diagnostics: user clicked Ignore			2	
+16-Jan-18 11:03:01 AM	Info	Bravo - 1				Bravo diagnostics: Docking gripper before processing command.			2	
+16-Jan-18 11:03:02 AM	Info	Bravo - 1				Bravo diagnostics: command complete			2	
+16-Jan-18 11:03:02 AM	Info	Bravo - 1				Bravo diagnostics: Tips On in 1 selection(s) at Location 2			2	
+16-Jan-18 11:03:10 AM	Info	Bravo - 1				Bravo diagnostics: command complete			2	
+16-Jan-18 11:03:45 AM	Info	Bravo - 1				Bravo diagnostics: Changed jog/teach speed to Medium.			2	
+16-Jan-18 11:03:54 AM	Info	Bravo - 1				Bravo diagnostics: Docking gripper before processing Move To Teachpoint command.			2	
+16-Jan-18 11:03:54 AM	Info	Bravo - 1				Bravo diagnostics: command complete			2	
+16-Jan-18 11:03:55 AM	Info	Bravo - 1				Bravo diagnostics: Move to teachpoint for "Location 1", using an approach height of "5 mm".			2	
+16-Jan-18 11:03:59 AM	Info	Bravo - 1				Bravo diagnostics: command complete			2	
+16-Jan-18 11:04:09 AM	Info	Bravo - 1				Bravo diagnostics: Jog Z-axis 2.0 mm			2	
+16-Jan-18 11:04:10 AM	Info	Bravo - 1				Bravo diagnostics: command complete			2	
+16-Jan-18 11:04:13 AM	Info	Bravo - 1				Bravo diagnostics: Jog Z-axis 2.0 mm			2	
+16-Jan-18 11:04:14 AM	Info	Bravo - 1				Bravo diagnostics: command complete			2	
+16-Jan-18 11:04:20 AM	Info	Bravo - 1				Bravo diagnostics: Jog Z-axis 0.5 mm			2	
+16-Jan-18 11:04:21 AM	Info	Bravo - 1				Bravo diagnostics: command complete			2	
+16-Jan-18 11:04:28 AM	Info	Bravo - 1				Bravo diagnostics: Jog Z-axis 0.5 mm			2	
+16-Jan-18 11:04:28 AM	Info	Bravo - 1				Bravo diagnostics: command complete			2	
+16-Jan-18 11:04:46 AM	Info	Bravo - 1				Bravo diagnostics: Jog Z-axis -0.05 mm			2	
+16-Jan-18 11:04:47 AM	Info	Bravo - 1				Bravo diagnostics: command complete			2	
+16-Jan-18 11:05:57 AM	Info	Bravo - 1				Bravo diagnostics: Set teachpoint for "Location 1".			2	
+16-Jan-18 11:05:57 AM	Info	Bravo - 1				Bravo diagnostics: command complete			2	
+16-Jan-18 11:10:35 AM	Info	Bravo - 1				Bravo diagnostics: Jog Z-axis -10.0 mm			2	
+16-Jan-18 11:10:36 AM	Info	Bravo - 1				Bravo diagnostics: command complete			2	
+16-Jan-18 11:10:48 AM	Info	Bravo - 1				Bravo diagnostics: Jog Z-axis 5.0 mm			2	
+16-Jan-18 11:10:49 AM	Info	Bravo - 1				Bravo diagnostics: command complete			2	
+16-Jan-18 11:11:05 AM	Info	Bravo - 1				Bravo diagnostics: Jog Z-axis 2.0 mm			2	
+16-Jan-18 11:11:06 AM	Info	Bravo - 1				Bravo diagnostics: command complete			2	
+16-Jan-18 11:11:07 AM	Info	Bravo - 1				Bravo diagnostics: Jog Z-axis 2.0 mm			2	
+16-Jan-18 11:11:08 AM	Info	Bravo - 1				Bravo diagnostics: command complete			2	
+16-Jan-18 11:11:44 AM	Info	Bravo - 1				Bravo diagnostics: Set teachpoint for "Location 2".			2	
+16-Jan-18 11:11:44 AM	Info	Bravo - 1				Bravo diagnostics: The X and Y-axis position of the head is significantly different from the default teachpoint of location "2" for this head type.  Click "Ignore" to continue with the teaching operation.			2	
+16-Jan-18 11:11:47 AM	Info	Bravo - 1				Bravo diagnostics: user clicked Abort			2	
+16-Jan-18 11:11:50 AM	Info	Bravo - 1				Bravo diagnostics: Docking gripper before processing Move To Teachpoint command.			2	
+16-Jan-18 11:11:51 AM	Info	Bravo - 1				Bravo diagnostics: command complete			2	
+16-Jan-18 11:11:51 AM	Info	Bravo - 1				Bravo diagnostics: Move to teachpoint for "Location 2", using an approach height of "5 mm".			2	
+16-Jan-18 11:11:58 AM	Info	Bravo - 1				Bravo diagnostics: command complete			2	
+16-Jan-18 11:12:02 AM	Info	Bravo - 1				Bravo diagnostics: Jog Z-axis 2.0 mm			2	
+16-Jan-18 11:12:03 AM	Info	Bravo - 1				Bravo diagnostics: command complete			2	
+16-Jan-18 11:12:06 AM	Info	Bravo - 1				Bravo diagnostics: Jog Z-axis 2.0 mm			2	
+16-Jan-18 11:12:06 AM	Info	Bravo - 1				Bravo diagnostics: command complete			2	
+16-Jan-18 11:12:21 AM	Info	Bravo - 1				Bravo diagnostics: Jog Z-axis 0.5 mm			2	
+16-Jan-18 11:12:22 AM	Info	Bravo - 1				Bravo diagnostics: command complete			2	
+16-Jan-18 11:12:35 AM	Info	Bravo - 1				Bravo diagnostics: Jog Z-axis 0.5 mm			2	
+16-Jan-18 11:12:36 AM	Info	Bravo - 1				Bravo diagnostics: command complete			2	
+16-Jan-18 11:12:44 AM	Info	Bravo - 1				Bravo diagnostics: Jog Z-axis -0.05 mm			2	
+16-Jan-18 11:12:44 AM	Info	Bravo - 1				Bravo diagnostics: command complete			2	
+16-Jan-18 11:12:54 AM	Info	Bravo - 1				Bravo diagnostics: Jog Z-axis -0.05 mm			2	
+16-Jan-18 11:12:55 AM	Info	Bravo - 1				Bravo diagnostics: command complete			2	
+16-Jan-18 11:13:36 AM	Info	Bravo - 1				Bravo diagnostics: Set teachpoint for "Location 2".			2	
+16-Jan-18 11:13:36 AM	Info	Bravo - 1				Bravo diagnostics: command complete			2	
+16-Jan-18 11:14:00 AM	Info	Bravo - 1				Bravo diagnostics: Docking gripper before processing Move To Teachpoint command.			2	
+16-Jan-18 11:14:01 AM	Info	Bravo - 1				Bravo diagnostics: command complete			2	
+16-Jan-18 11:14:01 AM	Info	Bravo - 1				Bravo diagnostics: Move to teachpoint for "Location 3", using an approach height of "1 mm".			2	
+16-Jan-18 11:14:08 AM	Info	Bravo - 1				Bravo diagnostics: command complete			2	
+16-Jan-18 11:14:13 AM	Info	Bravo - 1				Bravo diagnostics: Jog Z-axis 0.5 mm			2	
+16-Jan-18 11:14:13 AM	Info	Bravo - 1				Bravo diagnostics: command complete			2	
+16-Jan-18 11:14:25 AM	Info	Bravo - 1				Bravo diagnostics: Jog Z-axis 0.5 mm			2	
+16-Jan-18 11:14:25 AM	Info	Bravo - 1				Bravo diagnostics: command complete			2	
+16-Jan-18 11:14:56 AM	Info	Bravo - 1				Bravo diagnostics: Jog Z-axis -0.05 mm			2	
+16-Jan-18 11:14:56 AM	Info	Bravo - 1				Bravo diagnostics: command complete			2	
+16-Jan-18 11:15:46 AM	Info	Bravo - 1				Bravo diagnostics: Set teachpoint for "Location 3".			2	
+16-Jan-18 11:15:46 AM	Info	Bravo - 1				Bravo diagnostics: command complete			2	
+16-Jan-18 11:15:57 AM	Info	Bravo - 1				Bravo diagnostics: Docking gripper before processing Move To Teachpoint command.			2	
+16-Jan-18 11:15:58 AM	Info	Bravo - 1				Bravo diagnostics: command complete			2	
+16-Jan-18 11:15:58 AM	Info	Bravo - 1				Bravo diagnostics: Move to teachpoint for "Location 5", using an approach height of "1 mm".			2	
+16-Jan-18 11:16:05 AM	Info	Bravo - 1				Bravo diagnostics: command complete			2	
+16-Jan-18 11:16:22 AM	Info	Bravo - 1				Bravo diagnostics: Jog Z-axis 1.0 mm			2	
+16-Jan-18 11:16:22 AM	Info	Bravo - 1				Bravo diagnostics: command complete			2	
+16-Jan-18 11:16:32 AM	Info	Bravo - 1				Bravo diagnostics: Jog Z-axis -0.05 mm			2	
+16-Jan-18 11:16:32 AM	Info	Bravo - 1				Bravo diagnostics: command complete			2	
+16-Jan-18 11:16:41 AM	Info	Bravo - 1				Bravo diagnostics: Jog Z-axis -0.05 mm			2	
+16-Jan-18 11:16:42 AM	Info	Bravo - 1				Bravo diagnostics: command complete			2	
+16-Jan-18 11:17:31 AM	Info	Bravo - 1				Bravo diagnostics: Set teachpoint for "Location 5".			2	
+16-Jan-18 11:17:31 AM	Info	Bravo - 1				Bravo diagnostics: command complete			2	
+16-Jan-18 11:17:36 AM	Info	Bravo - 1				Bravo diagnostics: Jog Z-axis -5.0 mm			2	
+16-Jan-18 11:17:36 AM	Info	Bravo - 1				Bravo diagnostics: command complete			2	
+16-Jan-18 11:19:03 AM	Info	Bravo - 1				Bravo diagnostics: Docking gripper before processing Move To Teachpoint command.			2	
+16-Jan-18 11:19:03 AM	Info	Bravo - 1				Bravo diagnostics: command complete			2	
+16-Jan-18 11:19:03 AM	Info	Bravo - 1				Bravo diagnostics: Move to teachpoint for "Location 6", using an approach height of "1 mm".			2	
+16-Jan-18 11:19:10 AM	Info	Bravo - 1				Bravo diagnostics: command complete			2	
+16-Jan-18 11:19:20 AM	Info	Bravo - 1				Bravo diagnostics: Jog Z-axis 0.5 mm			2	
+16-Jan-18 11:19:20 AM	Info	Bravo - 1				Bravo diagnostics: command complete			2	
+16-Jan-18 11:19:30 AM	Info	Bravo - 1				Bravo diagnostics: Jog Z-axis 0.5 mm			2	
+16-Jan-18 11:19:31 AM	Info	Bravo - 1				Bravo diagnostics: command complete			2	
+16-Jan-18 11:19:40 AM	Info	Bravo - 1				Bravo diagnostics: Jog Z-axis -0.05 mm			2	
+16-Jan-18 11:19:40 AM	Info	Bravo - 1				Bravo diagnostics: command complete			2	
+16-Jan-18 11:19:48 AM	Info	Bravo - 1				Bravo diagnostics: Jog Z-axis -0.05 mm			2	
+16-Jan-18 11:19:49 AM	Info	Bravo - 1				Bravo diagnostics: command complete			2	
+16-Jan-18 11:20:31 AM	Info	Bravo - 1				Bravo diagnostics: Set teachpoint for "Location 6".			2	
+16-Jan-18 11:20:31 AM	Info	Bravo - 1				Bravo diagnostics: command complete			2	
+16-Jan-18 11:21:23 AM	Info	Bravo - 1				Bravo diagnostics: Docking gripper before processing Move To Teachpoint command.			2	
+16-Jan-18 11:21:23 AM	Info	Bravo - 1				Bravo diagnostics: command complete			2	
+16-Jan-18 11:21:23 AM	Info	Bravo - 1				Bravo diagnostics: Move to teachpoint for "Location 8", using an approach height of "1 mm".			2	
+16-Jan-18 11:21:30 AM	Info	Bravo - 1				Bravo diagnostics: command complete			2	
+16-Jan-18 11:23:58 AM	Info	Bravo - 1				Bravo diagnostics: Jog Z-axis 0.5 mm			2	
+16-Jan-18 11:23:58 AM	Info	Bravo - 1				Bravo diagnostics: command complete			2	
+16-Jan-18 11:24:03 AM	Info	Bravo - 1				Bravo diagnostics: Jog Z-axis 0.5 mm			2	
+16-Jan-18 11:24:04 AM	Info	Bravo - 1				Bravo diagnostics: command complete			2	
+16-Jan-18 11:24:31 AM	Info	Bravo - 1				Bravo diagnostics: Jog Z-axis -0.05 mm			2	
+16-Jan-18 11:24:32 AM	Info	Bravo - 1				Bravo diagnostics: command complete			2	
+16-Jan-18 11:25:14 AM	Info	Bravo - 1				Bravo diagnostics: Set teachpoint for "Location 8".			2	
+16-Jan-18 11:25:14 AM	Info	Bravo - 1				Bravo diagnostics: command complete			2	
+16-Jan-18 11:25:17 AM	Info	Bravo - 1				Bravo diagnostics: Jog Z-axis -5.0 mm			2	
+16-Jan-18 11:25:18 AM	Info	Bravo - 1				Bravo diagnostics: command complete			2	
+16-Jan-18 11:26:37 AM	Info	Bravo - 1				Bravo diagnostics: Docking gripper before processing Move To Teachpoint command.			2	
+16-Jan-18 11:26:37 AM	Info	Bravo - 1				Bravo diagnostics: command complete			2	
+16-Jan-18 11:26:38 AM	Info	Bravo - 1				Bravo diagnostics: Move to teachpoint for "Location 9", using an approach height of "1 mm".			2	
+16-Jan-18 11:26:44 AM	Info	Bravo - 1				Bravo diagnostics: command complete			2	
+16-Jan-18 11:27:09 AM	Info	Bravo - 1				Bravo diagnostics: Jog Z-axis 0.5 mm			2	
+16-Jan-18 11:27:09 AM	Info	Bravo - 1				Bravo diagnostics: command complete			2	
+16-Jan-18 11:27:22 AM	Info	Bravo - 1				Bravo diagnostics: Jog Z-axis 0.5 mm			2	
+16-Jan-18 11:27:23 AM	Info	Bravo - 1				Bravo diagnostics: command complete			2	
+16-Jan-18 11:27:44 AM	Info	Bravo - 1				Bravo diagnostics: Jog Z-axis -0.05 mm			2	
+16-Jan-18 11:27:44 AM	Info	Bravo - 1				Bravo diagnostics: command complete			2	
+16-Jan-18 11:28:10 AM	Info	Bravo - 1				Bravo diagnostics: Jog Z-axis -0.05 mm			2	
+16-Jan-18 11:28:11 AM	Info	Bravo - 1				Bravo diagnostics: command complete			2	
+16-Jan-18 11:28:22 AM	Info	Bravo - 1				Bravo diagnostics: Set teachpoint for "Location 9".			2	
+16-Jan-18 11:28:22 AM	Info	Bravo - 1				Bravo diagnostics: command complete			2	
+16-Jan-18 11:28:26 AM	Info	Bravo - 1				Profile "Bravo-RED Insert Mag and Shaker" modified variable "Teachpoint 1".Old value was "X: 6.29, Y: 6.27, Z: 110.46, " and new value is "X: 6.29, Y: 6.27, Z: 110.42, ".			2	
+16-Jan-18 11:28:26 AM	Info	Bravo - 1				Profile "Bravo-RED Insert Mag and Shaker" modified variable "Teachpoint 2".Old value was "X: 193.06, Y: 6.74, Z: 110.47, " and new value is "X: 193.06, Y: 6.73, Z: 110.39, ".			2	
+16-Jan-18 11:28:26 AM	Info	Bravo - 1				Profile "Bravo-RED Insert Mag and Shaker" modified variable "Teachpoint 3".Old value was "X: 379.58, Y: 6.54, Z: 110.53, " and new value is "X: 379.58, Y: 6.55, Z: 110.49, ".			2	
+16-Jan-18 11:28:26 AM	Info	Bravo - 1				Profile "Bravo-RED Insert Mag and Shaker" modified variable "Teachpoint 5".Old value was "X: 192.90, Y: 115.57, Z: 107.93, " and new value is "X: 192.90, Y: 115.57, Z: 107.84, ".			2	
+16-Jan-18 11:28:26 AM	Info	Bravo - 1				Profile "Bravo-RED Insert Mag and Shaker" modified variable "Teachpoint 6".Old value was "X: 379.70, Y: 115.73, Z: 109.03, " and new value is "X: 379.70, Y: 115.73, Z: 108.95, ".			2	
+16-Jan-18 11:28:26 AM	Info	Bravo - 1				Profile "Bravo-RED Insert Mag and Shaker" modified variable "Teachpoint 8".Old value was "X: 192.90, Y: 224.84, Z: 110.42, " and new value is "X: 192.91, Y: 224.83, Z: 110.38, ".			2	
+16-Jan-18 11:28:26 AM	Info	Bravo - 1				Profile "Bravo-RED Insert Mag and Shaker" modified variable "Teachpoint 9".Old value was "X: 379.45, Y: 225.38, Z: 90.03, " and new value is "X: 379.45, Y: 225.37, Z: 89.95, ".			2	
+16-Jan-18 11:30:21 AM	Info	Bravo - 1				Bravo diagnostics: Docking gripper before processing Move To Teachpoint command.			2	
+16-Jan-18 11:30:22 AM	Info	Bravo - 1				Bravo diagnostics: command complete			2	
+16-Jan-18 11:30:22 AM	Info	Bravo - 1				Bravo diagnostics: Move to teachpoint for "Location 7", using an approach height of "20 mm".			2	
+16-Jan-18 11:30:28 AM	Info	Bravo - 1				Bravo diagnostics: command complete			2	
+16-Jan-18 11:30:38 AM	Info	Bravo - 1				Bravo diagnostics: Jog Z-axis 20.0 mm			2	
+16-Jan-18 11:30:39 AM	Info	Bravo - 1				Bravo diagnostics: command complete			2	
+16-Jan-18 11:30:48 AM	Info	Bravo - 1				Bravo diagnostics: Jog Z-axis -0.05 mm			2	
+16-Jan-18 11:30:48 AM	Info	Bravo - 1				Bravo diagnostics: command complete			2	
+16-Jan-18 11:30:52 AM	Info	Bravo - 1				Bravo diagnostics: Set teachpoint for "Location 7".			2	
+16-Jan-18 11:30:53 AM	Info	Bravo - 1				Bravo diagnostics: command complete			2	
+16-Jan-18 11:32:36 AM	Info	Bravo - 1				Bravo diagnostics: Jog X-axis 0.05 mm			2	
+16-Jan-18 11:32:36 AM	Info	Bravo - 1				Bravo diagnostics: command complete			2	
+16-Jan-18 11:32:39 AM	Info	Bravo - 1				Bravo diagnostics: Jog X-axis 0.05 mm			2	
+16-Jan-18 11:32:39 AM	Info	Bravo - 1				Bravo diagnostics: command complete			2	
+16-Jan-18 11:32:42 AM	Info	Bravo - 1				Bravo diagnostics: Jog X-axis 0.05 mm			2	
+16-Jan-18 11:32:42 AM	Info	Bravo - 1				Bravo diagnostics: command complete			2	
+16-Jan-18 11:32:46 AM	Info	Bravo - 1				Bravo diagnostics: Jog X-axis 0.05 mm			2	
+16-Jan-18 11:32:46 AM	Info	Bravo - 1				Bravo diagnostics: command complete			2	
+16-Jan-18 11:32:51 AM	Info	Bravo - 1				Bravo diagnostics: Jog X-axis 0.05 mm			2	
+16-Jan-18 11:32:52 AM	Info	Bravo - 1				Bravo diagnostics: command complete			2	
+16-Jan-18 11:34:31 AM	Info	Bravo - 1				Bravo diagnostics: Set teachpoint for "Location 7".			2	
+16-Jan-18 11:34:31 AM	Info	Bravo - 1				Bravo diagnostics: command complete			2	
+16-Jan-18 11:34:37 AM	Info	Bravo - 1				Bravo diagnostics: Jog Z-axis -20.0 mm			2	
+16-Jan-18 11:34:38 AM	Info	Bravo - 1				Bravo diagnostics: command complete			2	
+16-Jan-18 11:34:38 AM	Info	Bravo - 1				Bravo diagnostics: Jog Z-axis -20.0 mm			2	
+16-Jan-18 11:34:38 AM	Info	Bravo - 1				Bravo diagnostics: The robot disable is active.			2	
+16-Jan-18 11:34:40 AM	Info	Bravo - 1				Bravo diagnostics: user clicked Retry			2	
+16-Jan-18 11:34:41 AM	Info	Bravo - 1				Bravo diagnostics: command complete			2	
+16-Jan-18 11:34:57 AM	Info	Bravo - 1				Bravo diagnostics: Jog Z-axis 10.0 mm			2	
+16-Jan-18 11:34:58 AM	Info	Bravo - 1				Bravo diagnostics: command complete			2	
+16-Jan-18 11:34:59 AM	Info	Bravo - 1				Bravo diagnostics: Jog Z-axis 10.0 mm			2	
+16-Jan-18 11:35:00 AM	Info	Bravo - 1				Bravo diagnostics: command complete			2	
+16-Jan-18 11:35:03 AM	Info	Bravo - 1				Bravo diagnostics: Jog Z-axis 5.0 mm			2	
+16-Jan-18 11:35:03 AM	Info	Bravo - 1				Bravo diagnostics: command complete			2	
+16-Jan-18 11:35:44 AM	Info	Bravo - 1				Bravo diagnostics: Jog Z-axis -5.0 mm			2	
+16-Jan-18 11:35:45 AM	Info	Bravo - 1				Bravo diagnostics: command complete			2	
+16-Jan-18 11:35:45 AM	Info	Bravo - 1				Bravo diagnostics: Jog Z-axis -5.0 mm			2	
+16-Jan-18 11:35:46 AM	Info	Bravo - 1				Bravo diagnostics: command complete			2	
+16-Jan-18 11:36:49 AM	Info	Bravo - 1				Bravo diagnostics: Docking gripper before processing Move To Teachpoint command.			2	
+16-Jan-18 11:36:49 AM	Info	Bravo - 1				Bravo diagnostics: command complete			2	
+16-Jan-18 11:36:50 AM	Info	Bravo - 1				Bravo diagnostics: Move to teachpoint for "Location 4", using an approach height of "10 mm".			2	
+16-Jan-18 11:36:55 AM	Info	Bravo - 1				Bravo diagnostics: command complete			2	
+16-Jan-18 11:36:58 AM	Info	Bravo - 1				Bravo diagnostics: Jog Z-axis 5.0 mm			2	
+16-Jan-18 11:36:58 AM	Info	Bravo - 1				Bravo diagnostics: command complete			2	
+16-Jan-18 11:37:02 AM	Info	Bravo - 1				Bravo diagnostics: Jog Z-axis 2.0 mm			2	
+16-Jan-18 11:37:03 AM	Info	Bravo - 1				Bravo diagnostics: command complete			2	
+16-Jan-18 11:37:38 AM	Info	Bravo - 1				Bravo diagnostics: Jog Z-axis 1.0 mm			2	
+16-Jan-18 11:37:38 AM	Info	Bravo - 1				Bravo diagnostics: command complete			2	
+16-Jan-18 11:37:39 AM	Info	Bravo - 1				Bravo diagnostics: Jog Z-axis 1.0 mm			2	
+16-Jan-18 11:37:40 AM	Info	Bravo - 1				Bravo diagnostics: command complete			2	
+16-Jan-18 11:37:45 AM	Info	Bravo - 1				Bravo diagnostics: Jog Z-axis 1.0 mm			2	
+16-Jan-18 11:37:46 AM	Info	Bravo - 1				Bravo diagnostics: command complete			2	
+16-Jan-18 11:37:53 AM	Info	Bravo - 1				Bravo diagnostics: Jog Z-axis -0.05 mm			2	
+16-Jan-18 11:37:53 AM	Info	Bravo - 1				Bravo diagnostics: command complete			2	
+16-Jan-18 11:38:11 AM	Info	Bravo - 1				Bravo diagnostics: Set teachpoint for "Location 4".			2	
+16-Jan-18 11:38:11 AM	Info	Bravo - 1				Bravo diagnostics: command complete			2	
+16-Jan-18 11:38:16 AM	Info	Bravo - 1				Profile "Bravo-RED Insert Mag and Shaker" modified variable "Teachpoint 7".Old value was "X: 5.56, Y: 224.50, Z: 80.85, " and new value is "X: 5.79, Y: 224.50, Z: 80.81, ".			2	
+16-Jan-18 11:38:16 AM	Info	Bravo - 1				Profile "Bravo-RED Insert Mag and Shaker" modified variable "Teachpoint 4".Old value was "X: 6.19, Y: 115.36, Z: 104.70, " and new value is "X: 6.18, Y: 115.36, Z: 104.66, ".			2	
+16-Jan-18 11:38:21 AM	Info	Bravo - 1				Bravo diagnostics: Jog Z-axis -20.0 mm			2	
+16-Jan-18 11:38:22 AM	Info	Bravo - 1				Bravo diagnostics: command complete			2	
+16-Jan-18 11:38:23 AM	Info	Bravo - 1				Bravo diagnostics: Jog Z-axis -20.0 mm			2	
+16-Jan-18 11:38:24 AM	Info	Bravo - 1				Bravo diagnostics: command complete			2	
+16-Jan-18 11:39:36 AM	Info	Bravo - 1				Bravo diagnostics: Docking gripper before processing command.			2	
+16-Jan-18 11:39:36 AM	Info	Bravo - 1				Bravo diagnostics: command complete			2	
+16-Jan-18 11:39:36 AM	Info	Bravo - 1				Bravo diagnostics: Tips Off in 1 selection(s) at Location 8			2	
+16-Jan-18 11:39:44 AM	Info	Bravo - 1				Bravo diagnostics: command complete			2	
+16-Jan-18 11:39:53 AM	Info	Bravo - 1				Bravo diagnostics: Docking gripper before processing command.			2	
+16-Jan-18 11:39:53 AM	Info	Bravo - 1				Bravo diagnostics: command complete			2	
+16-Jan-18 11:39:53 AM	Info	Bravo - 1				Bravo diagnostics: Tips On in 1 selection(s) at Location 8			2	
+16-Jan-18 11:40:01 AM	Info	Bravo - 1				Bravo diagnostics: command complete			2	
+16-Jan-18 11:41:00 AM	Info	Bravo - 1				Bravo diagnostics: Docking gripper before processing command.			2	
+16-Jan-18 11:41:00 AM	Info	Bravo - 1				Bravo diagnostics: command complete			2	
+16-Jan-18 11:41:00 AM	Info	Bravo - 1				Bravo diagnostics: Mix 100 킠 in 1 selection(s) at Location 7			2	
+16-Jan-18 11:41:05 AM	Info	Bravo - 1				Bravo diagnostics: The robot disable is active.  The Bravo was mixing 100킠 in the plate at Location 7, for 3 cycles, at a distance of 2mm from the bottom of the plate.			2	
+16-Jan-18 11:41:11 AM	Info	Bravo - 1				Bravo diagnostics: user clicked Retry			2	
+16-Jan-18 11:41:23 AM	Info	Bravo - 1				Bravo diagnostics: command complete			2	
+16-Jan-18 11:42:07 AM	Info	Bravo - 1				Bravo diagnostics: Docking gripper before processing command.			2	
+16-Jan-18 11:42:08 AM	Info	Bravo - 1				Bravo diagnostics: command complete			2	
+16-Jan-18 11:42:08 AM	Info	Bravo - 1				Bravo diagnostics: Mix 100 킠 in 1 selection(s) at Location 7			2	
+16-Jan-18 11:42:12 AM	Info	Bravo - 1				Bravo diagnostics: The robot disable is active.  The Bravo was mixing 100킠 in the plate at Location 7, for 3 cycles, at a distance of 0.5mm from the bottom of the plate.			2	
+16-Jan-18 11:42:17 AM	Info	Bravo - 1				Bravo diagnostics: user clicked Abort			2	
+16-Jan-18 11:42:29 AM	Info	Bravo - 1				Bravo diagnostics: Docking gripper before processing command.			2	
+16-Jan-18 11:42:30 AM	Info	Bravo - 1				Bravo diagnostics: command complete			2	
+16-Jan-18 11:42:30 AM	Info	Bravo - 1				Bravo diagnostics: Mix 100 킠 in 1 selection(s) at Location 7			2	
+16-Jan-18 11:42:44 AM	Info	Bravo - 1				Bravo diagnostics: command complete			2	
+16-Jan-18 11:42:47 AM	Info	Bravo - 1				Bravo diagnostics: Docking gripper before processing command.			2	
+16-Jan-18 11:42:48 AM	Info	Bravo - 1				Bravo diagnostics: command complete			2	
+16-Jan-18 11:42:48 AM	Info	Bravo - 1				Bravo diagnostics: Mix 100 킠 in 1 selection(s) at Location 7			2	
+16-Jan-18 11:42:52 AM	Info	Bravo - 1				Bravo diagnostics: The robot disable is active.  The Bravo was mixing 100킠 in the plate at Location 7, for 3 cycles, at a distance of 0.1mm from the bottom of the plate.			2	
+16-Jan-18 11:44:03 AM	Info	Bravo - 1				Bravo diagnostics: user clicked Retry			2	
+16-Jan-18 11:44:14 AM	Info	Bravo - 1				Bravo diagnostics: command complete			2	
+16-Jan-18 11:46:24 AM	Info	Bravo - 1				Bravo diagnostics: Initializing profile "Bravo-Mag and Shaker"			2	
+16-Jan-18 11:46:39 AM	Info	Bravo - 1				Bravo diagnostics: Location 4 Device not found (FindTheUniversalControl failed, return value = 0). CMTCSTCController::GetController failed for controllerID: -1			2	
+16-Jan-18 11:46:48 AM	Info	Bravo - 1				Bravo diagnostics: user clicked Ignore			2	
+16-Jan-18 11:46:53 AM	Info	Bravo - 1				Bravo diagnostics: Location 6 Device not found (FindTheUniversalControl failed, return value = 0). CMTCSTCController::GetController failed for controllerID: -1			2	
+16-Jan-18 11:46:59 AM	Info	Bravo - 1				Bravo diagnostics: user clicked Ignore			2	
+16-Jan-18 11:47:40 AM	Info	Bravo - 1				Bravo diagnostics: Docking gripper before processing command.			2	
+16-Jan-18 11:47:40 AM	Info	Bravo - 1				Bravo diagnostics: command complete			2	
+16-Jan-18 11:47:40 AM	Info	Bravo - 1				Bravo diagnostics: Mix 100 킠 in 1 selection(s) at Location 7			2	
+16-Jan-18 11:47:44 AM	Info	Bravo - 1				Bravo diagnostics: The robot disable is active.  The Bravo was mixing 100킠 in the plate at Location 7, for 3 cycles, at a distance of 0.1mm from the bottom of the plate.			2	
+16-Jan-18 11:48:00 AM	Info	Bravo - 1				Bravo diagnostics: user clicked Retry			2	
+16-Jan-18 11:48:12 AM	Info	Bravo - 1				Bravo diagnostics: command complete			2	
+16-Jan-18 11:48:40 AM	Info	Bravo - 1				Bravo diagnostics: Docking gripper before processing Move To Teachpoint command.			2	
+16-Jan-18 11:48:40 AM	Info	Bravo - 1				Bravo diagnostics: command complete			2	
+16-Jan-18 11:48:40 AM	Info	Bravo - 1				Bravo diagnostics: Move to teachpoint for "Location 4", using an approach height of "20 mm".			2	
+16-Jan-18 11:48:44 AM	Info	Bravo - 1				Bravo diagnostics: command complete			2	
+16-Jan-18 11:48:48 AM	Info	Bravo - 1				Bravo diagnostics: Jog Z-axis 10.0 mm			2	
+16-Jan-18 11:48:49 AM	Info	Bravo - 1				Bravo diagnostics: command complete			2	
+16-Jan-18 11:48:57 AM	Info	Bravo - 1				Bravo diagnostics: Jog Z-axis 5.0 mm			2	
+16-Jan-18 11:48:58 AM	Info	Bravo - 1				Bravo diagnostics: command complete			2	
+16-Jan-18 11:48:59 AM	Info	Bravo - 1				Bravo diagnostics: Jog Z-axis 5.0 mm			2	
+16-Jan-18 11:49:00 AM	Info	Bravo - 1				Bravo diagnostics: command complete			2	
+16-Jan-18 11:49:07 AM	Info	Bravo - 1				Bravo diagnostics: Jog Z-axis 1.0 mm			2	
+16-Jan-18 11:49:07 AM	Info	Bravo - 1				Bravo diagnostics: The commanded move may result in a physical collision.  Please click Ignore if it appears to be safe to move the Z-axis down  by 1 mm			2	
+16-Jan-18 11:49:09 AM	Info	Bravo - 1				Bravo diagnostics: user clicked Ignore			2	
+16-Jan-18 11:49:10 AM	Info	Bravo - 1				Bravo diagnostics: command complete			2	
+16-Jan-18 11:49:12 AM	Info	Bravo - 1				Bravo diagnostics: Jog Z-axis 1.0 mm			2	
+16-Jan-18 11:49:12 AM	Info	Bravo - 1				Bravo diagnostics: The commanded move may result in a physical collision.  Please click Ignore if it appears to be safe to move the Z-axis down  by 1 mm			2	
+16-Jan-18 11:49:14 AM	Info	Bravo - 1				Bravo diagnostics: user clicked Ignore			2	
+16-Jan-18 11:49:14 AM	Info	Bravo - 1				Bravo diagnostics: command complete			2	
+16-Jan-18 11:49:16 AM	Info	Bravo - 1				Bravo diagnostics: Jog Z-axis 1.0 mm			2	
+16-Jan-18 11:49:16 AM	Info	Bravo - 1				Bravo diagnostics: The commanded move may result in a physical collision.  Please click Ignore if it appears to be safe to move the Z-axis down  by 1 mm			2	
+16-Jan-18 11:49:18 AM	Info	Bravo - 1				Bravo diagnostics: user clicked Ignore			2	
+16-Jan-18 11:49:18 AM	Info	Bravo - 1				Bravo diagnostics: command complete			2	
+16-Jan-18 11:49:36 AM	Info	Bravo - 1				Bravo diagnostics: Jog Z-axis 1.0 mm			2	
+16-Jan-18 11:49:36 AM	Info	Bravo - 1				Bravo diagnostics: The commanded move may result in a physical collision.  Please click Ignore if it appears to be safe to move the Z-axis down  by 1 mm			2	
+16-Jan-18 11:49:37 AM	Info	Bravo - 1				Bravo diagnostics: user clicked Ignore			2	
+16-Jan-18 11:49:37 AM	Info	Bravo - 1				Bravo diagnostics: command complete			2	
+16-Jan-18 11:49:47 AM	Info	Bravo - 1				Bravo diagnostics: Jog Z-axis 1.0 mm			2	
+16-Jan-18 11:49:47 AM	Info	Bravo - 1				Bravo diagnostics: The commanded move may result in a physical collision.  Please click Ignore if it appears to be safe to move the Z-axis down  by 1 mm			2	
+16-Jan-18 11:49:51 AM	Info	Bravo - 1				Bravo diagnostics: user clicked Abort			2	
+16-Jan-18 11:49:52 AM	Info	Bravo - 1				Bravo diagnostics: Jog Z-axis 0.5 mm			2	
+16-Jan-18 11:49:53 AM	Info	Bravo - 1				Bravo diagnostics: The commanded move may result in a physical collision.  Please click Ignore if it appears to be safe to move the Z-axis down  by 0.5 mm			2	
+16-Jan-18 11:49:53 AM	Info	Bravo - 1				Bravo diagnostics: user clicked Ignore			2	
+16-Jan-18 11:49:54 AM	Info	Bravo - 1				Bravo diagnostics: command complete			2	
+16-Jan-18 11:50:10 AM	Info	Bravo - 1				Bravo diagnostics: Jog Z-axis -0.05 mm			2	
+16-Jan-18 11:50:10 AM	Info	Bravo - 1				Bravo diagnostics: command complete			2	
+16-Jan-18 11:50:23 AM	Info	Bravo - 1				Bravo diagnostics: Jog Z-axis -0.05 mm			2	
+16-Jan-18 11:50:23 AM	Info	Bravo - 1				Bravo diagnostics: command complete			2	
+16-Jan-18 11:50:29 AM	Info	Bravo - 1				Bravo diagnostics: Jog Z-axis -0.05 mm			2	
+16-Jan-18 11:50:30 AM	Info	Bravo - 1				Bravo diagnostics: command complete			2	
+16-Jan-18 11:50:35 AM	Info	Bravo - 1				Bravo diagnostics: Jog Z-axis -0.05 mm			2	
+16-Jan-18 11:50:36 AM	Info	Bravo - 1				Bravo diagnostics: command complete			2	
+16-Jan-18 11:50:47 AM	Info	Bravo - 1				Bravo diagnostics: Jog Z-axis -0.05 mm			2	
+16-Jan-18 11:50:48 AM	Info	Bravo - 1				Bravo diagnostics: command complete			2	
+16-Jan-18 11:51:14 AM	Info	Bravo - 1				Bravo diagnostics: Set teachpoint for "Location 4".			2	
+16-Jan-18 11:51:14 AM	Info	Bravo - 1				Bravo diagnostics: command complete			2	
+16-Jan-18 11:51:17 AM	Info	Bravo - 1				Profile "Bravo-Mag and Shaker" modified variable "Teachpoint 4".Old value was "X: 6.18, Y: 115.36, Z: 104.66, " and new value is "X: 6.18, Y: 115.36, Z: 108.93, ".			2	
+16-Jan-18 11:51:21 AM	Info	Bravo - 1				Bravo diagnostics: Jog Z-axis -20.0 mm			2	
+16-Jan-18 11:51:22 AM	Info	Bravo - 1				Bravo diagnostics: command complete			2	
+16-Jan-18 11:51:22 AM	Info	Bravo - 1				Bravo diagnostics: Jog Z-axis -20.0 mm			2	
+16-Jan-18 11:51:24 AM	Info	Bravo - 1				Bravo diagnostics: command complete			2	
+16-Jan-18 11:51:24 AM	Info	Bravo - 1				Bravo diagnostics: Jog Z-axis -20.0 mm			2	
+16-Jan-18 11:51:25 AM	Info	Bravo - 1				Bravo diagnostics: command complete			2	
+16-Jan-18 11:53:01 AM	Info	Bravo - 1				Bravo diagnostics: Docking gripper before processing command.			2	
+16-Jan-18 11:53:02 AM	Info	Bravo - 1				Bravo diagnostics: command complete			2	
+16-Jan-18 11:53:02 AM	Info	Bravo - 1				Bravo diagnostics: Aspirate 30 킠 in 1 selection(s) at Location 7			2	
+16-Jan-18 11:53:15 AM	Info	Bravo - 1				Bravo diagnostics: command complete			2	
+16-Jan-18 11:55:12 AM	Info	Bravo - 1				Bravo diagnostics: Docking gripper before processing command.			2	
+16-Jan-18 11:55:13 AM	Info	Bravo - 1				Bravo diagnostics: command complete			2	
+16-Jan-18 11:55:13 AM	Info	Bravo - 1				Bravo diagnostics: Dispense 115.3214286 킠 in 1 selection(s) at Location 7			2	
+16-Jan-18 11:55:29 AM	Info	Bravo - 1				Bravo diagnostics: command complete			2	
+16-Jan-18 11:56:41 AM	Info	Bravo - 1				Bravo diagnostics: Docking gripper before processing command.			2	
+16-Jan-18 11:56:41 AM	Info	Bravo - 1				Bravo diagnostics: command complete			2	
+16-Jan-18 11:56:41 AM	Info	Bravo - 1				Bravo diagnostics: Tips Off in 1 selection(s) at Location 8			2	
+16-Jan-18 11:56:48 AM	Info	Bravo - 1				Bravo diagnostics: command complete			2	
+16-Jan-18 11:57:38 AM	Info	Bravo - 1				Closing diagnostics		C:\VWorks Workspace\Device Files\TruSeq\TruSeq RNA_DNA Sample Prep_v1.0\BravoMiniPHBenchCel_round_magnet_RED_insert.dev	2	
+16-Jan-18 12:06:44 PM	Info					File unloaded		C:\VWorks Workspace\Device Files\TruSeq\TruSeq RNA_DNA Sample Prep_v1.0\BravoMiniPHBenchCel_round_magnet_RED_insert.dev	2	
+16-Jan-18 12:06:46 PM	Info					File unloaded		C:\VWorks Workspace\Device Files\TruSeq\TruSeq RNA_DNA Sample Prep_v1.0\BravoMiniPHBenchCel_round_magnet.dev	2	
+16-Jan-18 12:06:48 PM	Info					administrator logged out. Session 2 closed			2	
+16-Jan-18 12:06:48 PM	Info					System Shutdown			0	

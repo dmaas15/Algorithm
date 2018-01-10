@@ -1,0 +1,137 @@
+21-Sep-17 9:13:58 AM	Info					Error library: The error library file path is empty.			0	
+21-Sep-17 9:13:58 AM	Info					System Startup			0	
+21-Sep-17 9:13:58 AM	Info	AccessoriesWizard				Dll loaded:    AccessoriesWizard.dll    6.0.0			0	
+21-Sep-17 9:13:58 AM	Info	AccessoryManager				Dll loaded:    AccessoryManager.dll    2.0.0			0	
+21-Sep-17 9:13:58 AM	Info	AgilentBenchBotController				Dll loaded:    AgilentBenchBotController.dll    1.21.4226			0	
+21-Sep-17 9:13:58 AM	Info	ArgonShelfAccessoryDriver				Dll loaded:    ArgonShelfAccessoryDriver.dll    2.0.1			0	
+21-Sep-17 9:13:58 AM	Info	BTILHCRunner				Dll loaded:    BTILHCRunner.dll    2.00.2			0	
+21-Sep-17 9:13:58 AM	Info	ContextHelp				Dll loaded:    ContextHelp.dll    3.0.0			0	
+21-Sep-17 9:13:58 AM	Info	DDRStringTable				Dll loaded:    DDRStringTable.dll    1.2.14			0	
+21-Sep-17 9:13:58 AM	Info	DeviceEnumerator				Dll loaded:    DeviceEnumerator.dll    9.0.0			0	
+21-Sep-17 9:13:58 AM	Info	EchoAppHelper				Dll loaded:    EchoAppHelper.dll    1.0.0			0	
+21-Sep-17 9:13:58 AM	Info	ErrorLibrary				Dll loaded:    ErrorLibrary.dll    2.0.1			0	
+21-Sep-17 9:13:59 AM	Info	EvaporatorAccessoryDriver				Dll loaded:    EvaporatorAccessoryDriver.dll    9.0.0			0	
+21-Sep-17 9:13:59 AM	Info	GuidanceDiscovery				Dll loaded:    GuidanceDiscovery.dll    2.0.0			0	
+21-Sep-17 9:13:59 AM	Info	Host				Dll loaded:    Host.dll    1.0.4226			0	
+21-Sep-17 9:13:59 AM	Info	ImportExport				Dll loaded:    ImportExport.dll    2.0.0			0	
+21-Sep-17 9:13:59 AM	Info	InhecoMTCdll				Dll loaded:    InhecoMTCdll.dll    1.2.4			0	
+21-Sep-17 9:13:59 AM	Info	InhecoShakeandHeatAccessoryDriver				Dll loaded:    InhecoShakeandHeatAccessoryDriver.dll    1.0.0			0	
+21-Sep-17 9:13:59 AM	Info	IWorksAccessory				Dll loaded:    IWorksAccessory.dll    8.0.1			0	
+21-Sep-17 9:13:59 AM	Info	js32				Dll loaded:    js32.dll    Unknown.0.0			0	
+21-Sep-17 9:13:59 AM	Info	LabelDesigner				Dll loaded:    LabelDesigner.dll    5.0.7			0	
+21-Sep-17 9:13:59 AM	Info	LabelerHardware				Dll loaded:    LabelerHardware.dll    14.0.23			0	
+21-Sep-17 9:13:59 AM	Info	libnspr4				Dll loaded:    libnspr4.dll    4.1.0			0	
+21-Sep-17 9:13:59 AM	Info	LidHotelAccessoryDriver				Dll loaded:    LidHotelAccessoryDriver.dll    8.0.0			0	
+21-Sep-17 9:13:59 AM	Info	lm				Dll loaded:    lm.dll    3.0.0			0	
+21-Sep-17 9:13:59 AM	Info	Loader				Dll loaded:    Loader.dll    1.0.4226			0	
+21-Sep-17 9:13:59 AM	Info	MagBeadAccessoryDriver				Dll loaded:    MagBeadAccessoryDriver.dll    8.0.0			0	
+21-Sep-17 9:13:59 AM	Info	MetaDataPropertyManager				Dll loaded:    MetaDataPropertyManager.dll    13.0.0			0	
+21-Sep-17 9:13:59 AM	Info	mfc71				Dll loaded:    mfc71.dll    7.10.3077			0	
+21-Sep-17 9:13:59 AM	Info	mfc71u				Dll loaded:    mfc71u.dll    7.10.3077			0	
+21-Sep-17 9:13:59 AM	Info	MicroPierceInterface				Dll loaded:    MicroPierceInterface.dll    1.0.0			0	
+21-Sep-17 9:13:59 AM	Info	MicroPierceWrapper				Dll loaded:    MicroPierceWrapper.dll    1.0.0			0	
+21-Sep-17 9:13:59 AM	Info	MicroStirInterface				Dll loaded:    MicroStirInterface.dll    1.0.0			0	
+21-Sep-17 9:13:59 AM	Info	MicroStirWrapper				Dll loaded:    MicroStirWrapper.dll    1.0.0			0	
+21-Sep-17 9:13:59 AM	Info	msvcr71				Dll loaded:    msvcr71.dll    7.10.3052			0	
+21-Sep-17 9:13:59 AM	Info	MTController				Dll loaded:    MTController.dll    5.0.0			0	
+21-Sep-17 9:13:59 AM	Info	NestableTipBoxInsertAccessoryDriver				Dll loaded:    NestableTipBoxInsertAccessoryDriver.dll    2.0.0			0	
+21-Sep-17 9:13:59 AM	Info	ObjectDatabase				Dll loaded:    ObjectDatabase.dll    4.0.0			0	
+21-Sep-17 9:13:59 AM	Info	ObjectManager				Dll loaded:    ObjectManager.dll    7.0.1			0	
+21-Sep-17 9:13:59 AM	Info	PackardFusionRemoteConnectorOCX				Dll loaded:    PackardFusionRemoteConnectorOCX.dll    4.0.0			0	
+21-Sep-17 9:13:59 AM	Info	PackardFusionRemoteControlPlugIn				Dll loaded:    PackardFusionRemoteControlPlugIn.dll    4.0.0			0	
+21-Sep-17 9:13:59 AM	Info	PackardFusionRemoteControlWrapperDLL				Dll loaded:    PackardFusionRemoteControlWrapperDLL.dll    4.0.0			0	
+21-Sep-17 9:13:59 AM	Info	PicServoExtDll				Dll loaded:    PicServoExtDll.dll    10.0.0			0	
+21-Sep-17 9:13:59 AM	Info	PipetteHeadMode				Dll loaded:    PipetteHeadMode.dll    2.0.0			0	
+21-Sep-17 9:13:59 AM	Info	PipetteTechniqueEditor				Dll loaded:    PipetteTechniqueEditor.dll    3.0.0			0	
+21-Sep-17 9:13:59 AM	Info	PlateMapDatabase				Dll loaded:    PlateMapDatabase.dll    17.0.1			0	
+21-Sep-17 9:13:59 AM	Info	ProfileChangeLog				Dll loaded:    ProfileChangeLog.dll    2.0.0			0	
+21-Sep-17 9:13:59 AM	Info	ProfileManager				Dll loaded:    ProfileManager.dll    10.0.1			0	
+21-Sep-17 9:13:59 AM	Info	ProfSkin284m				Dll loaded:    ProfSkin284m.dll    2.8.4			0	
+21-Sep-17 9:13:59 AM	Info	ProfUIS284m				Dll loaded:    ProfUIS284m.dll    2.8.4			0	
+21-Sep-17 9:13:59 AM	Info	ProfUisProfileManager				Dll loaded:    ProfUisProfileManager.dll    10.0.0			0	
+21-Sep-17 9:13:59 AM	Info	SciLexer				Dll loaded:    SciLexer.dll    1.71.0			0	
+21-Sep-17 9:13:59 AM	Info	SerialDilution				Dll loaded:    SerialDilution.dll    13.0.0			0	
+21-Sep-17 9:13:59 AM	Info	SSIdll				Dll loaded:    SSIdll.dll    Unknown.0.0			0	
+21-Sep-17 9:13:59 AM	Info	TeleshakeAccessoryDriver				Dll loaded:    TeleshakeAccessoryDriver.dll    9.0.2			0	
+21-Sep-17 9:13:59 AM	Info	TipPosition				Dll loaded:    TipPosition.dll    3.0.0			0	
+21-Sep-17 9:13:59 AM	Info	TipTracking				Dll loaded:    TipTracking.dll    3.0.0			0	
+21-Sep-17 9:13:59 AM	Info	tmlcomm				Dll loaded:    tmlcomm.dll    3.2.2			0	
+21-Sep-17 9:13:59 AM	Info	TML_lib				Dll loaded:    TML_lib.dll    2.0.1			0	
+21-Sep-17 9:13:59 AM	Info	Toolbox				Dll loaded:    Toolbox.dll    1.0.4226			0	
+21-Sep-17 9:13:59 AM	Info	V11DeviceDriver				Dll loaded:    V11DeviceDriver.dll    11.0.0			0	
+21-Sep-17 9:13:59 AM	Info	V11FieldComposer				Dll loaded:    V11FieldComposer.dll    4.0.0			0	
+21-Sep-17 9:13:59 AM	Info	V11GanttChart				Dll loaded:    V11GanttChart.dll    2.0.1			0	
+21-Sep-17 9:13:59 AM	Info	V11Labware				Dll loaded:    V11Labware.dll    25.0.14			0	
+21-Sep-17 9:13:59 AM	Info	V11Liquids				Dll loaded:    V11Liquids.dll    9.0.0			0	
+21-Sep-17 9:13:59 AM	Info	V11Migrator				Dll loaded:    V11Migrator.dll    2.0.3			0	
+21-Sep-17 9:13:59 AM	Info	V11PipettingFormatWizard				Dll loaded:    V11PipettingFormatWizard.dll    2.0.0			0	
+21-Sep-17 9:13:59 AM	Info	V11PumpAccessoryDriver				Dll loaded:    V11PumpAccessoryDriver.dll    3.0.2			0	
+21-Sep-17 9:13:59 AM	Info	V11SharedClasses				Dll loaded:    V11SharedClasses.dll    1.1.0			0	
+21-Sep-17 9:13:59 AM	Info	V11WellSelect				Dll loaded:    V11WellSelect.dll    8.0.0			0	
+21-Sep-17 9:13:59 AM	Info	V11WellVolumeVisualizer				Dll loaded:    V11WellVolumeVisualizer.dll    6.0.0			0	
+21-Sep-17 9:13:59 AM	Info	V11Wizard				Dll loaded:    V11Wizard.dll    2.0.0			0	
+21-Sep-17 9:13:59 AM	Info	VacuumFiltrationAccessoryDriver				Dll loaded:    VacuumFiltrationAccessoryDriver.dll    10.0.1			0	
+21-Sep-17 9:13:59 AM	Info	VacuumLocatingStationDriver				Dll loaded:    VacuumLocatingStationDriver.dll    7.0.0			0	
+21-Sep-17 9:13:59 AM	Info	VacuumShelfAccessoryDriver				Dll loaded:    VacuumShelfAccessoryDriver.dll    2.0.2			0	
+21-Sep-17 9:13:59 AM	Info	VHookInterface				Dll loaded:    VHookInterface.dll    7.0.0			0	
+21-Sep-17 9:13:59 AM	Info	VWorks4COM				Dll loaded:    VWorks4COM.dll    4.0.0			0	
+21-Sep-17 9:13:59 AM	Info	VWorks4Defs				Dll loaded:    VWorks4Defs.dll    6.0.3			0	
+21-Sep-17 9:13:59 AM	Info	VWorks4DeviceManager				Dll loaded:    VWorks4DeviceManager.dll    4.0.0			0	
+21-Sep-17 9:13:59 AM	Info	VWorks4EmailDaemon				Dll loaded:    VWorks4EmailDaemon.dll    3.0.0			0	
+21-Sep-17 9:13:59 AM	Info	VWorks4FormManager				Dll loaded:    VWorks4FormManager.dll    1.0.0			0	
+21-Sep-17 9:13:59 AM	Info	VWorks4GUI				Dll loaded:    VWorks4GUI.dll    3.0.0			0	
+21-Sep-17 9:13:59 AM	Info	VWorks4GUIFramework				Dll loaded:    VWorks4GUIFramework.dll    3.0.1			0	
+21-Sep-17 9:13:59 AM	Info	VWorks4Hooks				Dll loaded:    VWorks4Hooks.dll    3.0.0			0	
+21-Sep-17 9:13:59 AM	Info	VWorks4LabelDesigner				Dll loaded:    VWorks4LabelDesigner.dll    3.0.0			0	
+21-Sep-17 9:13:59 AM	Info	VWorks4Logger				Dll loaded:    VWorks4Logger.dll    4.0.0			0	
+21-Sep-17 9:13:59 AM	Info	VWorks4MacroLibrary				Dll loaded:    VWorks4MacroLibrary.dll    1.0.0			0	
+21-Sep-17 9:13:59 AM	Info	VWorks4Progress				Dll loaded:    VWorks4Progress.dll    3.0.0			0	
+21-Sep-17 9:13:59 AM	Info	VWorks4ProtocolEditor				Dll loaded:    VWorks4ProtocolEditor.dll    4.0.0			0	
+21-Sep-17 9:13:59 AM	Info	VWorks4Security				Dll loaded:    VWorks4Security.dll    3.0.0			0	
+21-Sep-17 9:13:59 AM	Info	VWorks4UserDatabase				Dll loaded:    VWorks4UserDatabase.dll    3.0.0			0	
+21-Sep-17 9:13:59 AM	Info	VWorks4UserManager				Dll loaded:    VWorks4UserManager.dll    3.0.0			0	
+21-Sep-17 9:13:59 AM	Info	WeighPadAccessoryDriver				Dll loaded:    WeighPadAccessoryDriver.dll    2.0.0			0	
+21-Sep-17 9:13:59 AM	Info	Agilent BenchCel				Plugin loaded from cache:   AgilentBenchCel.dll   20.1.2			0	
+21-Sep-17 9:13:59 AM	Info	Agilent Bravo				Plugin loaded from cache:   AgilentBravo.dll   17.1.0			0	
+21-Sep-17 9:13:59 AM	Info	Agilent Generic I/O Module				Plugin loaded from cache:   AgilentGenericIO.dll   5.0.0			0	
+21-Sep-17 9:13:59 AM	Info	Agilent Labware MiniHub				Plugin loaded from cache:   AgilentLabwareMiniHub.dll   1.0.3			0	
+21-Sep-17 9:14:00 AM	Info	Agilent Phantom Robot				Plugin loaded from cache:   AgilentPhantomRobot.dll   9.0.5			0	
+21-Sep-17 9:14:00 AM	Info	Agilent Phantom Stacker				Plugin loaded from cache:   AgilentPhantomStacker.dll   2.0.1			0	
+21-Sep-17 9:14:00 AM	Info	Agilent Plate Hotel				Plugin loaded from cache:   AgilentPlateHotel.dll   1.0.3			0	
+21-Sep-17 9:14:00 AM	Info	Agilent Plate Hub Carousel				Plugin loaded from cache:   AgilentPlateHubCarousel.dll   8.0.1			0	
+21-Sep-17 9:14:00 AM	Info	Waste Bin				Plugin loaded from cache:   AgilentWasteBin.dll   3.0.0			0	
+21-Sep-17 9:14:00 AM	Info	Agilent Weigh Pad				Plugin loaded from cache:   AgilentWeighPad.dll   8.0.0			0	
+21-Sep-17 9:14:00 AM	Info	Keyence Barcode Reader				Plugin loaded from cache:   KeyenceBarcodeReader.dll   6.0.0			0	
+21-Sep-17 9:14:00 AM	Info	Plate Pad, Standard				Plugin loaded from cache:   PlatePad.dll   6.0.0			0	
+21-Sep-17 9:14:14 AM	Info					administrator logged in			1	
+21-Sep-17 9:18:38 AM	Info	Agilent Labware MiniHub				Plugin loaded:   AgilentLabwareMiniHub.dll   1.0.3			1	
+21-Sep-17 9:18:38 AM	Info					Hooks plugin loaded:    AgilentBenchCel.dll			0	
+21-Sep-17 9:18:38 AM	Info	Agilent BenchCel				Plugin loaded:   AgilentBenchCel.dll   20.1.2			1	
+21-Sep-17 9:18:42 AM	Info					Hooks plugin loaded:    AgilentBravo.dll			0	
+21-Sep-17 9:18:42 AM	Info	Agilent Bravo				Plugin loaded:   AgilentBravo.dll   17.1.0			1	
+21-Sep-17 9:18:46 AM	Info					File loaded		C:\VWorks Workspace\Device Files\BravoMiniPHBenchCel_round_magnet_RED_insert.dev	1	
+21-Sep-17 9:18:46 AM	Info					Changed "device file" to "C:\VWorks Workspace\Device Files\BravoMiniPHBenchCel_round_magnet_RED_insert.dev"		Protocol File - 1	1	
+21-Sep-17 9:18:46 AM	Info					File created		Protocol File - 1	1	
+21-Sep-17 9:21:11 AM	Info					File loaded		C:\VWorks Workspace\Forms\SCELSE\Accel_NGS_2S_DNA\Accel_NGS.VWForm	1	
+21-Sep-17 9:21:50 AM	Script					Initializing scripting engine...			1	
+21-Sep-17 9:21:50 AM	Script					Thu Sep 21 2017 09:21:50 GMT+0800 (Malay Peninsula Standard Time)			1	
+21-Sep-17 9:21:50 AM	Script					var plate_type = "96 Eppendorf Twin.tec PCR";		C:\VWorks Workspace\Forms\SCELSE\Accel_NGS_2S_DNA\Accel_NGS.VWForm	1	
+21-Sep-17 9:21:50 AM	Script					var DNA_source = 0;		C:\VWorks Workspace\Forms\SCELSE\Accel_NGS_2S_DNA\Accel_NGS.VWForm	1	
+21-Sep-17 9:21:50 AM	Script					var protocol_testing = 0;		C:\VWorks Workspace\Forms\SCELSE\Accel_NGS_2S_DNA\Accel_NGS.VWForm	1	
+21-Sep-17 9:21:51 AM	Script					var DNAconc = 1;		C:\VWorks Workspace\Forms\SCELSE\Accel_NGS_2S_DNA\Accel_NGS.VWForm	1	
+21-Sep-17 9:21:51 AM	Script					var formProtocolName = "Accel_Dual_Index_NGS_2SPlus_DNALibrary_Runset_v1.0.rst";		C:\VWorks Workspace\Forms\SCELSE\Accel_NGS_2S_DNA\Accel_NGS.VWForm	1	
+21-Sep-17 9:21:51 AM	Script					var columns_samples = 1;		C:\VWorks Workspace\Forms\SCELSE\Accel_NGS_2S_DNA\Accel_NGS.VWForm	1	
+21-Sep-17 9:21:51 AM	Script					Number of Columns selected is 1			1	
+21-Sep-17 9:21:51 AM	Script					Case: 1 Columns			1	
+21-Sep-17 9:22:04 AM	Info					Simulation mode toggled on			1	
+21-Sep-17 9:22:11 AM	Info					Runset Manager: Added the run "C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\1_RepairI_Accel_NGS_2S_DNA_v1.0.pro" to Runset Manager.			1	
+21-Sep-17 9:22:11 AM	Info					Runset Manager: Added the run "C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\2b_CleanUp1_Accel_NGS_2S_DNA_v1.0.pro" to Runset Manager.			1	
+21-Sep-17 9:22:11 AM	Info					Runset Manager: Added the run "C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\3_Repair2_Accel_NGS_2S_DNA_v1.0.pro" to Runset Manager.			1	
+21-Sep-17 9:22:11 AM	Info					Runset Manager: Added the run "C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\4_CleanUp2_Accel_NGS_2S_DNA_v1.0.pro" to Runset Manager.			1	
+21-Sep-17 9:22:11 AM	Info					Runset Manager: Added the run "C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\5b_Ligation1_Accel_NGS_2S_DNA_v1.0.pro" to Runset Manager.			1	
+21-Sep-17 9:22:11 AM	Info					Runset Manager: Added the run "C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\6_CleanUp3_Accel_NGS_2S_DNA_v1.0.pro" to Runset Manager.			1	
+21-Sep-17 9:22:11 AM	Info					Runset Manager: Added the run "C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\7_Ligation2_Accel_NGS_2S_DNA_v1.0.pro" to Runset Manager.			1	
+21-Sep-17 9:22:11 AM	Info					Runset Manager: Added the run "C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\8_CleanUp4_Accel_NGS_2S_DNA_v1.0.pro" to Runset Manager.			1	
+21-Sep-17 9:22:11 AM	Info					Runset Manager: Added the run "C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\9_PCRSetUp_Accel_NGS_2S_DNA_v1.0.pro" to Runset Manager.			1	
+21-Sep-17 9:22:11 AM	Info					Runset Manager: Added the run "C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\10b_CleanUp5_Accel_NGS_2S_DNA_v1.0.pro" to Runset Manager.			1	
+21-Sep-17 9:27:35 AM	Info					File loaded	7_Ligation2_Accel_NGS_2S_DNA_v1.0	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\7_Ligation2_Accel_NGS_2S_DNA_v1.0.pro	1	

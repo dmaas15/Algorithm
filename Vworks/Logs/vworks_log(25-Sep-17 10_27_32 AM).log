@@ -1,0 +1,1226 @@
+25-Sep-17 10:27:33 AM	Info					Simulation mode toggled on			0	
+25-Sep-17 10:27:33 AM	Info					Error library: The error library file path is empty.			0	
+25-Sep-17 10:27:33 AM	Info					System Startup			0	
+25-Sep-17 10:27:33 AM	Info	AccessoriesWizard				Dll loaded:    AccessoriesWizard.dll    6.0.0			0	
+25-Sep-17 10:27:33 AM	Info	AccessoryManager				Dll loaded:    AccessoryManager.dll    2.0.0			0	
+25-Sep-17 10:27:33 AM	Info	AgilentBenchBotController				Dll loaded:    AgilentBenchBotController.dll    1.21.4226			0	
+25-Sep-17 10:27:33 AM	Info	ArgonShelfAccessoryDriver				Dll loaded:    ArgonShelfAccessoryDriver.dll    2.0.1			0	
+25-Sep-17 10:27:33 AM	Info	BTILHCRunner				Dll loaded:    BTILHCRunner.dll    2.00.2			0	
+25-Sep-17 10:27:33 AM	Info	ContextHelp				Dll loaded:    ContextHelp.dll    3.0.0			0	
+25-Sep-17 10:27:33 AM	Info	DDRStringTable				Dll loaded:    DDRStringTable.dll    1.2.14			0	
+25-Sep-17 10:27:33 AM	Info	DeviceEnumerator				Dll loaded:    DeviceEnumerator.dll    9.0.0			0	
+25-Sep-17 10:27:33 AM	Info	EchoAppHelper				Dll loaded:    EchoAppHelper.dll    1.0.0			0	
+25-Sep-17 10:27:33 AM	Info	ErrorLibrary				Dll loaded:    ErrorLibrary.dll    2.0.1			0	
+25-Sep-17 10:27:33 AM	Info	EvaporatorAccessoryDriver				Dll loaded:    EvaporatorAccessoryDriver.dll    9.0.0			0	
+25-Sep-17 10:27:33 AM	Info	GuidanceDiscovery				Dll loaded:    GuidanceDiscovery.dll    2.0.0			0	
+25-Sep-17 10:27:33 AM	Info	Host				Dll loaded:    Host.dll    1.0.4226			0	
+25-Sep-17 10:27:33 AM	Info	ImportExport				Dll loaded:    ImportExport.dll    2.0.0			0	
+25-Sep-17 10:27:33 AM	Info	InhecoMTCdll				Dll loaded:    InhecoMTCdll.dll    1.2.4			0	
+25-Sep-17 10:27:33 AM	Info	InhecoShakeandHeatAccessoryDriver				Dll loaded:    InhecoShakeandHeatAccessoryDriver.dll    1.0.0			0	
+25-Sep-17 10:27:33 AM	Info	IWorksAccessory				Dll loaded:    IWorksAccessory.dll    8.0.1			0	
+25-Sep-17 10:27:33 AM	Info	js32				Dll loaded:    js32.dll    Unknown.0.0			0	
+25-Sep-17 10:27:33 AM	Info	LabelDesigner				Dll loaded:    LabelDesigner.dll    5.0.7			0	
+25-Sep-17 10:27:33 AM	Info	LabelerHardware				Dll loaded:    LabelerHardware.dll    14.0.23			0	
+25-Sep-17 10:27:33 AM	Info	libnspr4				Dll loaded:    libnspr4.dll    4.1.0			0	
+25-Sep-17 10:27:33 AM	Info	LidHotelAccessoryDriver				Dll loaded:    LidHotelAccessoryDriver.dll    8.0.0			0	
+25-Sep-17 10:27:33 AM	Info	lm				Dll loaded:    lm.dll    3.0.0			0	
+25-Sep-17 10:27:33 AM	Info	Loader				Dll loaded:    Loader.dll    1.0.4226			0	
+25-Sep-17 10:27:33 AM	Info	MagBeadAccessoryDriver				Dll loaded:    MagBeadAccessoryDriver.dll    8.0.0			0	
+25-Sep-17 10:27:33 AM	Info	MetaDataPropertyManager				Dll loaded:    MetaDataPropertyManager.dll    13.0.0			0	
+25-Sep-17 10:27:33 AM	Info	mfc71				Dll loaded:    mfc71.dll    7.10.3077			0	
+25-Sep-17 10:27:33 AM	Info	mfc71u				Dll loaded:    mfc71u.dll    7.10.3077			0	
+25-Sep-17 10:27:33 AM	Info	MicroPierceInterface				Dll loaded:    MicroPierceInterface.dll    1.0.0			0	
+25-Sep-17 10:27:33 AM	Info	MicroPierceWrapper				Dll loaded:    MicroPierceWrapper.dll    1.0.0			0	
+25-Sep-17 10:27:33 AM	Info	MicroStirInterface				Dll loaded:    MicroStirInterface.dll    1.0.0			0	
+25-Sep-17 10:27:33 AM	Info	MicroStirWrapper				Dll loaded:    MicroStirWrapper.dll    1.0.0			0	
+25-Sep-17 10:27:33 AM	Info	msvcr71				Dll loaded:    msvcr71.dll    7.10.3052			0	
+25-Sep-17 10:27:33 AM	Info	MTController				Dll loaded:    MTController.dll    5.0.0			0	
+25-Sep-17 10:27:33 AM	Info	NestableTipBoxInsertAccessoryDriver				Dll loaded:    NestableTipBoxInsertAccessoryDriver.dll    2.0.0			0	
+25-Sep-17 10:27:33 AM	Info	ObjectDatabase				Dll loaded:    ObjectDatabase.dll    4.0.0			0	
+25-Sep-17 10:27:33 AM	Info	ObjectManager				Dll loaded:    ObjectManager.dll    7.0.1			0	
+25-Sep-17 10:27:33 AM	Info	PackardFusionRemoteConnectorOCX				Dll loaded:    PackardFusionRemoteConnectorOCX.dll    4.0.0			0	
+25-Sep-17 10:27:33 AM	Info	PackardFusionRemoteControlPlugIn				Dll loaded:    PackardFusionRemoteControlPlugIn.dll    4.0.0			0	
+25-Sep-17 10:27:33 AM	Info	PackardFusionRemoteControlWrapperDLL				Dll loaded:    PackardFusionRemoteControlWrapperDLL.dll    4.0.0			0	
+25-Sep-17 10:27:33 AM	Info	PicServoExtDll				Dll loaded:    PicServoExtDll.dll    10.0.0			0	
+25-Sep-17 10:27:33 AM	Info	PipetteHeadMode				Dll loaded:    PipetteHeadMode.dll    2.0.0			0	
+25-Sep-17 10:27:33 AM	Info	PipetteTechniqueEditor				Dll loaded:    PipetteTechniqueEditor.dll    3.0.0			0	
+25-Sep-17 10:27:33 AM	Info	PlateMapDatabase				Dll loaded:    PlateMapDatabase.dll    17.0.1			0	
+25-Sep-17 10:27:33 AM	Info	ProfileChangeLog				Dll loaded:    ProfileChangeLog.dll    2.0.0			0	
+25-Sep-17 10:27:33 AM	Info	ProfileManager				Dll loaded:    ProfileManager.dll    10.0.1			0	
+25-Sep-17 10:27:33 AM	Info	ProfSkin284m				Dll loaded:    ProfSkin284m.dll    2.8.4			0	
+25-Sep-17 10:27:33 AM	Info	ProfUIS284m				Dll loaded:    ProfUIS284m.dll    2.8.4			0	
+25-Sep-17 10:27:33 AM	Info	ProfUisProfileManager				Dll loaded:    ProfUisProfileManager.dll    10.0.0			0	
+25-Sep-17 10:27:33 AM	Info	SciLexer				Dll loaded:    SciLexer.dll    1.71.0			0	
+25-Sep-17 10:27:33 AM	Info	SerialDilution				Dll loaded:    SerialDilution.dll    13.0.0			0	
+25-Sep-17 10:27:33 AM	Info	SSIdll				Dll loaded:    SSIdll.dll    Unknown.0.0			0	
+25-Sep-17 10:27:33 AM	Info	TeleshakeAccessoryDriver				Dll loaded:    TeleshakeAccessoryDriver.dll    9.0.2			0	
+25-Sep-17 10:27:33 AM	Info	TipPosition				Dll loaded:    TipPosition.dll    3.0.0			0	
+25-Sep-17 10:27:33 AM	Info	TipTracking				Dll loaded:    TipTracking.dll    3.0.0			0	
+25-Sep-17 10:27:33 AM	Info	tmlcomm				Dll loaded:    tmlcomm.dll    3.2.2			0	
+25-Sep-17 10:27:33 AM	Info	TML_lib				Dll loaded:    TML_lib.dll    2.0.1			0	
+25-Sep-17 10:27:33 AM	Info	Toolbox				Dll loaded:    Toolbox.dll    1.0.4226			0	
+25-Sep-17 10:27:33 AM	Info	V11DeviceDriver				Dll loaded:    V11DeviceDriver.dll    11.0.0			0	
+25-Sep-17 10:27:33 AM	Info	V11FieldComposer				Dll loaded:    V11FieldComposer.dll    4.0.0			0	
+25-Sep-17 10:27:33 AM	Info	V11GanttChart				Dll loaded:    V11GanttChart.dll    2.0.1			0	
+25-Sep-17 10:27:33 AM	Info	V11Labware				Dll loaded:    V11Labware.dll    25.0.14			0	
+25-Sep-17 10:27:33 AM	Info	V11Liquids				Dll loaded:    V11Liquids.dll    9.0.0			0	
+25-Sep-17 10:27:33 AM	Info	V11Migrator				Dll loaded:    V11Migrator.dll    2.0.3			0	
+25-Sep-17 10:27:33 AM	Info	V11PipettingFormatWizard				Dll loaded:    V11PipettingFormatWizard.dll    2.0.0			0	
+25-Sep-17 10:27:33 AM	Info	V11PumpAccessoryDriver				Dll loaded:    V11PumpAccessoryDriver.dll    3.0.2			0	
+25-Sep-17 10:27:33 AM	Info	V11SharedClasses				Dll loaded:    V11SharedClasses.dll    1.1.0			0	
+25-Sep-17 10:27:33 AM	Info	V11WellSelect				Dll loaded:    V11WellSelect.dll    8.0.0			0	
+25-Sep-17 10:27:33 AM	Info	V11WellVolumeVisualizer				Dll loaded:    V11WellVolumeVisualizer.dll    6.0.0			0	
+25-Sep-17 10:27:33 AM	Info	V11Wizard				Dll loaded:    V11Wizard.dll    2.0.0			0	
+25-Sep-17 10:27:33 AM	Info	VacuumFiltrationAccessoryDriver				Dll loaded:    VacuumFiltrationAccessoryDriver.dll    10.0.1			0	
+25-Sep-17 10:27:33 AM	Info	VacuumLocatingStationDriver				Dll loaded:    VacuumLocatingStationDriver.dll    7.0.0			0	
+25-Sep-17 10:27:33 AM	Info	VacuumShelfAccessoryDriver				Dll loaded:    VacuumShelfAccessoryDriver.dll    2.0.2			0	
+25-Sep-17 10:27:33 AM	Info	VHookInterface				Dll loaded:    VHookInterface.dll    7.0.0			0	
+25-Sep-17 10:27:33 AM	Info	VWorks4COM				Dll loaded:    VWorks4COM.dll    4.0.0			0	
+25-Sep-17 10:27:33 AM	Info	VWorks4Defs				Dll loaded:    VWorks4Defs.dll    6.0.3			0	
+25-Sep-17 10:27:33 AM	Info	VWorks4DeviceManager				Dll loaded:    VWorks4DeviceManager.dll    4.0.0			0	
+25-Sep-17 10:27:33 AM	Info	VWorks4EmailDaemon				Dll loaded:    VWorks4EmailDaemon.dll    3.0.0			0	
+25-Sep-17 10:27:33 AM	Info	VWorks4FormManager				Dll loaded:    VWorks4FormManager.dll    1.0.0			0	
+25-Sep-17 10:27:33 AM	Info	VWorks4GUI				Dll loaded:    VWorks4GUI.dll    3.0.0			0	
+25-Sep-17 10:27:33 AM	Info	VWorks4GUIFramework				Dll loaded:    VWorks4GUIFramework.dll    3.0.1			0	
+25-Sep-17 10:27:33 AM	Info	VWorks4Hooks				Dll loaded:    VWorks4Hooks.dll    3.0.0			0	
+25-Sep-17 10:27:33 AM	Info	VWorks4LabelDesigner				Dll loaded:    VWorks4LabelDesigner.dll    3.0.0			0	
+25-Sep-17 10:27:33 AM	Info	VWorks4Logger				Dll loaded:    VWorks4Logger.dll    4.0.0			0	
+25-Sep-17 10:27:33 AM	Info	VWorks4MacroLibrary				Dll loaded:    VWorks4MacroLibrary.dll    1.0.0			0	
+25-Sep-17 10:27:33 AM	Info	VWorks4Progress				Dll loaded:    VWorks4Progress.dll    3.0.0			0	
+25-Sep-17 10:27:33 AM	Info	VWorks4ProtocolEditor				Dll loaded:    VWorks4ProtocolEditor.dll    4.0.0			0	
+25-Sep-17 10:27:33 AM	Info	VWorks4Security				Dll loaded:    VWorks4Security.dll    3.0.0			0	
+25-Sep-17 10:27:33 AM	Info	VWorks4UserDatabase				Dll loaded:    VWorks4UserDatabase.dll    3.0.0			0	
+25-Sep-17 10:27:33 AM	Info	VWorks4UserManager				Dll loaded:    VWorks4UserManager.dll    3.0.0			0	
+25-Sep-17 10:27:33 AM	Info	WeighPadAccessoryDriver				Dll loaded:    WeighPadAccessoryDriver.dll    2.0.0			0	
+25-Sep-17 10:27:33 AM	Info	Agilent BenchCel				Plugin loaded from cache:   AgilentBenchCel.dll   20.1.2			0	
+25-Sep-17 10:27:33 AM	Info	Agilent Bravo				Plugin loaded from cache:   AgilentBravo.dll   17.1.0			0	
+25-Sep-17 10:27:33 AM	Info	Agilent Generic I/O Module				Plugin loaded from cache:   AgilentGenericIO.dll   5.0.0			0	
+25-Sep-17 10:27:33 AM	Info	Agilent Labware MiniHub				Plugin loaded from cache:   AgilentLabwareMiniHub.dll   1.0.3			0	
+25-Sep-17 10:27:33 AM	Info	Agilent Phantom Robot				Plugin loaded from cache:   AgilentPhantomRobot.dll   9.0.5			0	
+25-Sep-17 10:27:33 AM	Info	Agilent Phantom Stacker				Plugin loaded from cache:   AgilentPhantomStacker.dll   2.0.1			0	
+25-Sep-17 10:27:33 AM	Info	Agilent Plate Hotel				Plugin loaded from cache:   AgilentPlateHotel.dll   1.0.3			0	
+25-Sep-17 10:27:33 AM	Info	Agilent Plate Hub Carousel				Plugin loaded from cache:   AgilentPlateHubCarousel.dll   8.0.1			0	
+25-Sep-17 10:27:33 AM	Info	Waste Bin				Plugin loaded from cache:   AgilentWasteBin.dll   3.0.0			0	
+25-Sep-17 10:27:33 AM	Info	Agilent Weigh Pad				Plugin loaded from cache:   AgilentWeighPad.dll   8.0.0			0	
+25-Sep-17 10:27:34 AM	Info	Keyence Barcode Reader				Plugin loaded from cache:   KeyenceBarcodeReader.dll   6.0.0			0	
+25-Sep-17 10:27:34 AM	Info	Plate Pad, Standard				Plugin loaded from cache:   PlatePad.dll   6.0.0			0	
+25-Sep-17 10:41:02 AM	Info					administrator logged in			1	
+25-Sep-17 10:41:11 AM	Info	Agilent Labware MiniHub				Plugin loaded:   AgilentLabwareMiniHub.dll   1.0.3			1	
+25-Sep-17 10:41:11 AM	Info					Hooks plugin loaded:    AgilentBenchCel.dll			0	
+25-Sep-17 10:41:11 AM	Info	Agilent BenchCel				Plugin loaded:   AgilentBenchCel.dll   20.1.2			1	
+25-Sep-17 10:41:15 AM	Info					Hooks plugin loaded:    AgilentBravo.dll			0	
+25-Sep-17 10:41:15 AM	Info	Agilent Bravo				Plugin loaded:   AgilentBravo.dll   17.1.0			1	
+25-Sep-17 10:41:18 AM	Info					File loaded		C:\VWorks Workspace\Device Files\TruSeq\TruSeq RNA_DNA Sample Prep_v1.0\BravoMiniPHBenchCel_round_magnet_RED_insert.dev	1	
+25-Sep-17 10:41:32 AM	Info	Agilent Labware MiniHub - 1				Initializing device		C:\VWorks Workspace\Device Files\TruSeq\TruSeq RNA_DNA Sample Prep_v1.0\BravoMiniPHBenchCel_round_magnet_RED_insert.dev	1	
+25-Sep-17 10:41:32 AM	Info	BenchCel - 1				Initializing device		C:\VWorks Workspace\Device Files\TruSeq\TruSeq RNA_DNA Sample Prep_v1.0\BravoMiniPHBenchCel_round_magnet_RED_insert.dev	1	
+25-Sep-17 10:41:32 AM	Info	Bravo - 1				Initializing device		C:\VWorks Workspace\Device Files\TruSeq\TruSeq RNA_DNA Sample Prep_v1.0\BravoMiniPHBenchCel_round_magnet_RED_insert.dev	1	
+25-Sep-17 10:41:33 AM	Info	BenchCel - 1				Initialization complete		C:\VWorks Workspace\Device Files\TruSeq\TruSeq RNA_DNA Sample Prep_v1.0\BravoMiniPHBenchCel_round_magnet_RED_insert.dev	1	
+25-Sep-17 10:41:35 AM	Error	Bravo - 1				No response received from the pipette controller.			1	
+25-Sep-17 10:41:35 AM	Error	Bravo - 1				It is recommended that you click Retry.  Ignoring this error may result in an unpredictable move.			1	
+25-Sep-17 10:41:35 AM	Info					Error library: Select best match error handler: "Default" and action type "show error dialog"			1	
+25-Sep-17 10:41:45 AM	Info	Bravo - 1				Retrying: No response received from the pipette controller.			1	
+25-Sep-17 10:41:45 AM	Info	Bravo - 1				It is recommended that you click Retry.  Ignoring this error may result in an unpredictable move.			1	
+25-Sep-17 10:41:45 AM	Error	Bravo - 1				There appears to be a plate present in, or in front of the gripper's plate presence sensor.			1	
+25-Sep-17 10:41:45 AM	Error	Bravo - 1				  - Choose "Retry" to check the plate presence sensor again.			1	
+25-Sep-17 10:41:45 AM	Error	Bravo - 1				  - Choose "Ignore" to continue to home the G axis.  Please note that any plate currently held by the gripper will be dropped.			1	
+25-Sep-17 10:41:45 AM	Error	Bravo - 1				  - Choose "Abort" to cancel initialization.			1	
+25-Sep-17 10:41:45 AM	Info					Error library: Select best match error handler: "Default" and action type "show error dialog"			1	
+25-Sep-17 10:41:47 AM	Info	Bravo - 1				Retrying: There appears to be a plate present in, or in front of the gripper's plate presence sensor.			1	
+25-Sep-17 10:41:47 AM	Info	Bravo - 1				  - Choose "Retry" to check the plate presence sensor again.			1	
+25-Sep-17 10:41:47 AM	Info	Bravo - 1				  - Choose "Ignore" to continue to home the G axis.  Please note that any plate currently held by the gripper will be dropped.			1	
+25-Sep-17 10:41:47 AM	Info	Bravo - 1				  - Choose "Abort" to cancel initialization.			1	
+25-Sep-17 10:41:47 AM	Error	Bravo - 1				There appears to be a plate present in, or in front of the gripper's plate presence sensor.			1	
+25-Sep-17 10:41:47 AM	Error	Bravo - 1				  - Choose "Retry" to check the plate presence sensor again.			1	
+25-Sep-17 10:41:47 AM	Error	Bravo - 1				  - Choose "Ignore" to continue to home the G axis.  Please note that any plate currently held by the gripper will be dropped.			1	
+25-Sep-17 10:41:47 AM	Error	Bravo - 1				  - Choose "Abort" to cancel initialization.			1	
+25-Sep-17 10:41:47 AM	Info					Error library: Select best match error handler: "Default" and action type "show error dialog"			1	
+25-Sep-17 10:41:49 AM	Info	Agilent Labware MiniHub - 1				Initialization complete		C:\VWorks Workspace\Device Files\TruSeq\TruSeq RNA_DNA Sample Prep_v1.0\BravoMiniPHBenchCel_round_magnet_RED_insert.dev	1	
+25-Sep-17 10:42:04 AM	Info	Bravo - 1				Ignoring: There appears to be a plate present in, or in front of the gripper's plate presence sensor.			1	
+25-Sep-17 10:42:04 AM	Info	Bravo - 1				  - Choose "Retry" to check the plate presence sensor again.			1	
+25-Sep-17 10:42:04 AM	Info	Bravo - 1				  - Choose "Ignore" to continue to home the G axis.  Please note that any plate currently held by the gripper will be dropped.			1	
+25-Sep-17 10:42:04 AM	Info	Bravo - 1				  - Choose "Abort" to cancel initialization.			1	
+25-Sep-17 10:42:04 AM	Error	Bravo - 1				Please verify that it is safe to home the W-axis (the aspirate/dispense axis).  If there is fluid in the tips you may want to manually home the W-axis in diagnostics over a waste position.			1	
+25-Sep-17 10:42:04 AM	Error	Bravo - 1				  - Choose "Retry" to continue homing the W-axis.			1	
+25-Sep-17 10:42:04 AM	Error	Bravo - 1				  - Choose "Ignore" to leave the W-axis unhomed.			1	
+25-Sep-17 10:42:04 AM	Error	Bravo - 1				  - Choose "Abort" to cancel initialization.			1	
+25-Sep-17 10:42:04 AM	Info					Error library: Select best match error handler: "Default" and action type "show error dialog"			1	
+25-Sep-17 10:42:09 AM	Info	Bravo - 1				Retrying: Please verify that it is safe to home the W-axis (the aspirate/dispense axis).  If there is fluid in the tips you may want to manually home the W-axis in diagnostics over a waste position.			1	
+25-Sep-17 10:42:09 AM	Info	Bravo - 1				  - Choose "Retry" to continue homing the W-axis.			1	
+25-Sep-17 10:42:09 AM	Info	Bravo - 1				  - Choose "Ignore" to leave the W-axis unhomed.			1	
+25-Sep-17 10:42:09 AM	Info	Bravo - 1				  - Choose "Abort" to cancel initialization.			1	
+25-Sep-17 10:42:09 AM	Error	Bravo - 1				Could not align X-axis motor.			1	
+25-Sep-17 10:42:09 AM	Info					Error library: Select best match error handler: "Default" and action type "show error dialog"			1	
+25-Sep-17 10:42:31 AM	Info	Bravo - 1				Retrying: Could not align X-axis motor.			1	
+25-Sep-17 10:42:31 AM	Error	Bravo - 1				Could not align Y-axis motor.			1	
+25-Sep-17 10:42:31 AM	Info					Error library: Select best match error handler: "Default" and action type "show error dialog"			1	
+25-Sep-17 10:42:53 AM	Info	Bravo - 1				Retrying: Could not align Y-axis motor.			1	
+25-Sep-17 10:42:53 AM	Info	Bravo - 1				Initialization complete		C:\VWorks Workspace\Device Files\TruSeq\TruSeq RNA_DNA Sample Prep_v1.0\BravoMiniPHBenchCel_round_magnet_RED_insert.dev	1	
+25-Sep-17 10:52:07 AM	Info					File loaded		C:\VWorks Workspace\Device Files\SureSelect\XT_Illumina\BravoMiniPHBenchCel_round_magnet.dev	1	
+25-Sep-17 10:52:07 AM	Info					File loaded	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 10:52:24 AM	Script					Initializing scripting engine...			1	
+25-Sep-17 10:52:24 AM	Script					Mon Sep 25 2017 10:52:24 GMT+0800 (Malay Peninsula Standard Time)			1	
+25-Sep-17 10:59:38 AM	Info					Compile complete with 0 errors and 0 warnings			1	
+25-Sep-17 10:59:41 AM	Info					Runset Manager: Added the run "C:\VWorks Workspace\Protocol Files\visitor demo.pro" to Runset Manager.			1	
+25-Sep-17 10:59:42 AM	Event					Scheduler started			1	
+25-Sep-17 10:59:42 AM	Info	Agilent Labware MiniHub - 1				Closing device		C:\VWorks Workspace\Device Files\TruSeq\TruSeq RNA_DNA Sample Prep_v1.0\BravoMiniPHBenchCel_round_magnet_RED_insert.dev	1	
+25-Sep-17 10:59:42 AM	Info	BenchCel - 1				Closing device		C:\VWorks Workspace\Device Files\TruSeq\TruSeq RNA_DNA Sample Prep_v1.0\BravoMiniPHBenchCel_round_magnet_RED_insert.dev	1	
+25-Sep-17 10:59:43 AM	Info	Bravo - 1				Closing device		C:\VWorks Workspace\Device Files\TruSeq\TruSeq RNA_DNA Sample Prep_v1.0\BravoMiniPHBenchCel_round_magnet_RED_insert.dev	1	
+25-Sep-17 10:59:44 AM	Info					Error library: Protocol started using error library file: ""			1	
+25-Sep-17 10:59:44 AM	Event	BenchCel - 1	Stacker 1	tipbox		Load stacker rack at location "Stacker 1" of device "BenchCel - 1" with plate "tipbox" of labware type "96 V11 LT250 Tip Box 19477.002"	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 10:59:44 AM	Event	BenchCel - 1	Stacker 2	source		Load stacker rack at location "Stacker 2" of device "BenchCel - 1" with plate "source" of labware type "96 Nunc Deep Well 1 mL"	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 10:59:44 AM	Event	BenchCel - 1	Stacker 3	dest1		Load stacker rack at location "Stacker 3" of device "BenchCel - 1" with plate "dest1" of labware type "96 Eppendorf Twin.tec PCR"	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 10:59:44 AM	Info			tipbox		Plates are spawned on demand	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 10:59:44 AM	Info			source		1 plate required	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 10:59:44 AM	Info			dest1		Plates are spawned on demand	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 10:59:44 AM	Event					Main protocol starting	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 10:59:44 AM	Event			source 1		Process starting, north barcode: No bar code, east barcode: No bar code, south barcode: No bar code, west barcode: No bar code	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 10:59:44 AM	Event			source 1		After 1 second...	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 10:59:44 AM	Event	BenchCel - 1	Stacker 2	source 1	1	Downstack from BenchCel - 1.Stacker 2	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 10:59:44 AM	Event			source 1		After 1 second...	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 10:59:45 AM	Event	BenchCel - 1	Stacker 2	source 1	1	Completed: Downstack from BenchCel - 1.Stacker 2	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 10:59:45 AM	Event			source 1		After 1 second...	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 10:59:45 AM	Event	Bravo - 1	8	source 1	2	Place plate at Bravo - 1 8	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 10:59:45 AM	Event			source 1		After 1 second...	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 10:59:45 AM	Event	BenchCel - 1		source 1		Move plate from BenchCel - 1 Stacker 2, teachpoint Stacker 2 to Bravo - 1 3, teachpoint Bravo3			1	
+25-Sep-17 10:59:45 AM	Event	BenchCel - 1	Stacker 2			The stack is empty			1	
+25-Sep-17 10:59:45 AM	Event			source 1		After 7 seconds...	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 10:59:45 AM	Event	BenchCel - 1		source 1		Finished moving plate from BenchCel - 1 Stacker 2, teachpoint Stacker 2 to Bravo - 1 3, teachpoint Bravo3			1	
+25-Sep-17 10:59:45 AM	Event			source 1		After 7 seconds...	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 10:59:45 AM	Event	Bravo - 1		source 1		Move plate from Bravo - 1 3, teachpoint 3 to Bravo - 1 8, teachpoint 8			1	
+25-Sep-17 10:59:45 AM	Event			source 1		After 17 seconds...	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 10:59:45 AM	Event	Bravo - 1		source 1		Finished moving plate from Bravo - 1 3, teachpoint 3 to Bravo - 1 8, teachpoint 8			1	
+25-Sep-17 10:59:45 AM	Event			source 1		After 17 seconds...	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 10:59:45 AM	Event	Bravo - 1	8	source 1	2	Completed: Place plate at Bravo - 1 8	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 10:59:45 AM	Event			source 1		After 17 seconds...	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 10:59:45 AM	Event			source 1	3	Spawn dest1	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 10:59:45 AM	Event			source 1		After 17 seconds...	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 10:59:45 AM	Event			source 1	3	Completed: Spawn dest1	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 10:59:45 AM	Event			dest1 1		Process starting, north barcode: No bar code, east barcode: No bar code, south barcode: No bar code, west barcode: No bar code	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 10:59:45 AM	Event			dest1 1		After 17 seconds...	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 10:59:45 AM	Event	BenchCel - 1	Stacker 3	dest1 1	1	Downstack from BenchCel - 1.Stacker 3	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 10:59:45 AM	Event			dest1 1		After 17 seconds...	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 10:59:45 AM	Event	BenchCel - 1	Stacker 3	dest1 1	1	Completed: Downstack from BenchCel - 1.Stacker 3	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 10:59:46 AM	Event			dest1 1		After 17 seconds...	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 10:59:46 AM	Event	Bravo - 1	5	dest1 1	2	Place plate at Bravo - 1 5	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 10:59:46 AM	Event			dest1 1		After 17 seconds...	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 10:59:46 AM	Event	BenchCel - 1		dest1 1		Move plate from BenchCel - 1 Stacker 3, teachpoint Stacker 3 to Bravo - 1 3, teachpoint Bravo3			1	
+25-Sep-17 10:59:46 AM	Event	BenchCel - 1	Stacker 3			The stack is empty			1	
+25-Sep-17 10:59:46 AM	Event			dest1 1		After 23 seconds...	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 10:59:46 AM	Event	BenchCel - 1		dest1 1		Finished moving plate from BenchCel - 1 Stacker 3, teachpoint Stacker 3 to Bravo - 1 3, teachpoint Bravo3			1	
+25-Sep-17 10:59:46 AM	Event			dest1 1		After 23 seconds...	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 10:59:46 AM	Event	Bravo - 1		dest1 1		Move plate from Bravo - 1 3, teachpoint 3 to Bravo - 1 5, teachpoint 5			1	
+25-Sep-17 10:59:46 AM	Event			dest1 1		After 33 seconds...	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 10:59:46 AM	Event	Bravo - 1		dest1 1		Finished moving plate from Bravo - 1 3, teachpoint 3 to Bravo - 1 5, teachpoint 5			1	
+25-Sep-17 10:59:46 AM	Event			dest1 1		After 33 seconds...	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 10:59:46 AM	Event	Bravo - 1	5	dest1 1	2	Completed: Place plate at Bravo - 1 5	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 10:59:46 AM	Event			dest1 1		After 33 seconds...	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 10:59:46 AM	Event			dest1 1	3	Spawn tipbox	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 10:59:46 AM	Event			dest1 1		After 33 seconds...	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 10:59:46 AM	Event			dest1 1	3	Completed: Spawn tipbox	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 10:59:46 AM	Event			tipbox 1		Process starting, north barcode: No bar code, east barcode: No bar code, south barcode: No bar code, west barcode: No bar code	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 10:59:46 AM	Event			tipbox 1		After 33 seconds...	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 10:59:46 AM	Event	BenchCel - 1	Stacker 1	tipbox 1	1	Downstack from BenchCel - 1.Stacker 1	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 10:59:46 AM	Event			tipbox 1		After 33 seconds...	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 10:59:47 AM	Event	BenchCel - 1	Stacker 1	tipbox 1	1	Completed: Downstack from BenchCel - 1.Stacker 1	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 10:59:47 AM	Event			tipbox 1		After 33 seconds...	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 10:59:47 AM	Event	Bravo - 1	2	tipbox 1	2	Place plate at Bravo - 1 2	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 10:59:47 AM	Event			tipbox 1		After 33 seconds...	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 10:59:47 AM	Event	BenchCel - 1		tipbox 1		Move plate from BenchCel - 1 Stacker 1, teachpoint Stacker 1 to Bravo - 1 3, teachpoint Bravo3			1	
+25-Sep-17 10:59:47 AM	Event	BenchCel - 1	Stacker 1			The stack is empty			1	
+25-Sep-17 10:59:47 AM	Event			tipbox 1		After 39 seconds...	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 10:59:47 AM	Event	BenchCel - 1		tipbox 1		Finished moving plate from BenchCel - 1 Stacker 1, teachpoint Stacker 1 to Bravo - 1 3, teachpoint Bravo3			1	
+25-Sep-17 10:59:47 AM	Event			tipbox 1		After 39 seconds...	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 10:59:47 AM	Event	Bravo - 1		tipbox 1		Move plate from Bravo - 1 3, teachpoint 3 to Bravo - 1 2, teachpoint 2			1	
+25-Sep-17 10:59:47 AM	Event			tipbox 1		After 49 seconds...	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 10:59:47 AM	Event	Bravo - 1		tipbox 1		Finished moving plate from Bravo - 1 3, teachpoint 3 to Bravo - 1 2, teachpoint 2			1	
+25-Sep-17 10:59:47 AM	Event			tipbox 1		After 49 seconds...	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 10:59:47 AM	Event	Bravo - 1	2	tipbox 1	2	Completed: Place plate at Bravo - 1 2	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 10:59:48 AM	Event			Bravo SubProcess 88 1		After 49 seconds...	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 10:59:48 AM	Event	Bravo - 1	5	Bravo SubProcess 88 1	1	Begin task group	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 10:59:48 AM	Event	Bravo - 1	8	Bravo SubProcess 88 1	1	Begin task group	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 10:59:48 AM	Event	Bravo - 1	2	Bravo SubProcess 88 1	1	Begin task group	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 10:59:48 AM	Event			Bravo SubProcess 88 1		After 49 seconds...	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 10:59:48 AM	Event	Bravo - 1	5	Bravo SubProcess 88 1	1	Completed: Begin task group	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 10:59:48 AM	Event	Bravo - 1	8	Bravo SubProcess 88 1	1	Completed: Begin task group	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 10:59:48 AM	Event	Bravo - 1	2	Bravo SubProcess 88 1	1	Completed: Begin task group	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 10:59:48 AM	Event			Bravo SubProcess 88 1		After 49 seconds...	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 10:59:48 AM	Event	Bravo - 1	Default Location	Bravo SubProcess 88 1	2	Set head mode to 6 columns: 1-6	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 10:59:48 AM	Event			Bravo SubProcess 88 1		After 49 seconds...	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 10:59:48 AM	Event	Bravo - 1	Default Location	Bravo SubProcess 88 1	2	Completed: Set head mode to 6 columns: 1-6	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 10:59:48 AM	Event			Bravo SubProcess 88 1		After 49 seconds...	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 10:59:48 AM	Event	Bravo - 1	2	Bravo SubProcess 88 1	3	Tips On in 1 selection(s) from tipbox 1	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 10:59:48 AM	Event			Bravo SubProcess 88 1		After 57 seconds...	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 10:59:48 AM	Event	Bravo - 1	2	Bravo SubProcess 88 1	3	Completed: Tips On in 1 selection(s) from tipbox 1	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 10:59:48 AM	Event			Bravo SubProcess 88 1		After 57 seconds...	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 10:59:48 AM	Event	Bravo - 1	8	Bravo SubProcess 88 1	4	Aspirate 20 킠 in 1 selection(s) from source 1	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 10:59:48 AM	Event			Bravo SubProcess 88 1		After 1 minute 7 seconds...	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 10:59:49 AM	Event	Bravo - 1	8	Bravo SubProcess 88 1	4	Completed: Aspirate 20 킠 in 1 selection(s) from source 1	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 10:59:49 AM	Event			Bravo SubProcess 88 1		After 1 minute 7 seconds...	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 10:59:49 AM	Event	Bravo - 1	5	Bravo SubProcess 88 1	5	Dispense contents of tips in 1 selection(s) to dest1 1	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 10:59:49 AM	Event			Bravo SubProcess 88 1		After 1 minute 17 seconds...	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 10:59:49 AM	Event	Bravo - 1	5	Bravo SubProcess 88 1	5	Completed: Dispense contents of tips in 1 selection(s) to dest1 1	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 10:59:49 AM	Event			Bravo SubProcess 88 1		After 1 minute 17 seconds...	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 10:59:49 AM	Event	Bravo - 1	2	Bravo SubProcess 88 1	6	Tips Off in 1 selection(s) from tipbox 1	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 10:59:49 AM	Event			Bravo SubProcess 88 1		After 1 minute 24 seconds...	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 10:59:49 AM	Event	Bravo - 1	2	Bravo SubProcess 88 1	6	Completed: Tips Off in 1 selection(s) from tipbox 1	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 10:59:49 AM	Event			Bravo SubProcess 88 1		After 1 minute 24 seconds...	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 10:59:49 AM	Event	Bravo - 1	Default Location	Bravo SubProcess 88 1	7	Set head mode to 6 columns: 7-12	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 10:59:49 AM	Event			Bravo SubProcess 88 1		After 1 minute 24 seconds...	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 10:59:50 AM	Event	Bravo - 1	Default Location	Bravo SubProcess 88 1	7	Completed: Set head mode to 6 columns: 7-12	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 10:59:50 AM	Event			Bravo SubProcess 88 1		After 1 minute 24 seconds...	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 10:59:50 AM	Event	Bravo - 1	2	Bravo SubProcess 88 1	8	Tips On in 1 selection(s) from tipbox 1	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 10:59:50 AM	Event			Bravo SubProcess 88 1		After 1 minute 32 seconds...	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 10:59:50 AM	Event	Bravo - 1	2	Bravo SubProcess 88 1	8	Completed: Tips On in 1 selection(s) from tipbox 1	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 10:59:50 AM	Event			Bravo SubProcess 88 1		After 1 minute 32 seconds...	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 10:59:50 AM	Event	Bravo - 1	8	Bravo SubProcess 88 1	9	Aspirate 20 킠 in 1 selection(s) from source 1	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 10:59:50 AM	Event			Bravo SubProcess 88 1		After 1 minute 42 seconds...	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 10:59:50 AM	Event	Bravo - 1	8	Bravo SubProcess 88 1	9	Completed: Aspirate 20 킠 in 1 selection(s) from source 1	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 10:59:50 AM	Event			Bravo SubProcess 88 1		After 1 minute 42 seconds...	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 10:59:50 AM	Event	Bravo - 1	5	Bravo SubProcess 88 1	10	Dispense contents of tips in 1 selection(s) to dest1 1	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 10:59:50 AM	Event			Bravo SubProcess 88 1		After 1 minute 52 seconds...	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 10:59:50 AM	Event	Bravo - 1	5	Bravo SubProcess 88 1	10	Completed: Dispense contents of tips in 1 selection(s) to dest1 1	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 10:59:51 AM	Event			Bravo SubProcess 88 1		After 1 minute 52 seconds...	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 10:59:51 AM	Event	Bravo - 1	2	Bravo SubProcess 88 1	11	Tips Off in 1 selection(s) from tipbox 1	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 10:59:51 AM	Event			Bravo SubProcess 88 1		After 1 minute 59 seconds...	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 10:59:51 AM	Event	Bravo - 1	2	Bravo SubProcess 88 1	11	Completed: Tips Off in 1 selection(s) from tipbox 1	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 10:59:51 AM	Info					Pause protocol			1	
+25-Sep-17 10:59:51 AM	Event					Scheduler stopped			1	
+25-Sep-17 10:59:51 AM	Event			Bravo SubProcess 88 1		After 1 minute 59 seconds...	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 10:59:51 AM	Event	Bravo - 1	5	Bravo SubProcess 88 1	12	Shake from dest1 1	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 10:59:52 AM	Event					Scheduler aborted			1	
+25-Sep-17 10:59:52 AM	Event			Bravo SubProcess 88 1		After 1 minute 59 seconds...	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 10:59:52 AM	Event	Bravo - 1	5	Bravo SubProcess 88 1	12	Completed: Shake from dest1 1	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 10:59:52 AM	Event					Main protocol aborted by user	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 10:59:52 AM	Event			source 1		Process finishing	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 10:59:52 AM	Event			dest1 1		Process finishing	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 10:59:52 AM	Event			tipbox 1		Process finishing	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 10:59:53 AM	Info					Total simulation time: 1 minute 59 seconds.	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 10:59:53 AM	Event					Main protocol aborted by user	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 10:59:54 AM	Event			Bravo SubProcess 88 1		Process finishing	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 10:59:55 AM	Info					Simulation mode toggled off			1	
+25-Sep-17 10:59:58 AM	Info					Compile complete with 0 errors and 0 warnings			1	
+25-Sep-17 11:00:02 AM	Info					Runset Manager: Added the run "C:\VWorks Workspace\Protocol Files\visitor demo.pro<1>" to Runset Manager.			1	
+25-Sep-17 11:00:03 AM	Event					Scheduler started			1	
+25-Sep-17 11:00:03 AM	Info	Agilent Labware MiniHub - 1				Initializing device		C:\VWorks Workspace\Device Files\SureSelect\XT_Illumina\BravoMiniPHBenchCel_round_magnet.dev	1	
+25-Sep-17 11:00:03 AM	Info	BenchCel - 1				Initializing device		C:\VWorks Workspace\Device Files\SureSelect\XT_Illumina\BravoMiniPHBenchCel_round_magnet.dev	1	
+25-Sep-17 11:00:03 AM	Info	Bravo - 1				Initializing device		C:\VWorks Workspace\Device Files\SureSelect\XT_Illumina\BravoMiniPHBenchCel_round_magnet.dev	1	
+25-Sep-17 11:00:04 AM	Info	BenchCel - 1				Initialization complete		C:\VWorks Workspace\Device Files\SureSelect\XT_Illumina\BravoMiniPHBenchCel_round_magnet.dev	1	
+25-Sep-17 11:00:12 AM	Info	Agilent Labware MiniHub - 1				Initialization complete		C:\VWorks Workspace\Device Files\SureSelect\XT_Illumina\BravoMiniPHBenchCel_round_magnet.dev	1	
+25-Sep-17 11:00:32 AM	Info	Bravo - 1				Initialization complete		C:\VWorks Workspace\Device Files\SureSelect\XT_Illumina\BravoMiniPHBenchCel_round_magnet.dev	1	
+25-Sep-17 11:00:32 AM	Info					Error library: Protocol started using error library file: ""			1	
+25-Sep-17 11:00:32 AM	Event	BenchCel - 1	Stacker 1	tipbox		Load stacker rack at location "Stacker 1" of device "BenchCel - 1" with plate "tipbox" of labware type "96 V11 LT250 Tip Box 19477.002"	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 11:00:36 AM	Event	BenchCel - 1	Stacker 2	source		Load stacker rack at location "Stacker 2" of device "BenchCel - 1" with plate "source" of labware type "96 Nunc Deep Well 1 mL"	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 11:00:41 AM	Event	BenchCel - 1	Stacker 3	dest1		Load stacker rack at location "Stacker 3" of device "BenchCel - 1" with plate "dest1" of labware type "96 Eppendorf Twin.tec PCR"	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 11:00:46 AM	Info			tipbox		Plates are spawned on demand	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 11:00:46 AM	Info			source		1 plate required	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 11:00:46 AM	Info			dest1		Plates are spawned on demand	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 11:00:46 AM	Event					Main protocol starting	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 11:00:46 AM	Event			source 1		Process starting, north barcode: No bar code, east barcode: No bar code, south barcode: No bar code, west barcode: No bar code	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 11:00:46 AM	Event	BenchCel - 1	Stacker 2	source 1	1	Downstack from BenchCel - 1.Stacker 2	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 11:00:46 AM	Event	BenchCel - 1	Stacker 2	source 1	1	Completed: Downstack from BenchCel - 1.Stacker 2	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 11:00:46 AM	Event	Bravo - 1	8	source 1	2	Place plate at Bravo - 1 8	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 11:00:46 AM	Event	BenchCel - 1		source 1		Move plate from BenchCel - 1 Stacker 2, teachpoint Stacker 2 to Bravo - 1 3, teachpoint Bravo3			1	
+25-Sep-17 11:00:55 AM	Info					Pause protocol			1	
+25-Sep-17 11:00:55 AM	Event					Scheduler stopped			1	
+25-Sep-17 11:00:59 AM	Event	BenchCel - 1	Stacker 2			The stack is empty			1	
+25-Sep-17 11:00:59 AM	Event	BenchCel - 1		source 1		Finished moving plate from BenchCel - 1 Stacker 2, teachpoint Stacker 2 to Bravo - 1 3, teachpoint Bravo3			1	
+25-Sep-17 11:01:11 AM	Event					Scheduler started			1	
+25-Sep-17 11:01:11 AM	Event	Bravo - 1		source 1		Move plate from Bravo - 1 3, teachpoint 3 to Bravo - 1 8, teachpoint 8			1	
+25-Sep-17 11:01:21 AM	Event	Bravo - 1		source 1		Finished moving plate from Bravo - 1 3, teachpoint 3 to Bravo - 1 8, teachpoint 8			1	
+25-Sep-17 11:01:21 AM	Event	Bravo - 1	8	source 1	2	Completed: Place plate at Bravo - 1 8	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 11:01:22 AM	Event			source 1	3	Spawn dest1	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 11:01:22 AM	Event			source 1	3	Completed: Spawn dest1	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 11:01:22 AM	Event			dest1 1		Process starting, north barcode: No bar code, east barcode: No bar code, south barcode: No bar code, west barcode: No bar code	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 11:01:22 AM	Event	BenchCel - 1	Stacker 3	dest1 1	1	Downstack from BenchCel - 1.Stacker 3	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 11:01:22 AM	Event	BenchCel - 1	Stacker 3	dest1 1	1	Completed: Downstack from BenchCel - 1.Stacker 3	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 11:01:22 AM	Event	Bravo - 1	5	dest1 1	2	Place plate at Bravo - 1 5	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 11:01:22 AM	Event	BenchCel - 1		dest1 1		Move plate from BenchCel - 1 Stacker 3, teachpoint Stacker 3 to Bravo - 1 3, teachpoint Bravo3			1	
+25-Sep-17 11:01:35 AM	Event	BenchCel - 1	Stacker 3			The stack is empty			1	
+25-Sep-17 11:01:35 AM	Event	BenchCel - 1		dest1 1		Finished moving plate from BenchCel - 1 Stacker 3, teachpoint Stacker 3 to Bravo - 1 3, teachpoint Bravo3			1	
+25-Sep-17 11:01:35 AM	Event	Bravo - 1		dest1 1		Move plate from Bravo - 1 3, teachpoint 3 to Bravo - 1 5, teachpoint 5			1	
+25-Sep-17 11:01:44 AM	Event	Bravo - 1		dest1 1		Finished moving plate from Bravo - 1 3, teachpoint 3 to Bravo - 1 5, teachpoint 5			1	
+25-Sep-17 11:01:44 AM	Event	Bravo - 1	5	dest1 1	2	Completed: Place plate at Bravo - 1 5	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 11:01:44 AM	Event			dest1 1	3	Spawn tipbox	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 11:01:44 AM	Event			dest1 1	3	Completed: Spawn tipbox	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 11:01:45 AM	Event			tipbox 1		Process starting, north barcode: No bar code, east barcode: No bar code, south barcode: No bar code, west barcode: No bar code	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 11:01:45 AM	Event	BenchCel - 1	Stacker 1	tipbox 1	1	Downstack from BenchCel - 1.Stacker 1	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 11:01:45 AM	Event	BenchCel - 1	Stacker 1	tipbox 1	1	Completed: Downstack from BenchCel - 1.Stacker 1	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 11:01:45 AM	Event	Bravo - 1	2	tipbox 1	2	Place plate at Bravo - 1 2	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 11:01:45 AM	Event	BenchCel - 1		tipbox 1		Move plate from BenchCel - 1 Stacker 1, teachpoint Stacker 1 to Bravo - 1 3, teachpoint Bravo3			1	
+25-Sep-17 11:01:59 AM	Event	BenchCel - 1	Stacker 1			The stack is empty			1	
+25-Sep-17 11:01:59 AM	Event	BenchCel - 1		tipbox 1		Finished moving plate from BenchCel - 1 Stacker 1, teachpoint Stacker 1 to Bravo - 1 3, teachpoint Bravo3			1	
+25-Sep-17 11:01:59 AM	Event	Bravo - 1		tipbox 1		Move plate from Bravo - 1 3, teachpoint 3 to Bravo - 1 2, teachpoint 2			1	
+25-Sep-17 11:02:08 AM	Event	Bravo - 1		tipbox 1		Finished moving plate from Bravo - 1 3, teachpoint 3 to Bravo - 1 2, teachpoint 2			1	
+25-Sep-17 11:02:08 AM	Event	Bravo - 1	2	tipbox 1	2	Completed: Place plate at Bravo - 1 2	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 11:02:08 AM	Event	Bravo - 1	5	Bravo SubProcess 88 1	1	Begin task group	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 11:02:08 AM	Event	Bravo - 1	8	Bravo SubProcess 88 1	1	Begin task group	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 11:02:08 AM	Event	Bravo - 1	2	Bravo SubProcess 88 1	1	Begin task group	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 11:02:09 AM	Event	Bravo - 1	5	Bravo SubProcess 88 1	1	Completed: Begin task group	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 11:02:09 AM	Event	Bravo - 1	8	Bravo SubProcess 88 1	1	Completed: Begin task group	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 11:02:09 AM	Event	Bravo - 1	2	Bravo SubProcess 88 1	1	Completed: Begin task group	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 11:02:09 AM	Event	Bravo - 1	Default Location	Bravo SubProcess 88 1	2	Set head mode to 6 columns: 1-6	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 11:02:09 AM	Event	Bravo - 1	Default Location	Bravo SubProcess 88 1	2	Completed: Set head mode to 6 columns: 1-6	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 11:02:09 AM	Event	Bravo - 1	2	Bravo SubProcess 88 1	3	Tips On in 1 selection(s) from tipbox 1	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 11:02:17 AM	Event	Bravo - 1	2	Bravo SubProcess 88 1	3	Completed: Tips On in 1 selection(s) from tipbox 1	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 11:02:17 AM	Event	Bravo - 1	8	Bravo SubProcess 88 1	4	Aspirate 20 킠 in 1 selection(s) from source 1	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 11:02:28 AM	Event	Bravo - 1	8	Bravo SubProcess 88 1	4	Completed: Aspirate 20 킠 in 1 selection(s) from source 1	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 11:02:28 AM	Event	Bravo - 1	5	Bravo SubProcess 88 1	5	Dispense 21.4375 킠 in 1 selection(s) to dest1 1	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 11:02:39 AM	Event	Bravo - 1	5	Bravo SubProcess 88 1	5	Completed: Dispense 21.4375 킠 in 1 selection(s) to dest1 1	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 11:02:39 AM	Event	Bravo - 1	2	Bravo SubProcess 88 1	6	Tips Off in 1 selection(s) from tipbox 1	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 11:02:46 AM	Event	Bravo - 1	2	Bravo SubProcess 88 1	6	Completed: Tips Off in 1 selection(s) from tipbox 1	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 11:02:47 AM	Event	Bravo - 1	Default Location	Bravo SubProcess 88 1	7	Set head mode to 6 columns: 7-12	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 11:02:47 AM	Event	Bravo - 1	Default Location	Bravo SubProcess 88 1	7	Completed: Set head mode to 6 columns: 7-12	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 11:02:47 AM	Event	Bravo - 1	2	Bravo SubProcess 88 1	8	Tips On in 1 selection(s) from tipbox 1	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 11:02:55 AM	Event	Bravo - 1	2	Bravo SubProcess 88 1	8	Completed: Tips On in 1 selection(s) from tipbox 1	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 11:02:55 AM	Event	Bravo - 1	8	Bravo SubProcess 88 1	9	Aspirate 20 킠 in 1 selection(s) from source 1	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 11:03:06 AM	Event	Bravo - 1	8	Bravo SubProcess 88 1	9	Completed: Aspirate 20 킠 in 1 selection(s) from source 1	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 11:03:06 AM	Event	Bravo - 1	5	Bravo SubProcess 88 1	10	Dispense 21.46651786 킠 in 1 selection(s) to dest1 1	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 11:03:17 AM	Event	Bravo - 1	5	Bravo SubProcess 88 1	10	Completed: Dispense 21.46651786 킠 in 1 selection(s) to dest1 1	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 11:03:17 AM	Event	Bravo - 1	2	Bravo SubProcess 88 1	11	Tips Off in 1 selection(s) from tipbox 1	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 11:03:25 AM	Event	Bravo - 1	2	Bravo SubProcess 88 1	11	Completed: Tips Off in 1 selection(s) from tipbox 1	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 11:03:25 AM	Event	Bravo - 1	5	Bravo SubProcess 88 1	12	Shake from dest1 1	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 11:03:36 AM	Event	Bravo - 1	5	Bravo SubProcess 88 1	12	Completed: Shake from dest1 1	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 11:03:36 AM	Event			Bravo SubProcess 88 1	13	End task group	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 11:03:36 AM	Event			Bravo SubProcess 88 1	13	Completed: End task group	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 11:03:36 AM	Event			Bravo SubProcess 88 1		Process finishing	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 11:03:36 AM	Event	Bravo - 1	7	dest1 1	5	Incubate for 10 seconds	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 11:03:36 AM	Event	Bravo - 1		dest1 1		Move plate from Bravo - 1 5, teachpoint 5 to Bravo - 1 7, teachpoint 7			1	
+25-Sep-17 11:03:36 AM	Event	BenchCel - 1	Stacker 1	tipbox 1	4	Upstack to BenchCel - 1.Stacker 1	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 11:03:45 AM	Event	Bravo - 1		dest1 1		Finished moving plate from Bravo - 1 5, teachpoint 5 to Bravo - 1 7, teachpoint 7			1	
+25-Sep-17 11:03:45 AM	Event	Bravo - 1		tipbox 1		Move plate from Bravo - 1 2, teachpoint 2 to Bravo - 1 3, teachpoint 3			1	
+25-Sep-17 11:03:55 AM	Event	Bravo - 1	7	dest1 1	5	Completed: Incubate for 10 seconds	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 11:03:55 AM	Event	Bravo - 1		tipbox 1		Finished moving plate from Bravo - 1 2, teachpoint 2 to Bravo - 1 3, teachpoint 3			1	
+25-Sep-17 11:03:55 AM	Event	BenchCel - 1		tipbox 1		Move plate from Bravo - 1 3, teachpoint Bravo3 to BenchCel - 1 Stacker 1, teachpoint Stacker 1			1	
+25-Sep-17 11:04:04 AM	Event	BenchCel - 1		tipbox 1		Finished moving plate from Bravo - 1 3, teachpoint Bravo3 to BenchCel - 1 Stacker 1, teachpoint Stacker 1			1	
+25-Sep-17 11:04:04 AM	Event	BenchCel - 1	Stacker 1	tipbox 1	4	Completed: Upstack to BenchCel - 1.Stacker 1	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 11:04:04 AM	Event			tipbox 1	5	Signal Waitfortb of dest1 1	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 11:04:04 AM	Event			tipbox 1	5	Completed: Signal Waitfortb of dest1 1	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 11:04:04 AM	Event			dest1 1	6	Waitfor "Waitfortb" has been signaled	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 11:04:04 AM	Event			dest1 1	6	Completed: Waitfor "Waitfortb" has been signaled	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 11:04:05 AM	Event			tipbox 1		Process finishing	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 11:04:05 AM	Event	BenchCel - 1	Stacker 3	dest1 1	7	Upstack to BenchCel - 1.Stacker 3	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 11:04:05 AM	Event	Bravo - 1		dest1 1		Move plate from Bravo - 1 7, teachpoint 7 to Bravo - 1 3, teachpoint 3			1	
+25-Sep-17 11:04:14 AM	Event	Bravo - 1		dest1 1		Finished moving plate from Bravo - 1 7, teachpoint 7 to Bravo - 1 3, teachpoint 3			1	
+25-Sep-17 11:04:14 AM	Event	BenchCel - 1		dest1 1		Move plate from Bravo - 1 3, teachpoint Bravo3 to BenchCel - 1 Stacker 3, teachpoint Stacker 3			1	
+25-Sep-17 11:04:25 AM	Event	BenchCel - 1		dest1 1		Finished moving plate from Bravo - 1 3, teachpoint Bravo3 to BenchCel - 1 Stacker 3, teachpoint Stacker 3			1	
+25-Sep-17 11:04:25 AM	Event	BenchCel - 1	Stacker 3	dest1 1	7	Completed: Upstack to BenchCel - 1.Stacker 3	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 11:04:25 AM	Event			dest1 1	8	Signal Waitfordest of source 1	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 11:04:25 AM	Event			dest1 1	8	Completed: Signal Waitfordest of source 1	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 11:04:25 AM	Event			source 1	5	Waitfor "Waitfordest" has been signaled	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 11:04:25 AM	Event			source 1	5	Completed: Waitfor "Waitfordest" has been signaled	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 11:04:25 AM	Event			dest1 1		Process finishing	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 11:04:25 AM	Event	BenchCel - 1	Stacker 2	source 1	6	Upstack to BenchCel - 1.Stacker 2	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 11:04:25 AM	Event	Bravo - 1		source 1		Move plate from Bravo - 1 8, teachpoint 8 to Bravo - 1 3, teachpoint 3			1	
+25-Sep-17 11:04:35 AM	Event	Bravo - 1		source 1		Finished moving plate from Bravo - 1 8, teachpoint 8 to Bravo - 1 3, teachpoint 3			1	
+25-Sep-17 11:04:35 AM	Event	BenchCel - 1		source 1		Move plate from Bravo - 1 3, teachpoint Bravo3 to BenchCel - 1 Stacker 2, teachpoint Stacker 2			1	
+25-Sep-17 11:04:44 AM	Error	BenchCel - 1	Default Location	source 1		Wrong plate type	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 11:04:44 AM	Info					Error library: Select best match error handler: "Default" and action type "show error dialog"			1	
+25-Sep-17 11:04:54 AM	Info	BenchCel - 1	Default Location			Retrying: Wrong plate type			1	
+25-Sep-17 11:04:54 AM	Error	BenchCel - 1	Default Location	source 1		Wrong plate type	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 11:04:54 AM	Info					Error library: Select best match error handler: "Default" and action type "show error dialog"			1	
+25-Sep-17 11:04:55 AM	Info	BenchCel - 1	Default Location			Retrying: Wrong plate type			1	
+25-Sep-17 11:04:55 AM	Error	BenchCel - 1	Default Location	source 1		Wrong plate type	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 11:04:55 AM	Info					Error library: Select best match error handler: "Default" and action type "show error dialog"			1	
+25-Sep-17 11:05:08 AM	Info	BenchCel - 1	Default Location			Retrying: Wrong plate type			1	
+25-Sep-17 11:05:08 AM	Error	BenchCel - 1	Default Location	source 1		Wrong plate type	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 11:05:08 AM	Info					Error library: Select best match error handler: "Default" and action type "show error dialog"			1	
+25-Sep-17 11:05:26 AM	Info	BenchCel - 1				Opening diagnostics		C:\VWorks Workspace\Device Files\SureSelect\XT_Illumina\BravoMiniPHBenchCel_round_magnet.dev	1	
+25-Sep-17 11:09:55 AM	Info	BenchCel - 1				Reset stack height: stack height at Stacker 1 is set to 0			1	
+25-Sep-17 11:10:00 AM	Info	BenchCel - 1				Reset stack height: stack height at Stacker 2 is set to 0			1	
+25-Sep-17 11:10:05 AM	Info	BenchCel - 1				Reset stack height: stack height at Stacker 3 is set to 0			1	
+25-Sep-17 11:10:10 AM	Info	BenchCel - 1				Reset stack height: stack height at Stacker 4 is set to 0			1	
+25-Sep-17 11:10:22 AM	Info	BenchCel - 1				Closing diagnostics		C:\VWorks Workspace\Device Files\SureSelect\XT_Illumina\BravoMiniPHBenchCel_round_magnet.dev	1	
+25-Sep-17 11:10:27 AM	Info	BenchCel - 1	Default Location			Retrying: Wrong plate type			1	
+25-Sep-17 11:10:27 AM	Error	BenchCel - 1	Default Location	source 1		No plate in grippers	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 11:10:27 AM	Info					Error library: Select best match error handler: "Default" and action type "show error dialog"			1	
+25-Sep-17 11:10:29 AM	Info	BenchCel - 1	Default Location			Retrying: No plate in grippers			1	
+25-Sep-17 11:10:29 AM	Error	BenchCel - 1	Default Location	source 1		No plate in grippers	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 11:10:29 AM	Info					Error library: Select best match error handler: "Default" and action type "show error dialog"			1	
+25-Sep-17 11:10:32 AM	Info	BenchCel - 1	Default Location			Ignoring: No plate in grippers			1	
+25-Sep-17 11:10:32 AM	Event	BenchCel - 1		source 1		Finished moving plate from Bravo - 1 3, teachpoint Bravo3 to BenchCel - 1 Stacker 2, teachpoint Stacker 2			1	
+25-Sep-17 11:10:32 AM	Event	BenchCel - 1	Stacker 2	source 1	6	Completed: Upstack to BenchCel - 1.Stacker 2	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 11:10:32 AM	Event			source 1		Process finishing	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 11:10:33 AM	Info					Elapsed time since start: 10 minutes 30 seconds.	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 11:10:35 AM	Event					Main protocol complete	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 11:10:37 AM	Event	BenchCel - 1	Stacker 1	tipbox		Unload stacker rack at location "Stacker 1" of device "BenchCel - 1" with plate "tipbox" of labware type "96 V11 LT250 Tip Box 19477.002"	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 11:10:37 AM	Info	BenchCel - 1				Reset stack height: stack height at Stacker 1 is set to 0			1	
+25-Sep-17 11:10:37 AM	Event	BenchCel - 1	Stacker 2	source		Unload stacker rack at location "Stacker 2" of device "BenchCel - 1" with plate "source" of labware type "96 Nunc Deep Well 1 mL"	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 11:10:37 AM	Info	BenchCel - 1				Reset stack height: stack height at Stacker 2 is set to 0			1	
+25-Sep-17 11:10:37 AM	Event	BenchCel - 1	Stacker 3	dest1		Unload stacker rack at location "Stacker 3" of device "BenchCel - 1" with plate "dest1" of labware type "96 Eppendorf Twin.tec PCR"	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 11:10:38 AM	Info	BenchCel - 1				Reset stack height: stack height at Stacker 3 is set to 0			1	
+25-Sep-17 11:10:45 AM	Info					Compile complete with 0 errors and 0 warnings			1	
+25-Sep-17 11:10:47 AM	Info					Runset Manager: Added the run "C:\VWorks Workspace\Protocol Files\visitor demo.pro<2>" to Runset Manager.			1	
+25-Sep-17 11:10:48 AM	Event					Scheduler started			1	
+25-Sep-17 11:10:48 AM	Info					Error library: Protocol started using error library file: ""			1	
+25-Sep-17 11:10:48 AM	Event	BenchCel - 1	Stacker 1	tipbox		Load stacker rack at location "Stacker 1" of device "BenchCel - 1" with plate "tipbox" of labware type "96 V11 LT250 Tip Box 19477.002"	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 11:10:52 AM	Event	BenchCel - 1	Stacker 2	source		Load stacker rack at location "Stacker 2" of device "BenchCel - 1" with plate "source" of labware type "96 Nunc Deep Well 1 mL"	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 11:10:57 AM	Event	BenchCel - 1	Stacker 3	dest1		Load stacker rack at location "Stacker 3" of device "BenchCel - 1" with plate "dest1" of labware type "96 Eppendorf Twin.tec PCR"	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 11:11:01 AM	Info			tipbox		Plates are spawned on demand	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 11:11:01 AM	Info			source		1 plate required	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 11:11:01 AM	Info			dest1		Plates are spawned on demand	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 11:11:02 AM	Event					Main protocol starting	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 11:11:02 AM	Event			source 1		Process starting, north barcode: No bar code, east barcode: No bar code, south barcode: No bar code, west barcode: No bar code	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 11:11:02 AM	Event	BenchCel - 1	Stacker 2	source 1	1	Downstack from BenchCel - 1.Stacker 2	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 11:11:02 AM	Event	BenchCel - 1	Stacker 2	source 1	1	Completed: Downstack from BenchCel - 1.Stacker 2	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 11:11:02 AM	Event	Bravo - 1	8	source 1	2	Place plate at Bravo - 1 8	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 11:11:02 AM	Event	BenchCel - 1		source 1		Move plate from BenchCel - 1 Stacker 2, teachpoint Stacker 2 to Bravo - 1 3, teachpoint Bravo3			1	
+25-Sep-17 11:11:10 AM	Error	BenchCel - 1	Default Location	source 1		Wrong plate type	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 11:11:10 AM	Info					Error library: Select best match error handler: "Default" and action type "show error dialog"			1	
+25-Sep-17 11:11:14 AM	Info	BenchCel - 1	Default Location			Retrying: Wrong plate type			1	
+25-Sep-17 11:11:14 AM	Error	BenchCel - 1	Default Location	source 1		Wrong plate type	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 11:11:14 AM	Info					Error library: Select best match error handler: "Default" and action type "show error dialog"			1	
+25-Sep-17 11:11:14 AM	Info	BenchCel - 1	Default Location			Retrying: Wrong plate type			1	
+25-Sep-17 11:11:15 AM	Error	BenchCel - 1	Default Location	source 1		Wrong plate type	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 11:11:15 AM	Info					Error library: Select best match error handler: "Default" and action type "show error dialog"			1	
+25-Sep-17 11:11:15 AM	Info	BenchCel - 1	Default Location			Retrying: Wrong plate type			1	
+25-Sep-17 11:11:15 AM	Error	BenchCel - 1	Default Location	source 1		Wrong plate type	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 11:11:15 AM	Info					Error library: Select best match error handler: "Default" and action type "show error dialog"			1	
+25-Sep-17 11:11:29 AM	Info	BenchCel - 1	Default Location			Ignoring: Wrong plate type			1	
+25-Sep-17 11:11:29 AM	Event	BenchCel - 1	Stacker 2			The stack is empty			1	
+25-Sep-17 11:11:29 AM	Event	BenchCel - 1		source 1		Finished moving plate from BenchCel - 1 Stacker 2, teachpoint Stacker 2 to Bravo - 1 3, teachpoint Bravo3			1	
+25-Sep-17 11:11:29 AM	Event	Bravo - 1		source 1		Move plate from Bravo - 1 3, teachpoint 3 to Bravo - 1 8, teachpoint 8			1	
+25-Sep-17 11:11:40 AM	Event	Bravo - 1		source 1		Finished moving plate from Bravo - 1 3, teachpoint 3 to Bravo - 1 8, teachpoint 8			1	
+25-Sep-17 11:11:40 AM	Event	Bravo - 1	8	source 1	2	Completed: Place plate at Bravo - 1 8	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 11:11:40 AM	Event			source 1	3	Spawn dest1	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 11:11:40 AM	Event			source 1	3	Completed: Spawn dest1	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 11:11:40 AM	Event			dest1 1		Process starting, north barcode: No bar code, east barcode: No bar code, south barcode: No bar code, west barcode: No bar code	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 11:11:40 AM	Event	BenchCel - 1	Stacker 3	dest1 1	1	Downstack from BenchCel - 1.Stacker 3	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 11:11:40 AM	Event	BenchCel - 1	Stacker 3	dest1 1	1	Completed: Downstack from BenchCel - 1.Stacker 3	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 11:11:40 AM	Event	Bravo - 1	5	dest1 1	2	Place plate at Bravo - 1 5	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 11:11:40 AM	Event	BenchCel - 1		dest1 1		Move plate from BenchCel - 1 Stacker 3, teachpoint Stacker 3 to Bravo - 1 3, teachpoint Bravo3			1	
+25-Sep-17 11:11:53 AM	Event	BenchCel - 1	Stacker 3			The stack is empty			1	
+25-Sep-17 11:11:53 AM	Event	BenchCel - 1		dest1 1		Finished moving plate from BenchCel - 1 Stacker 3, teachpoint Stacker 3 to Bravo - 1 3, teachpoint Bravo3			1	
+25-Sep-17 11:11:53 AM	Event	Bravo - 1		dest1 1		Move plate from Bravo - 1 3, teachpoint 3 to Bravo - 1 5, teachpoint 5			1	
+25-Sep-17 11:12:02 AM	Event	Bravo - 1		dest1 1		Finished moving plate from Bravo - 1 3, teachpoint 3 to Bravo - 1 5, teachpoint 5			1	
+25-Sep-17 11:12:02 AM	Event	Bravo - 1	5	dest1 1	2	Completed: Place plate at Bravo - 1 5	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 11:12:02 AM	Event			dest1 1	3	Spawn tipbox	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 11:12:03 AM	Event			dest1 1	3	Completed: Spawn tipbox	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 11:12:03 AM	Event			tipbox 1		Process starting, north barcode: No bar code, east barcode: No bar code, south barcode: No bar code, west barcode: No bar code	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 11:12:03 AM	Event	BenchCel - 1	Stacker 1	tipbox 1	1	Downstack from BenchCel - 1.Stacker 1	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 11:12:03 AM	Event	BenchCel - 1	Stacker 1	tipbox 1	1	Completed: Downstack from BenchCel - 1.Stacker 1	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 11:12:03 AM	Event	Bravo - 1	2	tipbox 1	2	Place plate at Bravo - 1 2	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 11:12:03 AM	Event	BenchCel - 1		tipbox 1		Move plate from BenchCel - 1 Stacker 1, teachpoint Stacker 1 to Bravo - 1 3, teachpoint Bravo3			1	
+25-Sep-17 11:12:17 AM	Event	BenchCel - 1	Stacker 1			The stack is empty			1	
+25-Sep-17 11:12:17 AM	Event	BenchCel - 1		tipbox 1		Finished moving plate from BenchCel - 1 Stacker 1, teachpoint Stacker 1 to Bravo - 1 3, teachpoint Bravo3			1	
+25-Sep-17 11:12:17 AM	Event	Bravo - 1		tipbox 1		Move plate from Bravo - 1 3, teachpoint 3 to Bravo - 1 2, teachpoint 2			1	
+25-Sep-17 11:12:26 AM	Event	Bravo - 1		tipbox 1		Finished moving plate from Bravo - 1 3, teachpoint 3 to Bravo - 1 2, teachpoint 2			1	
+25-Sep-17 11:12:26 AM	Event	Bravo - 1	2	tipbox 1	2	Completed: Place plate at Bravo - 1 2	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 11:12:26 AM	Event	Bravo - 1	5	Bravo SubProcess 88 1	1	Begin task group	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 11:12:26 AM	Event	Bravo - 1	8	Bravo SubProcess 88 1	1	Begin task group	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 11:12:26 AM	Event	Bravo - 1	2	Bravo SubProcess 88 1	1	Begin task group	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 11:12:27 AM	Event	Bravo - 1	5	Bravo SubProcess 88 1	1	Completed: Begin task group	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 11:12:27 AM	Event	Bravo - 1	8	Bravo SubProcess 88 1	1	Completed: Begin task group	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 11:12:27 AM	Event	Bravo - 1	2	Bravo SubProcess 88 1	1	Completed: Begin task group	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 11:12:27 AM	Event	Bravo - 1	Default Location	Bravo SubProcess 88 1	2	Set head mode to 6 columns: 1-6	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 11:12:27 AM	Event	Bravo - 1	Default Location	Bravo SubProcess 88 1	2	Completed: Set head mode to 6 columns: 1-6	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 11:12:27 AM	Event	Bravo - 1	2	Bravo SubProcess 88 1	3	Tips On in 1 selection(s) from tipbox 1	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 11:12:35 AM	Event	Bravo - 1	2	Bravo SubProcess 88 1	3	Completed: Tips On in 1 selection(s) from tipbox 1	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 11:12:35 AM	Event	Bravo - 1	8	Bravo SubProcess 88 1	4	Aspirate 20 킠 in 1 selection(s) from source 1	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 11:12:46 AM	Event	Bravo - 1	8	Bravo SubProcess 88 1	4	Completed: Aspirate 20 킠 in 1 selection(s) from source 1	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 11:12:46 AM	Event	Bravo - 1	5	Bravo SubProcess 88 1	5	Dispense 21.45089286 킠 in 1 selection(s) to dest1 1	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 11:12:57 AM	Event	Bravo - 1	5	Bravo SubProcess 88 1	5	Completed: Dispense 21.45089286 킠 in 1 selection(s) to dest1 1	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 11:12:57 AM	Event	Bravo - 1	2	Bravo SubProcess 88 1	6	Tips Off in 1 selection(s) from tipbox 1	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 11:13:05 AM	Event	Bravo - 1	2	Bravo SubProcess 88 1	6	Completed: Tips Off in 1 selection(s) from tipbox 1	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 11:13:05 AM	Event	Bravo - 1	Default Location	Bravo SubProcess 88 1	7	Set head mode to 6 columns: 7-12	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 11:13:05 AM	Event	Bravo - 1	Default Location	Bravo SubProcess 88 1	7	Completed: Set head mode to 6 columns: 7-12	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 11:13:05 AM	Event	Bravo - 1	2	Bravo SubProcess 88 1	8	Tips On in 1 selection(s) from tipbox 1	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 11:13:13 AM	Event	Bravo - 1	2	Bravo SubProcess 88 1	8	Completed: Tips On in 1 selection(s) from tipbox 1	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 11:13:14 AM	Event	Bravo - 1	8	Bravo SubProcess 88 1	9	Aspirate 20 킠 in 1 selection(s) from source 1	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 11:13:24 AM	Event	Bravo - 1	8	Bravo SubProcess 88 1	9	Completed: Aspirate 20 킠 in 1 selection(s) from source 1	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 11:13:25 AM	Event	Bravo - 1	5	Bravo SubProcess 88 1	10	Dispense 21.45535714 킠 in 1 selection(s) to dest1 1	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 11:13:35 AM	Event	Bravo - 1	5	Bravo SubProcess 88 1	10	Completed: Dispense 21.45535714 킠 in 1 selection(s) to dest1 1	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 11:13:35 AM	Event	Bravo - 1	2	Bravo SubProcess 88 1	11	Tips Off in 1 selection(s) from tipbox 1	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 11:13:43 AM	Event	Bravo - 1	2	Bravo SubProcess 88 1	11	Completed: Tips Off in 1 selection(s) from tipbox 1	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 11:13:43 AM	Event	Bravo - 1	5	Bravo SubProcess 88 1	12	Shake from dest1 1	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 11:13:54 AM	Event	Bravo - 1	5	Bravo SubProcess 88 1	12	Completed: Shake from dest1 1	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 11:13:54 AM	Event			Bravo SubProcess 88 1	13	End task group	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 11:13:54 AM	Event			Bravo SubProcess 88 1	13	Completed: End task group	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 11:13:54 AM	Event			Bravo SubProcess 88 1		Process finishing	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 11:13:54 AM	Event	Bravo - 1	7	dest1 1	5	Incubate for 10 seconds	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 11:13:54 AM	Event	Bravo - 1		dest1 1		Move plate from Bravo - 1 5, teachpoint 5 to Bravo - 1 7, teachpoint 7			1	
+25-Sep-17 11:13:54 AM	Event	BenchCel - 1	Stacker 1	tipbox 1	4	Upstack to BenchCel - 1.Stacker 1	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 11:14:03 AM	Event	Bravo - 1		dest1 1		Finished moving plate from Bravo - 1 5, teachpoint 5 to Bravo - 1 7, teachpoint 7			1	
+25-Sep-17 11:14:03 AM	Event	Bravo - 1		tipbox 1		Move plate from Bravo - 1 2, teachpoint 2 to Bravo - 1 3, teachpoint 3			1	
+25-Sep-17 11:14:13 AM	Event	Bravo - 1	7	dest1 1	5	Completed: Incubate for 10 seconds	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 11:14:13 AM	Event	Bravo - 1		tipbox 1		Finished moving plate from Bravo - 1 2, teachpoint 2 to Bravo - 1 3, teachpoint 3			1	
+25-Sep-17 11:14:13 AM	Event	BenchCel - 1		tipbox 1		Move plate from Bravo - 1 3, teachpoint Bravo3 to BenchCel - 1 Stacker 1, teachpoint Stacker 1			1	
+25-Sep-17 11:14:23 AM	Event	BenchCel - 1		tipbox 1		Finished moving plate from Bravo - 1 3, teachpoint Bravo3 to BenchCel - 1 Stacker 1, teachpoint Stacker 1			1	
+25-Sep-17 11:14:23 AM	Event	BenchCel - 1	Stacker 1	tipbox 1	4	Completed: Upstack to BenchCel - 1.Stacker 1	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 11:14:23 AM	Event			tipbox 1	5	Signal Waitfortb of dest1 1	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 11:14:23 AM	Event			tipbox 1	5	Completed: Signal Waitfortb of dest1 1	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 11:14:23 AM	Event			dest1 1	6	Waitfor "Waitfortb" has been signaled	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 11:14:23 AM	Event			dest1 1	6	Completed: Waitfor "Waitfortb" has been signaled	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 11:14:23 AM	Event			tipbox 1		Process finishing	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 11:14:23 AM	Event	BenchCel - 1	Stacker 3	dest1 1	7	Upstack to BenchCel - 1.Stacker 3	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 11:14:23 AM	Event	Bravo - 1		dest1 1		Move plate from Bravo - 1 7, teachpoint 7 to Bravo - 1 3, teachpoint 3			1	
+25-Sep-17 11:14:32 AM	Event	Bravo - 1		dest1 1		Finished moving plate from Bravo - 1 7, teachpoint 7 to Bravo - 1 3, teachpoint 3			1	
+25-Sep-17 11:14:32 AM	Event	BenchCel - 1		dest1 1		Move plate from Bravo - 1 3, teachpoint Bravo3 to BenchCel - 1 Stacker 3, teachpoint Stacker 3			1	
+25-Sep-17 11:14:43 AM	Event	BenchCel - 1		dest1 1		Finished moving plate from Bravo - 1 3, teachpoint Bravo3 to BenchCel - 1 Stacker 3, teachpoint Stacker 3			1	
+25-Sep-17 11:14:43 AM	Event	BenchCel - 1	Stacker 3	dest1 1	7	Completed: Upstack to BenchCel - 1.Stacker 3	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 11:14:43 AM	Event			dest1 1	8	Signal Waitfordest of source 1	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 11:14:43 AM	Event			dest1 1	8	Completed: Signal Waitfordest of source 1	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 11:14:43 AM	Event			source 1	5	Waitfor "Waitfordest" has been signaled	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 11:14:43 AM	Event			source 1	5	Completed: Waitfor "Waitfordest" has been signaled	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 11:14:43 AM	Event			dest1 1		Process finishing	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 11:14:43 AM	Event	BenchCel - 1	Stacker 2	source 1	6	Upstack to BenchCel - 1.Stacker 2	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 11:14:43 AM	Event	Bravo - 1		source 1		Move plate from Bravo - 1 8, teachpoint 8 to Bravo - 1 3, teachpoint 3			1	
+25-Sep-17 11:14:53 AM	Event	Bravo - 1		source 1		Finished moving plate from Bravo - 1 8, teachpoint 8 to Bravo - 1 3, teachpoint 3			1	
+25-Sep-17 11:14:53 AM	Event	BenchCel - 1		source 1		Move plate from Bravo - 1 3, teachpoint Bravo3 to BenchCel - 1 Stacker 2, teachpoint Stacker 2			1	
+25-Sep-17 11:15:02 AM	Error	BenchCel - 1	Default Location	source 1		Wrong plate type	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 11:15:02 AM	Info					Error library: Select best match error handler: "Default" and action type "show error dialog"			1	
+25-Sep-17 11:15:10 AM	Info	BenchCel - 1	Default Location			Ignoring: Wrong plate type			1	
+25-Sep-17 11:15:10 AM	Event	BenchCel - 1		source 1		Finished moving plate from Bravo - 1 3, teachpoint Bravo3 to BenchCel - 1 Stacker 2, teachpoint Stacker 2			1	
+25-Sep-17 11:15:10 AM	Event	BenchCel - 1	Stacker 2	source 1	6	Completed: Upstack to BenchCel - 1.Stacker 2	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 11:15:10 AM	Event			source 1		Process finishing	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 11:15:10 AM	Info					Elapsed time since start: 4 minutes 22 seconds.	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 11:16:14 AM	Event					Main protocol complete	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 11:16:15 AM	Event	BenchCel - 1	Stacker 1	tipbox		Unload stacker rack at location "Stacker 1" of device "BenchCel - 1" with plate "tipbox" of labware type "96 V11 LT250 Tip Box 19477.002"	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 11:16:15 AM	Info	BenchCel - 1				Reset stack height: stack height at Stacker 1 is set to 0			1	
+25-Sep-17 11:16:15 AM	Event	BenchCel - 1	Stacker 2	source		Unload stacker rack at location "Stacker 2" of device "BenchCel - 1" with plate "source" of labware type "96 Nunc Deep Well 1 mL"	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 11:16:15 AM	Info	BenchCel - 1				Reset stack height: stack height at Stacker 2 is set to 0			1	
+25-Sep-17 11:16:15 AM	Event	BenchCel - 1	Stacker 3	dest1		Unload stacker rack at location "Stacker 3" of device "BenchCel - 1" with plate "dest1" of labware type "96 Eppendorf Twin.tec PCR"	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 11:16:16 AM	Info	BenchCel - 1				Reset stack height: stack height at Stacker 3 is set to 0			1	
+25-Sep-17 11:16:17 AM	Info			source	2	Added task "Unload" to process "source"	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 11:16:18 AM	Info			source	1	Deleted task "Downstack" from process "source"	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 11:16:33 AM	Info			source	1	Add location : Agilent Labware MiniHub - 1, cassette 1, slot 5	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 11:16:49 AM	Info			source	6	Added task "Load" to process "source"	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 11:17:07 AM	Info			source	7	Deleted task "Upstack" from process "source"	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 11:17:10 AM	Info					Compile protocol			1	
+25-Sep-17 11:17:11 AM	Error			source	6	"For StorageIncubate/Load Task, Load Plate" requires at least one empty location		visitor demo.pro	1	
+25-Sep-17 11:17:11 AM	Warning			source	6	The number of locations in the load group is less than the number of locations in the unload group.		visitor demo.pro	1	
+25-Sep-17 11:17:11 AM	Info					Compile complete with 1 error and 1 warning			1	
+25-Sep-17 11:17:24 AM	Info			source	6	Add location : Agilent Labware MiniHub - 1, cassette 1, slot 5	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 11:17:27 AM	Info					Compile protocol			1	
+25-Sep-17 11:17:29 AM	Warning			source	6	There is already a plate at the device Agilent Labware MiniHub - 1 in cassette 1, slot 5		visitor demo.pro	1	
+25-Sep-17 11:17:29 AM	Info					Compile complete with 0 errors and 1 warning			1	
+25-Sep-17 11:17:51 AM	Warning			source	6	There is already a plate at the device Agilent Labware MiniHub - 1 in cassette 1, slot 5		visitor demo.pro	1	
+25-Sep-17 11:17:51 AM	Info					Compile complete with 0 errors and 1 warning			1	
+25-Sep-17 11:17:52 AM	Info					Runset Manager: Added the run "C:\VWorks Workspace\Protocol Files\visitor demo.pro<3>" to Runset Manager.			1	
+25-Sep-17 11:17:53 AM	Event					Scheduler started			1	
+25-Sep-17 11:17:54 AM	Info					Error library: Protocol started using error library file: ""			1	
+25-Sep-17 11:17:54 AM	Event	BenchCel - 1	Stacker 1	tipbox		Load stacker rack at location "Stacker 1" of device "BenchCel - 1" with plate "tipbox" of labware type "96 V11 LT250 Tip Box 19477.002"	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 11:17:58 AM	Event	BenchCel - 1	Stacker 3	dest1		Load stacker rack at location "Stacker 3" of device "BenchCel - 1" with plate "dest1" of labware type "96 Eppendorf Twin.tec PCR"	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 11:18:03 AM	Info			tipbox		Plates are spawned on demand	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 11:18:03 AM	Info			source		1 plate required	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 11:18:03 AM	Info			dest1		Plates are spawned on demand	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 11:18:03 AM	Event					Main protocol starting	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 11:18:03 AM	Event			source 1		Process starting, north barcode: No bar code, east barcode: No bar code, south barcode: No bar code, west barcode: No bar code	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 11:18:03 AM	Event	Agilent Labware MiniHub - 1	Cassette 1, slot 5	source 1	1	Unload from plate storage device	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 11:18:03 AM	Event	Agilent Labware MiniHub - 1		source 1		Agilent Labware MiniHub - 1 Unload the plate from Location : cassette 1, slot 5 to Cassette 1, Slot 5	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 11:18:03 AM	Event	Agilent Labware MiniHub - 1	Cassette 1, slot 5	source 1	1	Completed: Unload from plate storage device	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 11:18:03 AM	Event	Bravo - 1	8	source 1	2	Place plate at Bravo - 1 8	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 11:18:03 AM	Event	BenchCel - 1		source 1		Move plate from Agilent Labware MiniHub - 1 Cassette 1, Slot 5, teachpoint MiniHub05 to Bravo - 1 3, teachpoint Bravo3			1	
+25-Sep-17 11:18:13 AM	Event	BenchCel - 1		source 1		Finished moving plate from Agilent Labware MiniHub - 1 Cassette 1, Slot 5, teachpoint MiniHub05 to Bravo - 1 3, teachpoint Bravo3			1	
+25-Sep-17 11:18:13 AM	Event	Bravo - 1		source 1		Move plate from Bravo - 1 3, teachpoint 3 to Bravo - 1 8, teachpoint 8			1	
+25-Sep-17 11:18:13 AM	Info					Pause protocol			1	
+25-Sep-17 11:18:14 AM	Event					Scheduler stopped			1	
+25-Sep-17 11:18:16 AM	Event					Scheduler aborted			1	
+25-Sep-17 11:18:16 AM	Event	Bravo - 1		source 1		Finished moving plate from Bravo - 1 3, teachpoint 3 to Bravo - 1 8, teachpoint 8			1	
+25-Sep-17 11:18:16 AM	Event	Bravo - 1	8	source 1	2	Completed: Place plate at Bravo - 1 8	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 11:18:17 AM	Event					Main protocol aborted by user	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 11:18:17 AM	Event			source 1		Process finishing	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 11:18:17 AM	Info					Elapsed time since start: 24 seconds.	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 11:18:19 AM	Event					Main protocol aborted by user	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 11:18:19 AM	Event			source 1		Process finishing	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 11:18:20 AM	Event	BenchCel - 1	Stacker 1	tipbox		Unload stacker rack at location "Stacker 1" of device "BenchCel - 1" with plate "tipbox" of labware type "96 V11 LT250 Tip Box 19477.002"	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 11:18:25 AM	Info	BenchCel - 1				Reset stack height: stack height at Stacker 1 is set to 0			1	
+25-Sep-17 11:18:25 AM	Event	BenchCel - 1	Stacker 3	dest1		Unload stacker rack at location "Stacker 3" of device "BenchCel - 1" with plate "dest1" of labware type "96 Eppendorf Twin.tec PCR"	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 11:18:30 AM	Info	BenchCel - 1				Reset stack height: stack height at Stacker 3 is set to 0			1	
+25-Sep-17 11:18:42 AM	Info			source	6	Add location : Agilent Labware MiniHub - 1, cassette 1, slot 5	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 11:19:03 AM	Info			source	6	Delete location Agilent Labware MiniHub - 1, cassette 1, slot 5	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 11:19:22 AM	Warning			source	1	No plate to unload from the device Agilent Labware MiniHub - 1 location : cassette 1, slot 5		visitor demo.pro	1	
+25-Sep-17 11:19:22 AM	Warning			source	1	There aren't any available plates for the unload task to unload		visitor demo.pro	1	
+25-Sep-17 11:19:22 AM	Info					Compile complete with 0 errors and 2 warnings			1	
+25-Sep-17 11:19:26 AM	Info					Runset Manager: Added the run "C:\VWorks Workspace\Protocol Files\visitor demo.pro<4>" to Runset Manager.			1	
+25-Sep-17 11:19:27 AM	Event					Scheduler started			1	
+25-Sep-17 11:19:28 AM	Info					Error library: Protocol started using error library file: ""			1	
+25-Sep-17 11:19:28 AM	Event	BenchCel - 1	Stacker 1	tipbox		Load stacker rack at location "Stacker 1" of device "BenchCel - 1" with plate "tipbox" of labware type "96 V11 LT250 Tip Box 19477.002"	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 11:19:33 AM	Event	BenchCel - 1	Stacker 3	dest1		Load stacker rack at location "Stacker 3" of device "BenchCel - 1" with plate "dest1" of labware type "96 Eppendorf Twin.tec PCR"	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 11:19:38 AM	Info			tipbox		Plates are spawned on demand	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 11:19:38 AM	Info			source		1 plate required	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 11:19:38 AM	Info			dest1		Plates are spawned on demand	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 11:19:38 AM	Event					Main protocol starting	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 11:19:38 AM	Event			source 1		Process starting, north barcode: No bar code, east barcode: No bar code, south barcode: No bar code, west barcode: No bar code	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 11:19:38 AM	Event	Agilent Labware MiniHub - 1	Cassette 1, slot 5	source 1	1	Unload from plate storage device	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 11:19:38 AM	Event	Agilent Labware MiniHub - 1		source 1		Agilent Labware MiniHub - 1 Unload the plate from Location : cassette 1, slot 5 to Cassette 1, Slot 5	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 11:19:38 AM	Event	Agilent Labware MiniHub - 1	Cassette 1, slot 5	source 1	1	Completed: Unload from plate storage device	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 11:19:38 AM	Event	Bravo - 1	8	source 1	2	Place plate at Bravo - 1 8	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 11:19:38 AM	Event	BenchCel - 1		source 1		Move plate from Agilent Labware MiniHub - 1 Cassette 1, Slot 5, teachpoint MiniHub05 to Bravo - 1 3, teachpoint Bravo3			1	
+25-Sep-17 11:19:48 AM	Event	BenchCel - 1		source 1		Finished moving plate from Agilent Labware MiniHub - 1 Cassette 1, Slot 5, teachpoint MiniHub05 to Bravo - 1 3, teachpoint Bravo3			1	
+25-Sep-17 11:19:48 AM	Event	Bravo - 1		source 1		Move plate from Bravo - 1 3, teachpoint 3 to Bravo - 1 8, teachpoint 8			1	
+25-Sep-17 11:19:59 AM	Event	Bravo - 1		source 1		Finished moving plate from Bravo - 1 3, teachpoint 3 to Bravo - 1 8, teachpoint 8			1	
+25-Sep-17 11:19:59 AM	Event	Bravo - 1	8	source 1	2	Completed: Place plate at Bravo - 1 8	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 11:19:59 AM	Event			source 1	3	Spawn dest1	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 11:19:59 AM	Event			source 1	3	Completed: Spawn dest1	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 11:19:59 AM	Event			dest1 1		Process starting, north barcode: No bar code, east barcode: No bar code, south barcode: No bar code, west barcode: No bar code	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 11:19:59 AM	Event	BenchCel - 1	Stacker 3	dest1 1	1	Downstack from BenchCel - 1.Stacker 3	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 11:19:59 AM	Event	BenchCel - 1	Stacker 3	dest1 1	1	Completed: Downstack from BenchCel - 1.Stacker 3	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 11:19:59 AM	Event	Bravo - 1	5	dest1 1	2	Place plate at Bravo - 1 5	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 11:19:59 AM	Event	BenchCel - 1		dest1 1		Move plate from BenchCel - 1 Stacker 3, teachpoint Stacker 3 to Bravo - 1 3, teachpoint Bravo3			1	
+25-Sep-17 11:20:12 AM	Event	BenchCel - 1	Stacker 3			The stack is empty			1	
+25-Sep-17 11:20:12 AM	Event	BenchCel - 1		dest1 1		Finished moving plate from BenchCel - 1 Stacker 3, teachpoint Stacker 3 to Bravo - 1 3, teachpoint Bravo3			1	
+25-Sep-17 11:20:12 AM	Event	Bravo - 1		dest1 1		Move plate from Bravo - 1 3, teachpoint 3 to Bravo - 1 5, teachpoint 5			1	
+25-Sep-17 11:20:21 AM	Event	Bravo - 1		dest1 1		Finished moving plate from Bravo - 1 3, teachpoint 3 to Bravo - 1 5, teachpoint 5			1	
+25-Sep-17 11:20:22 AM	Event	Bravo - 1	5	dest1 1	2	Completed: Place plate at Bravo - 1 5	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 11:20:22 AM	Event			dest1 1	3	Spawn tipbox	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 11:20:22 AM	Event			dest1 1	3	Completed: Spawn tipbox	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 11:20:22 AM	Event			tipbox 1		Process starting, north barcode: No bar code, east barcode: No bar code, south barcode: No bar code, west barcode: No bar code	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 11:20:22 AM	Event	BenchCel - 1	Stacker 1	tipbox 1	1	Downstack from BenchCel - 1.Stacker 1	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 11:20:22 AM	Event	BenchCel - 1	Stacker 1	tipbox 1	1	Completed: Downstack from BenchCel - 1.Stacker 1	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 11:20:22 AM	Event	Bravo - 1	2	tipbox 1	2	Place plate at Bravo - 1 2	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 11:20:22 AM	Event	BenchCel - 1		tipbox 1		Move plate from BenchCel - 1 Stacker 1, teachpoint Stacker 1 to Bravo - 1 3, teachpoint Bravo3			1	
+25-Sep-17 11:20:36 AM	Event	BenchCel - 1	Stacker 1			The stack is empty			1	
+25-Sep-17 11:20:36 AM	Event	BenchCel - 1		tipbox 1		Finished moving plate from BenchCel - 1 Stacker 1, teachpoint Stacker 1 to Bravo - 1 3, teachpoint Bravo3			1	
+25-Sep-17 11:20:36 AM	Event	Bravo - 1		tipbox 1		Move plate from Bravo - 1 3, teachpoint 3 to Bravo - 1 2, teachpoint 2			1	
+25-Sep-17 11:20:45 AM	Event	Bravo - 1		tipbox 1		Finished moving plate from Bravo - 1 3, teachpoint 3 to Bravo - 1 2, teachpoint 2			1	
+25-Sep-17 11:20:45 AM	Event	Bravo - 1	2	tipbox 1	2	Completed: Place plate at Bravo - 1 2	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 11:20:46 AM	Event	Bravo - 1	5	Bravo SubProcess 88 1	1	Begin task group	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 11:20:46 AM	Event	Bravo - 1	8	Bravo SubProcess 88 1	1	Begin task group	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 11:20:46 AM	Event	Bravo - 1	2	Bravo SubProcess 88 1	1	Begin task group	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 11:20:46 AM	Event	Bravo - 1	5	Bravo SubProcess 88 1	1	Completed: Begin task group	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 11:20:46 AM	Event	Bravo - 1	8	Bravo SubProcess 88 1	1	Completed: Begin task group	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 11:20:46 AM	Event	Bravo - 1	2	Bravo SubProcess 88 1	1	Completed: Begin task group	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 11:20:46 AM	Event	Bravo - 1	Default Location	Bravo SubProcess 88 1	2	Set head mode to 6 columns: 1-6	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 11:20:46 AM	Event	Bravo - 1	Default Location	Bravo SubProcess 88 1	2	Completed: Set head mode to 6 columns: 1-6	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 11:20:46 AM	Event	Bravo - 1	2	Bravo SubProcess 88 1	3	Tips On in 1 selection(s) from tipbox 1	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 11:20:54 AM	Event	Bravo - 1	2	Bravo SubProcess 88 1	3	Completed: Tips On in 1 selection(s) from tipbox 1	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 11:20:54 AM	Event	Bravo - 1	8	Bravo SubProcess 88 1	4	Aspirate 20 킠 in 1 selection(s) from source 1	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 11:21:05 AM	Event	Bravo - 1	8	Bravo SubProcess 88 1	4	Completed: Aspirate 20 킠 in 1 selection(s) from source 1	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 11:21:05 AM	Event	Bravo - 1	5	Bravo SubProcess 88 1	5	Dispense 21.42857143 킠 in 1 selection(s) to dest1 1	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 11:21:16 AM	Event	Bravo - 1	5	Bravo SubProcess 88 1	5	Completed: Dispense 21.42857143 킠 in 1 selection(s) to dest1 1	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 11:21:16 AM	Event	Bravo - 1	2	Bravo SubProcess 88 1	6	Tips Off in 1 selection(s) from tipbox 1	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 11:21:24 AM	Event	Bravo - 1	2	Bravo SubProcess 88 1	6	Completed: Tips Off in 1 selection(s) from tipbox 1	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 11:21:24 AM	Event	Bravo - 1	Default Location	Bravo SubProcess 88 1	7	Set head mode to 6 columns: 7-12	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 11:21:24 AM	Event	Bravo - 1	Default Location	Bravo SubProcess 88 1	7	Completed: Set head mode to 6 columns: 7-12	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 11:21:24 AM	Event	Bravo - 1	2	Bravo SubProcess 88 1	8	Tips On in 1 selection(s) from tipbox 1	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 11:21:32 AM	Event	Bravo - 1	2	Bravo SubProcess 88 1	8	Completed: Tips On in 1 selection(s) from tipbox 1	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 11:21:32 AM	Event	Bravo - 1	8	Bravo SubProcess 88 1	9	Aspirate 20 킠 in 1 selection(s) from source 1	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 11:21:43 AM	Event	Bravo - 1	8	Bravo SubProcess 88 1	9	Completed: Aspirate 20 킠 in 1 selection(s) from source 1	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 11:21:43 AM	Event	Bravo - 1	5	Bravo SubProcess 88 1	10	Dispense 21.43973214 킠 in 1 selection(s) to dest1 1	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 11:21:54 AM	Event	Bravo - 1	5	Bravo SubProcess 88 1	10	Completed: Dispense 21.43973214 킠 in 1 selection(s) to dest1 1	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 11:21:54 AM	Event	Bravo - 1	2	Bravo SubProcess 88 1	11	Tips Off in 1 selection(s) from tipbox 1	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 11:22:02 AM	Event	Bravo - 1	2	Bravo SubProcess 88 1	11	Completed: Tips Off in 1 selection(s) from tipbox 1	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 11:22:02 AM	Event	Bravo - 1	5	Bravo SubProcess 88 1	12	Shake from dest1 1	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 11:22:13 AM	Event	Bravo - 1	5	Bravo SubProcess 88 1	12	Completed: Shake from dest1 1	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 11:22:13 AM	Event			Bravo SubProcess 88 1	13	End task group	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 11:22:13 AM	Event			Bravo SubProcess 88 1	13	Completed: End task group	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 11:22:13 AM	Event			Bravo SubProcess 88 1		Process finishing	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 11:22:13 AM	Event	Bravo - 1	7	dest1 1	5	Incubate for 10 seconds	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 11:22:13 AM	Event	Bravo - 1		dest1 1		Move plate from Bravo - 1 5, teachpoint 5 to Bravo - 1 7, teachpoint 7			1	
+25-Sep-17 11:22:13 AM	Event	BenchCel - 1	Stacker 1	tipbox 1	4	Upstack to BenchCel - 1.Stacker 1	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 11:22:22 AM	Event	Bravo - 1		dest1 1		Finished moving plate from Bravo - 1 5, teachpoint 5 to Bravo - 1 7, teachpoint 7			1	
+25-Sep-17 11:22:22 AM	Event	Bravo - 1		tipbox 1		Move plate from Bravo - 1 2, teachpoint 2 to Bravo - 1 3, teachpoint 3			1	
+25-Sep-17 11:22:32 AM	Event	Bravo - 1	7	dest1 1	5	Completed: Incubate for 10 seconds	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 11:22:32 AM	Event	Bravo - 1		tipbox 1		Finished moving plate from Bravo - 1 2, teachpoint 2 to Bravo - 1 3, teachpoint 3			1	
+25-Sep-17 11:22:32 AM	Event	BenchCel - 1		tipbox 1		Move plate from Bravo - 1 3, teachpoint Bravo3 to BenchCel - 1 Stacker 1, teachpoint Stacker 1			1	
+25-Sep-17 11:22:42 AM	Event	BenchCel - 1		tipbox 1		Finished moving plate from Bravo - 1 3, teachpoint Bravo3 to BenchCel - 1 Stacker 1, teachpoint Stacker 1			1	
+25-Sep-17 11:22:42 AM	Event	BenchCel - 1	Stacker 1	tipbox 1	4	Completed: Upstack to BenchCel - 1.Stacker 1	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 11:22:42 AM	Event			tipbox 1	5	Signal Waitfortb of dest1 1	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 11:22:42 AM	Event			tipbox 1	5	Completed: Signal Waitfortb of dest1 1	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 11:22:42 AM	Event			dest1 1	6	Waitfor "Waitfortb" has been signaled	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 11:22:42 AM	Event			dest1 1	6	Completed: Waitfor "Waitfortb" has been signaled	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 11:22:42 AM	Event			tipbox 1		Process finishing	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 11:22:42 AM	Event	BenchCel - 1	Stacker 3	dest1 1	7	Upstack to BenchCel - 1.Stacker 3	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 11:22:42 AM	Event	Bravo - 1		dest1 1		Move plate from Bravo - 1 7, teachpoint 7 to Bravo - 1 3, teachpoint 3			1	
+25-Sep-17 11:22:51 AM	Event	Bravo - 1		dest1 1		Finished moving plate from Bravo - 1 7, teachpoint 7 to Bravo - 1 3, teachpoint 3			1	
+25-Sep-17 11:22:51 AM	Event	BenchCel - 1		dest1 1		Move plate from Bravo - 1 3, teachpoint Bravo3 to BenchCel - 1 Stacker 3, teachpoint Stacker 3			1	
+25-Sep-17 11:23:02 AM	Event	BenchCel - 1		dest1 1		Finished moving plate from Bravo - 1 3, teachpoint Bravo3 to BenchCel - 1 Stacker 3, teachpoint Stacker 3			1	
+25-Sep-17 11:23:02 AM	Event	BenchCel - 1	Stacker 3	dest1 1	7	Completed: Upstack to BenchCel - 1.Stacker 3	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 11:23:02 AM	Event			dest1 1	8	Signal Waitfordest of source 1	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 11:23:02 AM	Event			dest1 1	8	Completed: Signal Waitfordest of source 1	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 11:23:02 AM	Event			dest1 1		Process finishing	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 11:23:02 AM	Event			source 1	5	Waitfor "Waitfordest" has been signaled	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 11:23:02 AM	Event			source 1	5	Completed: Waitfor "Waitfordest" has been signaled	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 11:23:02 AM	Event	Agilent Labware MiniHub - 1	Cassette 1, slot 5	source 1	6	Load into plate storage device	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 11:23:02 AM	Event	Bravo - 1		source 1		Move plate from Bravo - 1 8, teachpoint 8 to Bravo - 1 3, teachpoint 3			1	
+25-Sep-17 11:23:12 AM	Event	Bravo - 1		source 1		Finished moving plate from Bravo - 1 8, teachpoint 8 to Bravo - 1 3, teachpoint 3			1	
+25-Sep-17 11:23:12 AM	Event	BenchCel - 1		source 1		Move plate from Bravo - 1 3, teachpoint Bravo3 to Agilent Labware MiniHub - 1 Cassette 1, Slot 5, teachpoint MiniHub05			1	
+25-Sep-17 11:23:24 AM	Event	BenchCel - 1		source 1		Finished moving plate from Bravo - 1 3, teachpoint Bravo3 to Agilent Labware MiniHub - 1 Cassette 1, Slot 5, teachpoint MiniHub05			1	
+25-Sep-17 11:23:24 AM	Event	Agilent Labware MiniHub - 1		source 1	6	Agilent Labware MiniHub - 1 Load the plate from Cassette 1, Slot 5 into Location : cassette 1, slot 5	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 11:23:24 AM	Event	Agilent Labware MiniHub - 1	Cassette 1, slot 5	source 1	6	Completed: Load into plate storage device	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 11:23:24 AM	Event			source 1		Process finishing	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 11:23:24 AM	Info					Elapsed time since start: 3 minutes 57 seconds.	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 11:24:28 AM	Event					Main protocol complete	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 11:24:31 AM	Event	BenchCel - 1	Stacker 1	tipbox		Unload stacker rack at location "Stacker 1" of device "BenchCel - 1" with plate "tipbox" of labware type "96 V11 LT250 Tip Box 19477.002"	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 11:24:31 AM	Info	BenchCel - 1				Reset stack height: stack height at Stacker 1 is set to 0			1	
+25-Sep-17 11:24:31 AM	Event	BenchCel - 1	Stacker 3	dest1		Unload stacker rack at location "Stacker 3" of device "BenchCel - 1" with plate "dest1" of labware type "96 Eppendorf Twin.tec PCR"	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	1	
+25-Sep-17 11:24:32 AM	Info	BenchCel - 1				Reset stack height: stack height at Stacker 3 is set to 0			1	
+25-Sep-17 11:54:18 AM	Info					administrator logged out. Session 1 closed			1	
+25-Sep-17 2:19:36 PM	Info					administrator logged in			2	
+25-Sep-17 2:19:39 PM	Warning			source	6	There is already a plate at the device Agilent Labware MiniHub - 1 in cassette 1, slot 5		visitor demo.pro	2	
+25-Sep-17 2:19:39 PM	Info					Compile complete with 0 errors and 1 warning			2	
+25-Sep-17 2:19:46 PM	Info					Runset Manager: Added the run "C:\VWorks Workspace\Protocol Files\visitor demo.pro<5>" to Runset Manager.			2	
+25-Sep-17 2:19:47 PM	Event					Scheduler started			2	
+25-Sep-17 2:19:47 PM	Info					Error library: Protocol started using error library file: ""			2	
+25-Sep-17 2:19:47 PM	Event	BenchCel - 1	Stacker 1	tipbox		Load stacker rack at location "Stacker 1" of device "BenchCel - 1" with plate "tipbox" of labware type "96 V11 LT250 Tip Box 19477.002"	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	2	
+25-Sep-17 2:19:51 PM	Event	BenchCel - 1	Stacker 3	dest1		Load stacker rack at location "Stacker 3" of device "BenchCel - 1" with plate "dest1" of labware type "96 Eppendorf Twin.tec PCR"	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	2	
+25-Sep-17 2:19:56 PM	Info			tipbox		Plates are spawned on demand	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	2	
+25-Sep-17 2:19:57 PM	Info			source		1 plate required	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	2	
+25-Sep-17 2:19:57 PM	Info			dest1		Plates are spawned on demand	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	2	
+25-Sep-17 2:19:57 PM	Event					Main protocol starting	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	2	
+25-Sep-17 2:19:57 PM	Event			source 1		Process starting, north barcode: No bar code, east barcode: No bar code, south barcode: No bar code, west barcode: No bar code	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	2	
+25-Sep-17 2:19:57 PM	Event	Agilent Labware MiniHub - 1	Cassette 1, slot 5	source 1	1	Unload from plate storage device	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	2	
+25-Sep-17 2:19:57 PM	Event	Agilent Labware MiniHub - 1		source 1		Agilent Labware MiniHub - 1 Unload the plate from Location : cassette 1, slot 5 to Cassette 1, Slot 5	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	2	
+25-Sep-17 2:19:57 PM	Event	Agilent Labware MiniHub - 1	Cassette 1, slot 5	source 1	1	Completed: Unload from plate storage device	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	2	
+25-Sep-17 2:19:57 PM	Event	Bravo - 1	8	source 1	2	Place plate at Bravo - 1 8	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	2	
+25-Sep-17 2:19:57 PM	Event	BenchCel - 1		source 1		Move plate from Agilent Labware MiniHub - 1 Cassette 1, Slot 5, teachpoint MiniHub05 to Bravo - 1 3, teachpoint Bravo3			2	
+25-Sep-17 2:20:07 PM	Event	BenchCel - 1		source 1		Finished moving plate from Agilent Labware MiniHub - 1 Cassette 1, Slot 5, teachpoint MiniHub05 to Bravo - 1 3, teachpoint Bravo3			2	
+25-Sep-17 2:20:07 PM	Event	Bravo - 1		source 1		Move plate from Bravo - 1 3, teachpoint 3 to Bravo - 1 8, teachpoint 8			2	
+25-Sep-17 2:20:18 PM	Event	Bravo - 1		source 1		Finished moving plate from Bravo - 1 3, teachpoint 3 to Bravo - 1 8, teachpoint 8			2	
+25-Sep-17 2:20:18 PM	Event	Bravo - 1	8	source 1	2	Completed: Place plate at Bravo - 1 8	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	2	
+25-Sep-17 2:20:18 PM	Event			source 1	3	Spawn dest1	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	2	
+25-Sep-17 2:20:18 PM	Event			source 1	3	Completed: Spawn dest1	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	2	
+25-Sep-17 2:20:18 PM	Event			dest1 1		Process starting, north barcode: No bar code, east barcode: No bar code, south barcode: No bar code, west barcode: No bar code	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	2	
+25-Sep-17 2:20:18 PM	Event	BenchCel - 1	Stacker 3	dest1 1	1	Downstack from BenchCel - 1.Stacker 3	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	2	
+25-Sep-17 2:20:18 PM	Event	BenchCel - 1	Stacker 3	dest1 1	1	Completed: Downstack from BenchCel - 1.Stacker 3	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	2	
+25-Sep-17 2:20:18 PM	Event	Bravo - 1	5	dest1 1	2	Place plate at Bravo - 1 5	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	2	
+25-Sep-17 2:20:18 PM	Event	BenchCel - 1		dest1 1		Move plate from BenchCel - 1 Stacker 3, teachpoint Stacker 3 to Bravo - 1 3, teachpoint Bravo3			2	
+25-Sep-17 2:20:31 PM	Event	BenchCel - 1	Stacker 3			The stack is empty			2	
+25-Sep-17 2:20:31 PM	Event	BenchCel - 1		dest1 1		Finished moving plate from BenchCel - 1 Stacker 3, teachpoint Stacker 3 to Bravo - 1 3, teachpoint Bravo3			2	
+25-Sep-17 2:20:31 PM	Event	Bravo - 1		dest1 1		Move plate from Bravo - 1 3, teachpoint 3 to Bravo - 1 5, teachpoint 5			2	
+25-Sep-17 2:20:40 PM	Event	Bravo - 1		dest1 1		Finished moving plate from Bravo - 1 3, teachpoint 3 to Bravo - 1 5, teachpoint 5			2	
+25-Sep-17 2:20:40 PM	Event	Bravo - 1	5	dest1 1	2	Completed: Place plate at Bravo - 1 5	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	2	
+25-Sep-17 2:20:41 PM	Event			dest1 1	3	Spawn tipbox	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	2	
+25-Sep-17 2:20:41 PM	Event			dest1 1	3	Completed: Spawn tipbox	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	2	
+25-Sep-17 2:20:41 PM	Event			tipbox 1		Process starting, north barcode: No bar code, east barcode: No bar code, south barcode: No bar code, west barcode: No bar code	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	2	
+25-Sep-17 2:20:41 PM	Event	BenchCel - 1	Stacker 1	tipbox 1	1	Downstack from BenchCel - 1.Stacker 1	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	2	
+25-Sep-17 2:20:41 PM	Event	BenchCel - 1	Stacker 1	tipbox 1	1	Completed: Downstack from BenchCel - 1.Stacker 1	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	2	
+25-Sep-17 2:20:41 PM	Event	Bravo - 1	2	tipbox 1	2	Place plate at Bravo - 1 2	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	2	
+25-Sep-17 2:20:41 PM	Event	BenchCel - 1		tipbox 1		Move plate from BenchCel - 1 Stacker 1, teachpoint Stacker 1 to Bravo - 1 3, teachpoint Bravo3			2	
+25-Sep-17 2:20:55 PM	Event	BenchCel - 1	Stacker 1			The stack is empty			2	
+25-Sep-17 2:20:55 PM	Event	BenchCel - 1		tipbox 1		Finished moving plate from BenchCel - 1 Stacker 1, teachpoint Stacker 1 to Bravo - 1 3, teachpoint Bravo3			2	
+25-Sep-17 2:20:55 PM	Event	Bravo - 1		tipbox 1		Move plate from Bravo - 1 3, teachpoint 3 to Bravo - 1 2, teachpoint 2			2	
+25-Sep-17 2:21:04 PM	Event	Bravo - 1		tipbox 1		Finished moving plate from Bravo - 1 3, teachpoint 3 to Bravo - 1 2, teachpoint 2			2	
+25-Sep-17 2:21:04 PM	Event	Bravo - 1	2	tipbox 1	2	Completed: Place plate at Bravo - 1 2	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	2	
+25-Sep-17 2:21:04 PM	Event	Bravo - 1	5	Bravo SubProcess 88 1	1	Begin task group	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	2	
+25-Sep-17 2:21:04 PM	Event	Bravo - 1	8	Bravo SubProcess 88 1	1	Begin task group	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	2	
+25-Sep-17 2:21:04 PM	Event	Bravo - 1	2	Bravo SubProcess 88 1	1	Begin task group	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	2	
+25-Sep-17 2:21:05 PM	Event	Bravo - 1	5	Bravo SubProcess 88 1	1	Completed: Begin task group	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	2	
+25-Sep-17 2:21:05 PM	Event	Bravo - 1	8	Bravo SubProcess 88 1	1	Completed: Begin task group	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	2	
+25-Sep-17 2:21:05 PM	Event	Bravo - 1	2	Bravo SubProcess 88 1	1	Completed: Begin task group	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	2	
+25-Sep-17 2:21:05 PM	Event	Bravo - 1	Default Location	Bravo SubProcess 88 1	2	Set head mode to 6 columns: 1-6	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	2	
+25-Sep-17 2:21:05 PM	Event	Bravo - 1	Default Location	Bravo SubProcess 88 1	2	Completed: Set head mode to 6 columns: 1-6	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	2	
+25-Sep-17 2:21:05 PM	Event	Bravo - 1	2	Bravo SubProcess 88 1	3	Tips On in 1 selection(s) from tipbox 1	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	2	
+25-Sep-17 2:21:13 PM	Event	Bravo - 1	2	Bravo SubProcess 88 1	3	Completed: Tips On in 1 selection(s) from tipbox 1	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	2	
+25-Sep-17 2:21:13 PM	Event	Bravo - 1	8	Bravo SubProcess 88 1	4	Aspirate 20 킠 in 1 selection(s) from source 1	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	2	
+25-Sep-17 2:21:24 PM	Event	Bravo - 1	8	Bravo SubProcess 88 1	4	Completed: Aspirate 20 킠 in 1 selection(s) from source 1	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	2	
+25-Sep-17 2:21:24 PM	Event	Bravo - 1	5	Bravo SubProcess 88 1	5	Dispense 21.44419643 킠 in 1 selection(s) to dest1 1	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	2	
+25-Sep-17 2:21:35 PM	Event	Bravo - 1	5	Bravo SubProcess 88 1	5	Completed: Dispense 21.44419643 킠 in 1 selection(s) to dest1 1	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	2	
+25-Sep-17 2:21:35 PM	Event	Bravo - 1	2	Bravo SubProcess 88 1	6	Tips Off in 1 selection(s) from tipbox 1	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	2	
+25-Sep-17 2:21:43 PM	Event	Bravo - 1	2	Bravo SubProcess 88 1	6	Completed: Tips Off in 1 selection(s) from tipbox 1	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	2	
+25-Sep-17 2:21:43 PM	Event	Bravo - 1	Default Location	Bravo SubProcess 88 1	7	Set head mode to 6 columns: 7-12	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	2	
+25-Sep-17 2:21:43 PM	Event	Bravo - 1	Default Location	Bravo SubProcess 88 1	7	Completed: Set head mode to 6 columns: 7-12	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	2	
+25-Sep-17 2:21:43 PM	Event	Bravo - 1	2	Bravo SubProcess 88 1	8	Tips On in 1 selection(s) from tipbox 1	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	2	
+25-Sep-17 2:21:51 PM	Event	Bravo - 1	2	Bravo SubProcess 88 1	8	Completed: Tips On in 1 selection(s) from tipbox 1	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	2	
+25-Sep-17 2:21:52 PM	Event	Bravo - 1	8	Bravo SubProcess 88 1	9	Aspirate 20 킠 in 1 selection(s) from source 1	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	2	
+25-Sep-17 2:22:02 PM	Event	Bravo - 1	8	Bravo SubProcess 88 1	9	Completed: Aspirate 20 킠 in 1 selection(s) from source 1	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	2	
+25-Sep-17 2:22:02 PM	Event	Bravo - 1	5	Bravo SubProcess 88 1	10	Dispense 21.46651786 킠 in 1 selection(s) to dest1 1	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	2	
+25-Sep-17 2:22:13 PM	Event	Bravo - 1	5	Bravo SubProcess 88 1	10	Completed: Dispense 21.46651786 킠 in 1 selection(s) to dest1 1	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	2	
+25-Sep-17 2:22:13 PM	Event	Bravo - 1	2	Bravo SubProcess 88 1	11	Tips Off in 1 selection(s) from tipbox 1	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	2	
+25-Sep-17 2:22:21 PM	Event	Bravo - 1	2	Bravo SubProcess 88 1	11	Completed: Tips Off in 1 selection(s) from tipbox 1	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	2	
+25-Sep-17 2:22:21 PM	Event	Bravo - 1	5	Bravo SubProcess 88 1	12	Shake from dest1 1	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	2	
+25-Sep-17 2:22:32 PM	Event	Bravo - 1	5	Bravo SubProcess 88 1	12	Completed: Shake from dest1 1	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	2	
+25-Sep-17 2:22:32 PM	Event			Bravo SubProcess 88 1	13	End task group	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	2	
+25-Sep-17 2:22:32 PM	Event			Bravo SubProcess 88 1	13	Completed: End task group	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	2	
+25-Sep-17 2:22:32 PM	Event			Bravo SubProcess 88 1		Process finishing	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	2	
+25-Sep-17 2:22:32 PM	Event	Bravo - 1	7	dest1 1	5	Incubate for 10 seconds	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	2	
+25-Sep-17 2:22:32 PM	Event	Bravo - 1		dest1 1		Move plate from Bravo - 1 5, teachpoint 5 to Bravo - 1 7, teachpoint 7			2	
+25-Sep-17 2:22:32 PM	Event	BenchCel - 1	Stacker 1	tipbox 1	4	Upstack to BenchCel - 1.Stacker 1	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	2	
+25-Sep-17 2:22:41 PM	Event	Bravo - 1		dest1 1		Finished moving plate from Bravo - 1 5, teachpoint 5 to Bravo - 1 7, teachpoint 7			2	
+25-Sep-17 2:22:41 PM	Event	Bravo - 1		tipbox 1		Move plate from Bravo - 1 2, teachpoint 2 to Bravo - 1 3, teachpoint 3			2	
+25-Sep-17 2:22:51 PM	Event	Bravo - 1	7	dest1 1	5	Completed: Incubate for 10 seconds	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	2	
+25-Sep-17 2:22:51 PM	Event	Bravo - 1		tipbox 1		Finished moving plate from Bravo - 1 2, teachpoint 2 to Bravo - 1 3, teachpoint 3			2	
+25-Sep-17 2:22:51 PM	Event	BenchCel - 1		tipbox 1		Move plate from Bravo - 1 3, teachpoint Bravo3 to BenchCel - 1 Stacker 1, teachpoint Stacker 1			2	
+25-Sep-17 2:23:01 PM	Event	BenchCel - 1		tipbox 1		Finished moving plate from Bravo - 1 3, teachpoint Bravo3 to BenchCel - 1 Stacker 1, teachpoint Stacker 1			2	
+25-Sep-17 2:23:01 PM	Event	BenchCel - 1	Stacker 1	tipbox 1	4	Completed: Upstack to BenchCel - 1.Stacker 1	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	2	
+25-Sep-17 2:23:01 PM	Event			tipbox 1	5	Signal Waitfortb of dest1 1	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	2	
+25-Sep-17 2:23:01 PM	Event			tipbox 1	5	Completed: Signal Waitfortb of dest1 1	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	2	
+25-Sep-17 2:23:01 PM	Event			dest1 1	6	Waitfor "Waitfortb" has been signaled	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	2	
+25-Sep-17 2:23:01 PM	Event			dest1 1	6	Completed: Waitfor "Waitfortb" has been signaled	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	2	
+25-Sep-17 2:23:01 PM	Event			tipbox 1		Process finishing	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	2	
+25-Sep-17 2:23:01 PM	Event	BenchCel - 1	Stacker 3	dest1 1	7	Upstack to BenchCel - 1.Stacker 3	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	2	
+25-Sep-17 2:23:01 PM	Event	Bravo - 1		dest1 1		Move plate from Bravo - 1 7, teachpoint 7 to Bravo - 1 3, teachpoint 3			2	
+25-Sep-17 2:23:11 PM	Event	Bravo - 1		dest1 1		Finished moving plate from Bravo - 1 7, teachpoint 7 to Bravo - 1 3, teachpoint 3			2	
+25-Sep-17 2:23:11 PM	Event	BenchCel - 1		dest1 1		Move plate from Bravo - 1 3, teachpoint Bravo3 to BenchCel - 1 Stacker 3, teachpoint Stacker 3			2	
+25-Sep-17 2:23:21 PM	Event	BenchCel - 1		dest1 1		Finished moving plate from Bravo - 1 3, teachpoint Bravo3 to BenchCel - 1 Stacker 3, teachpoint Stacker 3			2	
+25-Sep-17 2:23:21 PM	Event	BenchCel - 1	Stacker 3	dest1 1	7	Completed: Upstack to BenchCel - 1.Stacker 3	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	2	
+25-Sep-17 2:23:21 PM	Event			dest1 1	8	Signal Waitfordest of source 1	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	2	
+25-Sep-17 2:23:21 PM	Event			dest1 1	8	Completed: Signal Waitfordest of source 1	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	2	
+25-Sep-17 2:23:21 PM	Event			source 1	5	Waitfor "Waitfordest" has been signaled	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	2	
+25-Sep-17 2:23:21 PM	Event			source 1	5	Completed: Waitfor "Waitfordest" has been signaled	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	2	
+25-Sep-17 2:23:21 PM	Event			dest1 1		Process finishing	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	2	
+25-Sep-17 2:23:21 PM	Event	Agilent Labware MiniHub - 1	Cassette 1, slot 5	source 1	6	Load into plate storage device	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	2	
+25-Sep-17 2:23:22 PM	Event	Bravo - 1		source 1		Move plate from Bravo - 1 8, teachpoint 8 to Bravo - 1 3, teachpoint 3			2	
+25-Sep-17 2:23:31 PM	Event	Bravo - 1		source 1		Finished moving plate from Bravo - 1 8, teachpoint 8 to Bravo - 1 3, teachpoint 3			2	
+25-Sep-17 2:23:32 PM	Event	BenchCel - 1		source 1		Move plate from Bravo - 1 3, teachpoint Bravo3 to Agilent Labware MiniHub - 1 Cassette 1, Slot 5, teachpoint MiniHub05			2	
+25-Sep-17 2:23:43 PM	Event	BenchCel - 1		source 1		Finished moving plate from Bravo - 1 3, teachpoint Bravo3 to Agilent Labware MiniHub - 1 Cassette 1, Slot 5, teachpoint MiniHub05			2	
+25-Sep-17 2:23:43 PM	Event	Agilent Labware MiniHub - 1		source 1	6	Agilent Labware MiniHub - 1 Load the plate from Cassette 1, Slot 5 into Location : cassette 1, slot 5	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	2	
+25-Sep-17 2:23:43 PM	Event	Agilent Labware MiniHub - 1	Cassette 1, slot 5	source 1	6	Completed: Load into plate storage device	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	2	
+25-Sep-17 2:23:43 PM	Event			source 1		Process finishing	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	2	
+25-Sep-17 2:23:44 PM	Info					Elapsed time since start: 3 minutes 57 seconds.	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	2	
+25-Sep-17 2:24:47 PM	Event					Main protocol complete	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	2	
+25-Sep-17 2:26:37 PM	Event	BenchCel - 1	Stacker 1	tipbox		Unload stacker rack at location "Stacker 1" of device "BenchCel - 1" with plate "tipbox" of labware type "96 V11 LT250 Tip Box 19477.002"	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	2	
+25-Sep-17 2:26:41 PM	Info	BenchCel - 1				Reset stack height: stack height at Stacker 1 is set to 0			2	
+25-Sep-17 2:26:41 PM	Event	BenchCel - 1	Stacker 3	dest1		Unload stacker rack at location "Stacker 3" of device "BenchCel - 1" with plate "dest1" of labware type "96 Eppendorf Twin.tec PCR"	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	2	
+25-Sep-17 2:26:47 PM	Info	BenchCel - 1				Reset stack height: stack height at Stacker 3 is set to 0			2	
+25-Sep-17 2:26:53 PM	Info	Agilent Labware MiniHub - 1				Opening diagnostics		C:\VWorks Workspace\Device Files\TruSeq\TruSeq RNA_DNA Sample Prep_v1.0\BravoMiniPHBenchCel_round_magnet_RED_insert.dev	2	
+25-Sep-17 2:26:56 PM	Info	Agilent Labware MiniHub - 1				Closing diagnostics		C:\VWorks Workspace\Device Files\TruSeq\TruSeq RNA_DNA Sample Prep_v1.0\BravoMiniPHBenchCel_round_magnet_RED_insert.dev	2	
+25-Sep-17 2:28:37 PM	Info					No protocol to run			2	
+25-Sep-17 2:28:44 PM	Warning			source	6	There is already a plate at the device Agilent Labware MiniHub - 1 in cassette 1, slot 5		visitor demo.pro	2	
+25-Sep-17 2:28:44 PM	Info					Compile complete with 0 errors and 1 warning			2	
+25-Sep-17 2:28:48 PM	Info					Runset Manager: Added the run "C:\VWorks Workspace\Protocol Files\visitor demo.pro<6>" to Runset Manager.			2	
+25-Sep-17 2:28:49 PM	Event					Scheduler started			2	
+25-Sep-17 2:28:49 PM	Info					Error library: Protocol started using error library file: ""			2	
+25-Sep-17 2:28:49 PM	Event	BenchCel - 1	Stacker 1	tipbox		Load stacker rack at location "Stacker 1" of device "BenchCel - 1" with plate "tipbox" of labware type "96 V11 LT250 Tip Box 19477.002"	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	2	
+25-Sep-17 2:28:54 PM	Event	BenchCel - 1	Stacker 3	dest1		Load stacker rack at location "Stacker 3" of device "BenchCel - 1" with plate "dest1" of labware type "96 Eppendorf Twin.tec PCR"	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	2	
+25-Sep-17 2:28:59 PM	Info			tipbox		Plates are spawned on demand	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	2	
+25-Sep-17 2:28:59 PM	Info			source		1 plate required	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	2	
+25-Sep-17 2:28:59 PM	Info			dest1		Plates are spawned on demand	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	2	
+25-Sep-17 2:28:59 PM	Event					Main protocol starting	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	2	
+25-Sep-17 2:28:59 PM	Event			source 1		Process starting, north barcode: No bar code, east barcode: No bar code, south barcode: No bar code, west barcode: No bar code	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	2	
+25-Sep-17 2:28:59 PM	Event	Agilent Labware MiniHub - 1	Cassette 1, slot 5	source 1	1	Unload from plate storage device	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	2	
+25-Sep-17 2:28:59 PM	Event	Agilent Labware MiniHub - 1		source 1		Agilent Labware MiniHub - 1 Unload the plate from Location : cassette 1, slot 5 to Cassette 1, Slot 5	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	2	
+25-Sep-17 2:29:00 PM	Event	Agilent Labware MiniHub - 1	Cassette 1, slot 5	source 1	1	Completed: Unload from plate storage device	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	2	
+25-Sep-17 2:29:00 PM	Event	Bravo - 1	8	source 1	2	Place plate at Bravo - 1 8	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	2	
+25-Sep-17 2:29:00 PM	Event	BenchCel - 1		source 1		Move plate from Agilent Labware MiniHub - 1 Cassette 1, Slot 5, teachpoint MiniHub05 to Bravo - 1 3, teachpoint Bravo3			2	
+25-Sep-17 2:29:10 PM	Event	BenchCel - 1		source 1		Finished moving plate from Agilent Labware MiniHub - 1 Cassette 1, Slot 5, teachpoint MiniHub05 to Bravo - 1 3, teachpoint Bravo3			2	
+25-Sep-17 2:29:10 PM	Event	Bravo - 1		source 1		Move plate from Bravo - 1 3, teachpoint 3 to Bravo - 1 8, teachpoint 8			2	
+25-Sep-17 2:29:20 PM	Event	Bravo - 1		source 1		Finished moving plate from Bravo - 1 3, teachpoint 3 to Bravo - 1 8, teachpoint 8			2	
+25-Sep-17 2:29:20 PM	Event	Bravo - 1	8	source 1	2	Completed: Place plate at Bravo - 1 8	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	2	
+25-Sep-17 2:29:20 PM	Event			source 1	3	Spawn dest1	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	2	
+25-Sep-17 2:29:20 PM	Event			source 1	3	Completed: Spawn dest1	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	2	
+25-Sep-17 2:29:20 PM	Event			dest1 1		Process starting, north barcode: No bar code, east barcode: No bar code, south barcode: No bar code, west barcode: No bar code	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	2	
+25-Sep-17 2:29:20 PM	Event	BenchCel - 1	Stacker 3	dest1 1	1	Downstack from BenchCel - 1.Stacker 3	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	2	
+25-Sep-17 2:29:20 PM	Event	BenchCel - 1	Stacker 3	dest1 1	1	Completed: Downstack from BenchCel - 1.Stacker 3	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	2	
+25-Sep-17 2:29:21 PM	Event	Bravo - 1	5	dest1 1	2	Place plate at Bravo - 1 5	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	2	
+25-Sep-17 2:29:21 PM	Event	BenchCel - 1		dest1 1		Move plate from BenchCel - 1 Stacker 3, teachpoint Stacker 3 to Bravo - 1 3, teachpoint Bravo3			2	
+25-Sep-17 2:29:33 PM	Event	BenchCel - 1	Stacker 3			The stack is empty			2	
+25-Sep-17 2:29:33 PM	Event	BenchCel - 1		dest1 1		Finished moving plate from BenchCel - 1 Stacker 3, teachpoint Stacker 3 to Bravo - 1 3, teachpoint Bravo3			2	
+25-Sep-17 2:29:33 PM	Event	Bravo - 1		dest1 1		Move plate from Bravo - 1 3, teachpoint 3 to Bravo - 1 5, teachpoint 5			2	
+25-Sep-17 2:29:43 PM	Event	Bravo - 1		dest1 1		Finished moving plate from Bravo - 1 3, teachpoint 3 to Bravo - 1 5, teachpoint 5			2	
+25-Sep-17 2:29:43 PM	Event	Bravo - 1	5	dest1 1	2	Completed: Place plate at Bravo - 1 5	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	2	
+25-Sep-17 2:29:43 PM	Event			dest1 1	3	Spawn tipbox	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	2	
+25-Sep-17 2:29:43 PM	Event			dest1 1	3	Completed: Spawn tipbox	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	2	
+25-Sep-17 2:29:43 PM	Event			tipbox 1		Process starting, north barcode: No bar code, east barcode: No bar code, south barcode: No bar code, west barcode: No bar code	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	2	
+25-Sep-17 2:29:43 PM	Event	BenchCel - 1	Stacker 1	tipbox 1	1	Downstack from BenchCel - 1.Stacker 1	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	2	
+25-Sep-17 2:29:43 PM	Event	BenchCel - 1	Stacker 1	tipbox 1	1	Completed: Downstack from BenchCel - 1.Stacker 1	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	2	
+25-Sep-17 2:29:43 PM	Event	Bravo - 1	2	tipbox 1	2	Place plate at Bravo - 1 2	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	2	
+25-Sep-17 2:29:43 PM	Event	BenchCel - 1		tipbox 1		Move plate from BenchCel - 1 Stacker 1, teachpoint Stacker 1 to Bravo - 1 3, teachpoint Bravo3			2	
+25-Sep-17 2:29:57 PM	Event	BenchCel - 1	Stacker 1			The stack is empty			2	
+25-Sep-17 2:29:57 PM	Event	BenchCel - 1		tipbox 1		Finished moving plate from BenchCel - 1 Stacker 1, teachpoint Stacker 1 to Bravo - 1 3, teachpoint Bravo3			2	
+25-Sep-17 2:29:57 PM	Event	Bravo - 1		tipbox 1		Move plate from Bravo - 1 3, teachpoint 3 to Bravo - 1 2, teachpoint 2			2	
+25-Sep-17 2:30:07 PM	Event	Bravo - 1		tipbox 1		Finished moving plate from Bravo - 1 3, teachpoint 3 to Bravo - 1 2, teachpoint 2			2	
+25-Sep-17 2:30:07 PM	Event	Bravo - 1	2	tipbox 1	2	Completed: Place plate at Bravo - 1 2	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	2	
+25-Sep-17 2:30:07 PM	Event	Bravo - 1	5	Bravo SubProcess 88 1	1	Begin task group	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	2	
+25-Sep-17 2:30:07 PM	Event	Bravo - 1	8	Bravo SubProcess 88 1	1	Begin task group	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	2	
+25-Sep-17 2:30:07 PM	Event	Bravo - 1	2	Bravo SubProcess 88 1	1	Begin task group	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	2	
+25-Sep-17 2:30:07 PM	Event	Bravo - 1	5	Bravo SubProcess 88 1	1	Completed: Begin task group	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	2	
+25-Sep-17 2:30:07 PM	Event	Bravo - 1	8	Bravo SubProcess 88 1	1	Completed: Begin task group	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	2	
+25-Sep-17 2:30:07 PM	Event	Bravo - 1	2	Bravo SubProcess 88 1	1	Completed: Begin task group	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	2	
+25-Sep-17 2:30:07 PM	Event	Bravo - 1	Default Location	Bravo SubProcess 88 1	2	Set head mode to 6 columns: 1-6	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	2	
+25-Sep-17 2:30:07 PM	Event	Bravo - 1	Default Location	Bravo SubProcess 88 1	2	Completed: Set head mode to 6 columns: 1-6	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	2	
+25-Sep-17 2:30:07 PM	Event	Bravo - 1	2	Bravo SubProcess 88 1	3	Tips On in 1 selection(s) from tipbox 1	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	2	
+25-Sep-17 2:30:15 PM	Event	Bravo - 1	2	Bravo SubProcess 88 1	3	Completed: Tips On in 1 selection(s) from tipbox 1	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	2	
+25-Sep-17 2:30:16 PM	Event	Bravo - 1	8	Bravo SubProcess 88 1	4	Aspirate 20 킠 in 1 selection(s) from source 1	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	2	
+25-Sep-17 2:30:26 PM	Event	Bravo - 1	8	Bravo SubProcess 88 1	4	Completed: Aspirate 20 킠 in 1 selection(s) from source 1	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	2	
+25-Sep-17 2:30:27 PM	Event	Bravo - 1	5	Bravo SubProcess 88 1	5	Dispense 21.43526786 킠 in 1 selection(s) to dest1 1	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	2	
+25-Sep-17 2:30:37 PM	Event	Bravo - 1	5	Bravo SubProcess 88 1	5	Completed: Dispense 21.43526786 킠 in 1 selection(s) to dest1 1	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	2	
+25-Sep-17 2:30:38 PM	Event	Bravo - 1	2	Bravo SubProcess 88 1	6	Tips Off in 1 selection(s) from tipbox 1	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	2	
+25-Sep-17 2:30:45 PM	Event	Bravo - 1	2	Bravo SubProcess 88 1	6	Completed: Tips Off in 1 selection(s) from tipbox 1	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	2	
+25-Sep-17 2:30:45 PM	Event	Bravo - 1	Default Location	Bravo SubProcess 88 1	7	Set head mode to 6 columns: 7-12	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	2	
+25-Sep-17 2:30:45 PM	Event	Bravo - 1	Default Location	Bravo SubProcess 88 1	7	Completed: Set head mode to 6 columns: 7-12	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	2	
+25-Sep-17 2:30:46 PM	Event	Bravo - 1	2	Bravo SubProcess 88 1	8	Tips On in 1 selection(s) from tipbox 1	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	2	
+25-Sep-17 2:30:54 PM	Event	Bravo - 1	2	Bravo SubProcess 88 1	8	Completed: Tips On in 1 selection(s) from tipbox 1	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	2	
+25-Sep-17 2:30:54 PM	Event	Bravo - 1	8	Bravo SubProcess 88 1	9	Aspirate 20 킠 in 1 selection(s) from source 1	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	2	
+25-Sep-17 2:31:05 PM	Event	Bravo - 1	8	Bravo SubProcess 88 1	9	Completed: Aspirate 20 킠 in 1 selection(s) from source 1	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	2	
+25-Sep-17 2:31:05 PM	Event	Bravo - 1	5	Bravo SubProcess 88 1	10	Dispense 21.45089286 킠 in 1 selection(s) to dest1 1	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	2	
+25-Sep-17 2:31:16 PM	Event	Bravo - 1	5	Bravo SubProcess 88 1	10	Completed: Dispense 21.45089286 킠 in 1 selection(s) to dest1 1	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	2	
+25-Sep-17 2:31:16 PM	Event	Bravo - 1	2	Bravo SubProcess 88 1	11	Tips Off in 1 selection(s) from tipbox 1	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	2	
+25-Sep-17 2:31:24 PM	Event	Bravo - 1	2	Bravo SubProcess 88 1	11	Completed: Tips Off in 1 selection(s) from tipbox 1	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	2	
+25-Sep-17 2:31:24 PM	Event	Bravo - 1	5	Bravo SubProcess 88 1	12	Shake from dest1 1	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	2	
+25-Sep-17 2:31:34 PM	Event	Bravo - 1	5	Bravo SubProcess 88 1	12	Completed: Shake from dest1 1	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	2	
+25-Sep-17 2:31:34 PM	Event			Bravo SubProcess 88 1	13	End task group	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	2	
+25-Sep-17 2:31:34 PM	Event			Bravo SubProcess 88 1	13	Completed: End task group	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	2	
+25-Sep-17 2:31:34 PM	Event			Bravo SubProcess 88 1		Process finishing	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	2	
+25-Sep-17 2:31:35 PM	Event	Bravo - 1	7	dest1 1	5	Incubate for 10 seconds	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	2	
+25-Sep-17 2:31:35 PM	Event	Bravo - 1		dest1 1		Move plate from Bravo - 1 5, teachpoint 5 to Bravo - 1 7, teachpoint 7			2	
+25-Sep-17 2:31:35 PM	Event	BenchCel - 1	Stacker 1	tipbox 1	4	Upstack to BenchCel - 1.Stacker 1	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	2	
+25-Sep-17 2:31:43 PM	Event	Bravo - 1		dest1 1		Finished moving plate from Bravo - 1 5, teachpoint 5 to Bravo - 1 7, teachpoint 7			2	
+25-Sep-17 2:31:43 PM	Event	Bravo - 1		tipbox 1		Move plate from Bravo - 1 2, teachpoint 2 to Bravo - 1 3, teachpoint 3			2	
+25-Sep-17 2:31:53 PM	Event	Bravo - 1	7	dest1 1	5	Completed: Incubate for 10 seconds	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	2	
+25-Sep-17 2:31:54 PM	Event	Bravo - 1		tipbox 1		Finished moving plate from Bravo - 1 2, teachpoint 2 to Bravo - 1 3, teachpoint 3			2	
+25-Sep-17 2:31:54 PM	Event	BenchCel - 1		tipbox 1		Move plate from Bravo - 1 3, teachpoint Bravo3 to BenchCel - 1 Stacker 1, teachpoint Stacker 1			2	
+25-Sep-17 2:32:03 PM	Event	BenchCel - 1		tipbox 1		Finished moving plate from Bravo - 1 3, teachpoint Bravo3 to BenchCel - 1 Stacker 1, teachpoint Stacker 1			2	
+25-Sep-17 2:32:03 PM	Event	BenchCel - 1	Stacker 1	tipbox 1	4	Completed: Upstack to BenchCel - 1.Stacker 1	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	2	
+25-Sep-17 2:32:03 PM	Event			tipbox 1	5	Signal Waitfortb of dest1 1	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	2	
+25-Sep-17 2:32:03 PM	Event			tipbox 1	5	Completed: Signal Waitfortb of dest1 1	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	2	
+25-Sep-17 2:32:03 PM	Event			dest1 1	6	Waitfor "Waitfortb" has been signaled	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	2	
+25-Sep-17 2:32:03 PM	Event			dest1 1	6	Completed: Waitfor "Waitfortb" has been signaled	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	2	
+25-Sep-17 2:32:03 PM	Event			tipbox 1		Process finishing	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	2	
+25-Sep-17 2:32:03 PM	Event	BenchCel - 1	Stacker 3	dest1 1	7	Upstack to BenchCel - 1.Stacker 3	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	2	
+25-Sep-17 2:32:03 PM	Event	Bravo - 1		dest1 1		Move plate from Bravo - 1 7, teachpoint 7 to Bravo - 1 3, teachpoint 3			2	
+25-Sep-17 2:32:13 PM	Event	Bravo - 1		dest1 1		Finished moving plate from Bravo - 1 7, teachpoint 7 to Bravo - 1 3, teachpoint 3			2	
+25-Sep-17 2:32:13 PM	Event	BenchCel - 1		dest1 1		Move plate from Bravo - 1 3, teachpoint Bravo3 to BenchCel - 1 Stacker 3, teachpoint Stacker 3			2	
+25-Sep-17 2:32:23 PM	Event	BenchCel - 1		dest1 1		Finished moving plate from Bravo - 1 3, teachpoint Bravo3 to BenchCel - 1 Stacker 3, teachpoint Stacker 3			2	
+25-Sep-17 2:32:23 PM	Event	BenchCel - 1	Stacker 3	dest1 1	7	Completed: Upstack to BenchCel - 1.Stacker 3	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	2	
+25-Sep-17 2:32:24 PM	Event			dest1 1	8	Signal Waitfordest of source 1	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	2	
+25-Sep-17 2:32:24 PM	Event			dest1 1	8	Completed: Signal Waitfordest of source 1	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	2	
+25-Sep-17 2:32:24 PM	Event			source 1	5	Waitfor "Waitfordest" has been signaled	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	2	
+25-Sep-17 2:32:24 PM	Event			source 1	5	Completed: Waitfor "Waitfordest" has been signaled	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	2	
+25-Sep-17 2:32:24 PM	Event			dest1 1		Process finishing	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	2	
+25-Sep-17 2:32:24 PM	Event	Agilent Labware MiniHub - 1	Cassette 1, slot 5	source 1	6	Load into plate storage device	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	2	
+25-Sep-17 2:32:24 PM	Event	Bravo - 1		source 1		Move plate from Bravo - 1 8, teachpoint 8 to Bravo - 1 3, teachpoint 3			2	
+25-Sep-17 2:32:34 PM	Event	Bravo - 1		source 1		Finished moving plate from Bravo - 1 8, teachpoint 8 to Bravo - 1 3, teachpoint 3			2	
+25-Sep-17 2:32:34 PM	Event	BenchCel - 1		source 1		Move plate from Bravo - 1 3, teachpoint Bravo3 to Agilent Labware MiniHub - 1 Cassette 1, Slot 5, teachpoint MiniHub05			2	
+25-Sep-17 2:32:46 PM	Event	BenchCel - 1		source 1		Finished moving plate from Bravo - 1 3, teachpoint Bravo3 to Agilent Labware MiniHub - 1 Cassette 1, Slot 5, teachpoint MiniHub05			2	
+25-Sep-17 2:32:46 PM	Event	Agilent Labware MiniHub - 1		source 1	6	Agilent Labware MiniHub - 1 Load the plate from Cassette 1, Slot 5 into Location : cassette 1, slot 5	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	2	
+25-Sep-17 2:32:46 PM	Event	Agilent Labware MiniHub - 1	Cassette 1, slot 5	source 1	6	Completed: Load into plate storage device	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	2	
+25-Sep-17 2:32:46 PM	Event			source 1		Process finishing	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	2	
+25-Sep-17 2:32:46 PM	Info					Elapsed time since start: 3 minutes 57 seconds.	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	2	
+25-Sep-17 2:33:50 PM	Event					Main protocol complete	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	2	
+25-Sep-17 2:33:51 PM	Event	BenchCel - 1	Stacker 1	tipbox		Unload stacker rack at location "Stacker 1" of device "BenchCel - 1" with plate "tipbox" of labware type "96 V11 LT250 Tip Box 19477.002"	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	2	
+25-Sep-17 2:33:51 PM	Info	BenchCel - 1				Reset stack height: stack height at Stacker 1 is set to 0			2	
+25-Sep-17 2:33:51 PM	Event	BenchCel - 1	Stacker 3	dest1		Unload stacker rack at location "Stacker 3" of device "BenchCel - 1" with plate "dest1" of labware type "96 Eppendorf Twin.tec PCR"	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	2	
+25-Sep-17 2:33:52 PM	Info	BenchCel - 1				Reset stack height: stack height at Stacker 3 is set to 0			2	
+25-Sep-17 2:35:00 PM	Warning			source	6	There is already a plate at the device Agilent Labware MiniHub - 1 in cassette 1, slot 5		visitor demo.pro	2	
+25-Sep-17 2:35:00 PM	Info					Compile complete with 0 errors and 1 warning			2	
+25-Sep-17 2:35:20 PM	Info					Runset Manager: Added the run "C:\VWorks Workspace\Protocol Files\visitor demo.pro<7>" to Runset Manager.			2	
+25-Sep-17 2:35:21 PM	Event					Scheduler started			2	
+25-Sep-17 2:35:21 PM	Info					Error library: Protocol started using error library file: ""			2	
+25-Sep-17 2:35:21 PM	Event	BenchCel - 1	Stacker 1	tipbox		Load stacker rack at location "Stacker 1" of device "BenchCel - 1" with plate "tipbox" of labware type "96 V11 LT250 Tip Box 19477.002"	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	2	
+25-Sep-17 2:35:25 PM	Event	BenchCel - 1	Stacker 3	dest1		Load stacker rack at location "Stacker 3" of device "BenchCel - 1" with plate "dest1" of labware type "96 Eppendorf Twin.tec PCR"	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	2	
+25-Sep-17 2:35:30 PM	Info			tipbox		Plates are spawned on demand	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	2	
+25-Sep-17 2:35:30 PM	Info			source		1 plate required	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	2	
+25-Sep-17 2:35:30 PM	Info			dest1		Plates are spawned on demand	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	2	
+25-Sep-17 2:35:30 PM	Event					Main protocol starting	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	2	
+25-Sep-17 2:35:31 PM	Event			source 1		Process starting, north barcode: No bar code, east barcode: No bar code, south barcode: No bar code, west barcode: No bar code	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	2	
+25-Sep-17 2:35:31 PM	Event	Agilent Labware MiniHub - 1	Cassette 1, slot 5	source 1	1	Unload from plate storage device	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	2	
+25-Sep-17 2:35:31 PM	Event	Agilent Labware MiniHub - 1		source 1		Agilent Labware MiniHub - 1 Unload the plate from Location : cassette 1, slot 5 to Cassette 1, Slot 5	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	2	
+25-Sep-17 2:35:31 PM	Event	Agilent Labware MiniHub - 1	Cassette 1, slot 5	source 1	1	Completed: Unload from plate storage device	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	2	
+25-Sep-17 2:35:31 PM	Event	Bravo - 1	8	source 1	2	Place plate at Bravo - 1 8	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	2	
+25-Sep-17 2:35:31 PM	Event	BenchCel - 1		source 1		Move plate from Agilent Labware MiniHub - 1 Cassette 1, Slot 5, teachpoint MiniHub05 to Bravo - 1 3, teachpoint Bravo3			2	
+25-Sep-17 2:35:41 PM	Event	BenchCel - 1		source 1		Finished moving plate from Agilent Labware MiniHub - 1 Cassette 1, Slot 5, teachpoint MiniHub05 to Bravo - 1 3, teachpoint Bravo3			2	
+25-Sep-17 2:35:41 PM	Event	Bravo - 1		source 1		Move plate from Bravo - 1 3, teachpoint 3 to Bravo - 1 8, teachpoint 8			2	
+25-Sep-17 2:35:51 PM	Event	Bravo - 1		source 1		Finished moving plate from Bravo - 1 3, teachpoint 3 to Bravo - 1 8, teachpoint 8			2	
+25-Sep-17 2:35:51 PM	Event	Bravo - 1	8	source 1	2	Completed: Place plate at Bravo - 1 8	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	2	
+25-Sep-17 2:35:51 PM	Event			source 1	3	Spawn dest1	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	2	
+25-Sep-17 2:35:51 PM	Event			source 1	3	Completed: Spawn dest1	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	2	
+25-Sep-17 2:35:52 PM	Event			dest1 1		Process starting, north barcode: No bar code, east barcode: No bar code, south barcode: No bar code, west barcode: No bar code	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	2	
+25-Sep-17 2:35:52 PM	Event	BenchCel - 1	Stacker 3	dest1 1	1	Downstack from BenchCel - 1.Stacker 3	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	2	
+25-Sep-17 2:35:52 PM	Event	BenchCel - 1	Stacker 3	dest1 1	1	Completed: Downstack from BenchCel - 1.Stacker 3	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	2	
+25-Sep-17 2:35:52 PM	Event	Bravo - 1	5	dest1 1	2	Place plate at Bravo - 1 5	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	2	
+25-Sep-17 2:35:52 PM	Event	BenchCel - 1		dest1 1		Move plate from BenchCel - 1 Stacker 3, teachpoint Stacker 3 to Bravo - 1 3, teachpoint Bravo3			2	
+25-Sep-17 2:36:05 PM	Event	BenchCel - 1	Stacker 3			The stack is empty			2	
+25-Sep-17 2:36:05 PM	Event	BenchCel - 1		dest1 1		Finished moving plate from BenchCel - 1 Stacker 3, teachpoint Stacker 3 to Bravo - 1 3, teachpoint Bravo3			2	
+25-Sep-17 2:36:05 PM	Event	Bravo - 1		dest1 1		Move plate from Bravo - 1 3, teachpoint 3 to Bravo - 1 5, teachpoint 5			2	
+25-Sep-17 2:36:14 PM	Event	Bravo - 1		dest1 1		Finished moving plate from Bravo - 1 3, teachpoint 3 to Bravo - 1 5, teachpoint 5			2	
+25-Sep-17 2:36:14 PM	Event	Bravo - 1	5	dest1 1	2	Completed: Place plate at Bravo - 1 5	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	2	
+25-Sep-17 2:36:14 PM	Event			dest1 1	3	Spawn tipbox	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	2	
+25-Sep-17 2:36:14 PM	Event			dest1 1	3	Completed: Spawn tipbox	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	2	
+25-Sep-17 2:36:14 PM	Event			tipbox 1		Process starting, north barcode: No bar code, east barcode: No bar code, south barcode: No bar code, west barcode: No bar code	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	2	
+25-Sep-17 2:36:14 PM	Event	BenchCel - 1	Stacker 1	tipbox 1	1	Downstack from BenchCel - 1.Stacker 1	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	2	
+25-Sep-17 2:36:14 PM	Event	BenchCel - 1	Stacker 1	tipbox 1	1	Completed: Downstack from BenchCel - 1.Stacker 1	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	2	
+25-Sep-17 2:36:15 PM	Event	Bravo - 1	2	tipbox 1	2	Place plate at Bravo - 1 2	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	2	
+25-Sep-17 2:36:15 PM	Event	BenchCel - 1		tipbox 1		Move plate from BenchCel - 1 Stacker 1, teachpoint Stacker 1 to Bravo - 1 3, teachpoint Bravo3			2	
+25-Sep-17 2:36:28 PM	Event	BenchCel - 1	Stacker 1			The stack is empty			2	
+25-Sep-17 2:36:28 PM	Event	BenchCel - 1		tipbox 1		Finished moving plate from BenchCel - 1 Stacker 1, teachpoint Stacker 1 to Bravo - 1 3, teachpoint Bravo3			2	
+25-Sep-17 2:36:28 PM	Event	Bravo - 1		tipbox 1		Move plate from Bravo - 1 3, teachpoint 3 to Bravo - 1 2, teachpoint 2			2	
+25-Sep-17 2:36:38 PM	Event	Bravo - 1		tipbox 1		Finished moving plate from Bravo - 1 3, teachpoint 3 to Bravo - 1 2, teachpoint 2			2	
+25-Sep-17 2:36:38 PM	Event	Bravo - 1	2	tipbox 1	2	Completed: Place plate at Bravo - 1 2	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	2	
+25-Sep-17 2:36:38 PM	Event	Bravo - 1	5	Bravo SubProcess 88 1	1	Begin task group	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	2	
+25-Sep-17 2:36:38 PM	Event	Bravo - 1	8	Bravo SubProcess 88 1	1	Begin task group	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	2	
+25-Sep-17 2:36:38 PM	Event	Bravo - 1	2	Bravo SubProcess 88 1	1	Begin task group	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	2	
+25-Sep-17 2:36:38 PM	Event	Bravo - 1	5	Bravo SubProcess 88 1	1	Completed: Begin task group	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	2	
+25-Sep-17 2:36:38 PM	Event	Bravo - 1	8	Bravo SubProcess 88 1	1	Completed: Begin task group	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	2	
+25-Sep-17 2:36:38 PM	Event	Bravo - 1	2	Bravo SubProcess 88 1	1	Completed: Begin task group	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	2	
+25-Sep-17 2:36:38 PM	Event	Bravo - 1	Default Location	Bravo SubProcess 88 1	2	Set head mode to 6 columns: 1-6	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	2	
+25-Sep-17 2:36:39 PM	Event	Bravo - 1	Default Location	Bravo SubProcess 88 1	2	Completed: Set head mode to 6 columns: 1-6	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	2	
+25-Sep-17 2:36:39 PM	Event	Bravo - 1	2	Bravo SubProcess 88 1	3	Tips On in 1 selection(s) from tipbox 1	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	2	
+25-Sep-17 2:36:46 PM	Event	Bravo - 1	2	Bravo SubProcess 88 1	3	Completed: Tips On in 1 selection(s) from tipbox 1	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	2	
+25-Sep-17 2:36:47 PM	Event	Bravo - 1	8	Bravo SubProcess 88 1	4	Aspirate 20 킠 in 1 selection(s) from source 1	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	2	
+25-Sep-17 2:36:57 PM	Event	Bravo - 1	8	Bravo SubProcess 88 1	4	Completed: Aspirate 20 킠 in 1 selection(s) from source 1	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	2	
+25-Sep-17 2:36:58 PM	Event	Bravo - 1	5	Bravo SubProcess 88 1	5	Dispense 21.43973214 킠 in 1 selection(s) to dest1 1	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	2	
+25-Sep-17 2:37:08 PM	Event	Bravo - 1	5	Bravo SubProcess 88 1	5	Completed: Dispense 21.43973214 킠 in 1 selection(s) to dest1 1	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	2	
+25-Sep-17 2:37:09 PM	Event	Bravo - 1	2	Bravo SubProcess 88 1	6	Tips Off in 1 selection(s) from tipbox 1	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	2	
+25-Sep-17 2:37:16 PM	Event	Bravo - 1	2	Bravo SubProcess 88 1	6	Completed: Tips Off in 1 selection(s) from tipbox 1	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	2	
+25-Sep-17 2:37:16 PM	Event	Bravo - 1	Default Location	Bravo SubProcess 88 1	7	Set head mode to 6 columns: 7-12	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	2	
+25-Sep-17 2:37:16 PM	Event	Bravo - 1	Default Location	Bravo SubProcess 88 1	7	Completed: Set head mode to 6 columns: 7-12	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	2	
+25-Sep-17 2:37:17 PM	Event	Bravo - 1	2	Bravo SubProcess 88 1	8	Tips On in 1 selection(s) from tipbox 1	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	2	
+25-Sep-17 2:37:25 PM	Event	Bravo - 1	2	Bravo SubProcess 88 1	8	Completed: Tips On in 1 selection(s) from tipbox 1	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	2	
+25-Sep-17 2:37:25 PM	Event	Bravo - 1	8	Bravo SubProcess 88 1	9	Aspirate 20 킠 in 1 selection(s) from source 1	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	2	
+25-Sep-17 2:37:36 PM	Event	Bravo - 1	8	Bravo SubProcess 88 1	9	Completed: Aspirate 20 킠 in 1 selection(s) from source 1	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	2	
+25-Sep-17 2:37:36 PM	Event	Bravo - 1	5	Bravo SubProcess 88 1	10	Dispense 21.44866071 킠 in 1 selection(s) to dest1 1	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	2	
+25-Sep-17 2:37:47 PM	Event	Bravo - 1	5	Bravo SubProcess 88 1	10	Completed: Dispense 21.44866071 킠 in 1 selection(s) to dest1 1	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	2	
+25-Sep-17 2:37:47 PM	Event	Bravo - 1	2	Bravo SubProcess 88 1	11	Tips Off in 1 selection(s) from tipbox 1	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	2	
+25-Sep-17 2:37:55 PM	Event	Bravo - 1	2	Bravo SubProcess 88 1	11	Completed: Tips Off in 1 selection(s) from tipbox 1	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	2	
+25-Sep-17 2:37:55 PM	Event	Bravo - 1	5	Bravo SubProcess 88 1	12	Shake from dest1 1	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	2	
+25-Sep-17 2:38:05 PM	Event	Bravo - 1	5	Bravo SubProcess 88 1	12	Completed: Shake from dest1 1	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	2	
+25-Sep-17 2:38:05 PM	Event			Bravo SubProcess 88 1	13	End task group	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	2	
+25-Sep-17 2:38:05 PM	Event			Bravo SubProcess 88 1	13	Completed: End task group	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	2	
+25-Sep-17 2:38:05 PM	Event			Bravo SubProcess 88 1		Process finishing	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	2	
+25-Sep-17 2:38:06 PM	Event	Bravo - 1	7	dest1 1	5	Incubate for 10 seconds	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	2	
+25-Sep-17 2:38:06 PM	Event	Bravo - 1		dest1 1		Move plate from Bravo - 1 5, teachpoint 5 to Bravo - 1 7, teachpoint 7			2	
+25-Sep-17 2:38:06 PM	Event	BenchCel - 1	Stacker 1	tipbox 1	4	Upstack to BenchCel - 1.Stacker 1	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	2	
+25-Sep-17 2:38:14 PM	Event	Bravo - 1		dest1 1		Finished moving plate from Bravo - 1 5, teachpoint 5 to Bravo - 1 7, teachpoint 7			2	
+25-Sep-17 2:38:14 PM	Event	Bravo - 1		tipbox 1		Move plate from Bravo - 1 2, teachpoint 2 to Bravo - 1 3, teachpoint 3			2	
+25-Sep-17 2:38:24 PM	Event	Bravo - 1	7	dest1 1	5	Completed: Incubate for 10 seconds	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	2	
+25-Sep-17 2:38:25 PM	Event	Bravo - 1		tipbox 1		Finished moving plate from Bravo - 1 2, teachpoint 2 to Bravo - 1 3, teachpoint 3			2	
+25-Sep-17 2:38:25 PM	Event	BenchCel - 1		tipbox 1		Move plate from Bravo - 1 3, teachpoint Bravo3 to BenchCel - 1 Stacker 1, teachpoint Stacker 1			2	
+25-Sep-17 2:38:34 PM	Event	BenchCel - 1		tipbox 1		Finished moving plate from Bravo - 1 3, teachpoint Bravo3 to BenchCel - 1 Stacker 1, teachpoint Stacker 1			2	
+25-Sep-17 2:38:34 PM	Event	BenchCel - 1	Stacker 1	tipbox 1	4	Completed: Upstack to BenchCel - 1.Stacker 1	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	2	
+25-Sep-17 2:38:34 PM	Event			tipbox 1	5	Signal Waitfortb of dest1 1	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	2	
+25-Sep-17 2:38:34 PM	Event			tipbox 1	5	Completed: Signal Waitfortb of dest1 1	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	2	
+25-Sep-17 2:38:34 PM	Event			dest1 1	6	Waitfor "Waitfortb" has been signaled	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	2	
+25-Sep-17 2:38:34 PM	Event			dest1 1	6	Completed: Waitfor "Waitfortb" has been signaled	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	2	
+25-Sep-17 2:38:34 PM	Event			tipbox 1		Process finishing	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	2	
+25-Sep-17 2:38:34 PM	Event	BenchCel - 1	Stacker 3	dest1 1	7	Upstack to BenchCel - 1.Stacker 3	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	2	
+25-Sep-17 2:38:34 PM	Event	Bravo - 1		dest1 1		Move plate from Bravo - 1 7, teachpoint 7 to Bravo - 1 3, teachpoint 3			2	
+25-Sep-17 2:38:44 PM	Event	Bravo - 1		dest1 1		Finished moving plate from Bravo - 1 7, teachpoint 7 to Bravo - 1 3, teachpoint 3			2	
+25-Sep-17 2:38:44 PM	Event	BenchCel - 1		dest1 1		Move plate from Bravo - 1 3, teachpoint Bravo3 to BenchCel - 1 Stacker 3, teachpoint Stacker 3			2	
+25-Sep-17 2:38:54 PM	Event	BenchCel - 1		dest1 1		Finished moving plate from Bravo - 1 3, teachpoint Bravo3 to BenchCel - 1 Stacker 3, teachpoint Stacker 3			2	
+25-Sep-17 2:38:54 PM	Event	BenchCel - 1	Stacker 3	dest1 1	7	Completed: Upstack to BenchCel - 1.Stacker 3	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	2	
+25-Sep-17 2:38:54 PM	Event			dest1 1	8	Signal Waitfordest of source 1	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	2	
+25-Sep-17 2:38:54 PM	Event			dest1 1	8	Completed: Signal Waitfordest of source 1	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	2	
+25-Sep-17 2:38:55 PM	Event			source 1	5	Waitfor "Waitfordest" has been signaled	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	2	
+25-Sep-17 2:38:55 PM	Event			source 1	5	Completed: Waitfor "Waitfordest" has been signaled	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	2	
+25-Sep-17 2:38:55 PM	Event			dest1 1		Process finishing	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	2	
+25-Sep-17 2:38:55 PM	Event	Agilent Labware MiniHub - 1	Cassette 1, slot 5	source 1	6	Load into plate storage device	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	2	
+25-Sep-17 2:38:55 PM	Event	Bravo - 1		source 1		Move plate from Bravo - 1 8, teachpoint 8 to Bravo - 1 3, teachpoint 3			2	
+25-Sep-17 2:39:05 PM	Event	Bravo - 1		source 1		Finished moving plate from Bravo - 1 8, teachpoint 8 to Bravo - 1 3, teachpoint 3			2	
+25-Sep-17 2:39:05 PM	Event	BenchCel - 1		source 1		Move plate from Bravo - 1 3, teachpoint Bravo3 to Agilent Labware MiniHub - 1 Cassette 1, Slot 5, teachpoint MiniHub05			2	
+25-Sep-17 2:39:16 PM	Event	BenchCel - 1		source 1		Finished moving plate from Bravo - 1 3, teachpoint Bravo3 to Agilent Labware MiniHub - 1 Cassette 1, Slot 5, teachpoint MiniHub05			2	
+25-Sep-17 2:39:17 PM	Event	Agilent Labware MiniHub - 1		source 1	6	Agilent Labware MiniHub - 1 Load the plate from Cassette 1, Slot 5 into Location : cassette 1, slot 5	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	2	
+25-Sep-17 2:39:17 PM	Event	Agilent Labware MiniHub - 1	Cassette 1, slot 5	source 1	6	Completed: Load into plate storage device	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	2	
+25-Sep-17 2:39:17 PM	Event			source 1		Process finishing	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	2	
+25-Sep-17 2:39:17 PM	Info					Elapsed time since start: 3 minutes 56 seconds.	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	2	
+25-Sep-17 2:40:21 PM	Event					Main protocol complete	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	2	
+25-Sep-17 2:40:22 PM	Event	BenchCel - 1	Stacker 1	tipbox		Unload stacker rack at location "Stacker 1" of device "BenchCel - 1" with plate "tipbox" of labware type "96 V11 LT250 Tip Box 19477.002"	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	2	
+25-Sep-17 2:40:22 PM	Info	BenchCel - 1				Reset stack height: stack height at Stacker 1 is set to 0			2	
+25-Sep-17 2:40:22 PM	Event	BenchCel - 1	Stacker 3	dest1		Unload stacker rack at location "Stacker 3" of device "BenchCel - 1" with plate "dest1" of labware type "96 Eppendorf Twin.tec PCR"	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	2	
+25-Sep-17 2:40:23 PM	Info	BenchCel - 1				Reset stack height: stack height at Stacker 3 is set to 0			2	
+25-Sep-17 2:40:25 PM	Warning			source	6	There is already a plate at the device Agilent Labware MiniHub - 1 in cassette 1, slot 5		visitor demo.pro	2	
+25-Sep-17 2:40:25 PM	Info					Compile complete with 0 errors and 1 warning			2	
+25-Sep-17 2:40:29 PM	Info					Runset Manager: Added the run "C:\VWorks Workspace\Protocol Files\visitor demo.pro<8>" to Runset Manager.			2	
+25-Sep-17 2:40:30 PM	Event					Scheduler started			2	
+25-Sep-17 2:40:31 PM	Info					Error library: Protocol started using error library file: ""			2	
+25-Sep-17 2:40:31 PM	Event	BenchCel - 1	Stacker 1	tipbox		Load stacker rack at location "Stacker 1" of device "BenchCel - 1" with plate "tipbox" of labware type "96 V11 LT250 Tip Box 19477.002"	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	2	
+25-Sep-17 2:40:34 PM	Event	BenchCel - 1	Stacker 3	dest1		Load stacker rack at location "Stacker 3" of device "BenchCel - 1" with plate "dest1" of labware type "96 Eppendorf Twin.tec PCR"	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	2	
+25-Sep-17 2:40:40 PM	Info			tipbox		Plates are spawned on demand	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	2	
+25-Sep-17 2:40:40 PM	Info			source		1 plate required	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	2	
+25-Sep-17 2:40:40 PM	Info			dest1		Plates are spawned on demand	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	2	
+25-Sep-17 2:40:40 PM	Event					Main protocol starting	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	2	
+25-Sep-17 2:40:40 PM	Event			source 1		Process starting, north barcode: No bar code, east barcode: No bar code, south barcode: No bar code, west barcode: No bar code	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	2	
+25-Sep-17 2:40:40 PM	Event	Agilent Labware MiniHub - 1	Cassette 1, slot 5	source 1	1	Unload from plate storage device	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	2	
+25-Sep-17 2:40:40 PM	Event	Agilent Labware MiniHub - 1		source 1		Agilent Labware MiniHub - 1 Unload the plate from Location : cassette 1, slot 5 to Cassette 1, Slot 5	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	2	
+25-Sep-17 2:40:40 PM	Event	Agilent Labware MiniHub - 1	Cassette 1, slot 5	source 1	1	Completed: Unload from plate storage device	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	2	
+25-Sep-17 2:40:40 PM	Event	Bravo - 1	8	source 1	2	Place plate at Bravo - 1 8	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	2	
+25-Sep-17 2:40:40 PM	Event	BenchCel - 1		source 1		Move plate from Agilent Labware MiniHub - 1 Cassette 1, Slot 5, teachpoint MiniHub05 to Bravo - 1 3, teachpoint Bravo3			2	
+25-Sep-17 2:40:50 PM	Event	BenchCel - 1		source 1		Finished moving plate from Agilent Labware MiniHub - 1 Cassette 1, Slot 5, teachpoint MiniHub05 to Bravo - 1 3, teachpoint Bravo3			2	
+25-Sep-17 2:40:50 PM	Event	Bravo - 1		source 1		Move plate from Bravo - 1 3, teachpoint 3 to Bravo - 1 8, teachpoint 8			2	
+25-Sep-17 2:41:01 PM	Event	Bravo - 1		source 1		Finished moving plate from Bravo - 1 3, teachpoint 3 to Bravo - 1 8, teachpoint 8			2	
+25-Sep-17 2:41:01 PM	Event	Bravo - 1	8	source 1	2	Completed: Place plate at Bravo - 1 8	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	2	
+25-Sep-17 2:41:01 PM	Event			source 1	3	Spawn dest1	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	2	
+25-Sep-17 2:41:01 PM	Event			source 1	3	Completed: Spawn dest1	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	2	
+25-Sep-17 2:41:01 PM	Event			dest1 1		Process starting, north barcode: No bar code, east barcode: No bar code, south barcode: No bar code, west barcode: No bar code	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	2	
+25-Sep-17 2:41:01 PM	Event	BenchCel - 1	Stacker 3	dest1 1	1	Downstack from BenchCel - 1.Stacker 3	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	2	
+25-Sep-17 2:41:01 PM	Event	BenchCel - 1	Stacker 3	dest1 1	1	Completed: Downstack from BenchCel - 1.Stacker 3	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	2	
+25-Sep-17 2:41:01 PM	Event	Bravo - 1	5	dest1 1	2	Place plate at Bravo - 1 5	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	2	
+25-Sep-17 2:41:01 PM	Event	BenchCel - 1		dest1 1		Move plate from BenchCel - 1 Stacker 3, teachpoint Stacker 3 to Bravo - 1 3, teachpoint Bravo3			2	
+25-Sep-17 2:41:14 PM	Event	BenchCel - 1	Stacker 3			The stack is empty			2	
+25-Sep-17 2:41:14 PM	Event	BenchCel - 1		dest1 1		Finished moving plate from BenchCel - 1 Stacker 3, teachpoint Stacker 3 to Bravo - 1 3, teachpoint Bravo3			2	
+25-Sep-17 2:41:14 PM	Event	Bravo - 1		dest1 1		Move plate from Bravo - 1 3, teachpoint 3 to Bravo - 1 5, teachpoint 5			2	
+25-Sep-17 2:41:23 PM	Event	Bravo - 1		dest1 1		Finished moving plate from Bravo - 1 3, teachpoint 3 to Bravo - 1 5, teachpoint 5			2	
+25-Sep-17 2:41:23 PM	Event	Bravo - 1	5	dest1 1	2	Completed: Place plate at Bravo - 1 5	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	2	
+25-Sep-17 2:41:23 PM	Event			dest1 1	3	Spawn tipbox	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	2	
+25-Sep-17 2:41:23 PM	Event			tipbox 1		Process starting, north barcode: No bar code, east barcode: No bar code, south barcode: No bar code, west barcode: No bar code	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	2	
+25-Sep-17 2:41:23 PM	Event			dest1 1	3	Completed: Spawn tipbox	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	2	
+25-Sep-17 2:41:24 PM	Event	BenchCel - 1	Stacker 1	tipbox 1	1	Downstack from BenchCel - 1.Stacker 1	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	2	
+25-Sep-17 2:41:24 PM	Event	BenchCel - 1	Stacker 1	tipbox 1	1	Completed: Downstack from BenchCel - 1.Stacker 1	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	2	
+25-Sep-17 2:41:24 PM	Event	Bravo - 1	2	tipbox 1	2	Place plate at Bravo - 1 2	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	2	
+25-Sep-17 2:41:24 PM	Event	BenchCel - 1		tipbox 1		Move plate from BenchCel - 1 Stacker 1, teachpoint Stacker 1 to Bravo - 1 3, teachpoint Bravo3			2	
+25-Sep-17 2:41:38 PM	Event	BenchCel - 1	Stacker 1			The stack is empty			2	
+25-Sep-17 2:41:38 PM	Event	BenchCel - 1		tipbox 1		Finished moving plate from BenchCel - 1 Stacker 1, teachpoint Stacker 1 to Bravo - 1 3, teachpoint Bravo3			2	
+25-Sep-17 2:41:38 PM	Event	Bravo - 1		tipbox 1		Move plate from Bravo - 1 3, teachpoint 3 to Bravo - 1 2, teachpoint 2			2	
+25-Sep-17 2:41:47 PM	Event	Bravo - 1		tipbox 1		Finished moving plate from Bravo - 1 3, teachpoint 3 to Bravo - 1 2, teachpoint 2			2	
+25-Sep-17 2:41:47 PM	Event	Bravo - 1	2	tipbox 1	2	Completed: Place plate at Bravo - 1 2	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	2	
+25-Sep-17 2:41:47 PM	Event	Bravo - 1	5	Bravo SubProcess 88 1	1	Begin task group	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	2	
+25-Sep-17 2:41:47 PM	Event	Bravo - 1	8	Bravo SubProcess 88 1	1	Begin task group	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	2	
+25-Sep-17 2:41:47 PM	Event	Bravo - 1	2	Bravo SubProcess 88 1	1	Begin task group	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	2	
+25-Sep-17 2:41:47 PM	Event	Bravo - 1	5	Bravo SubProcess 88 1	1	Completed: Begin task group	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	2	
+25-Sep-17 2:41:47 PM	Event	Bravo - 1	8	Bravo SubProcess 88 1	1	Completed: Begin task group	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	2	
+25-Sep-17 2:41:47 PM	Event	Bravo - 1	2	Bravo SubProcess 88 1	1	Completed: Begin task group	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	2	
+25-Sep-17 2:41:48 PM	Event	Bravo - 1	Default Location	Bravo SubProcess 88 1	2	Set head mode to 6 columns: 1-6	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	2	
+25-Sep-17 2:41:48 PM	Event	Bravo - 1	Default Location	Bravo SubProcess 88 1	2	Completed: Set head mode to 6 columns: 1-6	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	2	
+25-Sep-17 2:41:48 PM	Event	Bravo - 1	2	Bravo SubProcess 88 1	3	Tips On in 1 selection(s) from tipbox 1	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	2	
+25-Sep-17 2:41:56 PM	Event	Bravo - 1	2	Bravo SubProcess 88 1	3	Completed: Tips On in 1 selection(s) from tipbox 1	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	2	
+25-Sep-17 2:41:56 PM	Event	Bravo - 1	8	Bravo SubProcess 88 1	4	Aspirate 20 킠 in 1 selection(s) from source 1	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	2	
+25-Sep-17 2:42:07 PM	Event	Bravo - 1	8	Bravo SubProcess 88 1	4	Completed: Aspirate 20 킠 in 1 selection(s) from source 1	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	2	
+25-Sep-17 2:42:07 PM	Event	Bravo - 1	5	Bravo SubProcess 88 1	5	Dispense 21.45758929 킠 in 1 selection(s) to dest1 1	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	2	
+25-Sep-17 2:42:18 PM	Event	Bravo - 1	5	Bravo SubProcess 88 1	5	Completed: Dispense 21.45758929 킠 in 1 selection(s) to dest1 1	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	2	
+25-Sep-17 2:42:18 PM	Event	Bravo - 1	2	Bravo SubProcess 88 1	6	Tips Off in 1 selection(s) from tipbox 1	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	2	
+25-Sep-17 2:42:25 PM	Event	Bravo - 1	2	Bravo SubProcess 88 1	6	Completed: Tips Off in 1 selection(s) from tipbox 1	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	2	
+25-Sep-17 2:42:26 PM	Event	Bravo - 1	Default Location	Bravo SubProcess 88 1	7	Set head mode to 6 columns: 7-12	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	2	
+25-Sep-17 2:42:26 PM	Event	Bravo - 1	Default Location	Bravo SubProcess 88 1	7	Completed: Set head mode to 6 columns: 7-12	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	2	
+25-Sep-17 2:42:26 PM	Event	Bravo - 1	2	Bravo SubProcess 88 1	8	Tips On in 1 selection(s) from tipbox 1	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	2	
+25-Sep-17 2:42:34 PM	Event	Bravo - 1	2	Bravo SubProcess 88 1	8	Completed: Tips On in 1 selection(s) from tipbox 1	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	2	
+25-Sep-17 2:42:34 PM	Event	Bravo - 1	8	Bravo SubProcess 88 1	9	Aspirate 20 킠 in 1 selection(s) from source 1	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	2	
+25-Sep-17 2:42:45 PM	Event	Bravo - 1	8	Bravo SubProcess 88 1	9	Completed: Aspirate 20 킠 in 1 selection(s) from source 1	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	2	
+25-Sep-17 2:42:45 PM	Event	Bravo - 1	5	Bravo SubProcess 88 1	10	Dispense 21.45535714 킠 in 1 selection(s) to dest1 1	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	2	
+25-Sep-17 2:42:56 PM	Event	Bravo - 1	5	Bravo SubProcess 88 1	10	Completed: Dispense 21.45535714 킠 in 1 selection(s) to dest1 1	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	2	
+25-Sep-17 2:42:56 PM	Event	Bravo - 1	2	Bravo SubProcess 88 1	11	Tips Off in 1 selection(s) from tipbox 1	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	2	
+25-Sep-17 2:43:04 PM	Event	Bravo - 1	2	Bravo SubProcess 88 1	11	Completed: Tips Off in 1 selection(s) from tipbox 1	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	2	
+25-Sep-17 2:43:04 PM	Event	Bravo - 1	5	Bravo SubProcess 88 1	12	Shake from dest1 1	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	2	
+25-Sep-17 2:43:14 PM	Event	Bravo - 1	5	Bravo SubProcess 88 1	12	Completed: Shake from dest1 1	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	2	
+25-Sep-17 2:43:15 PM	Event			Bravo SubProcess 88 1	13	End task group	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	2	
+25-Sep-17 2:43:15 PM	Event			Bravo SubProcess 88 1	13	Completed: End task group	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	2	
+25-Sep-17 2:43:15 PM	Event			Bravo SubProcess 88 1		Process finishing	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	2	
+25-Sep-17 2:43:15 PM	Event	Bravo - 1	7	dest1 1	5	Incubate for 10 seconds	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	2	
+25-Sep-17 2:43:15 PM	Event	Bravo - 1		dest1 1		Move plate from Bravo - 1 5, teachpoint 5 to Bravo - 1 7, teachpoint 7			2	
+25-Sep-17 2:43:15 PM	Event	BenchCel - 1	Stacker 1	tipbox 1	4	Upstack to BenchCel - 1.Stacker 1	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	2	
+25-Sep-17 2:43:24 PM	Event	Bravo - 1		dest1 1		Finished moving plate from Bravo - 1 5, teachpoint 5 to Bravo - 1 7, teachpoint 7			2	
+25-Sep-17 2:43:24 PM	Event	Bravo - 1		tipbox 1		Move plate from Bravo - 1 2, teachpoint 2 to Bravo - 1 3, teachpoint 3			2	
+25-Sep-17 2:43:34 PM	Event	Bravo - 1	7	dest1 1	5	Completed: Incubate for 10 seconds	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	2	
+25-Sep-17 2:43:34 PM	Event	Bravo - 1		tipbox 1		Finished moving plate from Bravo - 1 2, teachpoint 2 to Bravo - 1 3, teachpoint 3			2	
+25-Sep-17 2:43:34 PM	Event	BenchCel - 1		tipbox 1		Move plate from Bravo - 1 3, teachpoint Bravo3 to BenchCel - 1 Stacker 1, teachpoint Stacker 1			2	
+25-Sep-17 2:43:43 PM	Event	BenchCel - 1		tipbox 1		Finished moving plate from Bravo - 1 3, teachpoint Bravo3 to BenchCel - 1 Stacker 1, teachpoint Stacker 1			2	
+25-Sep-17 2:43:43 PM	Event	BenchCel - 1	Stacker 1	tipbox 1	4	Completed: Upstack to BenchCel - 1.Stacker 1	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	2	
+25-Sep-17 2:43:43 PM	Event			tipbox 1	5	Signal Waitfortb of dest1 1	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	2	
+25-Sep-17 2:43:43 PM	Event			tipbox 1	5	Completed: Signal Waitfortb of dest1 1	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	2	
+25-Sep-17 2:43:43 PM	Event			dest1 1	6	Waitfor "Waitfortb" has been signaled	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	2	
+25-Sep-17 2:43:44 PM	Event			dest1 1	6	Completed: Waitfor "Waitfortb" has been signaled	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	2	
+25-Sep-17 2:43:44 PM	Event			tipbox 1		Process finishing	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	2	
+25-Sep-17 2:43:44 PM	Event	BenchCel - 1	Stacker 3	dest1 1	7	Upstack to BenchCel - 1.Stacker 3	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	2	
+25-Sep-17 2:43:44 PM	Event	Bravo - 1		dest1 1		Move plate from Bravo - 1 7, teachpoint 7 to Bravo - 1 3, teachpoint 3			2	
+25-Sep-17 2:43:53 PM	Event	Bravo - 1		dest1 1		Finished moving plate from Bravo - 1 7, teachpoint 7 to Bravo - 1 3, teachpoint 3			2	
+25-Sep-17 2:43:53 PM	Event	BenchCel - 1		dest1 1		Move plate from Bravo - 1 3, teachpoint Bravo3 to BenchCel - 1 Stacker 3, teachpoint Stacker 3			2	
+25-Sep-17 2:44:04 PM	Event	BenchCel - 1		dest1 1		Finished moving plate from Bravo - 1 3, teachpoint Bravo3 to BenchCel - 1 Stacker 3, teachpoint Stacker 3			2	
+25-Sep-17 2:44:04 PM	Event	BenchCel - 1	Stacker 3	dest1 1	7	Completed: Upstack to BenchCel - 1.Stacker 3	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	2	
+25-Sep-17 2:44:04 PM	Event			dest1 1	8	Signal Waitfordest of source 1	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	2	
+25-Sep-17 2:44:04 PM	Event			dest1 1	8	Completed: Signal Waitfordest of source 1	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	2	
+25-Sep-17 2:44:04 PM	Event			source 1	5	Waitfor "Waitfordest" has been signaled	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	2	
+25-Sep-17 2:44:04 PM	Event			source 1	5	Completed: Waitfor "Waitfordest" has been signaled	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	2	
+25-Sep-17 2:44:04 PM	Event			dest1 1		Process finishing	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	2	
+25-Sep-17 2:44:04 PM	Event	Agilent Labware MiniHub - 1	Cassette 1, slot 5	source 1	6	Load into plate storage device	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	2	
+25-Sep-17 2:44:04 PM	Event	Bravo - 1		source 1		Move plate from Bravo - 1 8, teachpoint 8 to Bravo - 1 3, teachpoint 3			2	
+25-Sep-17 2:44:14 PM	Event	Bravo - 1		source 1		Finished moving plate from Bravo - 1 8, teachpoint 8 to Bravo - 1 3, teachpoint 3			2	
+25-Sep-17 2:44:14 PM	Event	BenchCel - 1		source 1		Move plate from Bravo - 1 3, teachpoint Bravo3 to Agilent Labware MiniHub - 1 Cassette 1, Slot 5, teachpoint MiniHub05			2	
+25-Sep-17 2:44:26 PM	Event	BenchCel - 1		source 1		Finished moving plate from Bravo - 1 3, teachpoint Bravo3 to Agilent Labware MiniHub - 1 Cassette 1, Slot 5, teachpoint MiniHub05			2	
+25-Sep-17 2:44:26 PM	Event	Agilent Labware MiniHub - 1		source 1	6	Agilent Labware MiniHub - 1 Load the plate from Cassette 1, Slot 5 into Location : cassette 1, slot 5	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	2	
+25-Sep-17 2:44:26 PM	Event	Agilent Labware MiniHub - 1	Cassette 1, slot 5	source 1	6	Completed: Load into plate storage device	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	2	
+25-Sep-17 2:44:26 PM	Event			source 1		Process finishing	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	2	
+25-Sep-17 2:44:26 PM	Info					Elapsed time since start: 3 minutes 56 seconds.	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	2	
+25-Sep-17 2:45:30 PM	Event					Main protocol complete	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	2	
+25-Sep-17 2:45:59 PM	Event	BenchCel - 1	Stacker 1	tipbox		Unload stacker rack at location "Stacker 1" of device "BenchCel - 1" with plate "tipbox" of labware type "96 V11 LT250 Tip Box 19477.002"	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	2	
+25-Sep-17 2:46:04 PM	Info	BenchCel - 1				Reset stack height: stack height at Stacker 1 is set to 0			2	
+25-Sep-17 2:46:04 PM	Event	BenchCel - 1	Stacker 3	dest1		Unload stacker rack at location "Stacker 3" of device "BenchCel - 1" with plate "dest1" of labware type "96 Eppendorf Twin.tec PCR"	visitor demo	C:\VWorks Workspace\Protocol Files\visitor demo.pro	2	
+25-Sep-17 2:46:09 PM	Info	BenchCel - 1				Reset stack height: stack height at Stacker 3 is set to 0			2	
+25-Sep-17 2:47:27 PM	Info	Agilent Labware MiniHub - 1				Opening diagnostics		C:\VWorks Workspace\Device Files\TruSeq\TruSeq RNA_DNA Sample Prep_v1.0\BravoMiniPHBenchCel_round_magnet_RED_insert.dev	2	
+25-Sep-17 2:47:29 PM	Info	Agilent Labware MiniHub - 1				Closing diagnostics		C:\VWorks Workspace\Device Files\TruSeq\TruSeq RNA_DNA Sample Prep_v1.0\BravoMiniPHBenchCel_round_magnet_RED_insert.dev	2	
+25-Sep-17 2:47:32 PM	Info					File unloaded		C:\VWorks Workspace\Device Files\TruSeq\TruSeq RNA_DNA Sample Prep_v1.0\BravoMiniPHBenchCel_round_magnet_RED_insert.dev	2	
+25-Sep-17 2:47:35 PM	Info					File unloaded		C:\VWorks Workspace\Protocol Files\visitor demo.pro	2	
+25-Sep-17 2:47:36 PM	Info	Agilent Labware MiniHub - 1				Closing device		C:\VWorks Workspace\Device Files\SureSelect\XT_Illumina\BravoMiniPHBenchCel_round_magnet.dev	2	
+25-Sep-17 2:47:36 PM	Info	BenchCel - 1				Closing device		C:\VWorks Workspace\Device Files\SureSelect\XT_Illumina\BravoMiniPHBenchCel_round_magnet.dev	2	
+25-Sep-17 2:47:36 PM	Info	Bravo - 1				Closing device		C:\VWorks Workspace\Device Files\SureSelect\XT_Illumina\BravoMiniPHBenchCel_round_magnet.dev	2	
+25-Sep-17 2:47:36 PM	Info					File unloaded		C:\VWorks Workspace\Device Files\SureSelect\XT_Illumina\BravoMiniPHBenchCel_round_magnet.dev	2	
+25-Sep-17 2:47:38 PM	Info					administrator logged out. Session 2 closed			2	
+25-Sep-17 2:47:38 PM	Info					System Shutdown			0	

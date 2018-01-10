@@ -1,0 +1,310 @@
+22-Jan-18 2:16:42 PM	Info					Error library: The error library file path is empty.			0	
+22-Jan-18 2:16:42 PM	Info					System Startup			0	
+22-Jan-18 2:16:42 PM	Info	AccessoriesWizard				Dll loaded:    AccessoriesWizard.dll    6.0.0			0	
+22-Jan-18 2:16:42 PM	Info	AccessoryManager				Dll loaded:    AccessoryManager.dll    2.0.0			0	
+22-Jan-18 2:16:42 PM	Info	AgilentBenchBotController				Dll loaded:    AgilentBenchBotController.dll    1.21.4226			0	
+22-Jan-18 2:16:42 PM	Info	ArgonShelfAccessoryDriver				Dll loaded:    ArgonShelfAccessoryDriver.dll    2.0.1			0	
+22-Jan-18 2:16:42 PM	Info	BTILHCRunner				Dll loaded:    BTILHCRunner.dll    2.00.2			0	
+22-Jan-18 2:16:42 PM	Info	ContextHelp				Dll loaded:    ContextHelp.dll    3.0.0			0	
+22-Jan-18 2:16:42 PM	Info	DDRStringTable				Dll loaded:    DDRStringTable.dll    1.2.14			0	
+22-Jan-18 2:16:42 PM	Info	DeviceEnumerator				Dll loaded:    DeviceEnumerator.dll    9.0.0			0	
+22-Jan-18 2:16:42 PM	Info	EchoAppHelper				Dll loaded:    EchoAppHelper.dll    1.0.0			0	
+22-Jan-18 2:16:42 PM	Info	ErrorLibrary				Dll loaded:    ErrorLibrary.dll    2.0.1			0	
+22-Jan-18 2:16:42 PM	Info	EvaporatorAccessoryDriver				Dll loaded:    EvaporatorAccessoryDriver.dll    9.0.0			0	
+22-Jan-18 2:16:42 PM	Info	GuidanceDiscovery				Dll loaded:    GuidanceDiscovery.dll    2.0.0			0	
+22-Jan-18 2:16:43 PM	Info	Host				Dll loaded:    Host.dll    1.0.4226			0	
+22-Jan-18 2:16:43 PM	Info	ImportExport				Dll loaded:    ImportExport.dll    2.0.0			0	
+22-Jan-18 2:16:43 PM	Info	InhecoMTCdll				Dll loaded:    InhecoMTCdll.dll    1.2.4			0	
+22-Jan-18 2:16:43 PM	Info	InhecoShakeandHeatAccessoryDriver				Dll loaded:    InhecoShakeandHeatAccessoryDriver.dll    1.0.0			0	
+22-Jan-18 2:16:43 PM	Info	IWorksAccessory				Dll loaded:    IWorksAccessory.dll    8.0.1			0	
+22-Jan-18 2:16:43 PM	Info	js32				Dll loaded:    js32.dll    Unknown.0.0			0	
+22-Jan-18 2:16:43 PM	Info	LabelDesigner				Dll loaded:    LabelDesigner.dll    5.0.7			0	
+22-Jan-18 2:16:43 PM	Info	LabelerHardware				Dll loaded:    LabelerHardware.dll    14.0.23			0	
+22-Jan-18 2:16:43 PM	Info	libnspr4				Dll loaded:    libnspr4.dll    4.1.0			0	
+22-Jan-18 2:16:43 PM	Info	LidHotelAccessoryDriver				Dll loaded:    LidHotelAccessoryDriver.dll    8.0.0			0	
+22-Jan-18 2:16:43 PM	Info	lm				Dll loaded:    lm.dll    3.0.0			0	
+22-Jan-18 2:16:43 PM	Info	Loader				Dll loaded:    Loader.dll    1.0.4226			0	
+22-Jan-18 2:16:43 PM	Info	MagBeadAccessoryDriver				Dll loaded:    MagBeadAccessoryDriver.dll    8.0.0			0	
+22-Jan-18 2:16:43 PM	Info	MetaDataPropertyManager				Dll loaded:    MetaDataPropertyManager.dll    13.0.0			0	
+22-Jan-18 2:16:43 PM	Info	mfc71				Dll loaded:    mfc71.dll    7.10.3077			0	
+22-Jan-18 2:16:43 PM	Info	mfc71u				Dll loaded:    mfc71u.dll    7.10.3077			0	
+22-Jan-18 2:16:43 PM	Info	MicroPierceInterface				Dll loaded:    MicroPierceInterface.dll    1.0.0			0	
+22-Jan-18 2:16:43 PM	Info	MicroPierceWrapper				Dll loaded:    MicroPierceWrapper.dll    1.0.0			0	
+22-Jan-18 2:16:43 PM	Info	MicroStirInterface				Dll loaded:    MicroStirInterface.dll    1.0.0			0	
+22-Jan-18 2:16:43 PM	Info	MicroStirWrapper				Dll loaded:    MicroStirWrapper.dll    1.0.0			0	
+22-Jan-18 2:16:43 PM	Info	msvcr71				Dll loaded:    msvcr71.dll    7.10.3052			0	
+22-Jan-18 2:16:43 PM	Info	MTController				Dll loaded:    MTController.dll    5.0.0			0	
+22-Jan-18 2:16:43 PM	Info	NestableTipBoxInsertAccessoryDriver				Dll loaded:    NestableTipBoxInsertAccessoryDriver.dll    2.0.0			0	
+22-Jan-18 2:16:43 PM	Info	ObjectDatabase				Dll loaded:    ObjectDatabase.dll    4.0.0			0	
+22-Jan-18 2:16:43 PM	Info	ObjectManager				Dll loaded:    ObjectManager.dll    7.0.1			0	
+22-Jan-18 2:16:43 PM	Info	PackardFusionRemoteConnectorOCX				Dll loaded:    PackardFusionRemoteConnectorOCX.dll    4.0.0			0	
+22-Jan-18 2:16:43 PM	Info	PackardFusionRemoteControlPlugIn				Dll loaded:    PackardFusionRemoteControlPlugIn.dll    4.0.0			0	
+22-Jan-18 2:16:43 PM	Info	PackardFusionRemoteControlWrapperDLL				Dll loaded:    PackardFusionRemoteControlWrapperDLL.dll    4.0.0			0	
+22-Jan-18 2:16:43 PM	Info	PicServoExtDll				Dll loaded:    PicServoExtDll.dll    10.0.0			0	
+22-Jan-18 2:16:43 PM	Info	PipetteHeadMode				Dll loaded:    PipetteHeadMode.dll    2.0.0			0	
+22-Jan-18 2:16:43 PM	Info	PipetteTechniqueEditor				Dll loaded:    PipetteTechniqueEditor.dll    3.0.0			0	
+22-Jan-18 2:16:43 PM	Info	PlateMapDatabase				Dll loaded:    PlateMapDatabase.dll    17.0.1			0	
+22-Jan-18 2:16:43 PM	Info	ProfileChangeLog				Dll loaded:    ProfileChangeLog.dll    2.0.0			0	
+22-Jan-18 2:16:43 PM	Info	ProfileManager				Dll loaded:    ProfileManager.dll    10.0.1			0	
+22-Jan-18 2:16:43 PM	Info	ProfSkin284m				Dll loaded:    ProfSkin284m.dll    2.8.4			0	
+22-Jan-18 2:16:43 PM	Info	ProfUIS284m				Dll loaded:    ProfUIS284m.dll    2.8.4			0	
+22-Jan-18 2:16:43 PM	Info	ProfUisProfileManager				Dll loaded:    ProfUisProfileManager.dll    10.0.0			0	
+22-Jan-18 2:16:43 PM	Info	SciLexer				Dll loaded:    SciLexer.dll    1.71.0			0	
+22-Jan-18 2:16:43 PM	Info	SerialDilution				Dll loaded:    SerialDilution.dll    13.0.0			0	
+22-Jan-18 2:16:43 PM	Info	SSIdll				Dll loaded:    SSIdll.dll    Unknown.0.0			0	
+22-Jan-18 2:16:43 PM	Info	TeleshakeAccessoryDriver				Dll loaded:    TeleshakeAccessoryDriver.dll    9.0.2			0	
+22-Jan-18 2:16:43 PM	Info	TipPosition				Dll loaded:    TipPosition.dll    3.0.0			0	
+22-Jan-18 2:16:43 PM	Info	TipTracking				Dll loaded:    TipTracking.dll    3.0.0			0	
+22-Jan-18 2:16:43 PM	Info	tmlcomm				Dll loaded:    tmlcomm.dll    3.2.2			0	
+22-Jan-18 2:16:43 PM	Info	TML_lib				Dll loaded:    TML_lib.dll    2.0.1			0	
+22-Jan-18 2:16:43 PM	Info	Toolbox				Dll loaded:    Toolbox.dll    1.0.4226			0	
+22-Jan-18 2:16:43 PM	Info	V11DeviceDriver				Dll loaded:    V11DeviceDriver.dll    11.0.0			0	
+22-Jan-18 2:16:43 PM	Info	V11FieldComposer				Dll loaded:    V11FieldComposer.dll    4.0.0			0	
+22-Jan-18 2:16:43 PM	Info	V11GanttChart				Dll loaded:    V11GanttChart.dll    2.0.1			0	
+22-Jan-18 2:16:43 PM	Info	V11Labware				Dll loaded:    V11Labware.dll    25.0.14			0	
+22-Jan-18 2:16:43 PM	Info	V11Liquids				Dll loaded:    V11Liquids.dll    9.0.0			0	
+22-Jan-18 2:16:43 PM	Info	V11Migrator				Dll loaded:    V11Migrator.dll    2.0.3			0	
+22-Jan-18 2:16:43 PM	Info	V11PipettingFormatWizard				Dll loaded:    V11PipettingFormatWizard.dll    2.0.0			0	
+22-Jan-18 2:16:43 PM	Info	V11PumpAccessoryDriver				Dll loaded:    V11PumpAccessoryDriver.dll    3.0.2			0	
+22-Jan-18 2:16:43 PM	Info	V11SharedClasses				Dll loaded:    V11SharedClasses.dll    1.1.0			0	
+22-Jan-18 2:16:43 PM	Info	V11WellSelect				Dll loaded:    V11WellSelect.dll    8.0.0			0	
+22-Jan-18 2:16:43 PM	Info	V11WellVolumeVisualizer				Dll loaded:    V11WellVolumeVisualizer.dll    6.0.0			0	
+22-Jan-18 2:16:43 PM	Info	V11Wizard				Dll loaded:    V11Wizard.dll    2.0.0			0	
+22-Jan-18 2:16:43 PM	Info	VacuumFiltrationAccessoryDriver				Dll loaded:    VacuumFiltrationAccessoryDriver.dll    10.0.1			0	
+22-Jan-18 2:16:43 PM	Info	VacuumLocatingStationDriver				Dll loaded:    VacuumLocatingStationDriver.dll    7.0.0			0	
+22-Jan-18 2:16:43 PM	Info	VacuumShelfAccessoryDriver				Dll loaded:    VacuumShelfAccessoryDriver.dll    2.0.2			0	
+22-Jan-18 2:16:43 PM	Info	VHookInterface				Dll loaded:    VHookInterface.dll    7.0.0			0	
+22-Jan-18 2:16:43 PM	Info	VWorks4COM				Dll loaded:    VWorks4COM.dll    4.0.0			0	
+22-Jan-18 2:16:43 PM	Info	VWorks4Defs				Dll loaded:    VWorks4Defs.dll    6.0.3			0	
+22-Jan-18 2:16:43 PM	Info	VWorks4DeviceManager				Dll loaded:    VWorks4DeviceManager.dll    4.0.0			0	
+22-Jan-18 2:16:43 PM	Info	VWorks4EmailDaemon				Dll loaded:    VWorks4EmailDaemon.dll    3.0.0			0	
+22-Jan-18 2:16:43 PM	Info	VWorks4FormManager				Dll loaded:    VWorks4FormManager.dll    1.0.0			0	
+22-Jan-18 2:16:43 PM	Info	VWorks4GUI				Dll loaded:    VWorks4GUI.dll    3.0.0			0	
+22-Jan-18 2:16:43 PM	Info	VWorks4GUIFramework				Dll loaded:    VWorks4GUIFramework.dll    3.0.1			0	
+22-Jan-18 2:16:43 PM	Info	VWorks4Hooks				Dll loaded:    VWorks4Hooks.dll    3.0.0			0	
+22-Jan-18 2:16:43 PM	Info	VWorks4LabelDesigner				Dll loaded:    VWorks4LabelDesigner.dll    3.0.0			0	
+22-Jan-18 2:16:43 PM	Info	VWorks4Logger				Dll loaded:    VWorks4Logger.dll    4.0.0			0	
+22-Jan-18 2:16:43 PM	Info	VWorks4MacroLibrary				Dll loaded:    VWorks4MacroLibrary.dll    1.0.0			0	
+22-Jan-18 2:16:43 PM	Info	VWorks4Progress				Dll loaded:    VWorks4Progress.dll    3.0.0			0	
+22-Jan-18 2:16:43 PM	Info	VWorks4ProtocolEditor				Dll loaded:    VWorks4ProtocolEditor.dll    4.0.0			0	
+22-Jan-18 2:16:43 PM	Info	VWorks4Security				Dll loaded:    VWorks4Security.dll    3.0.0			0	
+22-Jan-18 2:16:43 PM	Info	VWorks4UserDatabase				Dll loaded:    VWorks4UserDatabase.dll    3.0.0			0	
+22-Jan-18 2:16:43 PM	Info	VWorks4UserManager				Dll loaded:    VWorks4UserManager.dll    3.0.0			0	
+22-Jan-18 2:16:43 PM	Info	WeighPadAccessoryDriver				Dll loaded:    WeighPadAccessoryDriver.dll    2.0.0			0	
+22-Jan-18 2:16:43 PM	Info	Agilent BenchCel				Plugin loaded from cache:   AgilentBenchCel.dll   20.1.2			0	
+22-Jan-18 2:16:44 PM	Info	Agilent Bravo				Plugin loaded from cache:   AgilentBravo.dll   17.1.0			0	
+22-Jan-18 2:16:44 PM	Info	Agilent Generic I/O Module				Plugin loaded from cache:   AgilentGenericIO.dll   5.0.0			0	
+22-Jan-18 2:16:44 PM	Info	Agilent Labware MiniHub				Plugin loaded from cache:   AgilentLabwareMiniHub.dll   1.0.3			0	
+22-Jan-18 2:16:44 PM	Info	Agilent Phantom Robot				Plugin loaded from cache:   AgilentPhantomRobot.dll   9.0.5			0	
+22-Jan-18 2:16:44 PM	Info	Agilent Phantom Stacker				Plugin loaded from cache:   AgilentPhantomStacker.dll   2.0.1			0	
+22-Jan-18 2:16:44 PM	Info	Agilent Plate Hotel				Plugin loaded from cache:   AgilentPlateHotel.dll   1.0.3			0	
+22-Jan-18 2:16:44 PM	Info	Agilent Plate Hub Carousel				Plugin loaded from cache:   AgilentPlateHubCarousel.dll   8.0.1			0	
+22-Jan-18 2:16:44 PM	Info	Waste Bin				Plugin loaded from cache:   AgilentWasteBin.dll   3.0.0			0	
+22-Jan-18 2:16:45 PM	Info	Agilent Weigh Pad				Plugin loaded from cache:   AgilentWeighPad.dll   8.0.0			0	
+22-Jan-18 2:16:45 PM	Info	Keyence Barcode Reader				Plugin loaded from cache:   KeyenceBarcodeReader.dll   6.0.0			0	
+22-Jan-18 2:16:45 PM	Info	Plate Pad, Standard				Plugin loaded from cache:   PlatePad.dll   6.0.0			0	
+22-Jan-18 2:16:59 PM	Info					administrator logged in			1	
+22-Jan-18 2:17:21 PM	Info					File loaded		C:\VWorks Workspace\Forms\SCELSE\Working Program\TruSeqPCRFree_Nano.VWForm	1	
+22-Jan-18 2:17:24 PM	Info					Simulation mode toggled on			1	
+22-Jan-18 2:17:27 PM	Script					Initializing scripting engine...			1	
+22-Jan-18 2:17:27 PM	Script					Mon Jan 22 2018 14:17:27 GMT+0800 (Malay Peninsula Standard Time)			1	
+22-Jan-18 2:17:27 PM	Script					var plate_type = "96 ABI PCR half skirt in black carrier";		C:\VWorks Workspace\Forms\SCELSE\Working Program\TruSeqPCRFree_Nano.VWForm	1	
+22-Jan-18 2:17:27 PM	Script					var DNA_source = 0;		C:\VWorks Workspace\Forms\SCELSE\Working Program\TruSeqPCRFree_Nano.VWForm	1	
+22-Jan-18 2:17:27 PM	Script					var protocol_testing = 0;		C:\VWorks Workspace\Forms\SCELSE\Working Program\TruSeqPCRFree_Nano.VWForm	1	
+22-Jan-18 2:17:27 PM	Script					var BasePair = 50;		C:\VWorks Workspace\Forms\SCELSE\Working Program\TruSeqPCRFree_Nano.VWForm	1	
+22-Jan-18 2:17:27 PM	Script					var formProtocolName = "TruSeqPCRFree_Nano_runset.rst";		C:\VWorks Workspace\Forms\SCELSE\Working Program\TruSeqPCRFree_Nano.VWForm	1	
+22-Jan-18 2:17:27 PM	Script					var columns_samples = 1;		C:\VWorks Workspace\Forms\SCELSE\Working Program\TruSeqPCRFree_Nano.VWForm	1	
+22-Jan-18 2:17:27 PM	Script					Number of Columns selected is 1			1	
+22-Jan-18 2:17:27 PM	Script					Case: 1 Columns			1	
+22-Jan-18 2:17:32 PM	Script					var plate_type = "96 ABI PCR half skirt in black carrier";		C:\VWorks Workspace\Forms\SCELSE\Working Program\TruSeqPCRFree_Nano.VWForm	1	
+22-Jan-18 2:17:32 PM	Script					var DNA_source = 0;		C:\VWorks Workspace\Forms\SCELSE\Working Program\TruSeqPCRFree_Nano.VWForm	1	
+22-Jan-18 2:17:32 PM	Script					var protocol_testing = 0;		C:\VWorks Workspace\Forms\SCELSE\Working Program\TruSeqPCRFree_Nano.VWForm	1	
+22-Jan-18 2:17:32 PM	Script					var BasePair = 50;		C:\VWorks Workspace\Forms\SCELSE\Working Program\TruSeqPCRFree_Nano.VWForm	1	
+22-Jan-18 2:17:32 PM	Script					var formProtocolName = "TruSeqPCRFree_Nano_runset.rst";		C:\VWorks Workspace\Forms\SCELSE\Working Program\TruSeqPCRFree_Nano.VWForm	1	
+22-Jan-18 2:17:32 PM	Script					var columns_samples = 1;		C:\VWorks Workspace\Forms\SCELSE\Working Program\TruSeqPCRFree_Nano.VWForm	1	
+22-Jan-18 2:17:33 PM	Script					Clearing Plate Inventory			1	
+22-Jan-18 2:17:33 PM	Script					Clearing Runset			1	
+22-Jan-18 2:17:33 PM	Script					Starting runset : TruSeqPCRFree_Nano_runset.rst			1	
+22-Jan-18 2:17:33 PM	Info					Runset Manager: Added the run "C:\VWorks Workspace\Protocol Files\TruSeqPCRFree\7_AMPureXP_TruSeqPCRFree_DNArunset_v1.0.pro" to Runset Manager.			1	
+22-Jan-18 2:17:33 PM	Info					Runset Manager: Added the run "C:\VWorks Workspace\Protocol Files\TruSeqPCRFree\8_EndRepair_TruSeqPCRFree_v1.0.pro" to Runset Manager.			1	
+22-Jan-18 2:17:33 PM	Info					Runset Manager: Added the run "C:\VWorks Workspace\Protocol Files\TruSeqPCRFree\9_AMPureXP_TruSeqPCRFree_DNArunset_v1.0.pro" to Runset Manager.			1	
+22-Jan-18 2:17:33 PM	Info					Runset Manager: Added the run "C:\VWorks Workspace\Protocol Files\TruSeqPCRFree\10_A-Tailing_TruSeqPCRFree_v1.0.pro" to Runset Manager.			1	
+22-Jan-18 2:17:33 PM	Info					Runset Manager: Added the run "C:\VWorks Workspace\Protocol Files\TruSeqPCRFree\11_AdapterLigation_TruSeqPCRFree_v1.0.pro" to Runset Manager.			1	
+22-Jan-18 2:17:33 PM	Info					Runset Manager: Added the run "C:\VWorks Workspace\Protocol Files\TruSeqPCRFree\12_StopLigation_TruSeqPCRFree_v1.0.pro" to Runset Manager.			1	
+22-Jan-18 2:17:33 PM	Info					Runset Manager: Added the run "C:\VWorks Workspace\Protocol Files\TruSeqPCRFree\13_AMPureXP_TruSeqPCRFree_runset_v1.0.pro" to Runset Manager.			1	
+22-Jan-18 2:17:33 PM	Info					Runset Manager: Added the run "C:\VWorks Workspace\Protocol Files\TruSeqPCRFree\14_AMPureXP_TruSeqPCRFree_runset_v1.0.pro" to Runset Manager.			1	
+22-Jan-18 2:17:37 PM	Info	Agilent Labware MiniHub				Plugin loaded:   AgilentLabwareMiniHub.dll   1.0.3			1	
+22-Jan-18 2:17:38 PM	Info					Hooks plugin loaded:    AgilentBenchCel.dll			0	
+22-Jan-18 2:17:38 PM	Info	Agilent BenchCel				Plugin loaded:   AgilentBenchCel.dll   20.1.2			1	
+22-Jan-18 2:17:42 PM	Info					Hooks plugin loaded:    AgilentBravo.dll			0	
+22-Jan-18 2:17:42 PM	Info	Agilent Bravo				Plugin loaded:   AgilentBravo.dll   17.1.0			1	
+22-Jan-18 2:17:46 PM	Info					File loaded		C:\VWorks Workspace\Device Files\TruSeq\TruSeq RNA_DNA Sample Prep_v1.0\BravoMiniPHBenchCel_round_magnet_RED_insert.dev	1	
+22-Jan-18 2:17:46 PM	Info					File loaded	7_AMPureXP_TruSeqPCRFree_DNArunset_v1.0	C:\VWorks Workspace\Protocol Files\TruSeqPCRFree\7_AMPureXP_TruSeqPCRFree_DNArunset_v1.0.pro	1	
+22-Jan-18 2:18:03 PM	Warning			emptytips2	1	No plate to unload from the device Agilent Labware MiniHub - 1 location : cassette 4, slot 1		7_AMPureXP_TruSeqPCRFree_DNArunset_v1.0.pro	1	
+22-Jan-18 2:18:03 PM	Warning			emptytips2	1	There aren't any available plates for the unload task to unload		7_AMPureXP_TruSeqPCRFree_DNArunset_v1.0.pro	1	
+22-Jan-18 2:18:03 PM	Warning			Ethanol Reservoir	1	No plate to unload from the device Agilent Labware MiniHub - 1 location : cassette 2, slot 1		7_AMPureXP_TruSeqPCRFree_DNArunset_v1.0.pro	1	
+22-Jan-18 2:18:03 PM	Warning			Ethanol Reservoir	1	There aren't any available plates for the unload task to unload		7_AMPureXP_TruSeqPCRFree_DNArunset_v1.0.pro	1	
+22-Jan-18 2:18:03 PM	Warning			Resuspension Buffer	1	No plate to unload from the device Agilent Labware MiniHub - 1 location : cassette 2, slot 2		7_AMPureXP_TruSeqPCRFree_DNArunset_v1.0.pro	1	
+22-Jan-18 2:18:03 PM	Warning			Resuspension Buffer	1	There aren't any available plates for the unload task to unload		7_AMPureXP_TruSeqPCRFree_DNArunset_v1.0.pro	1	
+22-Jan-18 2:18:03 PM	Warning			SPRI reservoir	1	No plate to unload from the device Agilent Labware MiniHub - 1 location : cassette 3, slot 2		7_AMPureXP_TruSeqPCRFree_DNArunset_v1.0.pro	1	
+22-Jan-18 2:18:03 PM	Warning			SPRI reservoir	1	There aren't any available plates for the unload task to unload		7_AMPureXP_TruSeqPCRFree_DNArunset_v1.0.pro	1	
+22-Jan-18 2:18:03 PM	Info					Compile complete with 0 errors and 8 warnings			1	
+22-Jan-18 2:18:03 PM	Script					var plate_type = "96 ABI PCR half skirt in black carrier";		C:\VWorks Workspace\Forms\SCELSE\Working Program\TruSeqPCRFree_Nano.VWForm	1	
+22-Jan-18 2:18:03 PM	Script					var DNA_source = 0;		C:\VWorks Workspace\Forms\SCELSE\Working Program\TruSeqPCRFree_Nano.VWForm	1	
+22-Jan-18 2:18:04 PM	Script					var protocol_testing = 0;		C:\VWorks Workspace\Forms\SCELSE\Working Program\TruSeqPCRFree_Nano.VWForm	1	
+22-Jan-18 2:18:04 PM	Script					var BasePair = 50;		C:\VWorks Workspace\Forms\SCELSE\Working Program\TruSeqPCRFree_Nano.VWForm	1	
+22-Jan-18 2:18:04 PM	Script					var formProtocolName = "TruSeqPCRFree_Nano_runset.rst";		C:\VWorks Workspace\Forms\SCELSE\Working Program\TruSeqPCRFree_Nano.VWForm	1	
+22-Jan-18 2:18:04 PM	Script					var columns_samples = 1;		C:\VWorks Workspace\Forms\SCELSE\Working Program\TruSeqPCRFree_Nano.VWForm	1	
+22-Jan-18 2:18:05 PM	Event					Scheduler started			1	
+22-Jan-18 2:18:05 PM	Script					Successfully opened tiptracking.js file.			1	
+22-Jan-18 2:18:05 PM	Script					Clearing Plate Inventory			1	
+22-Jan-18 2:18:05 PM	Info					Error library: Protocol started using error library file: ""			1	
+22-Jan-18 2:18:05 PM	Event					Startup protocol starting	7_AMPureXP_TruSeqPCRFree_DNArunset_v1.0	C:\VWorks Workspace\Protocol Files\TruSeqPCRFree\7_AMPureXP_TruSeqPCRFree_DNArunset_v1.0.pro	1	
+22-Jan-18 2:18:05 PM	Event			startup process - 1 1		Process starting, north barcode: No bar code, east barcode: No bar code, south barcode: No bar code, west barcode: No bar code	7_AMPureXP_TruSeqPCRFree_DNArunset_v1.0	C:\VWorks Workspace\Protocol Files\TruSeqPCRFree\7_AMPureXP_TruSeqPCRFree_DNArunset_v1.0.pro	1	
+22-Jan-18 2:18:05 PM	Script					END: Mon Jan 22 2018 16:33:22 GMT+0800 (Malay Peninsula Standard Time)			1	
+22-Jan-18 2:18:05 PM	Script					ctdown			1	
+22-Jan-18 2:18:05 PM	Event			startup process - 1 1		After 1 second...	7_AMPureXP_TruSeqPCRFree_DNArunset_v1.0	C:\VWorks Workspace\Protocol Files\TruSeqPCRFree\7_AMPureXP_TruSeqPCRFree_DNArunset_v1.0.pro	1	
+22-Jan-18 2:18:05 PM	Event			startup process - 1 1	1	JavaScript	7_AMPureXP_TruSeqPCRFree_DNArunset_v1.0	C:\VWorks Workspace\Protocol Files\TruSeqPCRFree\7_AMPureXP_TruSeqPCRFree_DNArunset_v1.0.pro	1	
+22-Jan-18 2:18:05 PM	Event			startup process - 1 1		After 1 second...	7_AMPureXP_TruSeqPCRFree_DNArunset_v1.0	C:\VWorks Workspace\Protocol Files\TruSeqPCRFree\7_AMPureXP_TruSeqPCRFree_DNArunset_v1.0.pro	1	
+22-Jan-18 2:18:05 PM	Event			startup process - 1 1	1	Completed: JavaScript	7_AMPureXP_TruSeqPCRFree_DNArunset_v1.0	C:\VWorks Workspace\Protocol Files\TruSeqPCRFree\7_AMPureXP_TruSeqPCRFree_DNArunset_v1.0.pro	1	
+22-Jan-18 2:18:05 PM	Script					The state of runset is false			1	
+22-Jan-18 2:18:05 PM	Event			startup process - 1 1		After 1 second...	7_AMPureXP_TruSeqPCRFree_DNArunset_v1.0	C:\VWorks Workspace\Protocol Files\TruSeqPCRFree\7_AMPureXP_TruSeqPCRFree_DNArunset_v1.0.pro	1	
+22-Jan-18 2:18:06 PM	Event			startup process - 1 1	2	Configure static labware on Bravo - 1	7_AMPureXP_TruSeqPCRFree_DNArunset_v1.0	C:\VWorks Workspace\Protocol Files\TruSeqPCRFree\7_AMPureXP_TruSeqPCRFree_DNArunset_v1.0.pro	1	
+22-Jan-18 2:18:06 PM	Info			startup process - 1	2	Changed "task Configure Labware, changed variable " to "96 Deep Well PP Sqr Well V Btm"	7_AMPureXP_TruSeqPCRFree_DNArunset_v1.0	C:\VWorks Workspace\Protocol Files\TruSeqPCRFree\7_AMPureXP_TruSeqPCRFree_DNArunset_v1.0.pro	1	
+22-Jan-18 2:18:06 PM	Info			startup process - 1	2	Changed "task Configure Labware, changed variable " to "96 Nunc Deep Well 1 mL"	7_AMPureXP_TruSeqPCRFree_DNArunset_v1.0	C:\VWorks Workspace\Protocol Files\TruSeqPCRFree\7_AMPureXP_TruSeqPCRFree_DNArunset_v1.0.pro	1	
+22-Jan-18 2:18:06 PM	Event			startup process - 1 1		After 1 second...	7_AMPureXP_TruSeqPCRFree_DNArunset_v1.0	C:\VWorks Workspace\Protocol Files\TruSeqPCRFree\7_AMPureXP_TruSeqPCRFree_DNArunset_v1.0.pro	1	
+22-Jan-18 2:18:06 PM	Event			startup process - 1 1	2	Completed: Configure static labware on Bravo - 1	7_AMPureXP_TruSeqPCRFree_DNArunset_v1.0	C:\VWorks Workspace\Protocol Files\TruSeqPCRFree\7_AMPureXP_TruSeqPCRFree_DNArunset_v1.0.pro	1	
+22-Jan-18 2:18:06 PM	Script					User has entered 1 columns.			1	
+22-Jan-18 2:18:06 PM	Script					The number of columns that will be processed is 1.			1	
+22-Jan-18 2:18:06 PM	Script					The head mode configuration is 3,3,8,1			1	
+22-Jan-18 2:18:06 PM	Event			startup process - 1 1		After 1 second...	7_AMPureXP_TruSeqPCRFree_DNArunset_v1.0	C:\VWorks Workspace\Protocol Files\TruSeqPCRFree\7_AMPureXP_TruSeqPCRFree_DNArunset_v1.0.pro	1	
+22-Jan-18 2:18:06 PM	Event			startup process - 1 1	5	JavaScript	7_AMPureXP_TruSeqPCRFree_DNArunset_v1.0	C:\VWorks Workspace\Protocol Files\TruSeqPCRFree\7_AMPureXP_TruSeqPCRFree_DNArunset_v1.0.pro	1	
+22-Jan-18 2:18:06 PM	Event			startup process - 1 1		After 1 second...	7_AMPureXP_TruSeqPCRFree_DNArunset_v1.0	C:\VWorks Workspace\Protocol Files\TruSeqPCRFree\7_AMPureXP_TruSeqPCRFree_DNArunset_v1.0.pro	1	
+22-Jan-18 2:18:06 PM	Event			startup process - 1 1	5	Completed: JavaScript	7_AMPureXP_TruSeqPCRFree_DNArunset_v1.0	C:\VWorks Workspace\Protocol Files\TruSeqPCRFree\7_AMPureXP_TruSeqPCRFree_DNArunset_v1.0.pro	1	
+22-Jan-18 2:18:06 PM	Info					Pause protocol			1	
+22-Jan-18 2:18:06 PM	Event					Scheduler stopped			1	
+22-Jan-18 2:23:44 PM	Script					var plate_type = "96 ABI PCR half skirt in black carrier";		C:\VWorks Workspace\Forms\SCELSE\Working Program\TruSeqPCRFree_Nano.VWForm	1	
+22-Jan-18 2:23:45 PM	Script					var DNA_source = 0;		C:\VWorks Workspace\Forms\SCELSE\Working Program\TruSeqPCRFree_Nano.VWForm	1	
+22-Jan-18 2:23:45 PM	Script					var protocol_testing = 0;		C:\VWorks Workspace\Forms\SCELSE\Working Program\TruSeqPCRFree_Nano.VWForm	1	
+22-Jan-18 2:23:45 PM	Script					var BasePair = 50;		C:\VWorks Workspace\Forms\SCELSE\Working Program\TruSeqPCRFree_Nano.VWForm	1	
+22-Jan-18 2:23:45 PM	Script					var formProtocolName = "TruSeqPCRFree_Nano_runset.rst";		C:\VWorks Workspace\Forms\SCELSE\Working Program\TruSeqPCRFree_Nano.VWForm	1	
+22-Jan-18 2:23:45 PM	Script					var columns_samples = 1;		C:\VWorks Workspace\Forms\SCELSE\Working Program\TruSeqPCRFree_Nano.VWForm	1	
+22-Jan-18 2:23:45 PM	Event					Scheduler started			1	
+22-Jan-18 2:23:45 PM	Event			startup process - 1 1		After 1 second...	7_AMPureXP_TruSeqPCRFree_DNArunset_v1.0	C:\VWorks Workspace\Protocol Files\TruSeqPCRFree\7_AMPureXP_TruSeqPCRFree_DNArunset_v1.0.pro	1	
+22-Jan-18 2:23:45 PM	Event			startup process - 1 1	8	JavaScript	7_AMPureXP_TruSeqPCRFree_DNArunset_v1.0	C:\VWorks Workspace\Protocol Files\TruSeqPCRFree\7_AMPureXP_TruSeqPCRFree_DNArunset_v1.0.pro	1	
+22-Jan-18 2:23:45 PM	Event			startup process - 1 1		After 1 second...	7_AMPureXP_TruSeqPCRFree_DNArunset_v1.0	C:\VWorks Workspace\Protocol Files\TruSeqPCRFree\7_AMPureXP_TruSeqPCRFree_DNArunset_v1.0.pro	1	
+22-Jan-18 2:23:45 PM	Event			startup process - 1 1	8	Completed: JavaScript	7_AMPureXP_TruSeqPCRFree_DNArunset_v1.0	C:\VWorks Workspace\Protocol Files\TruSeqPCRFree\7_AMPureXP_TruSeqPCRFree_DNArunset_v1.0.pro	1	
+22-Jan-18 2:23:45 PM	Event			startup process - 1 1		After 1 second...	7_AMPureXP_TruSeqPCRFree_DNArunset_v1.0	C:\VWorks Workspace\Protocol Files\TruSeqPCRFree\7_AMPureXP_TruSeqPCRFree_DNArunset_v1.0.pro	1	
+22-Jan-18 2:23:45 PM	Event			startup process - 1 1	10	JavaScript	7_AMPureXP_TruSeqPCRFree_DNArunset_v1.0	C:\VWorks Workspace\Protocol Files\TruSeqPCRFree\7_AMPureXP_TruSeqPCRFree_DNArunset_v1.0.pro	1	
+22-Jan-18 2:23:45 PM	Event			startup process - 1 1		After 1 second...	7_AMPureXP_TruSeqPCRFree_DNArunset_v1.0	C:\VWorks Workspace\Protocol Files\TruSeqPCRFree\7_AMPureXP_TruSeqPCRFree_DNArunset_v1.0.pro	1	
+22-Jan-18 2:23:45 PM	Event			startup process - 1 1	10	Completed: JavaScript	7_AMPureXP_TruSeqPCRFree_DNArunset_v1.0	C:\VWorks Workspace\Protocol Files\TruSeqPCRFree\7_AMPureXP_TruSeqPCRFree_DNArunset_v1.0.pro	1	
+22-Jan-18 2:23:45 PM	Script					script:5:ReferenceError: samples is not defined			1	
+22-Jan-18 2:23:45 PM	Event			startup process - 1 1		After 1 second...	7_AMPureXP_TruSeqPCRFree_DNArunset_v1.0	C:\VWorks Workspace\Protocol Files\TruSeqPCRFree\7_AMPureXP_TruSeqPCRFree_DNArunset_v1.0.pro	1	
+22-Jan-18 2:23:45 PM	Event			startup process - 1 1	11	JavaScript	7_AMPureXP_TruSeqPCRFree_DNArunset_v1.0	C:\VWorks Workspace\Protocol Files\TruSeqPCRFree\7_AMPureXP_TruSeqPCRFree_DNArunset_v1.0.pro	1	
+22-Jan-18 2:23:45 PM	Event			startup process - 1 1		After 1 second...	7_AMPureXP_TruSeqPCRFree_DNArunset_v1.0	C:\VWorks Workspace\Protocol Files\TruSeqPCRFree\7_AMPureXP_TruSeqPCRFree_DNArunset_v1.0.pro	1	
+22-Jan-18 2:23:45 PM	Event			startup process - 1 1	11	Completed: JavaScript	7_AMPureXP_TruSeqPCRFree_DNArunset_v1.0	C:\VWorks Workspace\Protocol Files\TruSeqPCRFree\7_AMPureXP_TruSeqPCRFree_DNArunset_v1.0.pro	1	
+22-Jan-18 2:23:46 PM	Script					The volumes used in this protocol are from case 1			1	
+22-Jan-18 2:23:46 PM	Script					The volume of DNA and beads is 130ul			1	
+22-Jan-18 2:23:46 PM	Script					The elution volume is 62.5ul			1	
+22-Jan-18 2:23:46 PM	Script					The volume of DNA and beads is 130ul			1	
+22-Jan-18 2:23:46 PM	Event			startup process - 1 1		After 1 second...	7_AMPureXP_TruSeqPCRFree_DNArunset_v1.0	C:\VWorks Workspace\Protocol Files\TruSeqPCRFree\7_AMPureXP_TruSeqPCRFree_DNArunset_v1.0.pro	1	
+22-Jan-18 2:23:46 PM	Event			startup process - 1 1	12	JavaScript	7_AMPureXP_TruSeqPCRFree_DNArunset_v1.0	C:\VWorks Workspace\Protocol Files\TruSeqPCRFree\7_AMPureXP_TruSeqPCRFree_DNArunset_v1.0.pro	1	
+22-Jan-18 2:23:46 PM	Event			startup process - 1 1		After 1 second...	7_AMPureXP_TruSeqPCRFree_DNArunset_v1.0	C:\VWorks Workspace\Protocol Files\TruSeqPCRFree\7_AMPureXP_TruSeqPCRFree_DNArunset_v1.0.pro	1	
+22-Jan-18 2:23:46 PM	Event			startup process - 1 1	12	Completed: JavaScript	7_AMPureXP_TruSeqPCRFree_DNArunset_v1.0	C:\VWorks Workspace\Protocol Files\TruSeqPCRFree\7_AMPureXP_TruSeqPCRFree_DNArunset_v1.0.pro	1	
+22-Jan-18 2:23:46 PM	Event			startup process - 1 1		After 1 second...	7_AMPureXP_TruSeqPCRFree_DNArunset_v1.0	C:\VWorks Workspace\Protocol Files\TruSeqPCRFree\7_AMPureXP_TruSeqPCRFree_DNArunset_v1.0.pro	1	
+22-Jan-18 2:23:46 PM	Event	Bravo - 1	1	startup process - 1 1	13	Set temperature - Position at Location 4	7_AMPureXP_TruSeqPCRFree_DNArunset_v1.0	C:\VWorks Workspace\Protocol Files\TruSeqPCRFree\7_AMPureXP_TruSeqPCRFree_DNArunset_v1.0.pro	1	
+22-Jan-18 2:23:46 PM	Event			startup process - 1 1		After 3 seconds...	7_AMPureXP_TruSeqPCRFree_DNArunset_v1.0	C:\VWorks Workspace\Protocol Files\TruSeqPCRFree\7_AMPureXP_TruSeqPCRFree_DNArunset_v1.0.pro	1	
+22-Jan-18 2:23:46 PM	Event	Bravo - 1	1	startup process - 1 1	13	Completed: Set temperature - Position at Location 4	7_AMPureXP_TruSeqPCRFree_DNArunset_v1.0	C:\VWorks Workspace\Protocol Files\TruSeqPCRFree\7_AMPureXP_TruSeqPCRFree_DNArunset_v1.0.pro	1	
+22-Jan-18 2:23:46 PM	Event			startup process - 1 1		After 3 seconds...	7_AMPureXP_TruSeqPCRFree_DNArunset_v1.0	C:\VWorks Workspace\Protocol Files\TruSeqPCRFree\7_AMPureXP_TruSeqPCRFree_DNArunset_v1.0.pro	1	
+22-Jan-18 2:23:46 PM	Event	Bravo - 1	1	startup process - 1 1	14	Set temperature - Position at Location 6	7_AMPureXP_TruSeqPCRFree_DNArunset_v1.0	C:\VWorks Workspace\Protocol Files\TruSeqPCRFree\7_AMPureXP_TruSeqPCRFree_DNArunset_v1.0.pro	1	
+22-Jan-18 2:23:46 PM	Event			startup process - 1 1		After 5 seconds...	7_AMPureXP_TruSeqPCRFree_DNArunset_v1.0	C:\VWorks Workspace\Protocol Files\TruSeqPCRFree\7_AMPureXP_TruSeqPCRFree_DNArunset_v1.0.pro	1	
+22-Jan-18 2:23:46 PM	Event	Bravo - 1	1	startup process - 1 1	14	Completed: Set temperature - Position at Location 6	7_AMPureXP_TruSeqPCRFree_DNArunset_v1.0	C:\VWorks Workspace\Protocol Files\TruSeqPCRFree\7_AMPureXP_TruSeqPCRFree_DNArunset_v1.0.pro	1	
+22-Jan-18 2:23:46 PM	Event			startup process - 1 1		Process finishing	7_AMPureXP_TruSeqPCRFree_DNArunset_v1.0	C:\VWorks Workspace\Protocol Files\TruSeqPCRFree\7_AMPureXP_TruSeqPCRFree_DNArunset_v1.0.pro	1	
+22-Jan-18 2:23:46 PM	Event	BenchCel - 1	Stacker 1	TipControl		Load stacker rack at location "Stacker 1" of device "BenchCel - 1" with plate "TipControl" of labware type "96 V11 LT250 Tip Box 19477.002"	7_AMPureXP_TruSeqPCRFree_DNArunset_v1.0	C:\VWorks Workspace\Protocol Files\TruSeqPCRFree\7_AMPureXP_TruSeqPCRFree_DNArunset_v1.0.pro	1	
+22-Jan-18 2:23:46 PM	Event	BenchCel - 1	Stacker 2	TipControl		Load stacker rack at location "Stacker 2" of device "BenchCel - 1" with plate "TipControl" of labware type "96 V11 LT250 Tip Box 19477.002"	7_AMPureXP_TruSeqPCRFree_DNArunset_v1.0	C:\VWorks Workspace\Protocol Files\TruSeqPCRFree\7_AMPureXP_TruSeqPCRFree_DNArunset_v1.0.pro	1	
+22-Jan-18 2:23:46 PM	Event	BenchCel - 1	Stacker 3	Upstack 3		Load stacker rack at location "Stacker 3" of device "BenchCel - 1" with plate "Upstack 3" of labware type "96 V11 LT250 Tip Box 19477.002"	7_AMPureXP_TruSeqPCRFree_DNArunset_v1.0	C:\VWorks Workspace\Protocol Files\TruSeqPCRFree\7_AMPureXP_TruSeqPCRFree_DNArunset_v1.0.pro	1	
+22-Jan-18 2:23:46 PM	Event	BenchCel - 1	Stacker 4	Upstack 4		Load stacker rack at location "Stacker 4" of device "BenchCel - 1" with plate "Upstack 4" of labware type "96 V11 LT250 Tip Box 19477.002"	7_AMPureXP_TruSeqPCRFree_DNArunset_v1.0	C:\VWorks Workspace\Protocol Files\TruSeqPCRFree\7_AMPureXP_TruSeqPCRFree_DNArunset_v1.0.pro	1	
+22-Jan-18 2:23:47 PM	Info			AMPure XP Cleanup 1		1 plate required	7_AMPureXP_TruSeqPCRFree_DNArunset_v1.0	C:\VWorks Workspace\Protocol Files\TruSeqPCRFree\7_AMPureXP_TruSeqPCRFree_DNArunset_v1.0.pro	1	
+22-Jan-18 2:23:47 PM	Info			DNA plate		Plates are spawned on demand	7_AMPureXP_TruSeqPCRFree_DNArunset_v1.0	C:\VWorks Workspace\Protocol Files\TruSeqPCRFree\7_AMPureXP_TruSeqPCRFree_DNArunset_v1.0.pro	1	
+22-Jan-18 2:23:47 PM	Info			SPRI reservoir		Plates are spawned on demand	7_AMPureXP_TruSeqPCRFree_DNArunset_v1.0	C:\VWorks Workspace\Protocol Files\TruSeqPCRFree\7_AMPureXP_TruSeqPCRFree_DNArunset_v1.0.pro	1	
+22-Jan-18 2:23:47 PM	Info			Ethanol Reservoir		Plates are spawned on demand	7_AMPureXP_TruSeqPCRFree_DNArunset_v1.0	C:\VWorks Workspace\Protocol Files\TruSeqPCRFree\7_AMPureXP_TruSeqPCRFree_DNArunset_v1.0.pro	1	
+22-Jan-18 2:23:47 PM	Info			Resuspension Buffer		Plates are spawned on demand	7_AMPureXP_TruSeqPCRFree_DNArunset_v1.0	C:\VWorks Workspace\Protocol Files\TruSeqPCRFree\7_AMPureXP_TruSeqPCRFree_DNArunset_v1.0.pro	1	
+22-Jan-18 2:23:47 PM	Info			TipControl		Plates are spawned on demand	7_AMPureXP_TruSeqPCRFree_DNArunset_v1.0	C:\VWorks Workspace\Protocol Files\TruSeqPCRFree\7_AMPureXP_TruSeqPCRFree_DNArunset_v1.0.pro	1	
+22-Jan-18 2:23:47 PM	Info			UsedTipUpstack		Plates are spawned on demand	7_AMPureXP_TruSeqPCRFree_DNArunset_v1.0	C:\VWorks Workspace\Protocol Files\TruSeqPCRFree\7_AMPureXP_TruSeqPCRFree_DNArunset_v1.0.pro	1	
+22-Jan-18 2:23:47 PM	Info			tips2		Plates are spawned on demand	7_AMPureXP_TruSeqPCRFree_DNArunset_v1.0	C:\VWorks Workspace\Protocol Files\TruSeqPCRFree\7_AMPureXP_TruSeqPCRFree_DNArunset_v1.0.pro	1	
+22-Jan-18 2:23:47 PM	Info			emptytips2		Plates are spawned on demand	7_AMPureXP_TruSeqPCRFree_DNArunset_v1.0	C:\VWorks Workspace\Protocol Files\TruSeqPCRFree\7_AMPureXP_TruSeqPCRFree_DNArunset_v1.0.pro	1	
+22-Jan-18 2:23:47 PM	Info			tips3		Plates are spawned on demand	7_AMPureXP_TruSeqPCRFree_DNArunset_v1.0	C:\VWorks Workspace\Protocol Files\TruSeqPCRFree\7_AMPureXP_TruSeqPCRFree_DNArunset_v1.0.pro	1	
+22-Jan-18 2:23:47 PM	Info			emptytips3		Plates are spawned on demand	7_AMPureXP_TruSeqPCRFree_DNArunset_v1.0	C:\VWorks Workspace\Protocol Files\TruSeqPCRFree\7_AMPureXP_TruSeqPCRFree_DNArunset_v1.0.pro	1	
+22-Jan-18 2:23:47 PM	Info			tips4		Plates are spawned on demand	7_AMPureXP_TruSeqPCRFree_DNArunset_v1.0	C:\VWorks Workspace\Protocol Files\TruSeqPCRFree\7_AMPureXP_TruSeqPCRFree_DNArunset_v1.0.pro	1	
+22-Jan-18 2:23:47 PM	Info			emptytips4		Plates are spawned on demand	7_AMPureXP_TruSeqPCRFree_DNArunset_v1.0	C:\VWorks Workspace\Protocol Files\TruSeqPCRFree\7_AMPureXP_TruSeqPCRFree_DNArunset_v1.0.pro	1	
+22-Jan-18 2:23:47 PM	Info			tips5		Plates are spawned on demand	7_AMPureXP_TruSeqPCRFree_DNArunset_v1.0	C:\VWorks Workspace\Protocol Files\TruSeqPCRFree\7_AMPureXP_TruSeqPCRFree_DNArunset_v1.0.pro	1	
+22-Jan-18 2:23:47 PM	Info			emtpytips5		Plates are spawned on demand	7_AMPureXP_TruSeqPCRFree_DNArunset_v1.0	C:\VWorks Workspace\Protocol Files\TruSeqPCRFree\7_AMPureXP_TruSeqPCRFree_DNArunset_v1.0.pro	1	
+22-Jan-18 2:23:47 PM	Info			tips6		Plates are spawned on demand	7_AMPureXP_TruSeqPCRFree_DNArunset_v1.0	C:\VWorks Workspace\Protocol Files\TruSeqPCRFree\7_AMPureXP_TruSeqPCRFree_DNArunset_v1.0.pro	1	
+22-Jan-18 2:23:47 PM	Info			emptytips6		Plates are spawned on demand	7_AMPureXP_TruSeqPCRFree_DNArunset_v1.0	C:\VWorks Workspace\Protocol Files\TruSeqPCRFree\7_AMPureXP_TruSeqPCRFree_DNArunset_v1.0.pro	1	
+22-Jan-18 2:23:47 PM	Info			tips7		Plates are spawned on demand	7_AMPureXP_TruSeqPCRFree_DNArunset_v1.0	C:\VWorks Workspace\Protocol Files\TruSeqPCRFree\7_AMPureXP_TruSeqPCRFree_DNArunset_v1.0.pro	1	
+22-Jan-18 2:23:47 PM	Info			emptytips7		Plates are spawned on demand	7_AMPureXP_TruSeqPCRFree_DNArunset_v1.0	C:\VWorks Workspace\Protocol Files\TruSeqPCRFree\7_AMPureXP_TruSeqPCRFree_DNArunset_v1.0.pro	1	
+22-Jan-18 2:23:47 PM	Info			tips8		Plates are spawned on demand	7_AMPureXP_TruSeqPCRFree_DNArunset_v1.0	C:\VWorks Workspace\Protocol Files\TruSeqPCRFree\7_AMPureXP_TruSeqPCRFree_DNArunset_v1.0.pro	1	
+22-Jan-18 2:23:47 PM	Info			emptytips8		Plates are spawned on demand	7_AMPureXP_TruSeqPCRFree_DNArunset_v1.0	C:\VWorks Workspace\Protocol Files\TruSeqPCRFree\7_AMPureXP_TruSeqPCRFree_DNArunset_v1.0.pro	1	
+22-Jan-18 2:23:47 PM	Info			tips9		Plates are spawned on demand	7_AMPureXP_TruSeqPCRFree_DNArunset_v1.0	C:\VWorks Workspace\Protocol Files\TruSeqPCRFree\7_AMPureXP_TruSeqPCRFree_DNArunset_v1.0.pro	1	
+22-Jan-18 2:23:47 PM	Info			emptytips9		Plates are spawned on demand	7_AMPureXP_TruSeqPCRFree_DNArunset_v1.0	C:\VWorks Workspace\Protocol Files\TruSeqPCRFree\7_AMPureXP_TruSeqPCRFree_DNArunset_v1.0.pro	1	
+22-Jan-18 2:23:47 PM	Info			EmptyNow		Plates are spawned on demand	7_AMPureXP_TruSeqPCRFree_DNArunset_v1.0	C:\VWorks Workspace\Protocol Files\TruSeqPCRFree\7_AMPureXP_TruSeqPCRFree_DNArunset_v1.0.pro	1	
+22-Jan-18 2:23:47 PM	Info			Upstack 3		Plates are spawned on demand	7_AMPureXP_TruSeqPCRFree_DNArunset_v1.0	C:\VWorks Workspace\Protocol Files\TruSeqPCRFree\7_AMPureXP_TruSeqPCRFree_DNArunset_v1.0.pro	1	
+22-Jan-18 2:23:47 PM	Info			Upstack 4		Plates are spawned on demand	7_AMPureXP_TruSeqPCRFree_DNArunset_v1.0	C:\VWorks Workspace\Protocol Files\TruSeqPCRFree\7_AMPureXP_TruSeqPCRFree_DNArunset_v1.0.pro	1	
+22-Jan-18 2:23:47 PM	Event					Main protocol starting	7_AMPureXP_TruSeqPCRFree_DNArunset_v1.0	C:\VWorks Workspace\Protocol Files\TruSeqPCRFree\7_AMPureXP_TruSeqPCRFree_DNArunset_v1.0.pro	1	
+22-Jan-18 2:23:47 PM	Event					Startup protocol complete	7_AMPureXP_TruSeqPCRFree_DNArunset_v1.0	C:\VWorks Workspace\Protocol Files\TruSeqPCRFree\7_AMPureXP_TruSeqPCRFree_DNArunset_v1.0.pro	1	
+22-Jan-18 2:23:48 PM	Event			AMPure XP Cleanup 1 1		Process starting, north barcode: No bar code, east barcode: No bar code, south barcode: No bar code, west barcode: No bar code	7_AMPureXP_TruSeqPCRFree_DNArunset_v1.0	C:\VWorks Workspace\Protocol Files\TruSeqPCRFree\7_AMPureXP_TruSeqPCRFree_DNArunset_v1.0.pro	1	
+22-Jan-18 2:23:48 PM	Event			AMPure XP Cleanup 1 1		After 5 seconds...	7_AMPureXP_TruSeqPCRFree_DNArunset_v1.0	C:\VWorks Workspace\Protocol Files\TruSeqPCRFree\7_AMPureXP_TruSeqPCRFree_DNArunset_v1.0.pro	1	
+22-Jan-18 2:23:48 PM	Event	Bravo - 1	5	AMPure XP Cleanup 1 1	1	Place plate at Bravo - 1 5	7_AMPureXP_TruSeqPCRFree_DNArunset_v1.0	C:\VWorks Workspace\Protocol Files\TruSeqPCRFree\7_AMPureXP_TruSeqPCRFree_DNArunset_v1.0.pro	1	
+22-Jan-18 2:23:48 PM	Event			AMPure XP Cleanup 1 1		After 5 seconds...	7_AMPureXP_TruSeqPCRFree_DNArunset_v1.0	C:\VWorks Workspace\Protocol Files\TruSeqPCRFree\7_AMPureXP_TruSeqPCRFree_DNArunset_v1.0.pro	1	
+22-Jan-18 2:23:48 PM	Event	Bravo - 1	5	AMPure XP Cleanup 1 1	1	Completed: Place plate at Bravo - 1 5	7_AMPureXP_TruSeqPCRFree_DNArunset_v1.0	C:\VWorks Workspace\Protocol Files\TruSeqPCRFree\7_AMPureXP_TruSeqPCRFree_DNArunset_v1.0.pro	1	
+22-Jan-18 2:23:48 PM	Event			AMPure XP Cleanup 1 1		After 5 seconds...	7_AMPureXP_TruSeqPCRFree_DNArunset_v1.0	C:\VWorks Workspace\Protocol Files\TruSeqPCRFree\7_AMPureXP_TruSeqPCRFree_DNArunset_v1.0.pro	1	
+22-Jan-18 2:23:48 PM	Event			AMPure XP Cleanup 1 1	2	Spawn DNA plate	7_AMPureXP_TruSeqPCRFree_DNArunset_v1.0	C:\VWorks Workspace\Protocol Files\TruSeqPCRFree\7_AMPureXP_TruSeqPCRFree_DNArunset_v1.0.pro	1	
+22-Jan-18 2:23:48 PM	Event			AMPure XP Cleanup 1 1		After 5 seconds...	7_AMPureXP_TruSeqPCRFree_DNArunset_v1.0	C:\VWorks Workspace\Protocol Files\TruSeqPCRFree\7_AMPureXP_TruSeqPCRFree_DNArunset_v1.0.pro	1	
+22-Jan-18 2:23:48 PM	Event			AMPure XP Cleanup 1 1	2	Completed: Spawn DNA plate	7_AMPureXP_TruSeqPCRFree_DNArunset_v1.0	C:\VWorks Workspace\Protocol Files\TruSeqPCRFree\7_AMPureXP_TruSeqPCRFree_DNArunset_v1.0.pro	1	
+22-Jan-18 2:23:48 PM	Event			DNA plate 1		Process starting, north barcode: No bar code, east barcode: No bar code, south barcode: No bar code, west barcode: No bar code	7_AMPureXP_TruSeqPCRFree_DNArunset_v1.0	C:\VWorks Workspace\Protocol Files\TruSeqPCRFree\7_AMPureXP_TruSeqPCRFree_DNArunset_v1.0.pro	1	
+22-Jan-18 2:23:48 PM	Event			DNA plate 1		After 5 seconds...	7_AMPureXP_TruSeqPCRFree_DNArunset_v1.0	C:\VWorks Workspace\Protocol Files\TruSeqPCRFree\7_AMPureXP_TruSeqPCRFree_DNArunset_v1.0.pro	1	
+22-Jan-18 2:23:48 PM	Event	Bravo - 1	7	DNA plate 1	1	Place plate at Bravo - 1 7	7_AMPureXP_TruSeqPCRFree_DNArunset_v1.0	C:\VWorks Workspace\Protocol Files\TruSeqPCRFree\7_AMPureXP_TruSeqPCRFree_DNArunset_v1.0.pro	1	
+22-Jan-18 2:23:48 PM	Event			DNA plate 1		After 5 seconds...	7_AMPureXP_TruSeqPCRFree_DNArunset_v1.0	C:\VWorks Workspace\Protocol Files\TruSeqPCRFree\7_AMPureXP_TruSeqPCRFree_DNArunset_v1.0.pro	1	
+22-Jan-18 2:23:48 PM	Event	Bravo - 1	7	DNA plate 1	1	Completed: Place plate at Bravo - 1 7	7_AMPureXP_TruSeqPCRFree_DNArunset_v1.0	C:\VWorks Workspace\Protocol Files\TruSeqPCRFree\7_AMPureXP_TruSeqPCRFree_DNArunset_v1.0.pro	1	
+22-Jan-18 2:23:48 PM	Script					!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!undefined			1	
+22-Jan-18 2:23:48 PM	Event			AMPure XP Cleanup 1 1		After 5 seconds...	7_AMPureXP_TruSeqPCRFree_DNArunset_v1.0	C:\VWorks Workspace\Protocol Files\TruSeqPCRFree\7_AMPureXP_TruSeqPCRFree_DNArunset_v1.0.pro	1	
+22-Jan-18 2:23:48 PM	Event			AMPure XP Cleanup 1 1	3	Spawn TipControl	7_AMPureXP_TruSeqPCRFree_DNArunset_v1.0	C:\VWorks Workspace\Protocol Files\TruSeqPCRFree\7_AMPureXP_TruSeqPCRFree_DNArunset_v1.0.pro	1	
+22-Jan-18 2:23:48 PM	Event			AMPure XP Cleanup 1 1		After 5 seconds...	7_AMPureXP_TruSeqPCRFree_DNArunset_v1.0	C:\VWorks Workspace\Protocol Files\TruSeqPCRFree\7_AMPureXP_TruSeqPCRFree_DNArunset_v1.0.pro	1	
+22-Jan-18 2:23:48 PM	Event			AMPure XP Cleanup 1 1	3	Completed: Spawn TipControl	7_AMPureXP_TruSeqPCRFree_DNArunset_v1.0	C:\VWorks Workspace\Protocol Files\TruSeqPCRFree\7_AMPureXP_TruSeqPCRFree_DNArunset_v1.0.pro	1	
+22-Jan-18 2:23:49 PM	Event			TipControl 1		Process starting, north barcode: No bar code, east barcode: No bar code, south barcode: No bar code, west barcode: No bar code	7_AMPureXP_TruSeqPCRFree_DNArunset_v1.0	C:\VWorks Workspace\Protocol Files\TruSeqPCRFree\7_AMPureXP_TruSeqPCRFree_DNArunset_v1.0.pro	1	
+22-Jan-18 2:23:49 PM	Event			TipControl 1		After 5 seconds...	7_AMPureXP_TruSeqPCRFree_DNArunset_v1.0	C:\VWorks Workspace\Protocol Files\TruSeqPCRFree\7_AMPureXP_TruSeqPCRFree_DNArunset_v1.0.pro	1	
+22-Jan-18 2:23:49 PM	Event	BenchCel - 1	Stacker 1	TipControl 1	1	Downstack from BenchCel - 1.Stacker 1	7_AMPureXP_TruSeqPCRFree_DNArunset_v1.0	C:\VWorks Workspace\Protocol Files\TruSeqPCRFree\7_AMPureXP_TruSeqPCRFree_DNArunset_v1.0.pro	1	
+22-Jan-18 2:23:49 PM	Event			TipControl 1		After 5 seconds...	7_AMPureXP_TruSeqPCRFree_DNArunset_v1.0	C:\VWorks Workspace\Protocol Files\TruSeqPCRFree\7_AMPureXP_TruSeqPCRFree_DNArunset_v1.0.pro	1	
+22-Jan-18 2:23:49 PM	Event	BenchCel - 1	Stacker 1	TipControl 1	1	Completed: Downstack from BenchCel - 1.Stacker 1	7_AMPureXP_TruSeqPCRFree_DNArunset_v1.0	C:\VWorks Workspace\Protocol Files\TruSeqPCRFree\7_AMPureXP_TruSeqPCRFree_DNArunset_v1.0.pro	1	
+22-Jan-18 2:23:49 PM	Event			AMPure XP Cleanup 1 1		After 5 seconds...	7_AMPureXP_TruSeqPCRFree_DNArunset_v1.0	C:\VWorks Workspace\Protocol Files\TruSeqPCRFree\7_AMPureXP_TruSeqPCRFree_DNArunset_v1.0.pro	1	
+22-Jan-18 2:23:49 PM	Event			AMPure XP Cleanup 1 1	4	Spawn emptytips2	7_AMPureXP_TruSeqPCRFree_DNArunset_v1.0	C:\VWorks Workspace\Protocol Files\TruSeqPCRFree\7_AMPureXP_TruSeqPCRFree_DNArunset_v1.0.pro	1	
+22-Jan-18 2:23:49 PM	Event			AMPure XP Cleanup 1 1		After 5 seconds...	7_AMPureXP_TruSeqPCRFree_DNArunset_v1.0	C:\VWorks Workspace\Protocol Files\TruSeqPCRFree\7_AMPureXP_TruSeqPCRFree_DNArunset_v1.0.pro	1	
+22-Jan-18 2:23:49 PM	Event			AMPure XP Cleanup 1 1	4	Completed: Spawn emptytips2	7_AMPureXP_TruSeqPCRFree_DNArunset_v1.0	C:\VWorks Workspace\Protocol Files\TruSeqPCRFree\7_AMPureXP_TruSeqPCRFree_DNArunset_v1.0.pro	1	
+22-Jan-18 2:23:49 PM	Event			emptytips2 1		Process starting, north barcode: No bar code, east barcode: No bar code, south barcode: No bar code, west barcode: No bar code	7_AMPureXP_TruSeqPCRFree_DNArunset_v1.0	C:\VWorks Workspace\Protocol Files\TruSeqPCRFree\7_AMPureXP_TruSeqPCRFree_DNArunset_v1.0.pro	1	
+22-Jan-18 2:23:49 PM	Event			emptytips2 1		After 5 seconds...	7_AMPureXP_TruSeqPCRFree_DNArunset_v1.0	C:\VWorks Workspace\Protocol Files\TruSeqPCRFree\7_AMPureXP_TruSeqPCRFree_DNArunset_v1.0.pro	1	
+22-Jan-18 2:23:49 PM	Event	Agilent Labware MiniHub - 1	Cassette 4, slot 1	emptytips2 1	1	Unload from plate storage device	7_AMPureXP_TruSeqPCRFree_DNArunset_v1.0	C:\VWorks Workspace\Protocol Files\TruSeqPCRFree\7_AMPureXP_TruSeqPCRFree_DNArunset_v1.0.pro	1	
+22-Jan-18 2:23:49 PM	Event	Agilent Labware MiniHub - 1		emptytips2 1		Agilent Labware MiniHub - 1 Unload the plate from Location : cassette 4, slot 1 to Cassette 4, Slot 1	7_AMPureXP_TruSeqPCRFree_DNArunset_v1.0	C:\VWorks Workspace\Protocol Files\TruSeqPCRFree\7_AMPureXP_TruSeqPCRFree_DNArunset_v1.0.pro	1	
+22-Jan-18 2:23:49 PM	Event			emptytips2 1		After 5 seconds...	7_AMPureXP_TruSeqPCRFree_DNArunset_v1.0	C:\VWorks Workspace\Protocol Files\TruSeqPCRFree\7_AMPureXP_TruSeqPCRFree_DNArunset_v1.0.pro	1	
+22-Jan-18 2:23:49 PM	Event	Agilent Labware MiniHub - 1	Cassette 4, slot 1	emptytips2 1	1	Completed: Unload from plate storage device	7_AMPureXP_TruSeqPCRFree_DNArunset_v1.0	C:\VWorks Workspace\Protocol Files\TruSeqPCRFree\7_AMPureXP_TruSeqPCRFree_DNArunset_v1.0.pro	1	
+22-Jan-18 2:23:49 PM	Event			TipControl 1		After 5 seconds...	7_AMPureXP_TruSeqPCRFree_DNArunset_v1.0	C:\VWorks Workspace\Protocol Files\TruSeqPCRFree\7_AMPureXP_TruSeqPCRFree_DNArunset_v1.0.pro	1	
+22-Jan-18 2:23:49 PM	Event	Bravo - 1	2	TipControl 1	2	Place plate at Bravo - 1 2	7_AMPureXP_TruSeqPCRFree_DNArunset_v1.0	C:\VWorks Workspace\Protocol Files\TruSeqPCRFree\7_AMPureXP_TruSeqPCRFree_DNArunset_v1.0.pro	1	
+22-Jan-18 2:23:49 PM	Event			TipControl 1		After 5 seconds...	7_AMPureXP_TruSeqPCRFree_DNArunset_v1.0	C:\VWorks Workspace\Protocol Files\TruSeqPCRFree\7_AMPureXP_TruSeqPCRFree_DNArunset_v1.0.pro	1	
+22-Jan-18 2:23:49 PM	Event	BenchCel - 1		TipControl 1		Move plate from BenchCel - 1 Stacker 1, teachpoint Stacker 1 to Bravo - 1 3, teachpoint Bravo3			1	
+22-Jan-18 2:23:49 PM	Event	BenchCel - 1	Stacker 1			The stack is empty			1	
+22-Jan-18 2:23:49 PM	Event			TipControl 1		After 11 seconds...	7_AMPureXP_TruSeqPCRFree_DNArunset_v1.0	C:\VWorks Workspace\Protocol Files\TruSeqPCRFree\7_AMPureXP_TruSeqPCRFree_DNArunset_v1.0.pro	1	
+22-Jan-18 2:23:49 PM	Event	BenchCel - 1		TipControl 1		Finished moving plate from BenchCel - 1 Stacker 1, teachpoint Stacker 1 to Bravo - 1 3, teachpoint Bravo3			1	
+22-Jan-18 2:23:49 PM	Event			TipControl 1		After 11 seconds...	7_AMPureXP_TruSeqPCRFree_DNArunset_v1.0	C:\VWorks Workspace\Protocol Files\TruSeqPCRFree\7_AMPureXP_TruSeqPCRFree_DNArunset_v1.0.pro	1	
+22-Jan-18 2:23:49 PM	Event	Bravo - 1		TipControl 1		Move plate from Bravo - 1 3, teachpoint 3 to Bravo - 1 2, teachpoint 2			1	
+22-Jan-18 2:23:50 PM	Event			TipControl 1		After 21 seconds...	7_AMPureXP_TruSeqPCRFree_DNArunset_v1.0	C:\VWorks Workspace\Protocol Files\TruSeqPCRFree\7_AMPureXP_TruSeqPCRFree_DNArunset_v1.0.pro	1	
+22-Jan-18 2:23:50 PM	Event	Bravo - 1		TipControl 1		Finished moving plate from Bravo - 1 3, teachpoint 3 to Bravo - 1 2, teachpoint 2			1	
+22-Jan-18 2:23:50 PM	Event			TipControl 1		After 21 seconds...	7_AMPureXP_TruSeqPCRFree_DNArunset_v1.0	C:\VWorks Workspace\Protocol Files\TruSeqPCRFree\7_AMPureXP_TruSeqPCRFree_DNArunset_v1.0.pro	1	
+22-Jan-18 2:23:50 PM	Event	Bravo - 1	2	TipControl 1	2	Completed: Place plate at Bravo - 1 2	7_AMPureXP_TruSeqPCRFree_DNArunset_v1.0	C:\VWorks Workspace\Protocol Files\TruSeqPCRFree\7_AMPureXP_TruSeqPCRFree_DNArunset_v1.0.pro	1	
+22-Jan-18 2:23:50 PM	Event			AMPure XP Cleanup 1 1		After 5 seconds...	7_AMPureXP_TruSeqPCRFree_DNArunset_v1.0	C:\VWorks Workspace\Protocol Files\TruSeqPCRFree\7_AMPureXP_TruSeqPCRFree_DNArunset_v1.0.pro	1	
+22-Jan-18 2:23:50 PM	Event			AMPure XP Cleanup 1 1	5	Spawn SPRI reservoir	7_AMPureXP_TruSeqPCRFree_DNArunset_v1.0	C:\VWorks Workspace\Protocol Files\TruSeqPCRFree\7_AMPureXP_TruSeqPCRFree_DNArunset_v1.0.pro	1	
+22-Jan-18 2:23:50 PM	Event			AMPure XP Cleanup 1 1		After 5 seconds...	7_AMPureXP_TruSeqPCRFree_DNArunset_v1.0	C:\VWorks Workspace\Protocol Files\TruSeqPCRFree\7_AMPureXP_TruSeqPCRFree_DNArunset_v1.0.pro	1	
+22-Jan-18 2:23:50 PM	Event			AMPure XP Cleanup 1 1	5	Completed: Spawn SPRI reservoir	7_AMPureXP_TruSeqPCRFree_DNArunset_v1.0	C:\VWorks Workspace\Protocol Files\TruSeqPCRFree\7_AMPureXP_TruSeqPCRFree_DNArunset_v1.0.pro	1	
+22-Jan-18 2:23:50 PM	Info					Pause protocol			1	
+22-Jan-18 2:23:50 PM	Event					Scheduler stopped			1	
+22-Jan-18 2:23:50 PM	Event			SPRI reservoir 1		Process starting, north barcode: No bar code, east barcode: No bar code, south barcode: No bar code, west barcode: No bar code	7_AMPureXP_TruSeqPCRFree_DNArunset_v1.0	C:\VWorks Workspace\Protocol Files\TruSeqPCRFree\7_AMPureXP_TruSeqPCRFree_DNArunset_v1.0.pro	1	
+22-Jan-18 2:23:50 PM	Event			SPRI reservoir 1		After 5 seconds...	7_AMPureXP_TruSeqPCRFree_DNArunset_v1.0	C:\VWorks Workspace\Protocol Files\TruSeqPCRFree\7_AMPureXP_TruSeqPCRFree_DNArunset_v1.0.pro	1	
+22-Jan-18 2:23:50 PM	Event	Agilent Labware MiniHub - 1	Cassette 3, slot 2	SPRI reservoir 1	1	Unload from plate storage device	7_AMPureXP_TruSeqPCRFree_DNArunset_v1.0	C:\VWorks Workspace\Protocol Files\TruSeqPCRFree\7_AMPureXP_TruSeqPCRFree_DNArunset_v1.0.pro	1	

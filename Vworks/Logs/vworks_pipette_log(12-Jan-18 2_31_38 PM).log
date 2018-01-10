@@ -1,0 +1,20 @@
+12-Jan-18 2:33:38 PM	Event	1						Main protocol starting	C:\VWorks Workspace\Protocol Files\TruSeqPCRFree\7_AMPureXP_TruSeqPCRFree_DNArunset_v1.0.pro	
+12-Jan-18 2:37:00 PM	Transfer	1	14.5	SPRI reservoir 1	A1	SPRI reservoir 1	A1		C:\VWorks Workspace\Protocol Files\TruSeqPCRFree\7_AMPureXP_TruSeqPCRFree_DNArunset_v1.0.pro	
+12-Jan-18 2:37:27 PM	Transfer	1	80	SPRI reservoir 1	A1	AMPure XP Cleanup 1 1	A1		C:\VWorks Workspace\Protocol Files\TruSeqPCRFree\7_AMPureXP_TruSeqPCRFree_DNArunset_v1.0.pro	
+12-Jan-18 2:37:31 PM	Transfer	1	0.5	SPRI reservoir 1	A1	AMPure XP Cleanup 1 1	A1		C:\VWorks Workspace\Protocol Files\TruSeqPCRFree\7_AMPureXP_TruSeqPCRFree_DNArunset_v1.0.pro	
+12-Jan-18 2:37:37 PM	Transfer	1	14.5	SPRI reservoir 1	A1	AMPure XP Cleanup 1 1	A1		C:\VWorks Workspace\Protocol Files\TruSeqPCRFree\7_AMPureXP_TruSeqPCRFree_DNArunset_v1.0.pro	
+12-Jan-18 2:38:21 PM	Transfer	1	55	DNA plate 1	A1	AMPure XP Cleanup 1 1	A1		C:\VWorks Workspace\Protocol Files\TruSeqPCRFree\7_AMPureXP_TruSeqPCRFree_DNArunset_v1.0.pro	
+12-Jan-18 2:39:37 PM	Transfer	1	12	AMPure XP Cleanup 1 1	A1	AMPure XP Cleanup 1 1	A1		C:\VWorks Workspace\Protocol Files\TruSeqPCRFree\7_AMPureXP_TruSeqPCRFree_DNArunset_v1.0.pro	
+12-Jan-18 2:41:51 PM	Transfer	1	125	AMPure XP Cleanup 1 1	A1	1	A1		C:\VWorks Workspace\Protocol Files\TruSeqPCRFree\7_AMPureXP_TruSeqPCRFree_DNArunset_v1.0.pro	
+12-Jan-18 2:42:42 PM	Transfer	1	180	Ethanol Reservoir 1	A1	AMPure XP Cleanup 1 1	A1		C:\VWorks Workspace\Protocol Files\TruSeqPCRFree\7_AMPureXP_TruSeqPCRFree_DNArunset_v1.0.pro	
+12-Jan-18 2:43:52 PM	Transfer	1	183	AMPure XP Cleanup 1 1	A1	1	A1		C:\VWorks Workspace\Protocol Files\TruSeqPCRFree\7_AMPureXP_TruSeqPCRFree_DNArunset_v1.0.pro	
+12-Jan-18 2:44:44 PM	Transfer	1	180	Ethanol Reservoir 1	A1	AMPure XP Cleanup 1 1	A1		C:\VWorks Workspace\Protocol Files\TruSeqPCRFree\7_AMPureXP_TruSeqPCRFree_DNArunset_v1.0.pro	
+12-Jan-18 2:46:16 PM	Transfer	1	183.5	AMPure XP Cleanup 1 1	A1	1	A1		C:\VWorks Workspace\Protocol Files\TruSeqPCRFree\7_AMPureXP_TruSeqPCRFree_DNArunset_v1.0.pro	
+12-Jan-18 2:47:33 PM	Transfer	1	62.5	Resuspension Buffer 1	A1	AMPure XP Cleanup 1 1	A1		C:\VWorks Workspace\Protocol Files\TruSeqPCRFree\7_AMPureXP_TruSeqPCRFree_DNArunset_v1.0.pro	
+12-Jan-18 2:50:49 PM	Event	1						Main protocol complete	C:\VWorks Workspace\Protocol Files\TruSeqPCRFree\7_AMPureXP_TruSeqPCRFree_DNArunset_v1.0.pro	
+12-Jan-18 2:50:59 PM	Event	1						Main protocol starting	C:\VWorks Workspace\Protocol Files\TruSeqPCRFree\8_EndRepair_TruSeqPCRFree_v1.0.pro	
+12-Jan-18 2:53:04 PM	Transfer	1	40	Master Mix Plate 1	Column 1	Reaction Plate 1	Column 1		C:\VWorks Workspace\Protocol Files\TruSeqPCRFree\8_EndRepair_TruSeqPCRFree_v1.0.pro	
+12-Jan-18 2:55:28 PM	Transfer	1	60	DNA Plate 1	A1	Reaction Plate 1	A1		C:\VWorks Workspace\Protocol Files\TruSeqPCRFree\8_EndRepair_TruSeqPCRFree_v1.0.pro	
+12-Jan-18 2:55:28 PM	Transfer	1	10	DNA Plate 1	A1	Reaction Plate 1	A1		C:\VWorks Workspace\Protocol Files\TruSeqPCRFree\8_EndRepair_TruSeqPCRFree_v1.0.pro	
+12-Jan-18 2:57:23 PM	Event	1						Main protocol aborted by user	C:\VWorks Workspace\Protocol Files\TruSeqPCRFree\8_EndRepair_TruSeqPCRFree_v1.0.pro	
+12-Jan-18 2:57:24 PM	Event	1						Main protocol aborted by user	C:\VWorks Workspace\Protocol Files\TruSeqPCRFree\8_EndRepair_TruSeqPCRFree_v1.0.pro	

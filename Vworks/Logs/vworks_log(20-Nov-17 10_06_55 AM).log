@@ -1,0 +1,602 @@
+20-Nov-17 10:06:56 AM	Info					Error library: The error library file path is empty.			0	
+20-Nov-17 10:06:56 AM	Info					System Startup			0	
+20-Nov-17 10:06:56 AM	Info	AccessoriesWizard				Dll loaded:    AccessoriesWizard.dll    6.0.0			0	
+20-Nov-17 10:06:56 AM	Info	AccessoryManager				Dll loaded:    AccessoryManager.dll    2.0.0			0	
+20-Nov-17 10:06:56 AM	Info	AgilentBenchBotController				Dll loaded:    AgilentBenchBotController.dll    1.21.4226			0	
+20-Nov-17 10:06:56 AM	Info	ArgonShelfAccessoryDriver				Dll loaded:    ArgonShelfAccessoryDriver.dll    2.0.1			0	
+20-Nov-17 10:06:56 AM	Info	BTILHCRunner				Dll loaded:    BTILHCRunner.dll    2.00.2			0	
+20-Nov-17 10:06:56 AM	Info	ContextHelp				Dll loaded:    ContextHelp.dll    3.0.0			0	
+20-Nov-17 10:06:56 AM	Info	DDRStringTable				Dll loaded:    DDRStringTable.dll    1.2.14			0	
+20-Nov-17 10:06:56 AM	Info	DeviceEnumerator				Dll loaded:    DeviceEnumerator.dll    9.0.0			0	
+20-Nov-17 10:06:56 AM	Info	EchoAppHelper				Dll loaded:    EchoAppHelper.dll    1.0.0			0	
+20-Nov-17 10:06:56 AM	Info	ErrorLibrary				Dll loaded:    ErrorLibrary.dll    2.0.1			0	
+20-Nov-17 10:06:56 AM	Info	EvaporatorAccessoryDriver				Dll loaded:    EvaporatorAccessoryDriver.dll    9.0.0			0	
+20-Nov-17 10:06:56 AM	Info	GuidanceDiscovery				Dll loaded:    GuidanceDiscovery.dll    2.0.0			0	
+20-Nov-17 10:06:56 AM	Info	Host				Dll loaded:    Host.dll    1.0.4226			0	
+20-Nov-17 10:06:56 AM	Info	ImportExport				Dll loaded:    ImportExport.dll    2.0.0			0	
+20-Nov-17 10:06:56 AM	Info	InhecoMTCdll				Dll loaded:    InhecoMTCdll.dll    1.2.4			0	
+20-Nov-17 10:06:56 AM	Info	InhecoShakeandHeatAccessoryDriver				Dll loaded:    InhecoShakeandHeatAccessoryDriver.dll    1.0.0			0	
+20-Nov-17 10:06:56 AM	Info	IWorksAccessory				Dll loaded:    IWorksAccessory.dll    8.0.1			0	
+20-Nov-17 10:06:56 AM	Info	js32				Dll loaded:    js32.dll    Unknown.0.0			0	
+20-Nov-17 10:06:56 AM	Info	LabelDesigner				Dll loaded:    LabelDesigner.dll    5.0.7			0	
+20-Nov-17 10:06:56 AM	Info	LabelerHardware				Dll loaded:    LabelerHardware.dll    14.0.23			0	
+20-Nov-17 10:06:56 AM	Info	libnspr4				Dll loaded:    libnspr4.dll    4.1.0			0	
+20-Nov-17 10:06:56 AM	Info	LidHotelAccessoryDriver				Dll loaded:    LidHotelAccessoryDriver.dll    8.0.0			0	
+20-Nov-17 10:06:56 AM	Info	lm				Dll loaded:    lm.dll    3.0.0			0	
+20-Nov-17 10:06:56 AM	Info	Loader				Dll loaded:    Loader.dll    1.0.4226			0	
+20-Nov-17 10:06:56 AM	Info	MagBeadAccessoryDriver				Dll loaded:    MagBeadAccessoryDriver.dll    8.0.0			0	
+20-Nov-17 10:06:56 AM	Info	MetaDataPropertyManager				Dll loaded:    MetaDataPropertyManager.dll    13.0.0			0	
+20-Nov-17 10:06:56 AM	Info	mfc71				Dll loaded:    mfc71.dll    7.10.3077			0	
+20-Nov-17 10:06:56 AM	Info	mfc71u				Dll loaded:    mfc71u.dll    7.10.3077			0	
+20-Nov-17 10:06:56 AM	Info	MicroPierceInterface				Dll loaded:    MicroPierceInterface.dll    1.0.0			0	
+20-Nov-17 10:06:56 AM	Info	MicroPierceWrapper				Dll loaded:    MicroPierceWrapper.dll    1.0.0			0	
+20-Nov-17 10:06:56 AM	Info	MicroStirInterface				Dll loaded:    MicroStirInterface.dll    1.0.0			0	
+20-Nov-17 10:06:56 AM	Info	MicroStirWrapper				Dll loaded:    MicroStirWrapper.dll    1.0.0			0	
+20-Nov-17 10:06:56 AM	Info	msvcr71				Dll loaded:    msvcr71.dll    7.10.3052			0	
+20-Nov-17 10:06:56 AM	Info	MTController				Dll loaded:    MTController.dll    5.0.0			0	
+20-Nov-17 10:06:56 AM	Info	NestableTipBoxInsertAccessoryDriver				Dll loaded:    NestableTipBoxInsertAccessoryDriver.dll    2.0.0			0	
+20-Nov-17 10:06:56 AM	Info	ObjectDatabase				Dll loaded:    ObjectDatabase.dll    4.0.0			0	
+20-Nov-17 10:06:56 AM	Info	ObjectManager				Dll loaded:    ObjectManager.dll    7.0.1			0	
+20-Nov-17 10:06:56 AM	Info	PackardFusionRemoteConnectorOCX				Dll loaded:    PackardFusionRemoteConnectorOCX.dll    4.0.0			0	
+20-Nov-17 10:06:56 AM	Info	PackardFusionRemoteControlPlugIn				Dll loaded:    PackardFusionRemoteControlPlugIn.dll    4.0.0			0	
+20-Nov-17 10:06:56 AM	Info	PackardFusionRemoteControlWrapperDLL				Dll loaded:    PackardFusionRemoteControlWrapperDLL.dll    4.0.0			0	
+20-Nov-17 10:06:56 AM	Info	PicServoExtDll				Dll loaded:    PicServoExtDll.dll    10.0.0			0	
+20-Nov-17 10:06:56 AM	Info	PipetteHeadMode				Dll loaded:    PipetteHeadMode.dll    2.0.0			0	
+20-Nov-17 10:06:56 AM	Info	PipetteTechniqueEditor				Dll loaded:    PipetteTechniqueEditor.dll    3.0.0			0	
+20-Nov-17 10:06:56 AM	Info	PlateMapDatabase				Dll loaded:    PlateMapDatabase.dll    17.0.1			0	
+20-Nov-17 10:06:56 AM	Info	ProfileChangeLog				Dll loaded:    ProfileChangeLog.dll    2.0.0			0	
+20-Nov-17 10:06:56 AM	Info	ProfileManager				Dll loaded:    ProfileManager.dll    10.0.1			0	
+20-Nov-17 10:06:56 AM	Info	ProfSkin284m				Dll loaded:    ProfSkin284m.dll    2.8.4			0	
+20-Nov-17 10:06:56 AM	Info	ProfUIS284m				Dll loaded:    ProfUIS284m.dll    2.8.4			0	
+20-Nov-17 10:06:56 AM	Info	ProfUisProfileManager				Dll loaded:    ProfUisProfileManager.dll    10.0.0			0	
+20-Nov-17 10:06:56 AM	Info	SciLexer				Dll loaded:    SciLexer.dll    1.71.0			0	
+20-Nov-17 10:06:56 AM	Info	SerialDilution				Dll loaded:    SerialDilution.dll    13.0.0			0	
+20-Nov-17 10:06:56 AM	Info	SSIdll				Dll loaded:    SSIdll.dll    Unknown.0.0			0	
+20-Nov-17 10:06:56 AM	Info	TeleshakeAccessoryDriver				Dll loaded:    TeleshakeAccessoryDriver.dll    9.0.2			0	
+20-Nov-17 10:06:56 AM	Info	TipPosition				Dll loaded:    TipPosition.dll    3.0.0			0	
+20-Nov-17 10:06:56 AM	Info	TipTracking				Dll loaded:    TipTracking.dll    3.0.0			0	
+20-Nov-17 10:06:56 AM	Info	tmlcomm				Dll loaded:    tmlcomm.dll    3.2.2			0	
+20-Nov-17 10:06:56 AM	Info	TML_lib				Dll loaded:    TML_lib.dll    2.0.1			0	
+20-Nov-17 10:06:56 AM	Info	Toolbox				Dll loaded:    Toolbox.dll    1.0.4226			0	
+20-Nov-17 10:06:56 AM	Info	V11DeviceDriver				Dll loaded:    V11DeviceDriver.dll    11.0.0			0	
+20-Nov-17 10:06:56 AM	Info	V11FieldComposer				Dll loaded:    V11FieldComposer.dll    4.0.0			0	
+20-Nov-17 10:06:56 AM	Info	V11GanttChart				Dll loaded:    V11GanttChart.dll    2.0.1			0	
+20-Nov-17 10:06:56 AM	Info	V11Labware				Dll loaded:    V11Labware.dll    25.0.14			0	
+20-Nov-17 10:06:56 AM	Info	V11Liquids				Dll loaded:    V11Liquids.dll    9.0.0			0	
+20-Nov-17 10:06:56 AM	Info	V11Migrator				Dll loaded:    V11Migrator.dll    2.0.3			0	
+20-Nov-17 10:06:56 AM	Info	V11PipettingFormatWizard				Dll loaded:    V11PipettingFormatWizard.dll    2.0.0			0	
+20-Nov-17 10:06:56 AM	Info	V11PumpAccessoryDriver				Dll loaded:    V11PumpAccessoryDriver.dll    3.0.2			0	
+20-Nov-17 10:06:56 AM	Info	V11SharedClasses				Dll loaded:    V11SharedClasses.dll    1.1.0			0	
+20-Nov-17 10:06:56 AM	Info	V11WellSelect				Dll loaded:    V11WellSelect.dll    8.0.0			0	
+20-Nov-17 10:06:56 AM	Info	V11WellVolumeVisualizer				Dll loaded:    V11WellVolumeVisualizer.dll    6.0.0			0	
+20-Nov-17 10:06:56 AM	Info	V11Wizard				Dll loaded:    V11Wizard.dll    2.0.0			0	
+20-Nov-17 10:06:56 AM	Info	VacuumFiltrationAccessoryDriver				Dll loaded:    VacuumFiltrationAccessoryDriver.dll    10.0.1			0	
+20-Nov-17 10:06:56 AM	Info	VacuumLocatingStationDriver				Dll loaded:    VacuumLocatingStationDriver.dll    7.0.0			0	
+20-Nov-17 10:06:56 AM	Info	VacuumShelfAccessoryDriver				Dll loaded:    VacuumShelfAccessoryDriver.dll    2.0.2			0	
+20-Nov-17 10:06:56 AM	Info	VHookInterface				Dll loaded:    VHookInterface.dll    7.0.0			0	
+20-Nov-17 10:06:56 AM	Info	VWorks4COM				Dll loaded:    VWorks4COM.dll    4.0.0			0	
+20-Nov-17 10:06:56 AM	Info	VWorks4Defs				Dll loaded:    VWorks4Defs.dll    6.0.3			0	
+20-Nov-17 10:06:56 AM	Info	VWorks4DeviceManager				Dll loaded:    VWorks4DeviceManager.dll    4.0.0			0	
+20-Nov-17 10:06:56 AM	Info	VWorks4EmailDaemon				Dll loaded:    VWorks4EmailDaemon.dll    3.0.0			0	
+20-Nov-17 10:06:56 AM	Info	VWorks4FormManager				Dll loaded:    VWorks4FormManager.dll    1.0.0			0	
+20-Nov-17 10:06:56 AM	Info	VWorks4GUI				Dll loaded:    VWorks4GUI.dll    3.0.0			0	
+20-Nov-17 10:06:56 AM	Info	VWorks4GUIFramework				Dll loaded:    VWorks4GUIFramework.dll    3.0.1			0	
+20-Nov-17 10:06:56 AM	Info	VWorks4Hooks				Dll loaded:    VWorks4Hooks.dll    3.0.0			0	
+20-Nov-17 10:06:56 AM	Info	VWorks4LabelDesigner				Dll loaded:    VWorks4LabelDesigner.dll    3.0.0			0	
+20-Nov-17 10:06:56 AM	Info	VWorks4Logger				Dll loaded:    VWorks4Logger.dll    4.0.0			0	
+20-Nov-17 10:06:56 AM	Info	VWorks4MacroLibrary				Dll loaded:    VWorks4MacroLibrary.dll    1.0.0			0	
+20-Nov-17 10:06:56 AM	Info	VWorks4Progress				Dll loaded:    VWorks4Progress.dll    3.0.0			0	
+20-Nov-17 10:06:56 AM	Info	VWorks4ProtocolEditor				Dll loaded:    VWorks4ProtocolEditor.dll    4.0.0			0	
+20-Nov-17 10:06:56 AM	Info	VWorks4Security				Dll loaded:    VWorks4Security.dll    3.0.0			0	
+20-Nov-17 10:06:56 AM	Info	VWorks4UserDatabase				Dll loaded:    VWorks4UserDatabase.dll    3.0.0			0	
+20-Nov-17 10:06:56 AM	Info	VWorks4UserManager				Dll loaded:    VWorks4UserManager.dll    3.0.0			0	
+20-Nov-17 10:06:56 AM	Info	WeighPadAccessoryDriver				Dll loaded:    WeighPadAccessoryDriver.dll    2.0.0			0	
+20-Nov-17 10:06:56 AM	Info	Agilent BenchCel				Plugin loaded from cache:   AgilentBenchCel.dll   20.1.2			0	
+20-Nov-17 10:06:56 AM	Info	Agilent Bravo				Plugin loaded from cache:   AgilentBravo.dll   17.1.0			0	
+20-Nov-17 10:06:56 AM	Info	Agilent Generic I/O Module				Plugin loaded from cache:   AgilentGenericIO.dll   5.0.0			0	
+20-Nov-17 10:06:56 AM	Info	Agilent Labware MiniHub				Plugin loaded from cache:   AgilentLabwareMiniHub.dll   1.0.3			0	
+20-Nov-17 10:06:56 AM	Info	Agilent Phantom Robot				Plugin loaded from cache:   AgilentPhantomRobot.dll   9.0.5			0	
+20-Nov-17 10:06:56 AM	Info	Agilent Phantom Stacker				Plugin loaded from cache:   AgilentPhantomStacker.dll   2.0.1			0	
+20-Nov-17 10:06:56 AM	Info	Agilent Plate Hotel				Plugin loaded from cache:   AgilentPlateHotel.dll   1.0.3			0	
+20-Nov-17 10:06:56 AM	Info	Agilent Plate Hub Carousel				Plugin loaded from cache:   AgilentPlateHubCarousel.dll   8.0.1			0	
+20-Nov-17 10:06:56 AM	Info	Waste Bin				Plugin loaded from cache:   AgilentWasteBin.dll   3.0.0			0	
+20-Nov-17 10:06:56 AM	Info	Agilent Weigh Pad				Plugin loaded from cache:   AgilentWeighPad.dll   8.0.0			0	
+20-Nov-17 10:06:57 AM	Info	Keyence Barcode Reader				Plugin loaded from cache:   KeyenceBarcodeReader.dll   6.0.0			0	
+20-Nov-17 10:06:57 AM	Info	Plate Pad, Standard				Plugin loaded from cache:   PlatePad.dll   6.0.0			0	
+20-Nov-17 10:07:08 AM	Info					administrator logged in			1	
+20-Nov-17 10:07:16 AM	Info					File loaded		C:\VWorks Workspace\Forms\SCELSE\Accel_NGS_2S_DNA\Accel_NGS.VWForm	1	
+20-Nov-17 10:07:20 AM	Script					Initializing scripting engine...			1	
+20-Nov-17 10:07:20 AM	Script					Mon Nov 20 2017 10:07:20 GMT+0800 (Malay Peninsula Standard Time)			1	
+20-Nov-17 10:07:20 AM	Script					var plate_type = "96 ABI PCR half skirt in black carrier";		C:\VWorks Workspace\Forms\SCELSE\Accel_NGS_2S_DNA\Accel_NGS.VWForm	1	
+20-Nov-17 10:07:20 AM	Script					var DNA_source = 0;		C:\VWorks Workspace\Forms\SCELSE\Accel_NGS_2S_DNA\Accel_NGS.VWForm	1	
+20-Nov-17 10:07:20 AM	Script					var protocol_testing = 0;		C:\VWorks Workspace\Forms\SCELSE\Accel_NGS_2S_DNA\Accel_NGS.VWForm	1	
+20-Nov-17 10:07:20 AM	Script					var DNAconc = 1;		C:\VWorks Workspace\Forms\SCELSE\Accel_NGS_2S_DNA\Accel_NGS.VWForm	1	
+20-Nov-17 10:07:20 AM	Script					var formProtocolName = "Accel_Dual_Index_NGS_2SPlus_DNALibrary_Runset_v2.0.rst";		C:\VWorks Workspace\Forms\SCELSE\Accel_NGS_2S_DNA\Accel_NGS.VWForm	1	
+20-Nov-17 10:07:20 AM	Script					var columns_samples = 12;		C:\VWorks Workspace\Forms\SCELSE\Accel_NGS_2S_DNA\Accel_NGS.VWForm	1	
+20-Nov-17 10:07:20 AM	Script					Number of Columns selected is 12			1	
+20-Nov-17 10:07:20 AM	Script					Case: 12 Columns			1	
+20-Nov-17 10:07:33 AM	Info	Agilent Labware MiniHub				Plugin loaded:   AgilentLabwareMiniHub.dll   1.0.3			1	
+20-Nov-17 10:07:34 AM	Info					Hooks plugin loaded:    AgilentBenchCel.dll			0	
+20-Nov-17 10:07:34 AM	Info	Agilent BenchCel				Plugin loaded:   AgilentBenchCel.dll   20.1.2			1	
+20-Nov-17 10:07:37 AM	Info					Hooks plugin loaded:    AgilentBravo.dll			0	
+20-Nov-17 10:07:38 AM	Info	Agilent Bravo				Plugin loaded:   AgilentBravo.dll   17.1.0			1	
+20-Nov-17 10:07:41 AM	Info					File loaded		C:\VWorks Workspace\Device Files\BravoMiniPHBenchCel_round_magnet_RED_insert.dev	1	
+20-Nov-17 10:07:42 AM	Info	Agilent Labware MiniHub - 1				Initializing device		C:\VWorks Workspace\Device Files\BravoMiniPHBenchCel_round_magnet_RED_insert.dev	1	
+20-Nov-17 10:07:42 AM	Info	BenchCel - 1				Initializing device		C:\VWorks Workspace\Device Files\BravoMiniPHBenchCel_round_magnet_RED_insert.dev	1	
+20-Nov-17 10:07:42 AM	Info	Bravo - 1				Initializing device		C:\VWorks Workspace\Device Files\BravoMiniPHBenchCel_round_magnet_RED_insert.dev	1	
+20-Nov-17 10:07:44 AM	Info	BenchCel - 1				Initialization complete		C:\VWorks Workspace\Device Files\BravoMiniPHBenchCel_round_magnet_RED_insert.dev	1	
+20-Nov-17 10:07:48 AM	Error	Bravo - 1				There appears to be a plate present in, or in front of the gripper's plate presence sensor.			1	
+20-Nov-17 10:07:48 AM	Error	Bravo - 1				  - Choose "Retry" to check the plate presence sensor again.			1	
+20-Nov-17 10:07:48 AM	Error	Bravo - 1				  - Choose "Ignore" to continue to home the G axis.  Please note that any plate currently held by the gripper will be dropped.			1	
+20-Nov-17 10:07:48 AM	Error	Bravo - 1				  - Choose "Abort" to cancel initialization.			1	
+20-Nov-17 10:07:48 AM	Info					Error library: Select best match error handler: "Default" and action type "show error dialog"			1	
+20-Nov-17 10:07:54 AM	Info	Agilent Labware MiniHub - 1				Initialization complete		C:\VWorks Workspace\Device Files\BravoMiniPHBenchCel_round_magnet_RED_insert.dev	1	
+20-Nov-17 10:08:24 AM	Info	Bravo - 1				Ignoring: There appears to be a plate present in, or in front of the gripper's plate presence sensor.			1	
+20-Nov-17 10:08:24 AM	Info	Bravo - 1				  - Choose "Retry" to check the plate presence sensor again.			1	
+20-Nov-17 10:08:24 AM	Info	Bravo - 1				  - Choose "Ignore" to continue to home the G axis.  Please note that any plate currently held by the gripper will be dropped.			1	
+20-Nov-17 10:08:24 AM	Info	Bravo - 1				  - Choose "Abort" to cancel initialization.			1	
+20-Nov-17 10:08:24 AM	Error	Bravo - 1				Please verify that it is safe to home the W-axis (the aspirate/dispense axis).  If there is fluid in the tips you may want to manually home the W-axis in diagnostics over a waste position.			1	
+20-Nov-17 10:08:24 AM	Error	Bravo - 1				  - Choose "Retry" to continue homing the W-axis.			1	
+20-Nov-17 10:08:24 AM	Error	Bravo - 1				  - Choose "Ignore" to leave the W-axis unhomed.			1	
+20-Nov-17 10:08:24 AM	Error	Bravo - 1				  - Choose "Abort" to cancel initialization.			1	
+20-Nov-17 10:08:24 AM	Info					Error library: Select best match error handler: "Default" and action type "show error dialog"			1	
+20-Nov-17 10:08:52 AM	Info	Bravo - 1				Retrying: Please verify that it is safe to home the W-axis (the aspirate/dispense axis).  If there is fluid in the tips you may want to manually home the W-axis in diagnostics over a waste position.			1	
+20-Nov-17 10:08:52 AM	Info	Bravo - 1				  - Choose "Retry" to continue homing the W-axis.			1	
+20-Nov-17 10:08:52 AM	Info	Bravo - 1				  - Choose "Ignore" to leave the W-axis unhomed.			1	
+20-Nov-17 10:08:52 AM	Info	Bravo - 1				  - Choose "Abort" to cancel initialization.			1	
+20-Nov-17 10:08:52 AM	Info	Bravo - 1				Initialization complete		C:\VWorks Workspace\Device Files\BravoMiniPHBenchCel_round_magnet_RED_insert.dev	1	
+20-Nov-17 10:09:38 AM	Info	Agilent Labware MiniHub - 1				Opening diagnostics		C:\VWorks Workspace\Device Files\BravoMiniPHBenchCel_round_magnet_RED_insert.dev	1	
+20-Nov-17 10:09:44 AM	Info	Agilent Labware MiniHub - 1				motor stopped.			1	
+20-Nov-17 10:09:54 AM	Info	Agilent Labware MiniHub - 1				Closing diagnostics		C:\VWorks Workspace\Device Files\BravoMiniPHBenchCel_round_magnet_RED_insert.dev	1	
+20-Nov-17 10:10:02 AM	Info					File loaded		C:\VWorks Workspace\Forms\SCELSE\Working Program\Accel_NGS.VWForm	1	
+20-Nov-17 10:10:08 AM	Script					var plate_type = "96 ABI PCR half skirt in black carrier";		C:\VWorks Workspace\Forms\SCELSE\Working Program\Accel_NGS.VWForm	1	
+20-Nov-17 10:10:08 AM	Script					var DNA_source = 0;		C:\VWorks Workspace\Forms\SCELSE\Working Program\Accel_NGS.VWForm	1	
+20-Nov-17 10:10:08 AM	Script					var protocol_testing = 0;		C:\VWorks Workspace\Forms\SCELSE\Working Program\Accel_NGS.VWForm	1	
+20-Nov-17 10:10:08 AM	Script					var DNAconc = 1;		C:\VWorks Workspace\Forms\SCELSE\Working Program\Accel_NGS.VWForm	1	
+20-Nov-17 10:10:08 AM	Script					var formProtocolName = "Accel_Dual_Index_NGS_2SPlus_DNALibrary_Runset_v2.0.rst";		C:\VWorks Workspace\Forms\SCELSE\Working Program\Accel_NGS.VWForm	1	
+20-Nov-17 10:10:08 AM	Script					var columns_samples = 12;		C:\VWorks Workspace\Forms\SCELSE\Working Program\Accel_NGS.VWForm	1	
+20-Nov-17 10:10:08 AM	Script					Number of Columns selected is 12			1	
+20-Nov-17 10:10:08 AM	Script					Case: 12 Columns			1	
+20-Nov-17 10:19:54 AM	Script					var plate_type = "96 ABI PCR half skirt in black carrier";		C:\VWorks Workspace\Forms\SCELSE\Working Program\Accel_NGS.VWForm	1	
+20-Nov-17 10:19:54 AM	Script					var DNA_source = 0;		C:\VWorks Workspace\Forms\SCELSE\Working Program\Accel_NGS.VWForm	1	
+20-Nov-17 10:19:54 AM	Script					var protocol_testing = 0;		C:\VWorks Workspace\Forms\SCELSE\Working Program\Accel_NGS.VWForm	1	
+20-Nov-17 10:19:54 AM	Script					var DNAconc = 1;		C:\VWorks Workspace\Forms\SCELSE\Working Program\Accel_NGS.VWForm	1	
+20-Nov-17 10:19:54 AM	Script					var formProtocolName = "Accel_Dual_Index_NGS_2SPlus_DNALibrary_Runset_v2.0.rst";		C:\VWorks Workspace\Forms\SCELSE\Working Program\Accel_NGS.VWForm	1	
+20-Nov-17 10:19:54 AM	Script					var columns_samples = 12;		C:\VWorks Workspace\Forms\SCELSE\Working Program\Accel_NGS.VWForm	1	
+20-Nov-17 10:19:55 AM	Script					Clearing Plate Inventory			1	
+20-Nov-17 10:19:55 AM	Script					Clearing Runset			1	
+20-Nov-17 10:19:55 AM	Script					Starting runset : Accel_Dual_Index_NGS_2SPlus_DNALibrary_Runset_v2.0.rst			1	
+20-Nov-17 10:19:55 AM	Info					Runset Manager: Added the run "C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\1_RepairI_Accel_NGS_2S_DNA_v1.0.pro" to Runset Manager.			1	
+20-Nov-17 10:19:55 AM	Info					Runset Manager: Added the run "C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\2b_CleanUp1_Accel_NGS_2S_DNA_v1.0.pro" to Runset Manager.			1	
+20-Nov-17 10:19:55 AM	Info					Runset Manager: Added the run "C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\InProgress3_Elution1_Accel_NGS_2S_DNA_v1.0.pro" to Runset Manager.			1	
+20-Nov-17 10:19:55 AM	Info					Runset Manager: Added the run "C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\InProgress3_Repair2_Accel_NGS_2S_DNA_v1.0.pro" to Runset Manager.			1	
+20-Nov-17 10:19:55 AM	Info					Runset Manager: Added the run "C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\4_CleanUp2_Accel_NGS_2S_DNA_v1.0.pro" to Runset Manager.			1	
+20-Nov-17 10:19:55 AM	Info					Runset Manager: Added the run "C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\InProgress5b_Elution2_Accel_NGS_2S_DNA_v1.0.pro" to Runset Manager.			1	
+20-Nov-17 10:19:55 AM	Info					Runset Manager: Added the run "C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\InProgress5b_Ligation1_Accel_NGS_2S_DNA_v1.0.pro" to Runset Manager.			1	
+20-Nov-17 10:19:55 AM	Info					Runset Manager: Added the run "C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\6_CleanUp3_Accel_NGS_2S_DNA_v1.0.pro" to Runset Manager.			1	
+20-Nov-17 10:19:55 AM	Info					Runset Manager: Added the run "C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\InProgress7_Elution3_Accel_NGS_2S_DNA_v1.0.pro" to Runset Manager.			1	
+20-Nov-17 10:19:55 AM	Info					Runset Manager: Added the run "C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\InProgress7_Ligation2_Accel_NGS_2S_DNA_v1.0.pro" to Runset Manager.			1	
+20-Nov-17 10:19:55 AM	Info					Runset Manager: Added the run "C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\8_CleanUp4_Accel_NGS_2S_DNA_v1.0.pro" to Runset Manager.			1	
+20-Nov-17 10:20:01 AM	Script					var plate_type = "96 ABI PCR half skirt in black carrier";		C:\VWorks Workspace\Forms\SCELSE\Working Program\Accel_NGS.VWForm	1	
+20-Nov-17 10:20:01 AM	Script					var DNA_source = 0;		C:\VWorks Workspace\Forms\SCELSE\Working Program\Accel_NGS.VWForm	1	
+20-Nov-17 10:20:01 AM	Script					var protocol_testing = 1;		C:\VWorks Workspace\Forms\SCELSE\Working Program\Accel_NGS.VWForm	1	
+20-Nov-17 10:20:01 AM	Script					var DNAconc = 1;		C:\VWorks Workspace\Forms\SCELSE\Working Program\Accel_NGS.VWForm	1	
+20-Nov-17 10:20:01 AM	Script					var formProtocolName = "Accel_Dual_Index_NGS_2SPlus_DNALibrary_Runset_v2.0.rst";		C:\VWorks Workspace\Forms\SCELSE\Working Program\Accel_NGS.VWForm	1	
+20-Nov-17 10:20:01 AM	Script					var columns_samples = 12;		C:\VWorks Workspace\Forms\SCELSE\Working Program\Accel_NGS.VWForm	1	
+20-Nov-17 10:20:02 AM	Script					Clearing Plate Inventory			1	
+20-Nov-17 10:20:02 AM	Info					Runset Manager: Deleted the run "C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\1_RepairI_Accel_NGS_2S_DNA_v1.0.pro" from Runset Manager.			1	
+20-Nov-17 10:20:02 AM	Info					Runset Manager: Deleted the run "C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\2b_CleanUp1_Accel_NGS_2S_DNA_v1.0.pro" from Runset Manager.			1	
+20-Nov-17 10:20:02 AM	Info					Runset Manager: Deleted the run "C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\InProgress3_Elution1_Accel_NGS_2S_DNA_v1.0.pro" from Runset Manager.			1	
+20-Nov-17 10:20:02 AM	Info					Runset Manager: Deleted the run "C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\InProgress3_Repair2_Accel_NGS_2S_DNA_v1.0.pro" from Runset Manager.			1	
+20-Nov-17 10:20:02 AM	Info					Runset Manager: Deleted the run "C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\4_CleanUp2_Accel_NGS_2S_DNA_v1.0.pro" from Runset Manager.			1	
+20-Nov-17 10:20:02 AM	Info					Runset Manager: Deleted the run "C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\InProgress5b_Elution2_Accel_NGS_2S_DNA_v1.0.pro" from Runset Manager.			1	
+20-Nov-17 10:20:02 AM	Info					Runset Manager: Deleted the run "C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\InProgress5b_Ligation1_Accel_NGS_2S_DNA_v1.0.pro" from Runset Manager.			1	
+20-Nov-17 10:20:02 AM	Info					Runset Manager: Deleted the run "C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\6_CleanUp3_Accel_NGS_2S_DNA_v1.0.pro" from Runset Manager.			1	
+20-Nov-17 10:20:02 AM	Info					Runset Manager: Deleted the run "C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\InProgress7_Elution3_Accel_NGS_2S_DNA_v1.0.pro" from Runset Manager.			1	
+20-Nov-17 10:20:02 AM	Info					Runset Manager: Deleted the run "C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\InProgress7_Ligation2_Accel_NGS_2S_DNA_v1.0.pro" from Runset Manager.			1	
+20-Nov-17 10:20:02 AM	Info					Runset Manager: Deleted the run "C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\8_CleanUp4_Accel_NGS_2S_DNA_v1.0.pro" from Runset Manager.			1	
+20-Nov-17 10:20:02 AM	Script					Clearing Runset			1	
+20-Nov-17 10:20:02 AM	Script					Starting runset : Accel_Dual_Index_NGS_2SPlus_DNALibrary_Runset_v2.0.rst			1	
+20-Nov-17 10:20:02 AM	Info					Runset Manager: Added the run "C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\1_RepairI_Accel_NGS_2S_DNA_v1.0.pro" to Runset Manager.			1	
+20-Nov-17 10:20:02 AM	Info					Runset Manager: Added the run "C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\2b_CleanUp1_Accel_NGS_2S_DNA_v1.0.pro" to Runset Manager.			1	
+20-Nov-17 10:20:02 AM	Info					Runset Manager: Added the run "C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\InProgress3_Elution1_Accel_NGS_2S_DNA_v1.0.pro" to Runset Manager.			1	
+20-Nov-17 10:20:02 AM	Info					Runset Manager: Added the run "C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\InProgress3_Repair2_Accel_NGS_2S_DNA_v1.0.pro" to Runset Manager.			1	
+20-Nov-17 10:20:02 AM	Info					Runset Manager: Added the run "C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\4_CleanUp2_Accel_NGS_2S_DNA_v1.0.pro" to Runset Manager.			1	
+20-Nov-17 10:20:02 AM	Info					Runset Manager: Added the run "C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\InProgress5b_Elution2_Accel_NGS_2S_DNA_v1.0.pro" to Runset Manager.			1	
+20-Nov-17 10:20:03 AM	Info					Runset Manager: Added the run "C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\InProgress5b_Ligation1_Accel_NGS_2S_DNA_v1.0.pro" to Runset Manager.			1	
+20-Nov-17 10:20:03 AM	Info					Runset Manager: Added the run "C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\6_CleanUp3_Accel_NGS_2S_DNA_v1.0.pro" to Runset Manager.			1	
+20-Nov-17 10:20:03 AM	Info					Runset Manager: Added the run "C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\InProgress7_Elution3_Accel_NGS_2S_DNA_v1.0.pro" to Runset Manager.			1	
+20-Nov-17 10:20:03 AM	Info					Runset Manager: Added the run "C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\InProgress7_Ligation2_Accel_NGS_2S_DNA_v1.0.pro" to Runset Manager.			1	
+20-Nov-17 10:20:03 AM	Info					Runset Manager: Added the run "C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\8_CleanUp4_Accel_NGS_2S_DNA_v1.0.pro" to Runset Manager.			1	
+20-Nov-17 10:20:07 AM	Info					File loaded	1_RepairI_Accel_NGS_2S_DNA_v1.0	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\1_RepairI_Accel_NGS_2S_DNA_v1.0.pro	1	
+20-Nov-17 10:20:11 AM	Warning			DNA transfer tips	2	No plate to unload from the device Agilent Labware MiniHub - 1 location : cassette 4, slot 2		1_RepairI_Accel_NGS_2S_DNA_v1.0.pro	1	
+20-Nov-17 10:20:11 AM	Warning			DNA transfer tips	2	There aren't any available plates for the unload task to unload		1_RepairI_Accel_NGS_2S_DNA_v1.0.pro	1	
+20-Nov-17 10:20:11 AM	Warning			MasterMix tips	1	No plate to unload from the device Agilent Labware MiniHub - 1 location : cassette 1, slot 2		1_RepairI_Accel_NGS_2S_DNA_v1.0.pro	1	
+20-Nov-17 10:20:11 AM	Warning			MasterMix tips	1	There aren't any available plates for the unload task to unload		1_RepairI_Accel_NGS_2S_DNA_v1.0.pro	1	
+20-Nov-17 10:20:11 AM	Warning			Reaction Plate	2	No plate to unload from the device Agilent Labware MiniHub - 1 location : cassette 2, slot 5		1_RepairI_Accel_NGS_2S_DNA_v1.0.pro	1	
+20-Nov-17 10:20:11 AM	Warning			Reaction Plate	2	There aren't any available plates for the unload task to unload		1_RepairI_Accel_NGS_2S_DNA_v1.0.pro	1	
+20-Nov-17 10:20:11 AM	Warning			Used DNA transfer tips	1	No plate to unload from the device Agilent Labware MiniHub - 1 location : cassette 4, slot 1		1_RepairI_Accel_NGS_2S_DNA_v1.0.pro	1	
+20-Nov-17 10:20:11 AM	Warning			Used DNA transfer tips	1	There aren't any available plates for the unload task to unload		1_RepairI_Accel_NGS_2S_DNA_v1.0.pro	1	
+20-Nov-17 10:20:11 AM	Warning			Used MasterMix Tips	1	No plate to unload from the device Agilent Labware MiniHub - 1 location : cassette 1, slot 1		1_RepairI_Accel_NGS_2S_DNA_v1.0.pro	1	
+20-Nov-17 10:20:11 AM	Warning			Used MasterMix Tips	1	There aren't any available plates for the unload task to unload		1_RepairI_Accel_NGS_2S_DNA_v1.0.pro	1	
+20-Nov-17 10:20:11 AM	Info					Compile complete with 0 errors and 10 warnings			1	
+20-Nov-17 10:20:11 AM	Script					var plate_type = "96 ABI PCR half skirt in black carrier";		C:\VWorks Workspace\Forms\SCELSE\Accel_NGS_2S_DNA\Accel_NGS.VWForm	1	
+20-Nov-17 10:20:11 AM	Script					var DNA_source = 0;		C:\VWorks Workspace\Forms\SCELSE\Accel_NGS_2S_DNA\Accel_NGS.VWForm	1	
+20-Nov-17 10:20:11 AM	Script					var protocol_testing = 0;		C:\VWorks Workspace\Forms\SCELSE\Accel_NGS_2S_DNA\Accel_NGS.VWForm	1	
+20-Nov-17 10:20:12 AM	Script					var DNAconc = 1;		C:\VWorks Workspace\Forms\SCELSE\Accel_NGS_2S_DNA\Accel_NGS.VWForm	1	
+20-Nov-17 10:20:12 AM	Script					var formProtocolName = "Accel_Dual_Index_NGS_2SPlus_DNALibrary_Runset_v2.0.rst";		C:\VWorks Workspace\Forms\SCELSE\Accel_NGS_2S_DNA\Accel_NGS.VWForm	1	
+20-Nov-17 10:20:12 AM	Script					var columns_samples = 12;		C:\VWorks Workspace\Forms\SCELSE\Accel_NGS_2S_DNA\Accel_NGS.VWForm	1	
+20-Nov-17 10:20:12 AM	Event					Scheduler started			1	
+20-Nov-17 10:20:12 AM	Info					Runset Manager: Changed the field "Start" of the run "C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\2b_CleanUp1_Accel_NGS_2S_DNA_v1.0.pro" from "29-Sep-17 9:59:01 AM (As soon as possible)" to "When C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\1_RepairI_Accel_NGS_2S_DNA_v1.0.pro ends"			1	
+20-Nov-17 10:20:12 AM	Info					Runset Manager: Changed the field "Start" of the run "C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\InProgress3_Elution1_Accel_NGS_2S_DNA_v1.0.pro" from "29-Sep-17 10:00:16 AM (As soon as possible)" to "When C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\1_RepairI_Accel_NGS_2S_DNA_v1.0.pro ends"			1	
+20-Nov-17 10:20:13 AM	Info					Runset Manager: Changed the field "Start" of the run "C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\InProgress3_Repair2_Accel_NGS_2S_DNA_v1.0.pro" from "29-Sep-17 10:01:03 AM (As soon as possible)" to "When C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\1_RepairI_Accel_NGS_2S_DNA_v1.0.pro ends"			1	
+20-Nov-17 10:20:13 AM	Info					Runset Manager: Changed the field "Start" of the run "C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\4_CleanUp2_Accel_NGS_2S_DNA_v1.0.pro" from "29-Sep-17 10:01:59 AM (As soon as possible)" to "When C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\1_RepairI_Accel_NGS_2S_DNA_v1.0.pro ends"			1	
+20-Nov-17 10:20:13 AM	Info					Runset Manager: Changed the field "Start" of the run "C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\InProgress5b_Elution2_Accel_NGS_2S_DNA_v1.0.pro" from "29-Sep-17 10:03:17 AM (As soon as possible)" to "When C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\1_RepairI_Accel_NGS_2S_DNA_v1.0.pro ends"			1	
+20-Nov-17 10:20:13 AM	Info					Runset Manager: Changed the field "Start" of the run "C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\InProgress5b_Ligation1_Accel_NGS_2S_DNA_v1.0.pro" from "29-Sep-17 10:03:58 AM (As soon as possible)" to "When C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\1_RepairI_Accel_NGS_2S_DNA_v1.0.pro ends"			1	
+20-Nov-17 10:20:13 AM	Info					Runset Manager: Changed the field "Start" of the run "C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\6_CleanUp3_Accel_NGS_2S_DNA_v1.0.pro" from "29-Sep-17 10:04:58 AM (As soon as possible)" to "When C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\1_RepairI_Accel_NGS_2S_DNA_v1.0.pro ends"			1	
+20-Nov-17 10:20:13 AM	Info					Runset Manager: Changed the field "Start" of the run "C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\InProgress7_Elution3_Accel_NGS_2S_DNA_v1.0.pro" from "29-Sep-17 10:06:03 AM (As soon as possible)" to "When C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\1_RepairI_Accel_NGS_2S_DNA_v1.0.pro ends"			1	
+20-Nov-17 10:20:13 AM	Info					Runset Manager: Changed the field "Start" of the run "C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\InProgress7_Ligation2_Accel_NGS_2S_DNA_v1.0.pro" from "29-Sep-17 10:06:44 AM (As soon as possible)" to "When C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\1_RepairI_Accel_NGS_2S_DNA_v1.0.pro ends"			1	
+20-Nov-17 10:20:13 AM	Info					Runset Manager: Changed the field "Start" of the run "C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\8_CleanUp4_Accel_NGS_2S_DNA_v1.0.pro" from "29-Sep-17 10:07:43 AM (As soon as possible)" to "When C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\1_RepairI_Accel_NGS_2S_DNA_v1.0.pro ends"			1	
+20-Nov-17 10:20:13 AM	Script					Successfully opened tiptracking.js file.			1	
+20-Nov-17 10:20:13 AM	Script					Clearing Plate Inventory			1	
+20-Nov-17 10:20:13 AM	Info					Error library: Protocol started using error library file: ""			1	
+20-Nov-17 10:20:13 AM	Event					Startup protocol starting	1_RepairI_Accel_NGS_2S_DNA_v1.0	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\1_RepairI_Accel_NGS_2S_DNA_v1.0.pro	1	
+20-Nov-17 10:20:13 AM	Event			startup process - 1 1		Process starting, north barcode: No bar code, east barcode: No bar code, south barcode: No bar code, west barcode: No bar code	1_RepairI_Accel_NGS_2S_DNA_v1.0	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\1_RepairI_Accel_NGS_2S_DNA_v1.0.pro	1	
+20-Nov-17 10:20:13 AM	Event			startup process - 1 1	1	JavaScript	1_RepairI_Accel_NGS_2S_DNA_v1.0	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\1_RepairI_Accel_NGS_2S_DNA_v1.0.pro	1	
+20-Nov-17 10:20:13 AM	Event			startup process - 1 1	1	Completed: JavaScript	1_RepairI_Accel_NGS_2S_DNA_v1.0	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\1_RepairI_Accel_NGS_2S_DNA_v1.0.pro	1	
+20-Nov-17 10:20:13 AM	Script					The state of runset is false			1	
+20-Nov-17 10:20:14 AM	Event			startup process - 1 1	3	Configure static labware on Bravo - 1	1_RepairI_Accel_NGS_2S_DNA_v1.0	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\1_RepairI_Accel_NGS_2S_DNA_v1.0.pro	1	
+20-Nov-17 10:20:14 AM	Info			startup process - 1	3	Changed "task Configure Labware, changed variable " to "96 Deep Well PP Sqr Well V Btm"	1_RepairI_Accel_NGS_2S_DNA_v1.0	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\1_RepairI_Accel_NGS_2S_DNA_v1.0.pro	1	
+20-Nov-17 10:20:14 AM	Event			startup process - 1 1	3	Completed: Configure static labware on Bravo - 1	1_RepairI_Accel_NGS_2S_DNA_v1.0	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\1_RepairI_Accel_NGS_2S_DNA_v1.0.pro	1	
+20-Nov-17 10:20:14 AM	Event	Bravo - 1	1	startup process - 1 1	4	Set temperature - Position at Location 4	1_RepairI_Accel_NGS_2S_DNA_v1.0	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\1_RepairI_Accel_NGS_2S_DNA_v1.0.pro	1	
+20-Nov-17 10:20:15 AM	Event	Bravo - 1	1	startup process - 1 1	4	Completed: Set temperature - Position at Location 4	1_RepairI_Accel_NGS_2S_DNA_v1.0	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\1_RepairI_Accel_NGS_2S_DNA_v1.0.pro	1	
+20-Nov-17 10:20:16 AM	Event	Bravo - 1	1	startup process - 1 1	5	Set temperature - Position at Location 6	1_RepairI_Accel_NGS_2S_DNA_v1.0	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\1_RepairI_Accel_NGS_2S_DNA_v1.0.pro	1	
+20-Nov-17 10:20:17 AM	Event	Bravo - 1	1	startup process - 1 1	5	Completed: Set temperature - Position at Location 6	1_RepairI_Accel_NGS_2S_DNA_v1.0	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\1_RepairI_Accel_NGS_2S_DNA_v1.0.pro	1	
+20-Nov-17 10:20:18 AM	Script					User has entered 12 columns.			1	
+20-Nov-17 10:20:18 AM	Script					The number of columns that will be processed is 12.			1	
+20-Nov-17 10:20:18 AM	Script					The head mode configuration is 3,3,8,12			1	
+20-Nov-17 10:20:18 AM	Event			startup process - 1 1	8	JavaScript	1_RepairI_Accel_NGS_2S_DNA_v1.0	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\1_RepairI_Accel_NGS_2S_DNA_v1.0.pro	1	
+20-Nov-17 10:20:18 AM	Event			startup process - 1 1	8	Completed: JavaScript	1_RepairI_Accel_NGS_2S_DNA_v1.0	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\1_RepairI_Accel_NGS_2S_DNA_v1.0.pro	1	
+20-Nov-17 10:20:18 AM	Script					script:20:ReferenceError: samples is not defined			1	
+20-Nov-17 10:20:18 AM	Event			startup process - 1 1	11	JavaScript	1_RepairI_Accel_NGS_2S_DNA_v1.0	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\1_RepairI_Accel_NGS_2S_DNA_v1.0.pro	1	
+20-Nov-17 10:20:18 AM	Event			startup process - 1 1	11	Completed: JavaScript	1_RepairI_Accel_NGS_2S_DNA_v1.0	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\1_RepairI_Accel_NGS_2S_DNA_v1.0.pro	1	
+20-Nov-17 10:20:18 AM	Event			startup process - 1 1		Process finishing	1_RepairI_Accel_NGS_2S_DNA_v1.0	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\1_RepairI_Accel_NGS_2S_DNA_v1.0.pro	1	
+20-Nov-17 10:20:18 AM	Event	BenchCel - 1	Stacker 1	DNA transfer tips		Load stacker rack at location "Stacker 1" of device "BenchCel - 1" with plate "DNA transfer tips" of labware type "96 V11 LT250 Tip Box 19477.002"	1_RepairI_Accel_NGS_2S_DNA_v1.0	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\1_RepairI_Accel_NGS_2S_DNA_v1.0.pro	1	
+20-Nov-17 10:20:22 AM	Event	BenchCel - 1	Stacker 2	DNA transfer tips		Load stacker rack at location "Stacker 2" of device "BenchCel - 1" with plate "DNA transfer tips" of labware type "96 V11 LT250 Tip Box 19477.002"	1_RepairI_Accel_NGS_2S_DNA_v1.0	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\1_RepairI_Accel_NGS_2S_DNA_v1.0.pro	1	
+20-Nov-17 10:20:27 AM	Event	BenchCel - 1	Stacker 3	UsedTipUpstack		Load stacker rack at location "Stacker 3" of device "BenchCel - 1" with plate "UsedTipUpstack" of labware type "96 V11 LT250 Tip Box 19477.002"	1_RepairI_Accel_NGS_2S_DNA_v1.0	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\1_RepairI_Accel_NGS_2S_DNA_v1.0.pro	1	
+20-Nov-17 10:20:32 AM	Info			Reaction Plate		1 plate required	1_RepairI_Accel_NGS_2S_DNA_v1.0	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\1_RepairI_Accel_NGS_2S_DNA_v1.0.pro	1	
+20-Nov-17 10:20:32 AM	Info			Master Mix Plate		1 plate required	1_RepairI_Accel_NGS_2S_DNA_v1.0	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\1_RepairI_Accel_NGS_2S_DNA_v1.0.pro	1	
+20-Nov-17 10:20:32 AM	Info			DNA Plate		1 plate required	1_RepairI_Accel_NGS_2S_DNA_v1.0	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\1_RepairI_Accel_NGS_2S_DNA_v1.0.pro	1	
+20-Nov-17 10:20:32 AM	Info			MasterMix tips		1 plate required	1_RepairI_Accel_NGS_2S_DNA_v1.0	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\1_RepairI_Accel_NGS_2S_DNA_v1.0.pro	1	
+20-Nov-17 10:20:32 AM	Info			Used MasterMix Tips		1 plate required	1_RepairI_Accel_NGS_2S_DNA_v1.0	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\1_RepairI_Accel_NGS_2S_DNA_v1.0.pro	1	
+20-Nov-17 10:20:32 AM	Info			DNA transfer tips		1 plate required	1_RepairI_Accel_NGS_2S_DNA_v1.0	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\1_RepairI_Accel_NGS_2S_DNA_v1.0.pro	1	
+20-Nov-17 10:20:32 AM	Info			Used DNA transfer tips		Plates are spawned on demand	1_RepairI_Accel_NGS_2S_DNA_v1.0	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\1_RepairI_Accel_NGS_2S_DNA_v1.0.pro	1	
+20-Nov-17 10:20:32 AM	Info			UsedTipUpstack		Plates are spawned on demand	1_RepairI_Accel_NGS_2S_DNA_v1.0	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\1_RepairI_Accel_NGS_2S_DNA_v1.0.pro	1	
+20-Nov-17 10:20:32 AM	Event					Main protocol starting	1_RepairI_Accel_NGS_2S_DNA_v1.0	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\1_RepairI_Accel_NGS_2S_DNA_v1.0.pro	1	
+20-Nov-17 10:20:32 AM	Event					Startup protocol complete	1_RepairI_Accel_NGS_2S_DNA_v1.0	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\1_RepairI_Accel_NGS_2S_DNA_v1.0.pro	1	
+20-Nov-17 10:20:32 AM	Event			Reaction Plate 1		Process starting, north barcode: No bar code, east barcode: No bar code, south barcode: No bar code, west barcode: No bar code	1_RepairI_Accel_NGS_2S_DNA_v1.0	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\1_RepairI_Accel_NGS_2S_DNA_v1.0.pro	1	
+20-Nov-17 10:20:32 AM	Event			MasterMix tips 1		Process starting, north barcode: No bar code, east barcode: No bar code, south barcode: No bar code, west barcode: No bar code	1_RepairI_Accel_NGS_2S_DNA_v1.0	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\1_RepairI_Accel_NGS_2S_DNA_v1.0.pro	1	
+20-Nov-17 10:20:32 AM	Event			Used MasterMix Tips 1		Process starting, north barcode: No bar code, east barcode: No bar code, south barcode: No bar code, west barcode: No bar code	1_RepairI_Accel_NGS_2S_DNA_v1.0	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\1_RepairI_Accel_NGS_2S_DNA_v1.0.pro	1	
+20-Nov-17 10:20:32 AM	Event			DNA transfer tips 1		Process starting, north barcode: No bar code, east barcode: No bar code, south barcode: No bar code, west barcode: No bar code	1_RepairI_Accel_NGS_2S_DNA_v1.0	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\1_RepairI_Accel_NGS_2S_DNA_v1.0.pro	1	
+20-Nov-17 10:20:32 AM	Event			Master Mix Plate 1		Process starting, north barcode: No bar code, east barcode: No bar code, south barcode: No bar code, west barcode: No bar code	1_RepairI_Accel_NGS_2S_DNA_v1.0	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\1_RepairI_Accel_NGS_2S_DNA_v1.0.pro	1	
+20-Nov-17 10:20:32 AM	Event			DNA Plate 1		Process starting, north barcode: No bar code, east barcode: No bar code, south barcode: No bar code, west barcode: No bar code	1_RepairI_Accel_NGS_2S_DNA_v1.0	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\1_RepairI_Accel_NGS_2S_DNA_v1.0.pro	1	
+20-Nov-17 10:20:32 AM	Script					protocol_testing 0			1	
+20-Nov-17 10:20:33 AM	Event			Reaction Plate 1	1	JavaScript	1_RepairI_Accel_NGS_2S_DNA_v1.0	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\1_RepairI_Accel_NGS_2S_DNA_v1.0.pro	1	
+20-Nov-17 10:20:33 AM	Event			Reaction Plate 1	1	Completed: JavaScript	1_RepairI_Accel_NGS_2S_DNA_v1.0	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\1_RepairI_Accel_NGS_2S_DNA_v1.0.pro	1	
+20-Nov-17 10:20:33 AM	Event	Agilent Labware MiniHub - 1	Cassette 1, slot 2	MasterMix tips 1	1	Unload from plate storage device	1_RepairI_Accel_NGS_2S_DNA_v1.0	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\1_RepairI_Accel_NGS_2S_DNA_v1.0.pro	1	
+20-Nov-17 10:20:33 AM	Event	Agilent Labware MiniHub - 1		MasterMix tips 1		Agilent Labware MiniHub - 1 Unload the plate from Location : cassette 1, slot 2 to Cassette 1, Slot 2	1_RepairI_Accel_NGS_2S_DNA_v1.0	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\1_RepairI_Accel_NGS_2S_DNA_v1.0.pro	1	
+20-Nov-17 10:20:33 AM	Script					DNA transfer tips 1 Tip box is not empty.			1	
+20-Nov-17 10:20:33 AM	Script					DNA transfer tips 1 Tip box is not empty.			1	
+20-Nov-17 10:20:33 AM	Script					Tip box still has space.  Storing DNA transfer tips 1 in miniplatehub			1	
+20-Nov-17 10:20:33 AM	Event	Agilent Labware MiniHub - 1	Cassette 1, slot 2	MasterMix tips 1	1	Completed: Unload from plate storage device	1_RepairI_Accel_NGS_2S_DNA_v1.0	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\1_RepairI_Accel_NGS_2S_DNA_v1.0.pro	1	
+20-Nov-17 10:20:33 AM	Event	Bravo - 1	9	Master Mix Plate 1	1	Place plate at Bravo - 1 9	1_RepairI_Accel_NGS_2S_DNA_v1.0	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\1_RepairI_Accel_NGS_2S_DNA_v1.0.pro	1	
+20-Nov-17 10:20:33 AM	Event	Bravo - 1	9	Master Mix Plate 1	1	Completed: Place plate at Bravo - 1 9	1_RepairI_Accel_NGS_2S_DNA_v1.0	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\1_RepairI_Accel_NGS_2S_DNA_v1.0.pro	1	
+20-Nov-17 10:20:33 AM	Event	Agilent Labware MiniHub - 1	Cassette 2, slot 5	Reaction Plate 1	2	Unload from plate storage device	1_RepairI_Accel_NGS_2S_DNA_v1.0	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\1_RepairI_Accel_NGS_2S_DNA_v1.0.pro	1	
+20-Nov-17 10:20:33 AM	Event	Agilent Labware MiniHub - 1		Reaction Plate 1	2	Agilent Labware MiniHub - 1 Unload the plate from Location : cassette 2, slot 5 to Cassette 2, Slot 5	1_RepairI_Accel_NGS_2S_DNA_v1.0	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\1_RepairI_Accel_NGS_2S_DNA_v1.0.pro	1	
+20-Nov-17 10:20:33 AM	Event	Agilent Labware MiniHub - 1	Cassette 2, slot 5	Reaction Plate 1	2	Completed: Unload from plate storage device	1_RepairI_Accel_NGS_2S_DNA_v1.0	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\1_RepairI_Accel_NGS_2S_DNA_v1.0.pro	1	
+20-Nov-17 10:20:33 AM	Event	Bravo - 1	2	MasterMix tips 1	2	Place plate at Bravo - 1 2	1_RepairI_Accel_NGS_2S_DNA_v1.0	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\1_RepairI_Accel_NGS_2S_DNA_v1.0.pro	1	
+20-Nov-17 10:20:33 AM	Event	BenchCel - 1		MasterMix tips 1		Move plate from Agilent Labware MiniHub - 1 Cassette 1, Slot 2, teachpoint MiniHub02 to Bravo - 1 3, teachpoint Bravo3			1	
+20-Nov-17 10:20:33 AM	Event	Agilent Labware MiniHub - 1	Cassette 1, slot 1	Used MasterMix Tips 1	1	Unload from plate storage device	1_RepairI_Accel_NGS_2S_DNA_v1.0	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\1_RepairI_Accel_NGS_2S_DNA_v1.0.pro	1	
+20-Nov-17 10:20:33 AM	Event	Agilent Labware MiniHub - 1		Used MasterMix Tips 1		Agilent Labware MiniHub - 1 Unload the plate from Location : cassette 1, slot 1 to Cassette 1, Slot 1	1_RepairI_Accel_NGS_2S_DNA_v1.0	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\1_RepairI_Accel_NGS_2S_DNA_v1.0.pro	1	
+20-Nov-17 10:20:33 AM	Event	Agilent Labware MiniHub - 1	Cassette 1, slot 1	Used MasterMix Tips 1	1	Completed: Unload from plate storage device	1_RepairI_Accel_NGS_2S_DNA_v1.0	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\1_RepairI_Accel_NGS_2S_DNA_v1.0.pro	1	
+20-Nov-17 10:20:34 AM	Event	Bravo - 1	7	DNA Plate 1	1	Place plate at Bravo - 1 7	1_RepairI_Accel_NGS_2S_DNA_v1.0	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\1_RepairI_Accel_NGS_2S_DNA_v1.0.pro	1	
+20-Nov-17 10:20:34 AM	Event	Bravo - 1	7	DNA Plate 1	1	Completed: Place plate at Bravo - 1 7	1_RepairI_Accel_NGS_2S_DNA_v1.0	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\1_RepairI_Accel_NGS_2S_DNA_v1.0.pro	1	
+20-Nov-17 10:20:34 AM	Event	Agilent Labware MiniHub - 1	Cassette 4, slot 2	DNA transfer tips 1	2	Unload from plate storage device	1_RepairI_Accel_NGS_2S_DNA_v1.0	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\1_RepairI_Accel_NGS_2S_DNA_v1.0.pro	1	
+20-Nov-17 10:20:34 AM	Event	Agilent Labware MiniHub - 1		DNA transfer tips 1	2	Agilent Labware MiniHub - 1 Unload the plate from Location : cassette 4, slot 2 to Cassette 4, Slot 2	1_RepairI_Accel_NGS_2S_DNA_v1.0	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\1_RepairI_Accel_NGS_2S_DNA_v1.0.pro	1	
+20-Nov-17 10:20:34 AM	Event	Agilent Labware MiniHub - 1	Cassette 4, slot 2	DNA transfer tips 1	2	Completed: Unload from plate storage device	1_RepairI_Accel_NGS_2S_DNA_v1.0	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\1_RepairI_Accel_NGS_2S_DNA_v1.0.pro	1	
+20-Nov-17 10:20:48 AM	Event	BenchCel - 1		MasterMix tips 1		Finished moving plate from Agilent Labware MiniHub - 1 Cassette 1, Slot 2, teachpoint MiniHub02 to Bravo - 1 3, teachpoint Bravo3			1	
+20-Nov-17 10:20:48 AM	Event	Bravo - 1		MasterMix tips 1		Move plate from Bravo - 1 3, teachpoint 3 to Bravo - 1 2, teachpoint 2			1	
+20-Nov-17 10:20:58 AM	Event	Bravo - 1		MasterMix tips 1		Finished moving plate from Bravo - 1 3, teachpoint 3 to Bravo - 1 2, teachpoint 2			1	
+20-Nov-17 10:20:58 AM	Event	Bravo - 1	2	MasterMix tips 1	2	Completed: Place plate at Bravo - 1 2	1_RepairI_Accel_NGS_2S_DNA_v1.0	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\1_RepairI_Accel_NGS_2S_DNA_v1.0.pro	1	
+20-Nov-17 10:20:58 AM	Event	Bravo - 1	6	Reaction Plate 1	3	Place plate at Bravo - 1 6	1_RepairI_Accel_NGS_2S_DNA_v1.0	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\1_RepairI_Accel_NGS_2S_DNA_v1.0.pro	1	
+20-Nov-17 10:20:58 AM	Event	BenchCel - 1		Reaction Plate 1		Move plate from Agilent Labware MiniHub - 1 Cassette 2, Slot 5, teachpoint MiniHub05 to Bravo - 1 3, teachpoint Bravo3			1	
+20-Nov-17 10:21:13 AM	Event	BenchCel - 1		Reaction Plate 1		Finished moving plate from Agilent Labware MiniHub - 1 Cassette 2, Slot 5, teachpoint MiniHub05 to Bravo - 1 3, teachpoint Bravo3			1	
+20-Nov-17 10:21:13 AM	Event	Bravo - 1		Reaction Plate 1		Move plate from Bravo - 1 3, teachpoint 3 to Bravo - 1 6, teachpoint 6			1	
+20-Nov-17 10:21:22 AM	Event	Bravo - 1		Reaction Plate 1		Finished moving plate from Bravo - 1 3, teachpoint 3 to Bravo - 1 6, teachpoint 6			1	
+20-Nov-17 10:21:22 AM	Event	Bravo - 1	6	Reaction Plate 1	3	Completed: Place plate at Bravo - 1 6	1_RepairI_Accel_NGS_2S_DNA_v1.0	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\1_RepairI_Accel_NGS_2S_DNA_v1.0.pro	1	
+20-Nov-17 10:21:22 AM	Event	Bravo - 1	8	Used MasterMix Tips 1	2	Place plate at Bravo - 1 8	1_RepairI_Accel_NGS_2S_DNA_v1.0	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\1_RepairI_Accel_NGS_2S_DNA_v1.0.pro	1	
+20-Nov-17 10:21:22 AM	Event	BenchCel - 1		Used MasterMix Tips 1		Move plate from Agilent Labware MiniHub - 1 Cassette 1, Slot 1, teachpoint MiniHub01 to Bravo - 1 3, teachpoint Bravo3			1	
+20-Nov-17 10:21:38 AM	Event	BenchCel - 1		Used MasterMix Tips 1		Finished moving plate from Agilent Labware MiniHub - 1 Cassette 1, Slot 1, teachpoint MiniHub01 to Bravo - 1 3, teachpoint Bravo3			1	
+20-Nov-17 10:21:38 AM	Event	Bravo - 1		Used MasterMix Tips 1		Move plate from Bravo - 1 3, teachpoint 3 to Bravo - 1 8, teachpoint 8			1	
+20-Nov-17 10:21:50 AM	Event	Bravo - 1		Used MasterMix Tips 1		Finished moving plate from Bravo - 1 3, teachpoint 3 to Bravo - 1 8, teachpoint 8			1	
+20-Nov-17 10:21:50 AM	Event	Bravo - 1	8	Used MasterMix Tips 1	2	Completed: Place plate at Bravo - 1 8	1_RepairI_Accel_NGS_2S_DNA_v1.0	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\1_RepairI_Accel_NGS_2S_DNA_v1.0.pro	1	
+20-Nov-17 10:22:07 AM	Info			Master Mix Addition 1	1	Task will run immediately in order to prevent a deadlock			1	
+20-Nov-17 10:22:07 AM	Event	Bravo - 1	9	Master Mix Addition 1	1	Begin task group	1_RepairI_Accel_NGS_2S_DNA_v1.0	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\1_RepairI_Accel_NGS_2S_DNA_v1.0.pro	1	
+20-Nov-17 10:22:07 AM	Event	Bravo - 1	2	Master Mix Addition 1	1	Begin task group	1_RepairI_Accel_NGS_2S_DNA_v1.0	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\1_RepairI_Accel_NGS_2S_DNA_v1.0.pro	1	
+20-Nov-17 10:22:07 AM	Event	Bravo - 1	6	Master Mix Addition 1	1	Begin task group	1_RepairI_Accel_NGS_2S_DNA_v1.0	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\1_RepairI_Accel_NGS_2S_DNA_v1.0.pro	1	
+20-Nov-17 10:22:07 AM	Event	Bravo - 1	8	Master Mix Addition 1	1	Begin task group	1_RepairI_Accel_NGS_2S_DNA_v1.0	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\1_RepairI_Accel_NGS_2S_DNA_v1.0.pro	1	
+20-Nov-17 10:22:07 AM	Event	Bravo - 1	9	Master Mix Addition 1	1	Completed: Begin task group	1_RepairI_Accel_NGS_2S_DNA_v1.0	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\1_RepairI_Accel_NGS_2S_DNA_v1.0.pro	1	
+20-Nov-17 10:22:07 AM	Event	Bravo - 1	2	Master Mix Addition 1	1	Completed: Begin task group	1_RepairI_Accel_NGS_2S_DNA_v1.0	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\1_RepairI_Accel_NGS_2S_DNA_v1.0.pro	1	
+20-Nov-17 10:22:07 AM	Event	Bravo - 1	6	Master Mix Addition 1	1	Completed: Begin task group	1_RepairI_Accel_NGS_2S_DNA_v1.0	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\1_RepairI_Accel_NGS_2S_DNA_v1.0.pro	1	
+20-Nov-17 10:22:07 AM	Event	Bravo - 1	8	Master Mix Addition 1	1	Completed: Begin task group	1_RepairI_Accel_NGS_2S_DNA_v1.0	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\1_RepairI_Accel_NGS_2S_DNA_v1.0.pro	1	
+20-Nov-17 10:22:07 AM	Event	Bravo - 1	Default Location	Master Mix Addition 1	2	Set head mode to 1 column: 12	1_RepairI_Accel_NGS_2S_DNA_v1.0	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\1_RepairI_Accel_NGS_2S_DNA_v1.0.pro	1	
+20-Nov-17 10:22:07 AM	Event	Bravo - 1	Default Location	Master Mix Addition 1	2	Completed: Set head mode to 1 column: 12	1_RepairI_Accel_NGS_2S_DNA_v1.0	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\1_RepairI_Accel_NGS_2S_DNA_v1.0.pro	1	
+20-Nov-17 10:22:08 AM	Script					Pressing tips on at 1,1			1	
+20-Nov-17 10:22:08 AM	Event	Bravo - 1	2	Master Mix Addition 1	3	Tips On in 1 selection(s) from MasterMix tips 1	1_RepairI_Accel_NGS_2S_DNA_v1.0	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\1_RepairI_Accel_NGS_2S_DNA_v1.0.pro	1	
+20-Nov-17 10:22:17 AM	Event	Bravo - 1	2	Master Mix Addition 1	3	Completed: Tips On in 1 selection(s) from MasterMix tips 1	1_RepairI_Accel_NGS_2S_DNA_v1.0	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\1_RepairI_Accel_NGS_2S_DNA_v1.0.pro	1	
+20-Nov-17 10:22:17 AM	Event			Master Mix Addition 1	4	Loop iteration 1	1_RepairI_Accel_NGS_2S_DNA_v1.0	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\1_RepairI_Accel_NGS_2S_DNA_v1.0.pro	1	
+20-Nov-17 10:22:17 AM	Event			Master Mix Addition 1	4	Completed: Loop iteration 1	1_RepairI_Accel_NGS_2S_DNA_v1.0	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\1_RepairI_Accel_NGS_2S_DNA_v1.0.pro	1	
+20-Nov-17 10:22:17 AM	Event	Bravo - 1	9	Master Mix Addition 1	6	Aspirate 10 킠 in 1 selection(s) from Master Mix Plate 1 at Location 9	1_RepairI_Accel_NGS_2S_DNA_v1.0	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\1_RepairI_Accel_NGS_2S_DNA_v1.0.pro	1	
+20-Nov-17 10:22:32 AM	Event	Bravo - 1	9	Master Mix Addition 1	6	Completed: Aspirate 10 킠 in 1 selection(s) from Master Mix Plate 1 at Location 9	1_RepairI_Accel_NGS_2S_DNA_v1.0	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\1_RepairI_Accel_NGS_2S_DNA_v1.0.pro	1	
+20-Nov-17 10:22:33 AM	Event	Bravo - 1	6	Master Mix Addition 1	7	Dispense 10.89732143 킠 in 1 selection(s) to Reaction Plate 1	1_RepairI_Accel_NGS_2S_DNA_v1.0	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\1_RepairI_Accel_NGS_2S_DNA_v1.0.pro	1	
+20-Nov-17 10:22:50 AM	Event	Bravo - 1	6	Master Mix Addition 1	7	Completed: Dispense 10.89732143 킠 in 1 selection(s) to Reaction Plate 1	1_RepairI_Accel_NGS_2S_DNA_v1.0	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\1_RepairI_Accel_NGS_2S_DNA_v1.0.pro	1	
+20-Nov-17 10:22:51 AM	Event			Master Mix Addition 1	8	loop end	1_RepairI_Accel_NGS_2S_DNA_v1.0	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\1_RepairI_Accel_NGS_2S_DNA_v1.0.pro	1	
+20-Nov-17 10:22:51 AM	Event			Master Mix Addition 1	8	Completed: loop end	1_RepairI_Accel_NGS_2S_DNA_v1.0	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\1_RepairI_Accel_NGS_2S_DNA_v1.0.pro	1	
+20-Nov-17 10:22:51 AM	Event			Master Mix Addition 1	4	Loop iteration 2	1_RepairI_Accel_NGS_2S_DNA_v1.0	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\1_RepairI_Accel_NGS_2S_DNA_v1.0.pro	1	
+20-Nov-17 10:22:51 AM	Event			Master Mix Addition 1	4	Completed: Loop iteration 2	1_RepairI_Accel_NGS_2S_DNA_v1.0	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\1_RepairI_Accel_NGS_2S_DNA_v1.0.pro	1	
+20-Nov-17 10:22:51 AM	Event	Bravo - 1	9	Master Mix Addition 1	6	Aspirate 10 킠 in 1 selection(s) from Master Mix Plate 1 at Location 9	1_RepairI_Accel_NGS_2S_DNA_v1.0	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\1_RepairI_Accel_NGS_2S_DNA_v1.0.pro	1	
+20-Nov-17 10:23:07 AM	Event	Bravo - 1	9	Master Mix Addition 1	6	Completed: Aspirate 10 킠 in 1 selection(s) from Master Mix Plate 1 at Location 9	1_RepairI_Accel_NGS_2S_DNA_v1.0	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\1_RepairI_Accel_NGS_2S_DNA_v1.0.pro	1	
+20-Nov-17 10:23:07 AM	Event	Bravo - 1	6	Master Mix Addition 1	7	Dispense 10.89732143 킠 in 1 selection(s) to Reaction Plate 1	1_RepairI_Accel_NGS_2S_DNA_v1.0	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\1_RepairI_Accel_NGS_2S_DNA_v1.0.pro	1	
+20-Nov-17 10:23:25 AM	Event	Bravo - 1	6	Master Mix Addition 1	7	Completed: Dispense 10.89732143 킠 in 1 selection(s) to Reaction Plate 1	1_RepairI_Accel_NGS_2S_DNA_v1.0	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\1_RepairI_Accel_NGS_2S_DNA_v1.0.pro	1	
+20-Nov-17 10:23:25 AM	Event			Master Mix Addition 1	8	loop end	1_RepairI_Accel_NGS_2S_DNA_v1.0	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\1_RepairI_Accel_NGS_2S_DNA_v1.0.pro	1	
+20-Nov-17 10:23:25 AM	Event			Master Mix Addition 1	8	Completed: loop end	1_RepairI_Accel_NGS_2S_DNA_v1.0	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\1_RepairI_Accel_NGS_2S_DNA_v1.0.pro	1	
+20-Nov-17 10:23:26 AM	Event			Master Mix Addition 1	4	Loop iteration 3	1_RepairI_Accel_NGS_2S_DNA_v1.0	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\1_RepairI_Accel_NGS_2S_DNA_v1.0.pro	1	
+20-Nov-17 10:23:26 AM	Event			Master Mix Addition 1	4	Completed: Loop iteration 3	1_RepairI_Accel_NGS_2S_DNA_v1.0	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\1_RepairI_Accel_NGS_2S_DNA_v1.0.pro	1	
+20-Nov-17 10:23:26 AM	Event	Bravo - 1	9	Master Mix Addition 1	6	Aspirate 10 킠 in 1 selection(s) from Master Mix Plate 1 at Location 9	1_RepairI_Accel_NGS_2S_DNA_v1.0	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\1_RepairI_Accel_NGS_2S_DNA_v1.0.pro	1	
+20-Nov-17 10:23:42 AM	Event	Bravo - 1	9	Master Mix Addition 1	6	Completed: Aspirate 10 킠 in 1 selection(s) from Master Mix Plate 1 at Location 9	1_RepairI_Accel_NGS_2S_DNA_v1.0	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\1_RepairI_Accel_NGS_2S_DNA_v1.0.pro	1	
+20-Nov-17 10:23:42 AM	Event	Bravo - 1	6	Master Mix Addition 1	7	Dispense 10.89732143 킠 in 1 selection(s) to Reaction Plate 1	1_RepairI_Accel_NGS_2S_DNA_v1.0	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\1_RepairI_Accel_NGS_2S_DNA_v1.0.pro	1	
+20-Nov-17 10:24:00 AM	Event	Bravo - 1	6	Master Mix Addition 1	7	Completed: Dispense 10.89732143 킠 in 1 selection(s) to Reaction Plate 1	1_RepairI_Accel_NGS_2S_DNA_v1.0	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\1_RepairI_Accel_NGS_2S_DNA_v1.0.pro	1	
+20-Nov-17 10:24:00 AM	Event			Master Mix Addition 1	8	loop end	1_RepairI_Accel_NGS_2S_DNA_v1.0	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\1_RepairI_Accel_NGS_2S_DNA_v1.0.pro	1	
+20-Nov-17 10:24:00 AM	Event			Master Mix Addition 1	8	Completed: loop end	1_RepairI_Accel_NGS_2S_DNA_v1.0	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\1_RepairI_Accel_NGS_2S_DNA_v1.0.pro	1	
+20-Nov-17 10:24:00 AM	Event			Master Mix Addition 1	4	Loop iteration 4	1_RepairI_Accel_NGS_2S_DNA_v1.0	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\1_RepairI_Accel_NGS_2S_DNA_v1.0.pro	1	
+20-Nov-17 10:24:00 AM	Event			Master Mix Addition 1	4	Completed: Loop iteration 4	1_RepairI_Accel_NGS_2S_DNA_v1.0	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\1_RepairI_Accel_NGS_2S_DNA_v1.0.pro	1	
+20-Nov-17 10:24:01 AM	Event	Bravo - 1	9	Master Mix Addition 1	6	Aspirate 10 킠 in 1 selection(s) from Master Mix Plate 1 at Location 9	1_RepairI_Accel_NGS_2S_DNA_v1.0	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\1_RepairI_Accel_NGS_2S_DNA_v1.0.pro	1	
+20-Nov-17 10:24:17 AM	Event	Bravo - 1	9	Master Mix Addition 1	6	Completed: Aspirate 10 킠 in 1 selection(s) from Master Mix Plate 1 at Location 9	1_RepairI_Accel_NGS_2S_DNA_v1.0	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\1_RepairI_Accel_NGS_2S_DNA_v1.0.pro	1	
+20-Nov-17 10:24:17 AM	Event	Bravo - 1	6	Master Mix Addition 1	7	Dispense 10.89732143 킠 in 1 selection(s) to Reaction Plate 1	1_RepairI_Accel_NGS_2S_DNA_v1.0	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\1_RepairI_Accel_NGS_2S_DNA_v1.0.pro	1	
+20-Nov-17 10:24:35 AM	Event	Bravo - 1	6	Master Mix Addition 1	7	Completed: Dispense 10.89732143 킠 in 1 selection(s) to Reaction Plate 1	1_RepairI_Accel_NGS_2S_DNA_v1.0	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\1_RepairI_Accel_NGS_2S_DNA_v1.0.pro	1	
+20-Nov-17 10:24:35 AM	Event			Master Mix Addition 1	8	loop end	1_RepairI_Accel_NGS_2S_DNA_v1.0	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\1_RepairI_Accel_NGS_2S_DNA_v1.0.pro	1	
+20-Nov-17 10:24:35 AM	Event			Master Mix Addition 1	8	Completed: loop end	1_RepairI_Accel_NGS_2S_DNA_v1.0	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\1_RepairI_Accel_NGS_2S_DNA_v1.0.pro	1	
+20-Nov-17 10:24:35 AM	Event			Master Mix Addition 1	4	Loop iteration 5	1_RepairI_Accel_NGS_2S_DNA_v1.0	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\1_RepairI_Accel_NGS_2S_DNA_v1.0.pro	1	
+20-Nov-17 10:24:35 AM	Event			Master Mix Addition 1	4	Completed: Loop iteration 5	1_RepairI_Accel_NGS_2S_DNA_v1.0	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\1_RepairI_Accel_NGS_2S_DNA_v1.0.pro	1	
+20-Nov-17 10:24:35 AM	Event	Bravo - 1	9	Master Mix Addition 1	6	Aspirate 10 킠 in 1 selection(s) from Master Mix Plate 1 at Location 9	1_RepairI_Accel_NGS_2S_DNA_v1.0	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\1_RepairI_Accel_NGS_2S_DNA_v1.0.pro	1	
+20-Nov-17 10:24:52 AM	Event	Bravo - 1	9	Master Mix Addition 1	6	Completed: Aspirate 10 킠 in 1 selection(s) from Master Mix Plate 1 at Location 9	1_RepairI_Accel_NGS_2S_DNA_v1.0	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\1_RepairI_Accel_NGS_2S_DNA_v1.0.pro	1	
+20-Nov-17 10:24:52 AM	Event	Bravo - 1	6	Master Mix Addition 1	7	Dispense 10.89732143 킠 in 1 selection(s) to Reaction Plate 1	1_RepairI_Accel_NGS_2S_DNA_v1.0	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\1_RepairI_Accel_NGS_2S_DNA_v1.0.pro	1	
+20-Nov-17 10:25:10 AM	Event	Bravo - 1	6	Master Mix Addition 1	7	Completed: Dispense 10.89732143 킠 in 1 selection(s) to Reaction Plate 1	1_RepairI_Accel_NGS_2S_DNA_v1.0	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\1_RepairI_Accel_NGS_2S_DNA_v1.0.pro	1	
+20-Nov-17 10:25:10 AM	Event			Master Mix Addition 1	8	loop end	1_RepairI_Accel_NGS_2S_DNA_v1.0	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\1_RepairI_Accel_NGS_2S_DNA_v1.0.pro	1	
+20-Nov-17 10:25:10 AM	Event			Master Mix Addition 1	8	Completed: loop end	1_RepairI_Accel_NGS_2S_DNA_v1.0	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\1_RepairI_Accel_NGS_2S_DNA_v1.0.pro	1	
+20-Nov-17 10:25:10 AM	Event			Master Mix Addition 1	4	Loop iteration 6	1_RepairI_Accel_NGS_2S_DNA_v1.0	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\1_RepairI_Accel_NGS_2S_DNA_v1.0.pro	1	
+20-Nov-17 10:25:10 AM	Event			Master Mix Addition 1	4	Completed: Loop iteration 6	1_RepairI_Accel_NGS_2S_DNA_v1.0	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\1_RepairI_Accel_NGS_2S_DNA_v1.0.pro	1	
+20-Nov-17 10:25:10 AM	Event	Bravo - 1	9	Master Mix Addition 1	6	Aspirate 10 킠 in 1 selection(s) from Master Mix Plate 1 at Location 9	1_RepairI_Accel_NGS_2S_DNA_v1.0	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\1_RepairI_Accel_NGS_2S_DNA_v1.0.pro	1	
+20-Nov-17 10:25:26 AM	Event	Bravo - 1	9	Master Mix Addition 1	6	Completed: Aspirate 10 킠 in 1 selection(s) from Master Mix Plate 1 at Location 9	1_RepairI_Accel_NGS_2S_DNA_v1.0	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\1_RepairI_Accel_NGS_2S_DNA_v1.0.pro	1	
+20-Nov-17 10:25:27 AM	Event	Bravo - 1	6	Master Mix Addition 1	7	Dispense 10.89732143 킠 in 1 selection(s) to Reaction Plate 1	1_RepairI_Accel_NGS_2S_DNA_v1.0	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\1_RepairI_Accel_NGS_2S_DNA_v1.0.pro	1	
+20-Nov-17 10:25:44 AM	Event	Bravo - 1	6	Master Mix Addition 1	7	Completed: Dispense 10.89732143 킠 in 1 selection(s) to Reaction Plate 1	1_RepairI_Accel_NGS_2S_DNA_v1.0	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\1_RepairI_Accel_NGS_2S_DNA_v1.0.pro	1	
+20-Nov-17 10:25:44 AM	Event			Master Mix Addition 1	8	loop end	1_RepairI_Accel_NGS_2S_DNA_v1.0	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\1_RepairI_Accel_NGS_2S_DNA_v1.0.pro	1	
+20-Nov-17 10:25:44 AM	Event			Master Mix Addition 1	8	Completed: loop end	1_RepairI_Accel_NGS_2S_DNA_v1.0	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\1_RepairI_Accel_NGS_2S_DNA_v1.0.pro	1	
+20-Nov-17 10:25:45 AM	Event			Master Mix Addition 1	4	Loop iteration 7	1_RepairI_Accel_NGS_2S_DNA_v1.0	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\1_RepairI_Accel_NGS_2S_DNA_v1.0.pro	1	
+20-Nov-17 10:25:45 AM	Event			Master Mix Addition 1	4	Completed: Loop iteration 7	1_RepairI_Accel_NGS_2S_DNA_v1.0	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\1_RepairI_Accel_NGS_2S_DNA_v1.0.pro	1	
+20-Nov-17 10:25:45 AM	Event	Bravo - 1	9	Master Mix Addition 1	6	Aspirate 10 킠 in 1 selection(s) from Master Mix Plate 1 at Location 9	1_RepairI_Accel_NGS_2S_DNA_v1.0	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\1_RepairI_Accel_NGS_2S_DNA_v1.0.pro	1	
+20-Nov-17 10:26:01 AM	Event	Bravo - 1	9	Master Mix Addition 1	6	Completed: Aspirate 10 킠 in 1 selection(s) from Master Mix Plate 1 at Location 9	1_RepairI_Accel_NGS_2S_DNA_v1.0	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\1_RepairI_Accel_NGS_2S_DNA_v1.0.pro	1	
+20-Nov-17 10:26:01 AM	Event	Bravo - 1	6	Master Mix Addition 1	7	Dispense 10.90178571 킠 in 1 selection(s) to Reaction Plate 1	1_RepairI_Accel_NGS_2S_DNA_v1.0	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\1_RepairI_Accel_NGS_2S_DNA_v1.0.pro	1	
+20-Nov-17 10:26:19 AM	Event	Bravo - 1	6	Master Mix Addition 1	7	Completed: Dispense 10.90178571 킠 in 1 selection(s) to Reaction Plate 1	1_RepairI_Accel_NGS_2S_DNA_v1.0	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\1_RepairI_Accel_NGS_2S_DNA_v1.0.pro	1	
+20-Nov-17 10:26:19 AM	Event			Master Mix Addition 1	8	loop end	1_RepairI_Accel_NGS_2S_DNA_v1.0	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\1_RepairI_Accel_NGS_2S_DNA_v1.0.pro	1	
+20-Nov-17 10:26:19 AM	Event			Master Mix Addition 1	8	Completed: loop end	1_RepairI_Accel_NGS_2S_DNA_v1.0	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\1_RepairI_Accel_NGS_2S_DNA_v1.0.pro	1	
+20-Nov-17 10:26:19 AM	Event			Master Mix Addition 1	4	Loop iteration 8	1_RepairI_Accel_NGS_2S_DNA_v1.0	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\1_RepairI_Accel_NGS_2S_DNA_v1.0.pro	1	
+20-Nov-17 10:26:19 AM	Event			Master Mix Addition 1	4	Completed: Loop iteration 8	1_RepairI_Accel_NGS_2S_DNA_v1.0	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\1_RepairI_Accel_NGS_2S_DNA_v1.0.pro	1	
+20-Nov-17 10:26:20 AM	Event	Bravo - 1	9	Master Mix Addition 1	6	Aspirate 10 킠 in 1 selection(s) from Master Mix Plate 1 at Location 9	1_RepairI_Accel_NGS_2S_DNA_v1.0	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\1_RepairI_Accel_NGS_2S_DNA_v1.0.pro	1	
+20-Nov-17 10:26:36 AM	Event	Bravo - 1	9	Master Mix Addition 1	6	Completed: Aspirate 10 킠 in 1 selection(s) from Master Mix Plate 1 at Location 9	1_RepairI_Accel_NGS_2S_DNA_v1.0	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\1_RepairI_Accel_NGS_2S_DNA_v1.0.pro	1	
+20-Nov-17 10:26:36 AM	Event	Bravo - 1	6	Master Mix Addition 1	7	Dispense 10.89732143 킠 in 1 selection(s) to Reaction Plate 1	1_RepairI_Accel_NGS_2S_DNA_v1.0	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\1_RepairI_Accel_NGS_2S_DNA_v1.0.pro	1	
+20-Nov-17 10:26:54 AM	Event	Bravo - 1	6	Master Mix Addition 1	7	Completed: Dispense 10.89732143 킠 in 1 selection(s) to Reaction Plate 1	1_RepairI_Accel_NGS_2S_DNA_v1.0	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\1_RepairI_Accel_NGS_2S_DNA_v1.0.pro	1	
+20-Nov-17 10:26:54 AM	Event			Master Mix Addition 1	8	loop end	1_RepairI_Accel_NGS_2S_DNA_v1.0	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\1_RepairI_Accel_NGS_2S_DNA_v1.0.pro	1	
+20-Nov-17 10:26:54 AM	Event			Master Mix Addition 1	8	Completed: loop end	1_RepairI_Accel_NGS_2S_DNA_v1.0	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\1_RepairI_Accel_NGS_2S_DNA_v1.0.pro	1	
+20-Nov-17 10:26:54 AM	Event			Master Mix Addition 1	4	Loop iteration 9	1_RepairI_Accel_NGS_2S_DNA_v1.0	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\1_RepairI_Accel_NGS_2S_DNA_v1.0.pro	1	
+20-Nov-17 10:26:54 AM	Event			Master Mix Addition 1	4	Completed: Loop iteration 9	1_RepairI_Accel_NGS_2S_DNA_v1.0	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\1_RepairI_Accel_NGS_2S_DNA_v1.0.pro	1	
+20-Nov-17 10:26:54 AM	Event	Bravo - 1	9	Master Mix Addition 1	6	Aspirate 10 킠 in 1 selection(s) from Master Mix Plate 1 at Location 9	1_RepairI_Accel_NGS_2S_DNA_v1.0	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\1_RepairI_Accel_NGS_2S_DNA_v1.0.pro	1	
+20-Nov-17 10:27:11 AM	Event	Bravo - 1	9	Master Mix Addition 1	6	Completed: Aspirate 10 킠 in 1 selection(s) from Master Mix Plate 1 at Location 9	1_RepairI_Accel_NGS_2S_DNA_v1.0	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\1_RepairI_Accel_NGS_2S_DNA_v1.0.pro	1	
+20-Nov-17 10:27:11 AM	Event	Bravo - 1	6	Master Mix Addition 1	7	Dispense 10.89732143 킠 in 1 selection(s) to Reaction Plate 1	1_RepairI_Accel_NGS_2S_DNA_v1.0	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\1_RepairI_Accel_NGS_2S_DNA_v1.0.pro	1	
+20-Nov-17 10:27:29 AM	Event	Bravo - 1	6	Master Mix Addition 1	7	Completed: Dispense 10.89732143 킠 in 1 selection(s) to Reaction Plate 1	1_RepairI_Accel_NGS_2S_DNA_v1.0	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\1_RepairI_Accel_NGS_2S_DNA_v1.0.pro	1	
+20-Nov-17 10:27:29 AM	Event			Master Mix Addition 1	8	loop end	1_RepairI_Accel_NGS_2S_DNA_v1.0	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\1_RepairI_Accel_NGS_2S_DNA_v1.0.pro	1	
+20-Nov-17 10:27:29 AM	Event			Master Mix Addition 1	8	Completed: loop end	1_RepairI_Accel_NGS_2S_DNA_v1.0	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\1_RepairI_Accel_NGS_2S_DNA_v1.0.pro	1	
+20-Nov-17 10:27:29 AM	Event			Master Mix Addition 1	4	Loop iteration 10	1_RepairI_Accel_NGS_2S_DNA_v1.0	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\1_RepairI_Accel_NGS_2S_DNA_v1.0.pro	1	
+20-Nov-17 10:27:29 AM	Event			Master Mix Addition 1	4	Completed: Loop iteration 10	1_RepairI_Accel_NGS_2S_DNA_v1.0	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\1_RepairI_Accel_NGS_2S_DNA_v1.0.pro	1	
+20-Nov-17 10:27:29 AM	Event	Bravo - 1	9	Master Mix Addition 1	6	Aspirate 10 킠 in 1 selection(s) from Master Mix Plate 1 at Location 9	1_RepairI_Accel_NGS_2S_DNA_v1.0	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\1_RepairI_Accel_NGS_2S_DNA_v1.0.pro	1	
+20-Nov-17 10:27:45 AM	Event	Bravo - 1	9	Master Mix Addition 1	6	Completed: Aspirate 10 킠 in 1 selection(s) from Master Mix Plate 1 at Location 9	1_RepairI_Accel_NGS_2S_DNA_v1.0	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\1_RepairI_Accel_NGS_2S_DNA_v1.0.pro	1	
+20-Nov-17 10:27:45 AM	Event	Bravo - 1	6	Master Mix Addition 1	7	Dispense 10.89732143 킠 in 1 selection(s) to Reaction Plate 1	1_RepairI_Accel_NGS_2S_DNA_v1.0	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\1_RepairI_Accel_NGS_2S_DNA_v1.0.pro	1	
+20-Nov-17 10:28:03 AM	Event	Bravo - 1	6	Master Mix Addition 1	7	Completed: Dispense 10.89732143 킠 in 1 selection(s) to Reaction Plate 1	1_RepairI_Accel_NGS_2S_DNA_v1.0	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\1_RepairI_Accel_NGS_2S_DNA_v1.0.pro	1	
+20-Nov-17 10:28:03 AM	Event			Master Mix Addition 1	8	loop end	1_RepairI_Accel_NGS_2S_DNA_v1.0	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\1_RepairI_Accel_NGS_2S_DNA_v1.0.pro	1	
+20-Nov-17 10:28:03 AM	Event			Master Mix Addition 1	8	Completed: loop end	1_RepairI_Accel_NGS_2S_DNA_v1.0	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\1_RepairI_Accel_NGS_2S_DNA_v1.0.pro	1	
+20-Nov-17 10:28:04 AM	Event			Master Mix Addition 1	4	Loop iteration 11	1_RepairI_Accel_NGS_2S_DNA_v1.0	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\1_RepairI_Accel_NGS_2S_DNA_v1.0.pro	1	
+20-Nov-17 10:28:04 AM	Event			Master Mix Addition 1	4	Completed: Loop iteration 11	1_RepairI_Accel_NGS_2S_DNA_v1.0	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\1_RepairI_Accel_NGS_2S_DNA_v1.0.pro	1	
+20-Nov-17 10:28:04 AM	Event	Bravo - 1	9	Master Mix Addition 1	6	Aspirate 10 킠 in 1 selection(s) from Master Mix Plate 1 at Location 9	1_RepairI_Accel_NGS_2S_DNA_v1.0	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\1_RepairI_Accel_NGS_2S_DNA_v1.0.pro	1	
+20-Nov-17 10:28:20 AM	Event	Bravo - 1	9	Master Mix Addition 1	6	Completed: Aspirate 10 킠 in 1 selection(s) from Master Mix Plate 1 at Location 9	1_RepairI_Accel_NGS_2S_DNA_v1.0	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\1_RepairI_Accel_NGS_2S_DNA_v1.0.pro	1	
+20-Nov-17 10:28:20 AM	Event	Bravo - 1	6	Master Mix Addition 1	7	Dispense 10.89732143 킠 in 1 selection(s) to Reaction Plate 1	1_RepairI_Accel_NGS_2S_DNA_v1.0	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\1_RepairI_Accel_NGS_2S_DNA_v1.0.pro	1	
+20-Nov-17 10:28:38 AM	Event	Bravo - 1	6	Master Mix Addition 1	7	Completed: Dispense 10.89732143 킠 in 1 selection(s) to Reaction Plate 1	1_RepairI_Accel_NGS_2S_DNA_v1.0	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\1_RepairI_Accel_NGS_2S_DNA_v1.0.pro	1	
+20-Nov-17 10:28:38 AM	Event			Master Mix Addition 1	8	loop end	1_RepairI_Accel_NGS_2S_DNA_v1.0	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\1_RepairI_Accel_NGS_2S_DNA_v1.0.pro	1	
+20-Nov-17 10:28:38 AM	Event			Master Mix Addition 1	8	Completed: loop end	1_RepairI_Accel_NGS_2S_DNA_v1.0	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\1_RepairI_Accel_NGS_2S_DNA_v1.0.pro	1	
+20-Nov-17 10:28:38 AM	Event			Master Mix Addition 1	4	Loop iteration 12	1_RepairI_Accel_NGS_2S_DNA_v1.0	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\1_RepairI_Accel_NGS_2S_DNA_v1.0.pro	1	
+20-Nov-17 10:28:38 AM	Event			Master Mix Addition 1	4	Completed: Loop iteration 12	1_RepairI_Accel_NGS_2S_DNA_v1.0	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\1_RepairI_Accel_NGS_2S_DNA_v1.0.pro	1	
+20-Nov-17 10:28:39 AM	Event	Bravo - 1	9	Master Mix Addition 1	6	Aspirate 10 킠 in 1 selection(s) from Master Mix Plate 1 at Location 9	1_RepairI_Accel_NGS_2S_DNA_v1.0	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\1_RepairI_Accel_NGS_2S_DNA_v1.0.pro	1	
+20-Nov-17 10:28:55 AM	Event	Bravo - 1	9	Master Mix Addition 1	6	Completed: Aspirate 10 킠 in 1 selection(s) from Master Mix Plate 1 at Location 9	1_RepairI_Accel_NGS_2S_DNA_v1.0	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\1_RepairI_Accel_NGS_2S_DNA_v1.0.pro	1	
+20-Nov-17 10:28:55 AM	Event	Bravo - 1	6	Master Mix Addition 1	7	Dispense 10.89732143 킠 in 1 selection(s) to Reaction Plate 1	1_RepairI_Accel_NGS_2S_DNA_v1.0	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\1_RepairI_Accel_NGS_2S_DNA_v1.0.pro	1	
+20-Nov-17 10:29:13 AM	Event	Bravo - 1	6	Master Mix Addition 1	7	Completed: Dispense 10.89732143 킠 in 1 selection(s) to Reaction Plate 1	1_RepairI_Accel_NGS_2S_DNA_v1.0	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\1_RepairI_Accel_NGS_2S_DNA_v1.0.pro	1	
+20-Nov-17 10:29:13 AM	Event			Master Mix Addition 1	8	loop end	1_RepairI_Accel_NGS_2S_DNA_v1.0	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\1_RepairI_Accel_NGS_2S_DNA_v1.0.pro	1	
+20-Nov-17 10:29:13 AM	Event			Master Mix Addition 1	8	Completed: loop end	1_RepairI_Accel_NGS_2S_DNA_v1.0	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\1_RepairI_Accel_NGS_2S_DNA_v1.0.pro	1	
+20-Nov-17 10:29:13 AM	Script					Taking tips off at 1,1			1	
+20-Nov-17 10:29:13 AM	Event	Bravo - 1	8	Master Mix Addition 1	9	Tips Off in 1 selection(s) from Used MasterMix Tips 1 at Location 8	1_RepairI_Accel_NGS_2S_DNA_v1.0	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\1_RepairI_Accel_NGS_2S_DNA_v1.0.pro	1	
+20-Nov-17 10:29:21 AM	Event	Bravo - 1	8	Master Mix Addition 1	9	Completed: Tips Off in 1 selection(s) from Used MasterMix Tips 1 at Location 8	1_RepairI_Accel_NGS_2S_DNA_v1.0	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\1_RepairI_Accel_NGS_2S_DNA_v1.0.pro	1	
+20-Nov-17 10:29:21 AM	Event			Master Mix Addition 1	10	End task group	1_RepairI_Accel_NGS_2S_DNA_v1.0	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\1_RepairI_Accel_NGS_2S_DNA_v1.0.pro	1	
+20-Nov-17 10:29:21 AM	Event			Master Mix Addition 1	10	Completed: End task group	1_RepairI_Accel_NGS_2S_DNA_v1.0	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\1_RepairI_Accel_NGS_2S_DNA_v1.0.pro	1	
+20-Nov-17 10:29:21 AM	Event			Master Mix Addition 1		Process finishing	1_RepairI_Accel_NGS_2S_DNA_v1.0	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\1_RepairI_Accel_NGS_2S_DNA_v1.0.pro	1	
+20-Nov-17 10:29:21 AM	Event	Agilent Labware MiniHub - 1	Cassette 1, slot 2	MasterMix tips 1	4	Load into plate storage device	1_RepairI_Accel_NGS_2S_DNA_v1.0	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\1_RepairI_Accel_NGS_2S_DNA_v1.0.pro	1	
+20-Nov-17 10:29:21 AM	Event	Bravo - 1		MasterMix tips 1		Move plate from Bravo - 1 2, teachpoint 2 to Bravo - 1 3, teachpoint 3			1	
+20-Nov-17 10:29:31 AM	Event	Bravo - 1		MasterMix tips 1		Finished moving plate from Bravo - 1 2, teachpoint 2 to Bravo - 1 3, teachpoint 3			1	
+20-Nov-17 10:29:31 AM	Event	BenchCel - 1		MasterMix tips 1		Move plate from Bravo - 1 3, teachpoint Bravo3 to Agilent Labware MiniHub - 1 Cassette 1, Slot 2, teachpoint MiniHub02			1	
+20-Nov-17 10:29:31 AM	Event	Bravo - 1	9	Master Mix Plate 1	3	Place plate at Bravo - 1 9	1_RepairI_Accel_NGS_2S_DNA_v1.0	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\1_RepairI_Accel_NGS_2S_DNA_v1.0.pro	1	
+20-Nov-17 10:29:31 AM	Event	Bravo - 1	9	Master Mix Plate 1	3	Completed: Place plate at Bravo - 1 9	1_RepairI_Accel_NGS_2S_DNA_v1.0	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\1_RepairI_Accel_NGS_2S_DNA_v1.0.pro	1	
+20-Nov-17 10:29:31 AM	Event			Master Mix Plate 1		Process finishing	1_RepairI_Accel_NGS_2S_DNA_v1.0	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\1_RepairI_Accel_NGS_2S_DNA_v1.0.pro	1	
+20-Nov-17 10:29:41 AM	Event	BenchCel - 1		MasterMix tips 1		Finished moving plate from Bravo - 1 3, teachpoint Bravo3 to Agilent Labware MiniHub - 1 Cassette 1, Slot 2, teachpoint MiniHub02			1	
+20-Nov-17 10:29:41 AM	Event	Agilent Labware MiniHub - 1		MasterMix tips 1	4	Agilent Labware MiniHub - 1 Load the plate from Cassette 1, Slot 2 into Location : cassette 1, slot 2	1_RepairI_Accel_NGS_2S_DNA_v1.0	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\1_RepairI_Accel_NGS_2S_DNA_v1.0.pro	1	
+20-Nov-17 10:29:41 AM	Event	Agilent Labware MiniHub - 1	Cassette 1, slot 2	MasterMix tips 1	4	Completed: Load into plate storage device	1_RepairI_Accel_NGS_2S_DNA_v1.0	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\1_RepairI_Accel_NGS_2S_DNA_v1.0.pro	1	
+20-Nov-17 10:29:41 AM	Event			MasterMix tips 1	5	Signal Waitfor of Reaction Plate 1	1_RepairI_Accel_NGS_2S_DNA_v1.0	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\1_RepairI_Accel_NGS_2S_DNA_v1.0.pro	1	
+20-Nov-17 10:29:41 AM	Event			MasterMix tips 1	5	Completed: Signal Waitfor of Reaction Plate 1	1_RepairI_Accel_NGS_2S_DNA_v1.0	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\1_RepairI_Accel_NGS_2S_DNA_v1.0.pro	1	
+20-Nov-17 10:29:41 AM	Event			Reaction Plate 1	5	Waitfor "Waitfor" has been signaled	1_RepairI_Accel_NGS_2S_DNA_v1.0	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\1_RepairI_Accel_NGS_2S_DNA_v1.0.pro	1	
+20-Nov-17 10:29:41 AM	Event			Reaction Plate 1	5	Completed: Waitfor "Waitfor" has been signaled	1_RepairI_Accel_NGS_2S_DNA_v1.0	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\1_RepairI_Accel_NGS_2S_DNA_v1.0.pro	1	
+20-Nov-17 10:29:41 AM	Event			MasterMix tips 1		Process finishing	1_RepairI_Accel_NGS_2S_DNA_v1.0	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\1_RepairI_Accel_NGS_2S_DNA_v1.0.pro	1	
+20-Nov-17 10:29:41 AM	Event	Agilent Labware MiniHub - 1	Cassette 1, slot 1	Used MasterMix Tips 1	4	Load into plate storage device	1_RepairI_Accel_NGS_2S_DNA_v1.0	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\1_RepairI_Accel_NGS_2S_DNA_v1.0.pro	1	
+20-Nov-17 10:29:41 AM	Event	Bravo - 1		Used MasterMix Tips 1		Move plate from Bravo - 1 8, teachpoint 8 to Bravo - 1 3, teachpoint 3			1	
+20-Nov-17 10:29:52 AM	Event	Bravo - 1		Used MasterMix Tips 1		Finished moving plate from Bravo - 1 8, teachpoint 8 to Bravo - 1 3, teachpoint 3			1	
+20-Nov-17 10:29:52 AM	Event	BenchCel - 1		Used MasterMix Tips 1		Move plate from Bravo - 1 3, teachpoint Bravo3 to Agilent Labware MiniHub - 1 Cassette 1, Slot 1, teachpoint MiniHub01			1	
+20-Nov-17 10:30:02 AM	Event	BenchCel - 1		Used MasterMix Tips 1		Finished moving plate from Bravo - 1 3, teachpoint Bravo3 to Agilent Labware MiniHub - 1 Cassette 1, Slot 1, teachpoint MiniHub01			1	
+20-Nov-17 10:30:02 AM	Event	Agilent Labware MiniHub - 1		Used MasterMix Tips 1	4	Agilent Labware MiniHub - 1 Load the plate from Cassette 1, Slot 1 into Location : cassette 1, slot 1	1_RepairI_Accel_NGS_2S_DNA_v1.0	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\1_RepairI_Accel_NGS_2S_DNA_v1.0.pro	1	
+20-Nov-17 10:30:02 AM	Event	Agilent Labware MiniHub - 1	Cassette 1, slot 1	Used MasterMix Tips 1	4	Completed: Load into plate storage device	1_RepairI_Accel_NGS_2S_DNA_v1.0	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\1_RepairI_Accel_NGS_2S_DNA_v1.0.pro	1	
+20-Nov-17 10:30:03 AM	Event			Used MasterMix Tips 1	5	Signal Waitfor_1 of DNA Plate 1	1_RepairI_Accel_NGS_2S_DNA_v1.0	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\1_RepairI_Accel_NGS_2S_DNA_v1.0.pro	1	
+20-Nov-17 10:30:03 AM	Event			Used MasterMix Tips 1	5	Completed: Signal Waitfor_1 of DNA Plate 1	1_RepairI_Accel_NGS_2S_DNA_v1.0	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\1_RepairI_Accel_NGS_2S_DNA_v1.0.pro	1	
+20-Nov-17 10:30:03 AM	Event			DNA Plate 1	2	Waitfor "Waitfor_1" has been signaled	1_RepairI_Accel_NGS_2S_DNA_v1.0	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\1_RepairI_Accel_NGS_2S_DNA_v1.0.pro	1	
+20-Nov-17 10:30:03 AM	Event			Used MasterMix Tips 1		Process finishing	1_RepairI_Accel_NGS_2S_DNA_v1.0	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\1_RepairI_Accel_NGS_2S_DNA_v1.0.pro	1	
+20-Nov-17 10:30:03 AM	Event			DNA Plate 1	2	Completed: Waitfor "Waitfor_1" has been signaled	1_RepairI_Accel_NGS_2S_DNA_v1.0	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\1_RepairI_Accel_NGS_2S_DNA_v1.0.pro	1	
+20-Nov-17 10:30:03 AM	Event			DNA Plate 1	3	Spawn Used DNA transfer tips	1_RepairI_Accel_NGS_2S_DNA_v1.0	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\1_RepairI_Accel_NGS_2S_DNA_v1.0.pro	1	
+20-Nov-17 10:30:03 AM	Event			DNA Plate 1	3	Completed: Spawn Used DNA transfer tips	1_RepairI_Accel_NGS_2S_DNA_v1.0	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\1_RepairI_Accel_NGS_2S_DNA_v1.0.pro	1	
+20-Nov-17 10:30:03 AM	Event			Used DNA transfer tips 1		Process starting, north barcode: No bar code, east barcode: No bar code, south barcode: No bar code, west barcode: No bar code	1_RepairI_Accel_NGS_2S_DNA_v1.0	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\1_RepairI_Accel_NGS_2S_DNA_v1.0.pro	1	
+20-Nov-17 10:30:03 AM	Event	Agilent Labware MiniHub - 1	Cassette 4, slot 1	Used DNA transfer tips 1	1	Unload from plate storage device	1_RepairI_Accel_NGS_2S_DNA_v1.0	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\1_RepairI_Accel_NGS_2S_DNA_v1.0.pro	1	
+20-Nov-17 10:30:03 AM	Event	Agilent Labware MiniHub - 1		Used DNA transfer tips 1		Agilent Labware MiniHub - 1 Unload the plate from Location : cassette 4, slot 1 to Cassette 4, Slot 1	1_RepairI_Accel_NGS_2S_DNA_v1.0	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\1_RepairI_Accel_NGS_2S_DNA_v1.0.pro	1	
+20-Nov-17 10:30:03 AM	Event	Agilent Labware MiniHub - 1	Cassette 4, slot 1	Used DNA transfer tips 1	1	Completed: Unload from plate storage device	1_RepairI_Accel_NGS_2S_DNA_v1.0	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\1_RepairI_Accel_NGS_2S_DNA_v1.0.pro	1	
+20-Nov-17 10:30:03 AM	Event	BenchCel - 1		DNA transfer tips 1		Move plate from Agilent Labware MiniHub - 1 Cassette 4, Slot 2, teachpoint MiniHub02 to Bravo - 1 3, teachpoint Bravo3			1	
+20-Nov-17 10:30:17 AM	Event	BenchCel - 1		DNA transfer tips 1		Finished moving plate from Agilent Labware MiniHub - 1 Cassette 4, Slot 2, teachpoint MiniHub02 to Bravo - 1 3, teachpoint Bravo3			1	
+20-Nov-17 10:30:17 AM	Event	Bravo - 1		DNA transfer tips 1		Move plate from Bravo - 1 3, teachpoint 3 to Bravo - 1 2, teachpoint 2			1	
+20-Nov-17 10:30:26 AM	Event	Bravo - 1		DNA transfer tips 1		Finished moving plate from Bravo - 1 3, teachpoint 3 to Bravo - 1 2, teachpoint 2			1	
+20-Nov-17 10:30:27 AM	Event	Bravo - 1	8	Used DNA transfer tips 1	2	Place plate at Bravo - 1 8	1_RepairI_Accel_NGS_2S_DNA_v1.0	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\1_RepairI_Accel_NGS_2S_DNA_v1.0.pro	1	
+20-Nov-17 10:30:27 AM	Event	BenchCel - 1		Used DNA transfer tips 1		Move plate from Agilent Labware MiniHub - 1 Cassette 4, Slot 1, teachpoint MiniHub01 to Bravo - 1 3, teachpoint Bravo3			1	
+20-Nov-17 10:30:38 AM	Event	BenchCel - 1		Used DNA transfer tips 1		Finished moving plate from Agilent Labware MiniHub - 1 Cassette 4, Slot 1, teachpoint MiniHub01 to Bravo - 1 3, teachpoint Bravo3			1	
+20-Nov-17 10:30:38 AM	Event	Bravo - 1		Used DNA transfer tips 1		Move plate from Bravo - 1 3, teachpoint 3 to Bravo - 1 8, teachpoint 8			1	
+20-Nov-17 10:30:50 AM	Event	Bravo - 1		Used DNA transfer tips 1		Finished moving plate from Bravo - 1 3, teachpoint 3 to Bravo - 1 8, teachpoint 8			1	
+20-Nov-17 10:30:50 AM	Event	Bravo - 1	8	Used DNA transfer tips 1	2	Completed: Place plate at Bravo - 1 8	1_RepairI_Accel_NGS_2S_DNA_v1.0	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\1_RepairI_Accel_NGS_2S_DNA_v1.0.pro	1	
+20-Nov-17 10:30:50 AM	Event	Bravo - 1	7	Transfer DNA 1	1	Begin task group	1_RepairI_Accel_NGS_2S_DNA_v1.0	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\1_RepairI_Accel_NGS_2S_DNA_v1.0.pro	1	
+20-Nov-17 10:30:50 AM	Event	Bravo - 1	2	Transfer DNA 1	1	Begin task group	1_RepairI_Accel_NGS_2S_DNA_v1.0	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\1_RepairI_Accel_NGS_2S_DNA_v1.0.pro	1	
+20-Nov-17 10:30:50 AM	Event	Bravo - 1	6	Transfer DNA 1	1	Begin task group	1_RepairI_Accel_NGS_2S_DNA_v1.0	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\1_RepairI_Accel_NGS_2S_DNA_v1.0.pro	1	
+20-Nov-17 10:30:50 AM	Event	Bravo - 1	8	Transfer DNA 1	1	Begin task group	1_RepairI_Accel_NGS_2S_DNA_v1.0	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\1_RepairI_Accel_NGS_2S_DNA_v1.0.pro	1	
+20-Nov-17 10:30:50 AM	Event	Bravo - 1	7	Transfer DNA 1	1	Completed: Begin task group	1_RepairI_Accel_NGS_2S_DNA_v1.0	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\1_RepairI_Accel_NGS_2S_DNA_v1.0.pro	1	
+20-Nov-17 10:30:50 AM	Event	Bravo - 1	2	Transfer DNA 1	1	Completed: Begin task group	1_RepairI_Accel_NGS_2S_DNA_v1.0	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\1_RepairI_Accel_NGS_2S_DNA_v1.0.pro	1	
+20-Nov-17 10:30:50 AM	Event	Bravo - 1	6	Transfer DNA 1	1	Completed: Begin task group	1_RepairI_Accel_NGS_2S_DNA_v1.0	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\1_RepairI_Accel_NGS_2S_DNA_v1.0.pro	1	
+20-Nov-17 10:30:50 AM	Event	Bravo - 1	8	Transfer DNA 1	1	Completed: Begin task group	1_RepairI_Accel_NGS_2S_DNA_v1.0	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\1_RepairI_Accel_NGS_2S_DNA_v1.0.pro	1	
+20-Nov-17 10:30:50 AM	Script					tips_on_loc 13			1	
+20-Nov-17 10:30:50 AM	Event	Bravo - 1	Default Location	Transfer DNA 1	2	Set head mode to 8 rows: A-H, 12 columns: 1-12	1_RepairI_Accel_NGS_2S_DNA_v1.0	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\1_RepairI_Accel_NGS_2S_DNA_v1.0.pro	1	
+20-Nov-17 10:30:50 AM	Event	Bravo - 1	Default Location	Transfer DNA 1	2	Completed: Set head mode to 8 rows: A-H, 12 columns: 1-12	1_RepairI_Accel_NGS_2S_DNA_v1.0	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\1_RepairI_Accel_NGS_2S_DNA_v1.0.pro	1	
+20-Nov-17 10:30:50 AM	Script					Pressing tips on at 1,1			1	
+20-Nov-17 10:30:50 AM	Script					tips_on_loc 1			1	
+20-Nov-17 10:30:50 AM	Event	Bravo - 1	2	Transfer DNA 1	3	Tips On in 1 selection(s) from DNA transfer tips 1 at Location 2	1_RepairI_Accel_NGS_2S_DNA_v1.0	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\1_RepairI_Accel_NGS_2S_DNA_v1.0.pro	1	
+20-Nov-17 10:31:00 AM	Event	Bravo - 1	2	Transfer DNA 1	3	Completed: Tips On in 1 selection(s) from DNA transfer tips 1 at Location 2	1_RepairI_Accel_NGS_2S_DNA_v1.0	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\1_RepairI_Accel_NGS_2S_DNA_v1.0.pro	1	
+20-Nov-17 10:31:00 AM	Script					The number of columns taken from the new tip box is 12 columns.			1	
+20-Nov-17 10:31:00 AM	Event			Transfer DNA 1	4	JavaScript	1_RepairI_Accel_NGS_2S_DNA_v1.0	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\1_RepairI_Accel_NGS_2S_DNA_v1.0.pro	1	
+20-Nov-17 10:31:00 AM	Event			Transfer DNA 1	4	Completed: JavaScript	1_RepairI_Accel_NGS_2S_DNA_v1.0	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\1_RepairI_Accel_NGS_2S_DNA_v1.0.pro	1	
+20-Nov-17 10:31:00 AM	Script					script:1:ReferenceError: skip is not defined			1	
+20-Nov-17 10:31:00 AM	Event	Bravo - 1	7	Transfer DNA 1	5	Aspirate 10 킠 in 1 selection(s) from DNA Plate 1	1_RepairI_Accel_NGS_2S_DNA_v1.0	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\1_RepairI_Accel_NGS_2S_DNA_v1.0.pro	1	
+20-Nov-17 10:31:05 AM	Event	Bravo - 1	7	Transfer DNA 1	5	Completed: Aspirate 10 킠 in 1 selection(s) from DNA Plate 1	1_RepairI_Accel_NGS_2S_DNA_v1.0	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\1_RepairI_Accel_NGS_2S_DNA_v1.0.pro	1	
+20-Nov-17 10:31:05 AM	Event	Bravo - 1	7	Transfer DNA 1	6	Aspirate 50 킠 (pre-aspirate 4 킠) in 1 selection(s) from DNA Plate 1 at Location 7	1_RepairI_Accel_NGS_2S_DNA_v1.0	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\1_RepairI_Accel_NGS_2S_DNA_v1.0.pro	1	
+20-Nov-17 10:31:17 AM	Event	Bravo - 1	7	Transfer DNA 1	6	Completed: Aspirate 50 킠 (pre-aspirate 4 킠) in 1 selection(s) from DNA Plate 1 at Location 7	1_RepairI_Accel_NGS_2S_DNA_v1.0	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\1_RepairI_Accel_NGS_2S_DNA_v1.0.pro	1	
+20-Nov-17 10:31:18 AM	Event	Bravo - 1	6	Transfer DNA 1	7	Dispense 67.57589286 킠 in 1 selection(s) to Reaction Plate 1	1_RepairI_Accel_NGS_2S_DNA_v1.0	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\1_RepairI_Accel_NGS_2S_DNA_v1.0.pro	1	
+20-Nov-17 10:31:31 AM	Event	Bravo - 1	6	Transfer DNA 1	7	Completed: Dispense 67.57589286 킠 in 1 selection(s) to Reaction Plate 1	1_RepairI_Accel_NGS_2S_DNA_v1.0	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\1_RepairI_Accel_NGS_2S_DNA_v1.0.pro	1	
+20-Nov-17 10:31:31 AM	Script					script:1:ReferenceError: skip is not defined			1	
+20-Nov-17 10:31:31 AM	Event	Bravo - 1	6	Transfer DNA 1	8	Aspirate 5 킠 in 1 selection(s) from Reaction Plate 1	1_RepairI_Accel_NGS_2S_DNA_v1.0	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\1_RepairI_Accel_NGS_2S_DNA_v1.0.pro	1	
+20-Nov-17 10:31:34 AM	Event	Bravo - 1	6	Transfer DNA 1	8	Completed: Aspirate 5 킠 in 1 selection(s) from Reaction Plate 1	1_RepairI_Accel_NGS_2S_DNA_v1.0	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\1_RepairI_Accel_NGS_2S_DNA_v1.0.pro	1	
+20-Nov-17 10:31:34 AM	Event	Bravo - 1	6	Transfer DNA 1	9	Mix 40 킠 in 1 selection(s) from Reaction Plate 1	1_RepairI_Accel_NGS_2S_DNA_v1.0	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\1_RepairI_Accel_NGS_2S_DNA_v1.0.pro	1	
+20-Nov-17 10:33:02 AM	Event	Bravo - 1	6	Transfer DNA 1	9	Completed: Mix 40 킠 in 1 selection(s) from Reaction Plate 1	1_RepairI_Accel_NGS_2S_DNA_v1.0	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\1_RepairI_Accel_NGS_2S_DNA_v1.0.pro	1	
+20-Nov-17 10:33:02 AM	Event	Bravo - 1	6	Transfer DNA 1	10	Dispense 5 킠 in 1 selection(s) to Reaction Plate 1	1_RepairI_Accel_NGS_2S_DNA_v1.0	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\1_RepairI_Accel_NGS_2S_DNA_v1.0.pro	1	
+20-Nov-17 10:33:12 AM	Event	Bravo - 1	6	Transfer DNA 1	10	Completed: Dispense 5 킠 in 1 selection(s) to Reaction Plate 1	1_RepairI_Accel_NGS_2S_DNA_v1.0	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\1_RepairI_Accel_NGS_2S_DNA_v1.0.pro	1	
+20-Nov-17 10:33:12 AM	Script					Taking tips off at 1,1			1	
+20-Nov-17 10:33:12 AM	Event	Bravo - 1	8	Transfer DNA 1	11	Tips Off in 1 selection(s) from Used DNA transfer tips 1	1_RepairI_Accel_NGS_2S_DNA_v1.0	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\1_RepairI_Accel_NGS_2S_DNA_v1.0.pro	1	
+20-Nov-17 10:33:20 AM	Event	Bravo - 1	8	Transfer DNA 1	11	Completed: Tips Off in 1 selection(s) from Used DNA transfer tips 1	1_RepairI_Accel_NGS_2S_DNA_v1.0	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\1_RepairI_Accel_NGS_2S_DNA_v1.0.pro	1	
+20-Nov-17 10:33:20 AM	Script					The number of columns placed in the used tip box is 12 columns.			1	
+20-Nov-17 10:33:20 AM	Event			Transfer DNA 1	12	JavaScript	1_RepairI_Accel_NGS_2S_DNA_v1.0	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\1_RepairI_Accel_NGS_2S_DNA_v1.0.pro	1	
+20-Nov-17 10:33:20 AM	Event			Transfer DNA 1	12	Completed: JavaScript	1_RepairI_Accel_NGS_2S_DNA_v1.0	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\1_RepairI_Accel_NGS_2S_DNA_v1.0.pro	1	
+20-Nov-17 10:33:20 AM	Event			Transfer DNA 1	13	End task group	1_RepairI_Accel_NGS_2S_DNA_v1.0	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\1_RepairI_Accel_NGS_2S_DNA_v1.0.pro	1	
+20-Nov-17 10:33:20 AM	Event			Transfer DNA 1	13	Completed: End task group	1_RepairI_Accel_NGS_2S_DNA_v1.0	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\1_RepairI_Accel_NGS_2S_DNA_v1.0.pro	1	
+20-Nov-17 10:33:20 AM	Event			Transfer DNA 1		Process finishing	1_RepairI_Accel_NGS_2S_DNA_v1.0	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\1_RepairI_Accel_NGS_2S_DNA_v1.0.pro	1	
+20-Nov-17 10:33:20 AM	Event	Bravo - 1	4	Reaction Plate 1	7	Incubate for 10 minutes	1_RepairI_Accel_NGS_2S_DNA_v1.0	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\1_RepairI_Accel_NGS_2S_DNA_v1.0.pro	1	
+20-Nov-17 10:33:20 AM	Event	Bravo - 1		Reaction Plate 1		Move plate from Bravo - 1 6, teachpoint 6 to Bravo - 1 4, teachpoint 4			1	
+20-Nov-17 10:33:21 AM	Script					Loading plate into 			1	
+20-Nov-17 10:33:21 AM	Event	Agilent Labware MiniHub - 1	Cassette 2, slot 5	DNA Plate 1	5	Load into plate storage device	1_RepairI_Accel_NGS_2S_DNA_v1.0	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\1_RepairI_Accel_NGS_2S_DNA_v1.0.pro	1	
+20-Nov-17 10:33:30 AM	Event	Bravo - 1		Reaction Plate 1		Finished moving plate from Bravo - 1 6, teachpoint 6 to Bravo - 1 4, teachpoint 4			1	
+20-Nov-17 10:33:30 AM	Event	Bravo - 1	8	Used DNA transfer tips 1	4	Place plate at Bravo - 1 8	1_RepairI_Accel_NGS_2S_DNA_v1.0	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\1_RepairI_Accel_NGS_2S_DNA_v1.0.pro	1	
+20-Nov-17 10:33:30 AM	Event	Bravo - 1	8	Used DNA transfer tips 1	4	Completed: Place plate at Bravo - 1 8	1_RepairI_Accel_NGS_2S_DNA_v1.0	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\1_RepairI_Accel_NGS_2S_DNA_v1.0.pro	1	
+20-Nov-17 10:33:30 AM	Event	Bravo - 1	2	DNA transfer tips 1	4	Place plate at Bravo - 1 2	1_RepairI_Accel_NGS_2S_DNA_v1.0	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\1_RepairI_Accel_NGS_2S_DNA_v1.0.pro	1	
+20-Nov-17 10:33:30 AM	Event	Bravo - 1	2	DNA transfer tips 1	4	Completed: Place plate at Bravo - 1 2	1_RepairI_Accel_NGS_2S_DNA_v1.0	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\1_RepairI_Accel_NGS_2S_DNA_v1.0.pro	1	
+20-Nov-17 10:33:30 AM	Script					Used DNA transfer tips 1 Used tip box is full.			1	
+20-Nov-17 10:33:30 AM	Script					Upstacking Used DNA transfer tips 1			1	
+20-Nov-17 10:33:30 AM	Event			Used DNA transfer tips 1	5	Spawn UsedTipUpstack	1_RepairI_Accel_NGS_2S_DNA_v1.0	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\1_RepairI_Accel_NGS_2S_DNA_v1.0.pro	1	
+20-Nov-17 10:33:30 AM	Event			Used DNA transfer tips 1	5	Completed: Spawn UsedTipUpstack	1_RepairI_Accel_NGS_2S_DNA_v1.0	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\1_RepairI_Accel_NGS_2S_DNA_v1.0.pro	1	
+20-Nov-17 10:33:30 AM	Event			UsedTipUpstack 1		Process starting, north barcode: No bar code, east barcode: No bar code, south barcode: No bar code, west barcode: No bar code	1_RepairI_Accel_NGS_2S_DNA_v1.0	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\1_RepairI_Accel_NGS_2S_DNA_v1.0.pro	1	
+20-Nov-17 10:33:30 AM	Event	Bravo - 1		DNA Plate 1		Move plate from Bravo - 1 7, teachpoint 7 to Bravo - 1 3, teachpoint 3			1	
+20-Nov-17 10:33:30 AM	Script					need_tips undefined			1	
+20-Nov-17 10:33:30 AM	Script					need_tips undefined			1	
+20-Nov-17 10:33:30 AM	Script					need_tips undefined			1	
+20-Nov-17 10:33:30 AM	Script					DNA transfer tips 1 Tip box empty.			1	
+20-Nov-17 10:33:30 AM	Script					Tip box is empty.  Storing DNA transfer tips 1 in miniplatehub Cassette 4 slot 1			1	
+20-Nov-17 10:33:30 AM	Script					need_tips 1			1	
+20-Nov-17 10:33:30 AM	Script					need_tips 1			1	
+20-Nov-17 10:33:30 AM	Script					need_tips 1			1	
+20-Nov-17 10:33:31 AM	Event			Used DNA transfer tips 1		Process finishing	1_RepairI_Accel_NGS_2S_DNA_v1.0	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\1_RepairI_Accel_NGS_2S_DNA_v1.0.pro	1	
+20-Nov-17 10:33:31 AM	Event	Bravo - 1	8	UsedTipUpstack 1	1	Place plate at Bravo - 1 8	1_RepairI_Accel_NGS_2S_DNA_v1.0	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\1_RepairI_Accel_NGS_2S_DNA_v1.0.pro	1	
+20-Nov-17 10:33:31 AM	Event	Bravo - 1	8	UsedTipUpstack 1	1	Completed: Place plate at Bravo - 1 8	1_RepairI_Accel_NGS_2S_DNA_v1.0	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\1_RepairI_Accel_NGS_2S_DNA_v1.0.pro	1	
+20-Nov-17 10:33:40 AM	Event	Bravo - 1		DNA Plate 1		Finished moving plate from Bravo - 1 7, teachpoint 7 to Bravo - 1 3, teachpoint 3			1	
+20-Nov-17 10:33:40 AM	Event	BenchCel - 1		DNA Plate 1		Move plate from Bravo - 1 3, teachpoint Bravo3 to Agilent Labware MiniHub - 1 Cassette 2, Slot 5, teachpoint MiniHub05			1	
+20-Nov-17 10:33:56 AM	Event	BenchCel - 1		DNA Plate 1		Finished moving plate from Bravo - 1 3, teachpoint Bravo3 to Agilent Labware MiniHub - 1 Cassette 2, Slot 5, teachpoint MiniHub05			1	
+20-Nov-17 10:33:56 AM	Event	Agilent Labware MiniHub - 1		DNA Plate 1	5	Agilent Labware MiniHub - 1 Load the plate from Cassette 2, Slot 5 into Location : cassette 2, slot 5	1_RepairI_Accel_NGS_2S_DNA_v1.0	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\1_RepairI_Accel_NGS_2S_DNA_v1.0.pro	1	
+20-Nov-17 10:33:56 AM	Event	BenchCel - 1	Stacker 3	UsedTipUpstack 1	2	Upstack to BenchCel - 1.Stacker 3	1_RepairI_Accel_NGS_2S_DNA_v1.0	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\1_RepairI_Accel_NGS_2S_DNA_v1.0.pro	1	
+20-Nov-17 10:33:56 AM	Event	Agilent Labware MiniHub - 1	Cassette 2, slot 5	DNA Plate 1	5	Completed: Load into plate storage device	1_RepairI_Accel_NGS_2S_DNA_v1.0	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\1_RepairI_Accel_NGS_2S_DNA_v1.0.pro	1	
+20-Nov-17 10:33:56 AM	Event	Bravo - 1		UsedTipUpstack 1		Move plate from Bravo - 1 8, teachpoint 8 to Bravo - 1 3, teachpoint 3			1	
+20-Nov-17 10:33:56 AM	Event			DNA Plate 1		Process finishing	1_RepairI_Accel_NGS_2S_DNA_v1.0	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\1_RepairI_Accel_NGS_2S_DNA_v1.0.pro	1	
+20-Nov-17 10:34:07 AM	Event	Bravo - 1		UsedTipUpstack 1		Finished moving plate from Bravo - 1 8, teachpoint 8 to Bravo - 1 3, teachpoint 3			1	
+20-Nov-17 10:34:07 AM	Event	BenchCel - 1		UsedTipUpstack 1		Move plate from Bravo - 1 3, teachpoint Bravo3 to BenchCel - 1 Stacker 3, teachpoint Stacker 3			1	
+20-Nov-17 10:34:07 AM	Event	Bravo - 1	8	DNA transfer tips 1	5	Place plate at Bravo - 1 8	1_RepairI_Accel_NGS_2S_DNA_v1.0	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\1_RepairI_Accel_NGS_2S_DNA_v1.0.pro	1	
+20-Nov-17 10:34:07 AM	Event	Bravo - 1		DNA transfer tips 1		Move plate from Bravo - 1 2, teachpoint 2 to Bravo - 1 8, teachpoint 8			1	
+20-Nov-17 10:34:18 AM	Event	BenchCel - 1		UsedTipUpstack 1		Finished moving plate from Bravo - 1 3, teachpoint Bravo3 to BenchCel - 1 Stacker 3, teachpoint Stacker 3			1	
+20-Nov-17 10:34:18 AM	Event	BenchCel - 1	Stacker 3	UsedTipUpstack 1	2	Completed: Upstack to BenchCel - 1.Stacker 3	1_RepairI_Accel_NGS_2S_DNA_v1.0	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\1_RepairI_Accel_NGS_2S_DNA_v1.0.pro	1	
+20-Nov-17 10:34:18 AM	Event			UsedTipUpstack 1		Process finishing	1_RepairI_Accel_NGS_2S_DNA_v1.0	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\1_RepairI_Accel_NGS_2S_DNA_v1.0.pro	1	
+20-Nov-17 10:34:28 AM	Event	Bravo - 1		DNA transfer tips 1		Finished moving plate from Bravo - 1 2, teachpoint 2 to Bravo - 1 8, teachpoint 8			1	
+20-Nov-17 10:34:28 AM	Event	Bravo - 1	8	DNA transfer tips 1	5	Completed: Place plate at Bravo - 1 8	1_RepairI_Accel_NGS_2S_DNA_v1.0	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\1_RepairI_Accel_NGS_2S_DNA_v1.0.pro	1	
+20-Nov-17 10:34:28 AM	Event			DNA transfer tips 1		Process finishing	1_RepairI_Accel_NGS_2S_DNA_v1.0	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\1_RepairI_Accel_NGS_2S_DNA_v1.0.pro	1	
+20-Nov-17 10:36:18 AM	Info					Pause protocol			1	
+20-Nov-17 10:36:18 AM	Event					Scheduler stopped			1	
+20-Nov-17 10:36:31 AM	Event					Scheduler aborted			1	
+20-Nov-17 10:36:31 AM	Event	Bravo - 1	4	Reaction Plate 1	7	Completed: Incubate for 10 minutes	1_RepairI_Accel_NGS_2S_DNA_v1.0	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\1_RepairI_Accel_NGS_2S_DNA_v1.0.pro	1	
+20-Nov-17 10:36:32 AM	Event					Main protocol aborted by user	1_RepairI_Accel_NGS_2S_DNA_v1.0	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\1_RepairI_Accel_NGS_2S_DNA_v1.0.pro	1	
+20-Nov-17 10:36:32 AM	Event			Reaction Plate 1		Process finishing	1_RepairI_Accel_NGS_2S_DNA_v1.0	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\1_RepairI_Accel_NGS_2S_DNA_v1.0.pro	1	
+20-Nov-17 10:36:32 AM	Event					Cleanup protocol starting	1_RepairI_Accel_NGS_2S_DNA_v1.0	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\1_RepairI_Accel_NGS_2S_DNA_v1.0.pro	1	
+20-Nov-17 10:36:33 AM	Event					Main protocol aborted by user	1_RepairI_Accel_NGS_2S_DNA_v1.0	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\1_RepairI_Accel_NGS_2S_DNA_v1.0.pro	1	
+20-Nov-17 10:36:33 AM	Event			Reaction Plate 1		Process finishing	1_RepairI_Accel_NGS_2S_DNA_v1.0	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\1_RepairI_Accel_NGS_2S_DNA_v1.0.pro	1	
+20-Nov-17 10:36:33 AM	Event			DNA transfer tips 1		Process finishing	1_RepairI_Accel_NGS_2S_DNA_v1.0	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\1_RepairI_Accel_NGS_2S_DNA_v1.0.pro	1	
+20-Nov-17 10:36:34 AM	Event			Master Mix Plate 1		Process finishing	1_RepairI_Accel_NGS_2S_DNA_v1.0	C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\1_RepairI_Accel_NGS_2S_DNA_v1.0.pro	1	
+20-Nov-17 10:37:09 AM	Script					var plate_type = "96 ABI PCR half skirt in black carrier";		C:\VWorks Workspace\Forms\SCELSE\Accel_NGS_2S_DNA\Accel_NGS.VWForm	1	
+20-Nov-17 10:37:09 AM	Script					var DNA_source = 0;		C:\VWorks Workspace\Forms\SCELSE\Accel_NGS_2S_DNA\Accel_NGS.VWForm	1	
+20-Nov-17 10:37:09 AM	Script					var protocol_testing = 1;		C:\VWorks Workspace\Forms\SCELSE\Accel_NGS_2S_DNA\Accel_NGS.VWForm	1	
+20-Nov-17 10:37:09 AM	Script					var DNAconc = 1;		C:\VWorks Workspace\Forms\SCELSE\Accel_NGS_2S_DNA\Accel_NGS.VWForm	1	
+20-Nov-17 10:37:09 AM	Script					var formProtocolName = "Accel_Dual_Index_NGS_2SPlus_DNALibrary_Runset_v2.0.rst";		C:\VWorks Workspace\Forms\SCELSE\Accel_NGS_2S_DNA\Accel_NGS.VWForm	1	
+20-Nov-17 10:37:09 AM	Script					var columns_samples = 12;		C:\VWorks Workspace\Forms\SCELSE\Accel_NGS_2S_DNA\Accel_NGS.VWForm	1	
+20-Nov-17 10:37:10 AM	Script					Number of Columns selected is 12			1	
+20-Nov-17 10:37:10 AM	Script					Case: 12 Columns			1	
+20-Nov-17 10:38:42 AM	Info	BenchCel - 1				Opening diagnostics		C:\VWorks Workspace\Device Files\BravoMiniPHBenchCel_round_magnet_RED_insert.dev	1	
+20-Nov-17 10:42:24 AM	Info	BenchCel - 1				Closing diagnostics		C:\VWorks Workspace\Device Files\BravoMiniPHBenchCel_round_magnet_RED_insert.dev	1	
+20-Nov-17 10:42:55 AM	Info	Agilent Labware MiniHub - 1				Opening diagnostics		C:\VWorks Workspace\Device Files\BravoMiniPHBenchCel_round_magnet_RED_insert.dev	1	
+20-Nov-17 10:42:58 AM	Info	Agilent Labware MiniHub - 1				motor stopped.			1	
+20-Nov-17 10:43:00 AM	Info	Agilent Labware MiniHub - 1				Closing diagnostics		C:\VWorks Workspace\Device Files\BravoMiniPHBenchCel_round_magnet_RED_insert.dev	1	
+20-Nov-17 10:48:38 AM	Info					Changed field for variable "columns_samples" from "1" to "12"		C:\VWorks Workspace\Forms\SCELSE\Accel_NGS_2S_DNA\Accel_NGS.VWForm	1	
+20-Nov-17 10:48:38 AM	Info					Changed field for variable "protocol_testing" from "False" to "True"		C:\VWorks Workspace\Forms\SCELSE\Accel_NGS_2S_DNA\Accel_NGS.VWForm	1	
+20-Nov-17 10:48:38 AM	Info					File saved		C:\VWorks Workspace\Forms\SCELSE\Accel_NGS_2S_DNA\Accel_NGS.VWForm	1	
+20-Nov-17 10:48:38 AM	Info					File unloaded		C:\VWorks Workspace\Forms\SCELSE\Accel_NGS_2S_DNA\Accel_NGS.VWForm	1	
+20-Nov-17 10:48:38 AM	Info					File unloaded		C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\1_RepairI_Accel_NGS_2S_DNA_v1.0.pro	1	
+20-Nov-17 10:48:40 AM	Info	Agilent Labware MiniHub - 1				Closing device		C:\VWorks Workspace\Device Files\BravoMiniPHBenchCel_round_magnet_RED_insert.dev	1	
+20-Nov-17 10:48:40 AM	Info	BenchCel - 1				Closing device		C:\VWorks Workspace\Device Files\BravoMiniPHBenchCel_round_magnet_RED_insert.dev	1	
+20-Nov-17 10:48:40 AM	Info	Bravo - 1				Closing device		C:\VWorks Workspace\Device Files\BravoMiniPHBenchCel_round_magnet_RED_insert.dev	1	
+20-Nov-17 10:48:40 AM	Info					File unloaded		C:\VWorks Workspace\Device Files\BravoMiniPHBenchCel_round_magnet_RED_insert.dev	1	
+20-Nov-17 10:48:44 AM	Info					File unloaded		C:\VWorks Workspace\Forms\SCELSE\Working Program\Accel_NGS.VWForm	1	
+20-Nov-17 10:48:44 AM	Info					administrator logged out. Session 1 closed			1	
+20-Nov-17 10:48:44 AM	Info					System Shutdown			0	

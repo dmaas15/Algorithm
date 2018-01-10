@@ -1,0 +1,1363 @@
+10-Oct-17 8:48:15 AM	Info					Error library: The error library file path is empty.			0	
+10-Oct-17 8:48:15 AM	Info					System Startup			0	
+10-Oct-17 8:48:15 AM	Info	AccessoriesWizard				Dll loaded:    AccessoriesWizard.dll    6.0.0			0	
+10-Oct-17 8:48:15 AM	Info	AccessoryManager				Dll loaded:    AccessoryManager.dll    2.0.0			0	
+10-Oct-17 8:48:15 AM	Info	AgilentBenchBotController				Dll loaded:    AgilentBenchBotController.dll    1.21.4226			0	
+10-Oct-17 8:48:15 AM	Info	ArgonShelfAccessoryDriver				Dll loaded:    ArgonShelfAccessoryDriver.dll    2.0.1			0	
+10-Oct-17 8:48:15 AM	Info	BTILHCRunner				Dll loaded:    BTILHCRunner.dll    2.00.2			0	
+10-Oct-17 8:48:15 AM	Info	ContextHelp				Dll loaded:    ContextHelp.dll    3.0.0			0	
+10-Oct-17 8:48:15 AM	Info	DDRStringTable				Dll loaded:    DDRStringTable.dll    1.2.14			0	
+10-Oct-17 8:48:15 AM	Info	DeviceEnumerator				Dll loaded:    DeviceEnumerator.dll    9.0.0			0	
+10-Oct-17 8:48:15 AM	Info	EchoAppHelper				Dll loaded:    EchoAppHelper.dll    1.0.0			0	
+10-Oct-17 8:48:15 AM	Info	ErrorLibrary				Dll loaded:    ErrorLibrary.dll    2.0.1			0	
+10-Oct-17 8:48:15 AM	Info	EvaporatorAccessoryDriver				Dll loaded:    EvaporatorAccessoryDriver.dll    9.0.0			0	
+10-Oct-17 8:48:15 AM	Info	GuidanceDiscovery				Dll loaded:    GuidanceDiscovery.dll    2.0.0			0	
+10-Oct-17 8:48:15 AM	Info	Host				Dll loaded:    Host.dll    1.0.4226			0	
+10-Oct-17 8:48:15 AM	Info	ImportExport				Dll loaded:    ImportExport.dll    2.0.0			0	
+10-Oct-17 8:48:15 AM	Info	InhecoMTCdll				Dll loaded:    InhecoMTCdll.dll    1.2.4			0	
+10-Oct-17 8:48:15 AM	Info	InhecoShakeandHeatAccessoryDriver				Dll loaded:    InhecoShakeandHeatAccessoryDriver.dll    1.0.0			0	
+10-Oct-17 8:48:15 AM	Info	IWorksAccessory				Dll loaded:    IWorksAccessory.dll    8.0.1			0	
+10-Oct-17 8:48:15 AM	Info	js32				Dll loaded:    js32.dll    Unknown.0.0			0	
+10-Oct-17 8:48:15 AM	Info	LabelDesigner				Dll loaded:    LabelDesigner.dll    5.0.7			0	
+10-Oct-17 8:48:15 AM	Info	LabelerHardware				Dll loaded:    LabelerHardware.dll    14.0.23			0	
+10-Oct-17 8:48:15 AM	Info	libnspr4				Dll loaded:    libnspr4.dll    4.1.0			0	
+10-Oct-17 8:48:15 AM	Info	LidHotelAccessoryDriver				Dll loaded:    LidHotelAccessoryDriver.dll    8.0.0			0	
+10-Oct-17 8:48:15 AM	Info	lm				Dll loaded:    lm.dll    3.0.0			0	
+10-Oct-17 8:48:15 AM	Info	Loader				Dll loaded:    Loader.dll    1.0.4226			0	
+10-Oct-17 8:48:15 AM	Info	MagBeadAccessoryDriver				Dll loaded:    MagBeadAccessoryDriver.dll    8.0.0			0	
+10-Oct-17 8:48:15 AM	Info	MetaDataPropertyManager				Dll loaded:    MetaDataPropertyManager.dll    13.0.0			0	
+10-Oct-17 8:48:15 AM	Info	mfc71				Dll loaded:    mfc71.dll    7.10.3077			0	
+10-Oct-17 8:48:15 AM	Info	mfc71u				Dll loaded:    mfc71u.dll    7.10.3077			0	
+10-Oct-17 8:48:15 AM	Info	MicroPierceInterface				Dll loaded:    MicroPierceInterface.dll    1.0.0			0	
+10-Oct-17 8:48:15 AM	Info	MicroPierceWrapper				Dll loaded:    MicroPierceWrapper.dll    1.0.0			0	
+10-Oct-17 8:48:15 AM	Info	MicroStirInterface				Dll loaded:    MicroStirInterface.dll    1.0.0			0	
+10-Oct-17 8:48:15 AM	Info	MicroStirWrapper				Dll loaded:    MicroStirWrapper.dll    1.0.0			0	
+10-Oct-17 8:48:15 AM	Info	msvcr71				Dll loaded:    msvcr71.dll    7.10.3052			0	
+10-Oct-17 8:48:15 AM	Info	MTController				Dll loaded:    MTController.dll    5.0.0			0	
+10-Oct-17 8:48:15 AM	Info	NestableTipBoxInsertAccessoryDriver				Dll loaded:    NestableTipBoxInsertAccessoryDriver.dll    2.0.0			0	
+10-Oct-17 8:48:15 AM	Info	ObjectDatabase				Dll loaded:    ObjectDatabase.dll    4.0.0			0	
+10-Oct-17 8:48:15 AM	Info	ObjectManager				Dll loaded:    ObjectManager.dll    7.0.1			0	
+10-Oct-17 8:48:15 AM	Info	PackardFusionRemoteConnectorOCX				Dll loaded:    PackardFusionRemoteConnectorOCX.dll    4.0.0			0	
+10-Oct-17 8:48:15 AM	Info	PackardFusionRemoteControlPlugIn				Dll loaded:    PackardFusionRemoteControlPlugIn.dll    4.0.0			0	
+10-Oct-17 8:48:15 AM	Info	PackardFusionRemoteControlWrapperDLL				Dll loaded:    PackardFusionRemoteControlWrapperDLL.dll    4.0.0			0	
+10-Oct-17 8:48:15 AM	Info	PicServoExtDll				Dll loaded:    PicServoExtDll.dll    10.0.0			0	
+10-Oct-17 8:48:15 AM	Info	PipetteHeadMode				Dll loaded:    PipetteHeadMode.dll    2.0.0			0	
+10-Oct-17 8:48:15 AM	Info	PipetteTechniqueEditor				Dll loaded:    PipetteTechniqueEditor.dll    3.0.0			0	
+10-Oct-17 8:48:15 AM	Info	PlateMapDatabase				Dll loaded:    PlateMapDatabase.dll    17.0.1			0	
+10-Oct-17 8:48:15 AM	Info	ProfileChangeLog				Dll loaded:    ProfileChangeLog.dll    2.0.0			0	
+10-Oct-17 8:48:15 AM	Info	ProfileManager				Dll loaded:    ProfileManager.dll    10.0.1			0	
+10-Oct-17 8:48:15 AM	Info	ProfSkin284m				Dll loaded:    ProfSkin284m.dll    2.8.4			0	
+10-Oct-17 8:48:15 AM	Info	ProfUIS284m				Dll loaded:    ProfUIS284m.dll    2.8.4			0	
+10-Oct-17 8:48:15 AM	Info	ProfUisProfileManager				Dll loaded:    ProfUisProfileManager.dll    10.0.0			0	
+10-Oct-17 8:48:15 AM	Info	SciLexer				Dll loaded:    SciLexer.dll    1.71.0			0	
+10-Oct-17 8:48:15 AM	Info	SerialDilution				Dll loaded:    SerialDilution.dll    13.0.0			0	
+10-Oct-17 8:48:15 AM	Info	SSIdll				Dll loaded:    SSIdll.dll    Unknown.0.0			0	
+10-Oct-17 8:48:15 AM	Info	TeleshakeAccessoryDriver				Dll loaded:    TeleshakeAccessoryDriver.dll    9.0.2			0	
+10-Oct-17 8:48:15 AM	Info	TipPosition				Dll loaded:    TipPosition.dll    3.0.0			0	
+10-Oct-17 8:48:15 AM	Info	TipTracking				Dll loaded:    TipTracking.dll    3.0.0			0	
+10-Oct-17 8:48:15 AM	Info	tmlcomm				Dll loaded:    tmlcomm.dll    3.2.2			0	
+10-Oct-17 8:48:15 AM	Info	TML_lib				Dll loaded:    TML_lib.dll    2.0.1			0	
+10-Oct-17 8:48:15 AM	Info	Toolbox				Dll loaded:    Toolbox.dll    1.0.4226			0	
+10-Oct-17 8:48:15 AM	Info	V11DeviceDriver				Dll loaded:    V11DeviceDriver.dll    11.0.0			0	
+10-Oct-17 8:48:15 AM	Info	V11FieldComposer				Dll loaded:    V11FieldComposer.dll    4.0.0			0	
+10-Oct-17 8:48:15 AM	Info	V11GanttChart				Dll loaded:    V11GanttChart.dll    2.0.1			0	
+10-Oct-17 8:48:15 AM	Info	V11Labware				Dll loaded:    V11Labware.dll    25.0.14			0	
+10-Oct-17 8:48:15 AM	Info	V11Liquids				Dll loaded:    V11Liquids.dll    9.0.0			0	
+10-Oct-17 8:48:15 AM	Info	V11Migrator				Dll loaded:    V11Migrator.dll    2.0.3			0	
+10-Oct-17 8:48:15 AM	Info	V11PipettingFormatWizard				Dll loaded:    V11PipettingFormatWizard.dll    2.0.0			0	
+10-Oct-17 8:48:15 AM	Info	V11PumpAccessoryDriver				Dll loaded:    V11PumpAccessoryDriver.dll    3.0.2			0	
+10-Oct-17 8:48:15 AM	Info	V11SharedClasses				Dll loaded:    V11SharedClasses.dll    1.1.0			0	
+10-Oct-17 8:48:15 AM	Info	V11WellSelect				Dll loaded:    V11WellSelect.dll    8.0.0			0	
+10-Oct-17 8:48:15 AM	Info	V11WellVolumeVisualizer				Dll loaded:    V11WellVolumeVisualizer.dll    6.0.0			0	
+10-Oct-17 8:48:15 AM	Info	V11Wizard				Dll loaded:    V11Wizard.dll    2.0.0			0	
+10-Oct-17 8:48:15 AM	Info	VacuumFiltrationAccessoryDriver				Dll loaded:    VacuumFiltrationAccessoryDriver.dll    10.0.1			0	
+10-Oct-17 8:48:15 AM	Info	VacuumLocatingStationDriver				Dll loaded:    VacuumLocatingStationDriver.dll    7.0.0			0	
+10-Oct-17 8:48:15 AM	Info	VacuumShelfAccessoryDriver				Dll loaded:    VacuumShelfAccessoryDriver.dll    2.0.2			0	
+10-Oct-17 8:48:15 AM	Info	VHookInterface				Dll loaded:    VHookInterface.dll    7.0.0			0	
+10-Oct-17 8:48:15 AM	Info	VWorks4COM				Dll loaded:    VWorks4COM.dll    4.0.0			0	
+10-Oct-17 8:48:15 AM	Info	VWorks4Defs				Dll loaded:    VWorks4Defs.dll    6.0.3			0	
+10-Oct-17 8:48:15 AM	Info	VWorks4DeviceManager				Dll loaded:    VWorks4DeviceManager.dll    4.0.0			0	
+10-Oct-17 8:48:15 AM	Info	VWorks4EmailDaemon				Dll loaded:    VWorks4EmailDaemon.dll    3.0.0			0	
+10-Oct-17 8:48:15 AM	Info	VWorks4FormManager				Dll loaded:    VWorks4FormManager.dll    1.0.0			0	
+10-Oct-17 8:48:15 AM	Info	VWorks4GUI				Dll loaded:    VWorks4GUI.dll    3.0.0			0	
+10-Oct-17 8:48:15 AM	Info	VWorks4GUIFramework				Dll loaded:    VWorks4GUIFramework.dll    3.0.1			0	
+10-Oct-17 8:48:15 AM	Info	VWorks4Hooks				Dll loaded:    VWorks4Hooks.dll    3.0.0			0	
+10-Oct-17 8:48:15 AM	Info	VWorks4LabelDesigner				Dll loaded:    VWorks4LabelDesigner.dll    3.0.0			0	
+10-Oct-17 8:48:15 AM	Info	VWorks4Logger				Dll loaded:    VWorks4Logger.dll    4.0.0			0	
+10-Oct-17 8:48:15 AM	Info	VWorks4MacroLibrary				Dll loaded:    VWorks4MacroLibrary.dll    1.0.0			0	
+10-Oct-17 8:48:15 AM	Info	VWorks4Progress				Dll loaded:    VWorks4Progress.dll    3.0.0			0	
+10-Oct-17 8:48:15 AM	Info	VWorks4ProtocolEditor				Dll loaded:    VWorks4ProtocolEditor.dll    4.0.0			0	
+10-Oct-17 8:48:15 AM	Info	VWorks4Security				Dll loaded:    VWorks4Security.dll    3.0.0			0	
+10-Oct-17 8:48:15 AM	Info	VWorks4UserDatabase				Dll loaded:    VWorks4UserDatabase.dll    3.0.0			0	
+10-Oct-17 8:48:15 AM	Info	VWorks4UserManager				Dll loaded:    VWorks4UserManager.dll    3.0.0			0	
+10-Oct-17 8:48:15 AM	Info	WeighPadAccessoryDriver				Dll loaded:    WeighPadAccessoryDriver.dll    2.0.0			0	
+10-Oct-17 8:48:15 AM	Info	Agilent BenchCel				Plugin loaded from cache:   AgilentBenchCel.dll   20.1.2			0	
+10-Oct-17 8:48:15 AM	Info	Agilent Bravo				Plugin loaded from cache:   AgilentBravo.dll   17.1.0			0	
+10-Oct-17 8:48:16 AM	Info	Agilent Generic I/O Module				Plugin loaded from cache:   AgilentGenericIO.dll   5.0.0			0	
+10-Oct-17 8:48:16 AM	Info	Agilent Labware MiniHub				Plugin loaded from cache:   AgilentLabwareMiniHub.dll   1.0.3			0	
+10-Oct-17 8:48:16 AM	Info	Agilent Phantom Robot				Plugin loaded from cache:   AgilentPhantomRobot.dll   9.0.5			0	
+10-Oct-17 8:48:16 AM	Info	Agilent Phantom Stacker				Plugin loaded from cache:   AgilentPhantomStacker.dll   2.0.1			0	
+10-Oct-17 8:48:16 AM	Info	Agilent Plate Hotel				Plugin loaded from cache:   AgilentPlateHotel.dll   1.0.3			0	
+10-Oct-17 8:48:16 AM	Info	Agilent Plate Hub Carousel				Plugin loaded from cache:   AgilentPlateHubCarousel.dll   8.0.1			0	
+10-Oct-17 8:48:16 AM	Info	Waste Bin				Plugin loaded from cache:   AgilentWasteBin.dll   3.0.0			0	
+10-Oct-17 8:48:16 AM	Info	Agilent Weigh Pad				Plugin loaded from cache:   AgilentWeighPad.dll   8.0.0			0	
+10-Oct-17 8:48:16 AM	Info	Keyence Barcode Reader				Plugin loaded from cache:   KeyenceBarcodeReader.dll   6.0.0			0	
+10-Oct-17 8:48:16 AM	Info	Plate Pad, Standard				Plugin loaded from cache:   PlatePad.dll   6.0.0			0	
+10-Oct-17 8:48:29 AM	Info					administrator logged in			1	
+10-Oct-17 8:49:12 AM	Info					File loaded		C:\VWorks Workspace\Forms\SCELSE\TruSeqPCRFree_Nano.VWForm	1	
+10-Oct-17 8:49:22 AM	Info					Simulation mode toggled on			1	
+10-Oct-17 8:49:24 AM	Script					Initializing scripting engine...			1	
+10-Oct-17 8:49:24 AM	Script					Tue Oct 10 2017 08:49:24 GMT+0800 (Malay Peninsula Standard Time)			1	
+10-Oct-17 8:49:24 AM	Script					var plate_type = "ABI PCR half skirt in black carrier";		C:\VWorks Workspace\Forms\SCELSE\TruSeqPCRFree_Nano.VWForm	1	
+10-Oct-17 8:49:24 AM	Script					var DNA_source = 0;		C:\VWorks Workspace\Forms\SCELSE\TruSeqPCRFree_Nano.VWForm	1	
+10-Oct-17 8:49:24 AM	Script					var protocol_testing = 0;		C:\VWorks Workspace\Forms\SCELSE\TruSeqPCRFree_Nano.VWForm	1	
+10-Oct-17 8:49:24 AM	Script					var BasePair = 50;		C:\VWorks Workspace\Forms\SCELSE\TruSeqPCRFree_Nano.VWForm	1	
+10-Oct-17 8:49:24 AM	Script					var formProtocolName = "TruSeqPCRFree_Nano_runset.rst";		C:\VWorks Workspace\Forms\SCELSE\TruSeqPCRFree_Nano.VWForm	1	
+10-Oct-17 8:49:24 AM	Script					var columns_samples = 1;		C:\VWorks Workspace\Forms\SCELSE\TruSeqPCRFree_Nano.VWForm	1	
+10-Oct-17 8:49:24 AM	Script					Number of Columns selected is 1			1	
+10-Oct-17 8:49:24 AM	Script					Case: 1 Columns			1	
+10-Oct-17 8:49:39 AM	Script					var plate_type = "ABI PCR half skirt in black carrier";		C:\VWorks Workspace\Forms\SCELSE\TruSeqPCRFree_Nano.VWForm	1	
+10-Oct-17 8:49:39 AM	Script					var DNA_source = 0;		C:\VWorks Workspace\Forms\SCELSE\TruSeqPCRFree_Nano.VWForm	1	
+10-Oct-17 8:49:39 AM	Script					var protocol_testing = 0;		C:\VWorks Workspace\Forms\SCELSE\TruSeqPCRFree_Nano.VWForm	1	
+10-Oct-17 8:49:39 AM	Script					var BasePair = 50;		C:\VWorks Workspace\Forms\SCELSE\TruSeqPCRFree_Nano.VWForm	1	
+10-Oct-17 8:49:39 AM	Script					var formProtocolName = "TruSeqPCRFree_Nano_runset.rst";		C:\VWorks Workspace\Forms\SCELSE\TruSeqPCRFree_Nano.VWForm	1	
+10-Oct-17 8:49:39 AM	Script					var columns_samples = 1;		C:\VWorks Workspace\Forms\SCELSE\TruSeqPCRFree_Nano.VWForm	1	
+10-Oct-17 8:49:40 AM	Script					Clearing Plate Inventory			1	
+10-Oct-17 8:49:40 AM	Script					Clearing Runset			1	
+10-Oct-17 8:49:40 AM	Script					Starting runset : TruSeqPCRFree_Nano_runset.rst			1	
+10-Oct-17 8:49:40 AM	Info					Runset Manager: Added the run "C:\VWorks Workspace\Protocol Files\TruSeqPCRFree\7_AMPureXP_TruSeqPCRFree_DNArunset_v1.0.pro" to Runset Manager.			1	
+10-Oct-17 8:49:40 AM	Info					Runset Manager: Added the run "C:\VWorks Workspace\Protocol Files\TruSeqPCRFree\8_EndRepair_TruSeqPCRFree_v1.0.pro" to Runset Manager.			1	
+10-Oct-17 8:49:40 AM	Info					Runset Manager: Added the run "C:\VWorks Workspace\Protocol Files\TruSeqPCRFree\9_AMPureXP_TruSeqPCRFree_DNArunset_v1.0.pro" to Runset Manager.			1	
+10-Oct-17 8:49:40 AM	Info					Runset Manager: Added the run "C:\VWorks Workspace\Protocol Files\TruSeqPCRFree\10_A-Tailing_TruSeqPCRFree_v1.0.pro" to Runset Manager.			1	
+10-Oct-17 8:49:40 AM	Info					Runset Manager: Added the run "C:\VWorks Workspace\Protocol Files\TruSeqPCRFree\11_AdapterLigation_TruSeqPCRFree_v1.0.pro" to Runset Manager.			1	
+10-Oct-17 8:49:40 AM	Info					Runset Manager: Added the run "C:\VWorks Workspace\Protocol Files\TruSeqPCRFree\12_StopLigation_TruSeqPCRFree_v1.0.pro" to Runset Manager.			1	
+10-Oct-17 8:49:40 AM	Info					Runset Manager: Added the run "C:\VWorks Workspace\Protocol Files\TruSeqPCRFree\13_AMPureXP_TruSeqPCRFree_runset_v1.0.pro" to Runset Manager.			1	
+10-Oct-17 8:49:40 AM	Info					Runset Manager: Added the run "C:\VWorks Workspace\Protocol Files\TruSeqPCRFree\14_AMPureXP_TruSeqPCRFree_runset_v1.0.pro" to Runset Manager.			1	
+10-Oct-17 8:50:13 AM	Info	Agilent Labware MiniHub				Plugin loaded:   AgilentLabwareMiniHub.dll   1.0.3			1	
+10-Oct-17 8:50:13 AM	Info					Hooks plugin loaded:    AgilentBenchCel.dll			0	
+10-Oct-17 8:50:13 AM	Info	Agilent BenchCel				Plugin loaded:   AgilentBenchCel.dll   20.1.2			1	
+10-Oct-17 8:50:17 AM	Info					Hooks plugin loaded:    AgilentBravo.dll			0	
+10-Oct-17 8:50:17 AM	Info	Agilent Bravo				Plugin loaded:   AgilentBravo.dll   17.1.0			1	
+10-Oct-17 8:50:21 AM	Info					File loaded		C:\VWorks Workspace\Device Files\TruSeq\TruSeq RNA_DNA Sample Prep_v1.0\BravoMiniPHBenchCel_round_magnet_RED_insert.dev	1	
+10-Oct-17 8:50:21 AM	Info					File loaded	7_AMPureXP_2ndStrandcDNA_CleanUp_v1.0	C:\VWorks Workspace\Protocol Files\TruSeqPCRFree\7_AMPureXP_2ndStrandcDNA_CleanUp_v1.0.pro	1	
+10-Oct-17 8:50:35 AM	Info					File loaded		C:\VWorks Workspace\Forms\SCELSE\TruSeqRNA_StrandSpecific.VWForm	1	
+10-Oct-17 8:50:59 AM	Info					Simulation mode toggled off			1	
+10-Oct-17 8:51:33 AM	Info					File unloaded		C:\VWorks Workspace\Protocol Files\TruSeqPCRFree\7_AMPureXP_2ndStrandcDNA_CleanUp_v1.0.pro	1	
+10-Oct-17 8:51:33 AM	Info					File unloaded		C:\VWorks Workspace\Device Files\TruSeq\TruSeq RNA_DNA Sample Prep_v1.0\BravoMiniPHBenchCel_round_magnet_RED_insert.dev	1	
+10-Oct-17 8:51:37 AM	Info					File unloaded		C:\VWorks Workspace\Forms\SCELSE\TruSeqRNA_StrandSpecific.VWForm	1	
+10-Oct-17 8:52:08 AM	Info					File loaded		C:\VWorks Workspace\Device Files\TruSeq\TruSeq RNA_DNA Sample Prep_v1.0\BravoMiniPHBenchCel_round_magnet_RED_insert.dev	1	
+10-Oct-17 8:52:09 AM	Info					File loaded	14_AMPureXP_TruSeqPCRFree_runset_v1.0	C:\VWorks Workspace\Protocol Files\TruSeqPCRFree\14_AMPureXP_TruSeqPCRFree_runset_v1.0.pro	1	
+10-Oct-17 8:52:28 AM	Info	Agilent Labware MiniHub - 1				Initializing device		C:\VWorks Workspace\Device Files\TruSeq\TruSeq RNA_DNA Sample Prep_v1.0\BravoMiniPHBenchCel_round_magnet_RED_insert.dev	1	
+10-Oct-17 8:52:28 AM	Info	BenchCel - 1				Initializing device		C:\VWorks Workspace\Device Files\TruSeq\TruSeq RNA_DNA Sample Prep_v1.0\BravoMiniPHBenchCel_round_magnet_RED_insert.dev	1	
+10-Oct-17 8:52:28 AM	Info	Bravo - 1				Initializing device		C:\VWorks Workspace\Device Files\TruSeq\TruSeq RNA_DNA Sample Prep_v1.0\BravoMiniPHBenchCel_round_magnet_RED_insert.dev	1	
+10-Oct-17 8:52:30 AM	Info	BenchCel - 1				Initialization complete		C:\VWorks Workspace\Device Files\TruSeq\TruSeq RNA_DNA Sample Prep_v1.0\BravoMiniPHBenchCel_round_magnet_RED_insert.dev	1	
+10-Oct-17 8:52:34 AM	Error	Bravo - 1				There appears to be a plate present in, or in front of the gripper's plate presence sensor.			1	
+10-Oct-17 8:52:34 AM	Error	Bravo - 1				  - Choose "Retry" to check the plate presence sensor again.			1	
+10-Oct-17 8:52:34 AM	Error	Bravo - 1				  - Choose "Ignore" to continue to home the G axis.  Please note that any plate currently held by the gripper will be dropped.			1	
+10-Oct-17 8:52:34 AM	Error	Bravo - 1				  - Choose "Abort" to cancel initialization.			1	
+10-Oct-17 8:52:34 AM	Info					Error library: Select best match error handler: "Default" and action type "show error dialog"			1	
+10-Oct-17 8:52:39 AM	Info	Agilent Labware MiniHub - 1				Initialization complete		C:\VWorks Workspace\Device Files\TruSeq\TruSeq RNA_DNA Sample Prep_v1.0\BravoMiniPHBenchCel_round_magnet_RED_insert.dev	1	
+10-Oct-17 8:53:08 AM	Info	Bravo - 1				Ignoring: There appears to be a plate present in, or in front of the gripper's plate presence sensor.			1	
+10-Oct-17 8:53:08 AM	Info	Bravo - 1				  - Choose "Retry" to check the plate presence sensor again.			1	
+10-Oct-17 8:53:08 AM	Info	Bravo - 1				  - Choose "Ignore" to continue to home the G axis.  Please note that any plate currently held by the gripper will be dropped.			1	
+10-Oct-17 8:53:08 AM	Info	Bravo - 1				  - Choose "Abort" to cancel initialization.			1	
+10-Oct-17 8:53:08 AM	Error	Bravo - 1				Please verify that it is safe to home the W-axis (the aspirate/dispense axis).  If there is fluid in the tips you may want to manually home the W-axis in diagnostics over a waste position.			1	
+10-Oct-17 8:53:08 AM	Error	Bravo - 1				  - Choose "Retry" to continue homing the W-axis.			1	
+10-Oct-17 8:53:08 AM	Error	Bravo - 1				  - Choose "Ignore" to leave the W-axis unhomed.			1	
+10-Oct-17 8:53:08 AM	Error	Bravo - 1				  - Choose "Abort" to cancel initialization.			1	
+10-Oct-17 8:53:08 AM	Info					Error library: Select best match error handler: "Default" and action type "show error dialog"			1	
+10-Oct-17 8:53:45 AM	Info	Bravo - 1				Retrying: Please verify that it is safe to home the W-axis (the aspirate/dispense axis).  If there is fluid in the tips you may want to manually home the W-axis in diagnostics over a waste position.			1	
+10-Oct-17 8:53:45 AM	Info	Bravo - 1				  - Choose "Retry" to continue homing the W-axis.			1	
+10-Oct-17 8:53:45 AM	Info	Bravo - 1				  - Choose "Ignore" to leave the W-axis unhomed.			1	
+10-Oct-17 8:53:45 AM	Info	Bravo - 1				  - Choose "Abort" to cancel initialization.			1	
+10-Oct-17 8:53:45 AM	Info	Bravo - 1				Initialization complete		C:\VWorks Workspace\Device Files\TruSeq\TruSeq RNA_DNA Sample Prep_v1.0\BravoMiniPHBenchCel_round_magnet_RED_insert.dev	1	
+10-Oct-17 8:53:50 AM	Info					Diagnostics opened			1	
+10-Oct-17 8:53:58 AM	Info	BenchCel - 1				Opening diagnostics		C:\VWorks Workspace\Device Files\TruSeq\TruSeq RNA_DNA Sample Prep_v1.0\BravoMiniPHBenchCel_round_magnet_RED_insert.dev	1	
+10-Oct-17 8:59:00 AM	Info	BenchCel - 1				Closing diagnostics		C:\VWorks Workspace\Device Files\TruSeq\TruSeq RNA_DNA Sample Prep_v1.0\BravoMiniPHBenchCel_round_magnet_RED_insert.dev	1	
+10-Oct-17 9:21:31 AM	Info	BenchCel - 1				Opening diagnostics		C:\VWorks Workspace\Device Files\TruSeq\TruSeq RNA_DNA Sample Prep_v1.0\BravoMiniPHBenchCel_round_magnet_RED_insert.dev	1	
+10-Oct-17 9:29:38 AM	Info	BenchCel - 1				Closing diagnostics		C:\VWorks Workspace\Device Files\TruSeq\TruSeq RNA_DNA Sample Prep_v1.0\BravoMiniPHBenchCel_round_magnet_RED_insert.dev	1	
+10-Oct-17 9:29:43 AM	Info	Agilent Labware MiniHub - 1				Opening diagnostics		C:\VWorks Workspace\Device Files\TruSeq\TruSeq RNA_DNA Sample Prep_v1.0\BravoMiniPHBenchCel_round_magnet_RED_insert.dev	1	
+10-Oct-17 9:30:11 AM	Info	Agilent Labware MiniHub - 1				Diagnostic window: Rotate to cassette 4 started.			1	
+10-Oct-17 9:30:15 AM	Info	Agilent Labware MiniHub - 1				Diagnostic window: Rotate to cassette 4 completed.			1	
+10-Oct-17 9:30:37 AM	Info	Agilent Labware MiniHub - 1				Closing diagnostics		C:\VWorks Workspace\Device Files\TruSeq\TruSeq RNA_DNA Sample Prep_v1.0\BravoMiniPHBenchCel_round_magnet_RED_insert.dev	1	
+10-Oct-17 9:30:45 AM	Info	Agilent Labware MiniHub - 1				Opening diagnostics		C:\VWorks Workspace\Device Files\TruSeq\TruSeq RNA_DNA Sample Prep_v1.0\BravoMiniPHBenchCel_round_magnet_RED_insert.dev	1	
+10-Oct-17 9:30:47 AM	Info	Agilent Labware MiniHub - 1				Closing diagnostics		C:\VWorks Workspace\Device Files\TruSeq\TruSeq RNA_DNA Sample Prep_v1.0\BravoMiniPHBenchCel_round_magnet_RED_insert.dev	1	
+10-Oct-17 9:30:50 AM	Info	BenchCel - 1				Opening diagnostics		C:\VWorks Workspace\Device Files\TruSeq\TruSeq RNA_DNA Sample Prep_v1.0\BravoMiniPHBenchCel_round_magnet_RED_insert.dev	1	
+10-Oct-17 9:33:09 AM	Info	BenchCel - 1				Closing diagnostics		C:\VWorks Workspace\Device Files\TruSeq\TruSeq RNA_DNA Sample Prep_v1.0\BravoMiniPHBenchCel_round_magnet_RED_insert.dev	1	
+10-Oct-17 9:53:48 AM	Info					Changed <Labware entry> "96 V11 LT250 Tip Box 19477.002" "BC_R_GRIPPER_HOLDING_PLATE_POSITION" from "8.00000" to "8.50000"		<Labware entry>	1	
+10-Oct-17 9:53:48 AM	Info					Changed <Labware entry> "96 V11 LT250 Tip Box 19477.002" "BC_R_ROBOT_GRIPPER_OFFSET" from "8.00000" to "15.50000"		<Labware entry>	1	
+10-Oct-17 9:53:48 AM	Info					Changed <Labware entry> "96 V11 LT250 Tip Box 19477.002" "VERSION" from "4" to ""		<Labware entry>	1	
+10-Oct-17 9:53:56 AM	Info	BenchCel - 1				Opening diagnostics		C:\VWorks Workspace\Device Files\TruSeq\TruSeq RNA_DNA Sample Prep_v1.0\BravoMiniPHBenchCel_round_magnet_RED_insert.dev	1	
+10-Oct-17 9:55:11 AM	Info	BenchCel - 1				Closing diagnostics		C:\VWorks Workspace\Device Files\TruSeq\TruSeq RNA_DNA Sample Prep_v1.0\BravoMiniPHBenchCel_round_magnet_RED_insert.dev	1	
+10-Oct-17 9:56:30 AM	Info					File unloaded		C:\VWorks Workspace\Protocol Files\TruSeqPCRFree\14_AMPureXP_TruSeqPCRFree_runset_v1.0.pro	1	
+10-Oct-17 9:56:31 AM	Info	Agilent Labware MiniHub - 1				Closing device		C:\VWorks Workspace\Device Files\TruSeq\TruSeq RNA_DNA Sample Prep_v1.0\BravoMiniPHBenchCel_round_magnet_RED_insert.dev	1	
+10-Oct-17 9:56:31 AM	Info	BenchCel - 1				Closing device		C:\VWorks Workspace\Device Files\TruSeq\TruSeq RNA_DNA Sample Prep_v1.0\BravoMiniPHBenchCel_round_magnet_RED_insert.dev	1	
+10-Oct-17 9:56:31 AM	Info	Bravo - 1				Closing device		C:\VWorks Workspace\Device Files\TruSeq\TruSeq RNA_DNA Sample Prep_v1.0\BravoMiniPHBenchCel_round_magnet_RED_insert.dev	1	
+10-Oct-17 9:56:31 AM	Info					File unloaded		C:\VWorks Workspace\Device Files\TruSeq\TruSeq RNA_DNA Sample Prep_v1.0\BravoMiniPHBenchCel_round_magnet_RED_insert.dev	1	
+10-Oct-17 9:56:33 AM	Info					File unloaded		C:\VWorks Workspace\Forms\SCELSE\TruSeqPCRFree_Nano.VWForm	1	
+10-Oct-17 9:56:40 AM	Info					File loaded		C:\VWorks Workspace\Device Files\BravoMiniPHBenchCel_round_magnet_RED_insert.dev	1	
+10-Oct-17 9:56:40 AM	Info					Changed "device file" to "C:\VWorks Workspace\Device Files\BravoMiniPHBenchCel_round_magnet_RED_insert.dev"		Protocol File - 1	1	
+10-Oct-17 9:56:40 AM	Info					File created		Protocol File - 1	1	
+10-Oct-17 9:56:57 AM	Info			process - 1	1	Added task "Unload" to process "process - 1"		Protocol File - 1	1	
+10-Oct-17 9:57:01 AM	Info			process - 1	1	Add location : Agilent Labware MiniHub - 1		Protocol File - 1	1	
+10-Oct-17 9:57:06 AM	Info			process - 1		Changed "process process - 1, parameter Plate type" to "96 V11 LT250 Tip Box 19477.002"		Protocol File - 1	1	
+10-Oct-17 9:57:16 AM	Info			process - 1	1	Add location : Agilent Labware MiniHub - 1, cassette 4, slot 1		Protocol File - 1	1	
+10-Oct-17 9:57:57 AM	Info			process - 1	2	Added task "Place Plate" to process "process - 1"		Protocol File - 1	1	
+10-Oct-17 9:58:00 AM	Info			process - 1	2	Changed "task Place Plate, parameter Device to use" to "Bravo - 1"		Protocol File - 1	1	
+10-Oct-17 9:58:02 AM	Info			process - 1	2	Changed "task Place Plate, parameter Location to use" from "1" to "3"		Protocol File - 1	1	
+10-Oct-17 9:58:09 AM	Info			process - 1	3	Added task "Load" to process "process - 1"		Protocol File - 1	1	
+10-Oct-17 9:58:16 AM	Info			process - 1	3	Add location : Agilent Labware MiniHub - 1, cassette 4, slot 2		Protocol File - 1	1	
+10-Oct-17 9:58:22 AM	Info					Compile protocol			1	
+10-Oct-17 9:58:23 AM	Warning			process - 1	1	Agilent Labware MiniHub - 1,cassette 4,slot 1 appears multiple times in the list of slots to use		Protocol File - 1	1	
+10-Oct-17 9:58:23 AM	Warning			process - 1	1	No plate to unload from the device Agilent Labware MiniHub - 1 location : cassette 1, slot 1		Protocol File - 1	1	
+10-Oct-17 9:58:23 AM	Warning			process - 1	1	No plate to unload from the device Agilent Labware MiniHub - 1 location : cassette 1, slot 2		Protocol File - 1	1	
+10-Oct-17 9:58:23 AM	Warning			process - 1	1	No plate to unload from the device Agilent Labware MiniHub - 1 location : cassette 1, slot 3		Protocol File - 1	1	
+10-Oct-17 9:58:23 AM	Warning			process - 1	1	No plate to unload from the device Agilent Labware MiniHub - 1 location : cassette 1, slot 4		Protocol File - 1	1	
+10-Oct-17 9:58:23 AM	Warning			process - 1	1	No plate to unload from the device Agilent Labware MiniHub - 1 location : cassette 1, slot 5		Protocol File - 1	1	
+10-Oct-17 9:58:23 AM	Warning			process - 1	1	No plate to unload from the device Agilent Labware MiniHub - 1 location : cassette 2, slot 1		Protocol File - 1	1	
+10-Oct-17 9:58:23 AM	Warning			process - 1	1	No plate to unload from the device Agilent Labware MiniHub - 1 location : cassette 2, slot 2		Protocol File - 1	1	
+10-Oct-17 9:58:23 AM	Warning			process - 1	1	No plate to unload from the device Agilent Labware MiniHub - 1 location : cassette 2, slot 3		Protocol File - 1	1	
+10-Oct-17 9:58:23 AM	Warning			process - 1	1	No plate to unload from the device Agilent Labware MiniHub - 1 location : cassette 2, slot 4		Protocol File - 1	1	
+10-Oct-17 9:58:23 AM	Warning			process - 1	1	No plate to unload from the device Agilent Labware MiniHub - 1 location : cassette 2, slot 5		Protocol File - 1	1	
+10-Oct-17 9:58:23 AM	Warning			process - 1	1	No plate to unload from the device Agilent Labware MiniHub - 1 location : cassette 3, slot 1		Protocol File - 1	1	
+10-Oct-17 9:58:23 AM	Warning			process - 1	1	No plate to unload from the device Agilent Labware MiniHub - 1 location : cassette 3, slot 2		Protocol File - 1	1	
+10-Oct-17 9:58:23 AM	Warning			process - 1	1	No plate to unload from the device Agilent Labware MiniHub - 1 location : cassette 3, slot 3		Protocol File - 1	1	
+10-Oct-17 9:58:23 AM	Warning			process - 1	1	No plate to unload from the device Agilent Labware MiniHub - 1 location : cassette 3, slot 4		Protocol File - 1	1	
+10-Oct-17 9:58:23 AM	Warning			process - 1	1	No plate to unload from the device Agilent Labware MiniHub - 1 location : cassette 3, slot 5		Protocol File - 1	1	
+10-Oct-17 9:58:23 AM	Warning			process - 1	1	No plate to unload from the device Agilent Labware MiniHub - 1 location : cassette 4, slot 1		Protocol File - 1	1	
+10-Oct-17 9:58:23 AM	Warning			process - 1	1	No plate to unload from the device Agilent Labware MiniHub - 1 location : cassette 4, slot 2		Protocol File - 1	1	
+10-Oct-17 9:58:23 AM	Warning			process - 1	1	No plate to unload from the device Agilent Labware MiniHub - 1 location : cassette 4, slot 3		Protocol File - 1	1	
+10-Oct-17 9:58:23 AM	Warning			process - 1	1	No plate to unload from the device Agilent Labware MiniHub - 1 location : cassette 4, slot 4		Protocol File - 1	1	
+10-Oct-17 9:58:23 AM	Warning			process - 1	1	No plate to unload from the device Agilent Labware MiniHub - 1 location : cassette 4, slot 5		Protocol File - 1	1	
+10-Oct-17 9:58:23 AM	Warning			process - 1	1	No plate to unload from the device Agilent Labware MiniHub - 1 location : cassette 4, slot 1		Protocol File - 1	1	
+10-Oct-17 9:58:23 AM	Warning			process - 1	1	There aren't any available plates for the unload task to unload		Protocol File - 1	1	
+10-Oct-17 9:58:23 AM	Warning			process - 1	3	The number of locations in the load group is less than the number of locations in the unload group.		Protocol File - 1	1	
+10-Oct-17 9:58:23 AM	Info					Compile complete with 0 errors and 24 warnings			1	
+10-Oct-17 9:58:45 AM	Warning			process - 1	1	Agilent Labware MiniHub - 1,cassette 4,slot 1 appears multiple times in the list of slots to use		Protocol File - 1	1	
+10-Oct-17 9:58:45 AM	Warning			process - 1	1	No plate to unload from the device Agilent Labware MiniHub - 1 location : cassette 1, slot 1		Protocol File - 1	1	
+10-Oct-17 9:58:45 AM	Warning			process - 1	1	No plate to unload from the device Agilent Labware MiniHub - 1 location : cassette 1, slot 2		Protocol File - 1	1	
+10-Oct-17 9:58:45 AM	Warning			process - 1	1	No plate to unload from the device Agilent Labware MiniHub - 1 location : cassette 1, slot 3		Protocol File - 1	1	
+10-Oct-17 9:58:45 AM	Warning			process - 1	1	No plate to unload from the device Agilent Labware MiniHub - 1 location : cassette 1, slot 4		Protocol File - 1	1	
+10-Oct-17 9:58:45 AM	Warning			process - 1	1	No plate to unload from the device Agilent Labware MiniHub - 1 location : cassette 1, slot 5		Protocol File - 1	1	
+10-Oct-17 9:58:46 AM	Warning			process - 1	1	No plate to unload from the device Agilent Labware MiniHub - 1 location : cassette 2, slot 1		Protocol File - 1	1	
+10-Oct-17 9:58:46 AM	Warning			process - 1	1	No plate to unload from the device Agilent Labware MiniHub - 1 location : cassette 2, slot 2		Protocol File - 1	1	
+10-Oct-17 9:58:46 AM	Warning			process - 1	1	No plate to unload from the device Agilent Labware MiniHub - 1 location : cassette 2, slot 3		Protocol File - 1	1	
+10-Oct-17 9:58:46 AM	Warning			process - 1	1	No plate to unload from the device Agilent Labware MiniHub - 1 location : cassette 2, slot 4		Protocol File - 1	1	
+10-Oct-17 9:58:46 AM	Warning			process - 1	1	No plate to unload from the device Agilent Labware MiniHub - 1 location : cassette 2, slot 5		Protocol File - 1	1	
+10-Oct-17 9:58:46 AM	Warning			process - 1	1	No plate to unload from the device Agilent Labware MiniHub - 1 location : cassette 3, slot 1		Protocol File - 1	1	
+10-Oct-17 9:58:46 AM	Warning			process - 1	1	No plate to unload from the device Agilent Labware MiniHub - 1 location : cassette 3, slot 2		Protocol File - 1	1	
+10-Oct-17 9:58:46 AM	Warning			process - 1	1	No plate to unload from the device Agilent Labware MiniHub - 1 location : cassette 3, slot 3		Protocol File - 1	1	
+10-Oct-17 9:58:46 AM	Warning			process - 1	1	No plate to unload from the device Agilent Labware MiniHub - 1 location : cassette 3, slot 4		Protocol File - 1	1	
+10-Oct-17 9:58:46 AM	Warning			process - 1	1	No plate to unload from the device Agilent Labware MiniHub - 1 location : cassette 3, slot 5		Protocol File - 1	1	
+10-Oct-17 9:58:46 AM	Warning			process - 1	1	No plate to unload from the device Agilent Labware MiniHub - 1 location : cassette 4, slot 1		Protocol File - 1	1	
+10-Oct-17 9:58:46 AM	Warning			process - 1	1	No plate to unload from the device Agilent Labware MiniHub - 1 location : cassette 4, slot 2		Protocol File - 1	1	
+10-Oct-17 9:58:46 AM	Warning			process - 1	1	No plate to unload from the device Agilent Labware MiniHub - 1 location : cassette 4, slot 3		Protocol File - 1	1	
+10-Oct-17 9:58:46 AM	Warning			process - 1	1	No plate to unload from the device Agilent Labware MiniHub - 1 location : cassette 4, slot 4		Protocol File - 1	1	
+10-Oct-17 9:58:46 AM	Warning			process - 1	1	No plate to unload from the device Agilent Labware MiniHub - 1 location : cassette 4, slot 5		Protocol File - 1	1	
+10-Oct-17 9:58:46 AM	Warning			process - 1	1	No plate to unload from the device Agilent Labware MiniHub - 1 location : cassette 4, slot 1		Protocol File - 1	1	
+10-Oct-17 9:58:46 AM	Warning			process - 1	1	There aren't any available plates for the unload task to unload		Protocol File - 1	1	
+10-Oct-17 9:58:46 AM	Warning			process - 1	3	The number of locations in the load group is less than the number of locations in the unload group.		Protocol File - 1	1	
+10-Oct-17 9:58:46 AM	Info					Compile complete with 0 errors and 24 warnings			1	
+10-Oct-17 9:58:47 AM	Info					Runset Manager: Added the run "Protocol File - 1" to Runset Manager.			1	
+10-Oct-17 9:58:48 AM	Event					Scheduler started			1	
+10-Oct-17 9:58:48 AM	Info	Agilent Labware MiniHub - 1				Initializing device		C:\VWorks Workspace\Device Files\BravoMiniPHBenchCel_round_magnet_RED_insert.dev	1	
+10-Oct-17 9:58:49 AM	Info	BenchCel - 1				Initializing device		C:\VWorks Workspace\Device Files\BravoMiniPHBenchCel_round_magnet_RED_insert.dev	1	
+10-Oct-17 9:58:49 AM	Info	Bravo - 1				Initializing device		C:\VWorks Workspace\Device Files\BravoMiniPHBenchCel_round_magnet_RED_insert.dev	1	
+10-Oct-17 9:58:50 AM	Info	BenchCel - 1				Initialization complete		C:\VWorks Workspace\Device Files\BravoMiniPHBenchCel_round_magnet_RED_insert.dev	1	
+10-Oct-17 9:59:00 AM	Info	Agilent Labware MiniHub - 1				Initialization complete		C:\VWorks Workspace\Device Files\BravoMiniPHBenchCel_round_magnet_RED_insert.dev	1	
+10-Oct-17 9:59:18 AM	Info	Bravo - 1				Initialization complete		C:\VWorks Workspace\Device Files\BravoMiniPHBenchCel_round_magnet_RED_insert.dev	1	
+10-Oct-17 9:59:18 AM	Info					Error library: Protocol started using error library file: ""			1	
+10-Oct-17 9:59:18 AM	Info			process - 1		1 plate required		Protocol File - 1	1	
+10-Oct-17 9:59:18 AM	Event					Main protocol starting		Protocol File - 1	1	
+10-Oct-17 9:59:18 AM	Event			process - 1 1		Process starting, north barcode: No bar code, east barcode: No bar code, south barcode: No bar code, west barcode: No bar code		Protocol File - 1	1	
+10-Oct-17 9:59:18 AM	Event	Agilent Labware MiniHub - 1	Cassette 1, slot 1	process - 1 1	1	Unload from plate storage device		Protocol File - 1	1	
+10-Oct-17 9:59:18 AM	Event	Agilent Labware MiniHub - 1		process - 1 1		Agilent Labware MiniHub - 1 Unload the plate from Location : cassette 1, slot 1 to Cassette 1, Slot 1		Protocol File - 1	1	
+10-Oct-17 9:59:18 AM	Event	Agilent Labware MiniHub - 1	Cassette 1, slot 1	process - 1 1	1	Completed: Unload from plate storage device		Protocol File - 1	1	
+10-Oct-17 9:59:18 AM	Event	Bravo - 1	3	process - 1 1	2	Place plate at Bravo - 1 3		Protocol File - 1	1	
+10-Oct-17 9:59:18 AM	Event	BenchCel - 1		process - 1 1		Move plate from Agilent Labware MiniHub - 1 Cassette 1, Slot 1, teachpoint MiniHub01 to Bravo - 1 3, teachpoint Bravo3			1	
+10-Oct-17 9:59:29 AM	Event	BenchCel - 1		process - 1 1		Finished moving plate from Agilent Labware MiniHub - 1 Cassette 1, Slot 1, teachpoint MiniHub01 to Bravo - 1 3, teachpoint Bravo3			1	
+10-Oct-17 9:59:29 AM	Event	Bravo - 1	3	process - 1 1	2	Completed: Place plate at Bravo - 1 3		Protocol File - 1	1	
+10-Oct-17 9:59:29 AM	Event	Agilent Labware MiniHub - 1	Cassette 4, slot 2	process - 1 1	3	Load into plate storage device		Protocol File - 1	1	
+10-Oct-17 9:59:29 AM	Event	BenchCel - 1		process - 1 1		Move plate from Bravo - 1 3, teachpoint Bravo3 to Agilent Labware MiniHub - 1 Cassette 4, Slot 2, teachpoint MiniHub02			1	
+10-Oct-17 9:59:41 AM	Event	BenchCel - 1		process - 1 1		Finished moving plate from Bravo - 1 3, teachpoint Bravo3 to Agilent Labware MiniHub - 1 Cassette 4, Slot 2, teachpoint MiniHub02			1	
+10-Oct-17 9:59:41 AM	Event	Agilent Labware MiniHub - 1		process - 1 1	3	Agilent Labware MiniHub - 1 Load the plate from Cassette 4, Slot 2 into Location : cassette 4, slot 2		Protocol File - 1	1	
+10-Oct-17 9:59:41 AM	Event	Agilent Labware MiniHub - 1	Cassette 4, slot 2	process - 1 1	3	Completed: Load into plate storage device		Protocol File - 1	1	
+10-Oct-17 9:59:41 AM	Event			process - 1 1		Process finishing		Protocol File - 1	1	
+10-Oct-17 9:59:42 AM	Info					Elapsed time since start: 54 seconds.		Protocol File - 1	1	
+10-Oct-17 9:59:44 AM	Event					Main protocol complete		Protocol File - 1	1	
+10-Oct-17 10:00:02 AM	Info			process - 1	1	Delete location slot 1		Protocol File - 1	1	
+10-Oct-17 10:00:12 AM	Info			process - 1	1	Delete location Agilent Labware MiniHub - 1, cassette 4, slot 1		Protocol File - 1	1	
+10-Oct-17 10:00:52 AM	Info			process - 1	1	Deleted task "Unload" from process "process - 1"		Protocol File - 1	1	
+10-Oct-17 10:01:02 AM	Info			process - 1	1	Added task "Unload" to process "process - 1"		Protocol File - 1	1	
+10-Oct-17 10:01:10 AM	Info			process - 1	1	Add location : Agilent Labware MiniHub - 1, cassette 4, slot 1		Protocol File - 1	1	
+10-Oct-17 10:01:16 AM	Warning			process - 1	1	No plate to unload from the device Agilent Labware MiniHub - 1 location : cassette 4, slot 1		Protocol File - 1	1	
+10-Oct-17 10:01:16 AM	Warning			process - 1	1	There aren't any available plates for the unload task to unload		Protocol File - 1	1	
+10-Oct-17 10:01:16 AM	Warning			process - 1	3	There is already a plate at the device Agilent Labware MiniHub - 1 in cassette 4, slot 2		Protocol File - 1	1	
+10-Oct-17 10:01:16 AM	Info					Compile complete with 0 errors and 3 warnings			1	
+10-Oct-17 10:01:18 AM	Info					Runset Manager: Added the run "Protocol File - 1<1>" to Runset Manager.			1	
+10-Oct-17 10:01:19 AM	Event					Scheduler started			1	
+10-Oct-17 10:01:19 AM	Info					Error library: Protocol started using error library file: ""			1	
+10-Oct-17 10:01:19 AM	Info			process - 1		1 plate required		Protocol File - 1	1	
+10-Oct-17 10:01:19 AM	Event					Main protocol starting		Protocol File - 1	1	
+10-Oct-17 10:01:20 AM	Event			process - 1 1		Process starting, north barcode: No bar code, east barcode: No bar code, south barcode: No bar code, west barcode: No bar code		Protocol File - 1	1	
+10-Oct-17 10:01:20 AM	Event	Agilent Labware MiniHub - 1	Cassette 4, slot 1	process - 1 1	1	Unload from plate storage device		Protocol File - 1	1	
+10-Oct-17 10:01:20 AM	Event	Agilent Labware MiniHub - 1		process - 1 1		Agilent Labware MiniHub - 1 Unload the plate from Location : cassette 4, slot 1 to Cassette 4, Slot 1		Protocol File - 1	1	
+10-Oct-17 10:01:20 AM	Event	Agilent Labware MiniHub - 1	Cassette 4, slot 1	process - 1 1	1	Completed: Unload from plate storage device		Protocol File - 1	1	
+10-Oct-17 10:01:20 AM	Event	Bravo - 1	3	process - 1 1	2	Place plate at Bravo - 1 3		Protocol File - 1	1	
+10-Oct-17 10:01:20 AM	Event	BenchCel - 1		process - 1 1		Move plate from Agilent Labware MiniHub - 1 Cassette 4, Slot 1, teachpoint MiniHub01 to Bravo - 1 3, teachpoint Bravo3			1	
+10-Oct-17 10:01:30 AM	Event	BenchCel - 1		process - 1 1		Finished moving plate from Agilent Labware MiniHub - 1 Cassette 4, Slot 1, teachpoint MiniHub01 to Bravo - 1 3, teachpoint Bravo3			1	
+10-Oct-17 10:01:30 AM	Event	Bravo - 1	3	process - 1 1	2	Completed: Place plate at Bravo - 1 3		Protocol File - 1	1	
+10-Oct-17 10:01:48 AM	Warning	Bravo - 1	3	process - 1 1		Attempting to avoid deadlock by moving plate from contentious location			1	
+10-Oct-17 10:01:48 AM	Event	Bravo - 1		process - 1 1		Move plate from Bravo - 1 3, teachpoint 3 to Bravo - 1 2, teachpoint 2			1	
+10-Oct-17 10:01:58 AM	Event	Bravo - 1		process - 1 1		Finished moving plate from Bravo - 1 3, teachpoint 3 to Bravo - 1 2, teachpoint 2			1	
+10-Oct-17 10:02:02 AM	Info					Pause protocol			1	
+10-Oct-17 10:02:02 AM	Event					Scheduler stopped			1	
+10-Oct-17 10:02:05 AM	Event					Scheduler aborted			1	
+10-Oct-17 10:02:06 AM	Event					Main protocol aborted by user		Protocol File - 1	1	
+10-Oct-17 10:02:06 AM	Event			process - 1 1		Process finishing		Protocol File - 1	1	
+10-Oct-17 10:02:06 AM	Info					Elapsed time since start: 47 seconds.		Protocol File - 1	1	
+10-Oct-17 10:02:07 AM	Event					Main protocol aborted by user		Protocol File - 1	1	
+10-Oct-17 10:02:07 AM	Event			process - 1 1		Process finishing		Protocol File - 1	1	
+10-Oct-17 10:02:46 AM	Info			process - 1	3	Delete location Agilent Labware MiniHub - 1, cassette 4, slot 2		Protocol File - 1	1	
+10-Oct-17 10:03:15 AM	Info			process - 1	3	Add location : Agilent Labware MiniHub - 1, cassette 4, slot 1		Protocol File - 1	1	
+10-Oct-17 10:03:32 AM	Info					Compile protocol			1	
+10-Oct-17 10:03:33 AM	Warning			process - 1	1	No plate to unload from the device Agilent Labware MiniHub - 1 location : cassette 4, slot 1		Protocol File - 1	1	
+10-Oct-17 10:03:33 AM	Warning			process - 1	1	There aren't any available plates for the unload task to unload		Protocol File - 1	1	
+10-Oct-17 10:03:33 AM	Info					Compile complete with 0 errors and 2 warnings			1	
+10-Oct-17 10:03:59 AM	Warning			process - 1	1	No plate to unload from the device Agilent Labware MiniHub - 1 location : cassette 4, slot 1		Protocol File - 1	1	
+10-Oct-17 10:03:59 AM	Warning			process - 1	1	There aren't any available plates for the unload task to unload		Protocol File - 1	1	
+10-Oct-17 10:03:59 AM	Info					Compile complete with 0 errors and 2 warnings			1	
+10-Oct-17 10:04:00 AM	Info					Runset Manager: Added the run "Protocol File - 1<2>" to Runset Manager.			1	
+10-Oct-17 10:04:01 AM	Event					Scheduler started			1	
+10-Oct-17 10:04:01 AM	Info					Error library: Protocol started using error library file: ""			1	
+10-Oct-17 10:04:01 AM	Info			process - 1		1 plate required		Protocol File - 1	1	
+10-Oct-17 10:04:01 AM	Event					Main protocol starting		Protocol File - 1	1	
+10-Oct-17 10:04:02 AM	Event			process - 1 1		Process starting, north barcode: No bar code, east barcode: No bar code, south barcode: No bar code, west barcode: No bar code		Protocol File - 1	1	
+10-Oct-17 10:04:02 AM	Event	Agilent Labware MiniHub - 1	Cassette 4, slot 1	process - 1 1	1	Unload from plate storage device		Protocol File - 1	1	
+10-Oct-17 10:04:02 AM	Event	Agilent Labware MiniHub - 1		process - 1 1		Agilent Labware MiniHub - 1 Unload the plate from Location : cassette 4, slot 1 to Cassette 4, Slot 1		Protocol File - 1	1	
+10-Oct-17 10:04:02 AM	Event	Agilent Labware MiniHub - 1	Cassette 4, slot 1	process - 1 1	1	Completed: Unload from plate storage device		Protocol File - 1	1	
+10-Oct-17 10:04:02 AM	Event	Bravo - 1	3	process - 1 1	2	Place plate at Bravo - 1 3		Protocol File - 1	1	
+10-Oct-17 10:04:02 AM	Event	BenchCel - 1		process - 1 1		Move plate from Agilent Labware MiniHub - 1 Cassette 4, Slot 1, teachpoint MiniHub01 to Bravo - 1 3, teachpoint Bravo3			1	
+10-Oct-17 10:04:14 AM	Event	BenchCel - 1		process - 1 1		Finished moving plate from Agilent Labware MiniHub - 1 Cassette 4, Slot 1, teachpoint MiniHub01 to Bravo - 1 3, teachpoint Bravo3			1	
+10-Oct-17 10:04:14 AM	Event	Bravo - 1	3	process - 1 1	2	Completed: Place plate at Bravo - 1 3		Protocol File - 1	1	
+10-Oct-17 10:04:14 AM	Event	Agilent Labware MiniHub - 1	Cassette 4, slot 1	process - 1 1	3	Load into plate storage device		Protocol File - 1	1	
+10-Oct-17 10:04:14 AM	Event	BenchCel - 1		process - 1 1		Move plate from Bravo - 1 3, teachpoint Bravo3 to Agilent Labware MiniHub - 1 Cassette 4, Slot 1, teachpoint MiniHub01			1	
+10-Oct-17 10:04:22 AM	Event	BenchCel - 1		process - 1 1		Finished moving plate from Bravo - 1 3, teachpoint Bravo3 to Agilent Labware MiniHub - 1 Cassette 4, Slot 1, teachpoint MiniHub01			1	
+10-Oct-17 10:04:22 AM	Event	Agilent Labware MiniHub - 1		process - 1 1	3	Agilent Labware MiniHub - 1 Load the plate from Cassette 4, Slot 1 into Location : cassette 4, slot 1		Protocol File - 1	1	
+10-Oct-17 10:04:22 AM	Event	Agilent Labware MiniHub - 1	Cassette 4, slot 1	process - 1 1	3	Completed: Load into plate storage device		Protocol File - 1	1	
+10-Oct-17 10:04:23 AM	Event			process - 1 1		Process finishing		Protocol File - 1	1	
+10-Oct-17 10:04:23 AM	Info					Elapsed time since start: 22 seconds.		Protocol File - 1	1	
+10-Oct-17 10:04:25 AM	Event					Main protocol complete		Protocol File - 1	1	
+10-Oct-17 10:05:22 AM	Info			process - 2		Added new process "process - 2"		Protocol File - 1	1	
+10-Oct-17 10:05:25 AM	Info			process - 2		Changed "process process - 2, parameter Plate type" to "96 V11 LT250 Tip Box 19477.002"		Protocol File - 1	1	
+10-Oct-17 10:05:33 AM	Info			process - 2	1	Added task "Unload" to process "process - 2"		Protocol File - 1	1	
+10-Oct-17 10:05:45 AM	Info			process - 2	1	Add location : Agilent Labware MiniHub - 1, cassette 4, slot 2		Protocol File - 1	1	
+10-Oct-17 10:05:52 AM	Info			process - 2	2	Added task "Place Plate" to process "process - 2"		Protocol File - 1	1	
+10-Oct-17 10:06:08 AM	Info			process - 2	3	Added task "Load" to process "process - 2"		Protocol File - 1	1	
+10-Oct-17 10:06:09 AM	Info			process - 2	3	Changed "task Load, parameter Use original location" from "False" to "True"		Protocol File - 1	1	
+10-Oct-17 10:06:12 AM	Info			process - 1	3	Changed "task Load, parameter Use original location" from "False" to "True"		Protocol File - 1	1	
+10-Oct-17 10:06:21 AM	Info			process - 3		Added new process "process - 3"		Protocol File - 1	1	
+10-Oct-17 10:06:26 AM	Info			process - 3		Changed "process process - 3, parameter Plate type" to "96 V11 LT250 Tip Box 19477.002"		Protocol File - 1	1	
+10-Oct-17 10:06:32 AM	Info			process - 3	1	Added task "Unload" to process "process - 3"		Protocol File - 1	1	
+10-Oct-17 10:06:39 AM	Info			process - 3	1	Add location : Agilent Labware MiniHub - 1, cassette 1, slot 1		Protocol File - 1	1	
+10-Oct-17 10:06:47 AM	Info			process - 2	2	Changed "task Place Plate, parameter Device to use" to "Bravo - 1"		Protocol File - 1	1	
+10-Oct-17 10:06:50 AM	Info			process - 2	2	Changed "task Place Plate, parameter Location to use" from "1" to "3"		Protocol File - 1	1	
+10-Oct-17 10:06:57 AM	Info			process - 3	2	Added task "Place Plate" to process "process - 3"		Protocol File - 1	1	
+10-Oct-17 10:07:00 AM	Info			process - 3	2	Changed "task Place Plate, parameter Device to use" to "Bravo - 1"		Protocol File - 1	1	
+10-Oct-17 10:07:03 AM	Info			process - 3	2	Changed "task Place Plate, parameter Location to use" from "1" to "3"		Protocol File - 1	1	
+10-Oct-17 10:07:07 AM	Info			process - 3	3	Added task "Load" to process "process - 3"		Protocol File - 1	1	
+10-Oct-17 10:07:09 AM	Info			process - 3	3	Changed "task Load, parameter Use original location" from "False" to "True"		Protocol File - 1	1	
+10-Oct-17 10:07:17 AM	Info			process - 4		Added new process "process - 4"		Protocol File - 1	1	
+10-Oct-17 10:07:20 AM	Info			process - 4		Changed "process process - 4, parameter Plate type" to "96 V11 LT250 Tip Box 19477.002"		Protocol File - 1	1	
+10-Oct-17 10:07:24 AM	Info			process - 4	1	Added task "Unload" to process "process - 4"		Protocol File - 1	1	
+10-Oct-17 10:07:28 AM	Info			process - 4	1	Add location : Agilent Labware MiniHub - 1, cassette 1, slot 2		Protocol File - 1	1	
+10-Oct-17 10:07:34 AM	Info			process - 4	2	Added task "Place Plate" to process "process - 4"		Protocol File - 1	1	
+10-Oct-17 10:07:36 AM	Info			process - 4	2	Changed "task Place Plate, parameter Device to use" to "Bravo - 1"		Protocol File - 1	1	
+10-Oct-17 10:07:38 AM	Info			process - 4	2	Changed "task Place Plate, parameter Location to use" from "1" to "3"		Protocol File - 1	1	
+10-Oct-17 10:07:43 AM	Info			process - 4	3	Added task "Load" to process "process - 4"		Protocol File - 1	1	
+10-Oct-17 10:07:44 AM	Info			process - 4	3	Changed "task Load, parameter Use original location" from "False" to "True"		Protocol File - 1	1	
+10-Oct-17 10:09:05 AM	Warning			process - 3	1	No plate to unload from the device Agilent Labware MiniHub - 1 location : cassette 1, slot 1		Protocol File - 1	1	
+10-Oct-17 10:09:05 AM	Warning			process - 3	1	There aren't any available plates for the unload task to unload		Protocol File - 1	1	
+10-Oct-17 10:09:05 AM	Warning			process - 4	1	No plate to unload from the device Agilent Labware MiniHub - 1 location : cassette 1, slot 2		Protocol File - 1	1	
+10-Oct-17 10:09:05 AM	Warning			process - 4	1	There aren't any available plates for the unload task to unload		Protocol File - 1	1	
+10-Oct-17 10:09:05 AM	Info					Compile complete with 0 errors and 4 warnings			1	
+10-Oct-17 10:09:06 AM	Info					Runset Manager: Added the run "Protocol File - 1<3>" to Runset Manager.			1	
+10-Oct-17 10:09:07 AM	Event					Scheduler started			1	
+10-Oct-17 10:09:08 AM	Info					Error library: Protocol started using error library file: ""			1	
+10-Oct-17 10:09:08 AM	Info			process - 1		1 plate required		Protocol File - 1	1	
+10-Oct-17 10:09:08 AM	Info			process - 2		1 plate required		Protocol File - 1	1	
+10-Oct-17 10:09:08 AM	Info			process - 3		1 plate required		Protocol File - 1	1	
+10-Oct-17 10:09:08 AM	Info			process - 4		1 plate required		Protocol File - 1	1	
+10-Oct-17 10:09:08 AM	Event					Main protocol starting		Protocol File - 1	1	
+10-Oct-17 10:09:08 AM	Event			process - 2 1		Process starting, north barcode: No bar code, east barcode: No bar code, south barcode: No bar code, west barcode: No bar code		Protocol File - 1	1	
+10-Oct-17 10:09:08 AM	Event			process - 3 1		Process starting, north barcode: No bar code, east barcode: No bar code, south barcode: No bar code, west barcode: No bar code		Protocol File - 1	1	
+10-Oct-17 10:09:08 AM	Event			process - 1 1		Process starting, north barcode: No bar code, east barcode: No bar code, south barcode: No bar code, west barcode: No bar code		Protocol File - 1	1	
+10-Oct-17 10:09:08 AM	Event			process - 4 1		Process starting, north barcode: No bar code, east barcode: No bar code, south barcode: No bar code, west barcode: No bar code		Protocol File - 1	1	
+10-Oct-17 10:09:08 AM	Event	Agilent Labware MiniHub - 1	Cassette 4, slot 2	process - 2 1	1	Unload from plate storage device		Protocol File - 1	1	
+10-Oct-17 10:09:08 AM	Event	Agilent Labware MiniHub - 1		process - 2 1		Agilent Labware MiniHub - 1 Unload the plate from Location : cassette 4, slot 2 to Cassette 4, Slot 2		Protocol File - 1	1	
+10-Oct-17 10:09:09 AM	Event	Agilent Labware MiniHub - 1	Cassette 4, slot 2	process - 2 1	1	Completed: Unload from plate storage device		Protocol File - 1	1	
+10-Oct-17 10:09:09 AM	Event	Bravo - 1	3	process - 2 1	2	Place plate at Bravo - 1 3		Protocol File - 1	1	
+10-Oct-17 10:09:09 AM	Event	BenchCel - 1		process - 2 1		Move plate from Agilent Labware MiniHub - 1 Cassette 4, Slot 2, teachpoint MiniHub02 to Bravo - 1 3, teachpoint Bravo3			1	
+10-Oct-17 10:09:09 AM	Event	Agilent Labware MiniHub - 1	Cassette 1, slot 1	process - 3 1	1	Unload from plate storage device		Protocol File - 1	1	
+10-Oct-17 10:09:09 AM	Event	Agilent Labware MiniHub - 1		process - 3 1		Agilent Labware MiniHub - 1 Unload the plate from Location : cassette 1, slot 1 to Cassette 1, Slot 1		Protocol File - 1	1	
+10-Oct-17 10:09:09 AM	Event	Agilent Labware MiniHub - 1	Cassette 1, slot 1	process - 3 1	1	Completed: Unload from plate storage device		Protocol File - 1	1	
+10-Oct-17 10:09:09 AM	Event	Agilent Labware MiniHub - 1	Cassette 4, slot 1	process - 1 1	1	Unload from plate storage device		Protocol File - 1	1	
+10-Oct-17 10:09:09 AM	Event	Agilent Labware MiniHub - 1		process - 1 1		Agilent Labware MiniHub - 1 Unload the plate from Location : cassette 4, slot 1 to Cassette 4, Slot 1		Protocol File - 1	1	
+10-Oct-17 10:09:09 AM	Event	Agilent Labware MiniHub - 1	Cassette 4, slot 1	process - 1 1	1	Completed: Unload from plate storage device		Protocol File - 1	1	
+10-Oct-17 10:09:09 AM	Event	Agilent Labware MiniHub - 1	Cassette 1, slot 2	process - 4 1	1	Unload from plate storage device		Protocol File - 1	1	
+10-Oct-17 10:09:09 AM	Event	Agilent Labware MiniHub - 1		process - 4 1		Agilent Labware MiniHub - 1 Unload the plate from Location : cassette 1, slot 2 to Cassette 1, Slot 2		Protocol File - 1	1	
+10-Oct-17 10:09:09 AM	Event	Agilent Labware MiniHub - 1	Cassette 1, slot 2	process - 4 1	1	Completed: Unload from plate storage device		Protocol File - 1	1	
+10-Oct-17 10:09:18 AM	Event	BenchCel - 1		process - 2 1		Finished moving plate from Agilent Labware MiniHub - 1 Cassette 4, Slot 2, teachpoint MiniHub02 to Bravo - 1 3, teachpoint Bravo3			1	
+10-Oct-17 10:09:18 AM	Event	Bravo - 1	3	process - 2 1	2	Completed: Place plate at Bravo - 1 3		Protocol File - 1	1	
+10-Oct-17 10:09:18 AM	Event	Agilent Labware MiniHub - 1	Cassette 4, slot 2	process - 2 1	3	Load into plate storage device		Protocol File - 1	1	
+10-Oct-17 10:09:18 AM	Event	BenchCel - 1		process - 2 1		Move plate from Bravo - 1 3, teachpoint Bravo3 to Agilent Labware MiniHub - 1 Cassette 4, Slot 2, teachpoint MiniHub02			1	
+10-Oct-17 10:09:27 AM	Event	BenchCel - 1		process - 2 1		Finished moving plate from Bravo - 1 3, teachpoint Bravo3 to Agilent Labware MiniHub - 1 Cassette 4, Slot 2, teachpoint MiniHub02			1	
+10-Oct-17 10:09:27 AM	Event	Agilent Labware MiniHub - 1		process - 2 1	3	Agilent Labware MiniHub - 1 Load the plate from Cassette 4, Slot 2 into Location : cassette 4, slot 2		Protocol File - 1	1	
+10-Oct-17 10:09:27 AM	Event	Bravo - 1	3	process - 1 1	2	Place plate at Bravo - 1 3		Protocol File - 1	1	
+10-Oct-17 10:09:27 AM	Event	BenchCel - 1		process - 1 1		Move plate from Agilent Labware MiniHub - 1 Cassette 4, Slot 1, teachpoint MiniHub01 to Bravo - 1 3, teachpoint Bravo3			1	
+10-Oct-17 10:09:27 AM	Event	Agilent Labware MiniHub - 1	Cassette 4, slot 2	process - 2 1	3	Completed: Load into plate storage device		Protocol File - 1	1	
+10-Oct-17 10:09:27 AM	Event			process - 2 1		Process finishing		Protocol File - 1	1	
+10-Oct-17 10:09:38 AM	Event	BenchCel - 1		process - 1 1		Finished moving plate from Agilent Labware MiniHub - 1 Cassette 4, Slot 1, teachpoint MiniHub01 to Bravo - 1 3, teachpoint Bravo3			1	
+10-Oct-17 10:09:38 AM	Event	Bravo - 1	3	process - 1 1	2	Completed: Place plate at Bravo - 1 3		Protocol File - 1	1	
+10-Oct-17 10:09:38 AM	Event	Agilent Labware MiniHub - 1	Cassette 4, slot 1	process - 1 1	3	Load into plate storage device		Protocol File - 1	1	
+10-Oct-17 10:09:38 AM	Event	BenchCel - 1		process - 1 1		Move plate from Bravo - 1 3, teachpoint Bravo3 to Agilent Labware MiniHub - 1 Cassette 4, Slot 1, teachpoint MiniHub01			1	
+10-Oct-17 10:09:46 AM	Event	BenchCel - 1		process - 1 1		Finished moving plate from Bravo - 1 3, teachpoint Bravo3 to Agilent Labware MiniHub - 1 Cassette 4, Slot 1, teachpoint MiniHub01			1	
+10-Oct-17 10:09:46 AM	Event	Agilent Labware MiniHub - 1		process - 1 1	3	Agilent Labware MiniHub - 1 Load the plate from Cassette 4, Slot 1 into Location : cassette 4, slot 1		Protocol File - 1	1	
+10-Oct-17 10:09:46 AM	Event	Agilent Labware MiniHub - 1	Cassette 4, slot 1	process - 1 1	3	Completed: Load into plate storage device		Protocol File - 1	1	
+10-Oct-17 10:09:46 AM	Event			process - 1 1		Process finishing		Protocol File - 1	1	
+10-Oct-17 10:09:46 AM	Event	Bravo - 1	3	process - 3 1	2	Place plate at Bravo - 1 3		Protocol File - 1	1	
+10-Oct-17 10:09:46 AM	Event	BenchCel - 1		process - 3 1		Move plate from Agilent Labware MiniHub - 1 Cassette 1, Slot 1, teachpoint MiniHub01 to Bravo - 1 3, teachpoint Bravo3			1	
+10-Oct-17 10:10:00 AM	Event	BenchCel - 1		process - 3 1		Finished moving plate from Agilent Labware MiniHub - 1 Cassette 1, Slot 1, teachpoint MiniHub01 to Bravo - 1 3, teachpoint Bravo3			1	
+10-Oct-17 10:10:00 AM	Event	Bravo - 1	3	process - 3 1	2	Completed: Place plate at Bravo - 1 3		Protocol File - 1	1	
+10-Oct-17 10:10:00 AM	Event	Agilent Labware MiniHub - 1	Cassette 1, slot 1	process - 3 1	3	Load into plate storage device		Protocol File - 1	1	
+10-Oct-17 10:10:00 AM	Event	BenchCel - 1		process - 3 1		Move plate from Bravo - 1 3, teachpoint Bravo3 to Agilent Labware MiniHub - 1 Cassette 1, Slot 1, teachpoint MiniHub01			1	
+10-Oct-17 10:10:08 AM	Event	BenchCel - 1		process - 3 1		Finished moving plate from Bravo - 1 3, teachpoint Bravo3 to Agilent Labware MiniHub - 1 Cassette 1, Slot 1, teachpoint MiniHub01			1	
+10-Oct-17 10:10:08 AM	Event	Agilent Labware MiniHub - 1		process - 3 1	3	Agilent Labware MiniHub - 1 Load the plate from Cassette 1, Slot 1 into Location : cassette 1, slot 1		Protocol File - 1	1	
+10-Oct-17 10:10:09 AM	Event	Agilent Labware MiniHub - 1	Cassette 1, slot 1	process - 3 1	3	Completed: Load into plate storage device		Protocol File - 1	1	
+10-Oct-17 10:10:09 AM	Event			process - 3 1		Process finishing		Protocol File - 1	1	
+10-Oct-17 10:10:09 AM	Event	Bravo - 1	3	process - 4 1	2	Place plate at Bravo - 1 3		Protocol File - 1	1	
+10-Oct-17 10:10:09 AM	Event	BenchCel - 1		process - 4 1		Move plate from Agilent Labware MiniHub - 1 Cassette 1, Slot 2, teachpoint MiniHub02 to Bravo - 1 3, teachpoint Bravo3			1	
+10-Oct-17 10:10:18 AM	Event	BenchCel - 1		process - 4 1		Finished moving plate from Agilent Labware MiniHub - 1 Cassette 1, Slot 2, teachpoint MiniHub02 to Bravo - 1 3, teachpoint Bravo3			1	
+10-Oct-17 10:10:18 AM	Event	Bravo - 1	3	process - 4 1	2	Completed: Place plate at Bravo - 1 3		Protocol File - 1	1	
+10-Oct-17 10:10:18 AM	Event	Agilent Labware MiniHub - 1	Cassette 1, slot 2	process - 4 1	3	Load into plate storage device		Protocol File - 1	1	
+10-Oct-17 10:10:18 AM	Event	BenchCel - 1		process - 4 1		Move plate from Bravo - 1 3, teachpoint Bravo3 to Agilent Labware MiniHub - 1 Cassette 1, Slot 2, teachpoint MiniHub02			1	
+10-Oct-17 10:10:27 AM	Event	BenchCel - 1		process - 4 1		Finished moving plate from Bravo - 1 3, teachpoint Bravo3 to Agilent Labware MiniHub - 1 Cassette 1, Slot 2, teachpoint MiniHub02			1	
+10-Oct-17 10:10:27 AM	Event	Agilent Labware MiniHub - 1		process - 4 1	3	Agilent Labware MiniHub - 1 Load the plate from Cassette 1, Slot 2 into Location : cassette 1, slot 2		Protocol File - 1	1	
+10-Oct-17 10:10:27 AM	Event	Agilent Labware MiniHub - 1	Cassette 1, slot 2	process - 4 1	3	Completed: Load into plate storage device		Protocol File - 1	1	
+10-Oct-17 10:10:27 AM	Event			process - 4 1		Process finishing		Protocol File - 1	1	
+10-Oct-17 10:10:27 AM	Info					Elapsed time since start: 1 minute 20 seconds.		Protocol File - 1	1	
+10-Oct-17 10:10:30 AM	Event					Main protocol complete		Protocol File - 1	1	
+10-Oct-17 10:12:08 AM	Info					Compile complete with 0 errors and 0 warnings			1	
+10-Oct-17 10:12:17 AM	Info					Runset Manager: Added the run "Protocol File - 1<4>" to Runset Manager.			1	
+10-Oct-17 10:12:18 AM	Event					Scheduler started			1	
+10-Oct-17 10:12:18 AM	Info					Error library: Protocol started using error library file: ""			1	
+10-Oct-17 10:12:18 AM	Info			process - 1		1 plate required		Protocol File - 1	1	
+10-Oct-17 10:12:18 AM	Info			process - 2		1 plate required		Protocol File - 1	1	
+10-Oct-17 10:12:18 AM	Info			process - 3		1 plate required		Protocol File - 1	1	
+10-Oct-17 10:12:18 AM	Info			process - 4		1 plate required		Protocol File - 1	1	
+10-Oct-17 10:12:19 AM	Event					Main protocol starting		Protocol File - 1	1	
+10-Oct-17 10:12:19 AM	Event			process - 2 1		Process starting, north barcode: No bar code, east barcode: No bar code, south barcode: No bar code, west barcode: No bar code		Protocol File - 1	1	
+10-Oct-17 10:12:19 AM	Event			process - 3 1		Process starting, north barcode: No bar code, east barcode: No bar code, south barcode: No bar code, west barcode: No bar code		Protocol File - 1	1	
+10-Oct-17 10:12:19 AM	Event			process - 1 1		Process starting, north barcode: No bar code, east barcode: No bar code, south barcode: No bar code, west barcode: No bar code		Protocol File - 1	1	
+10-Oct-17 10:12:19 AM	Event			process - 4 1		Process starting, north barcode: No bar code, east barcode: No bar code, south barcode: No bar code, west barcode: No bar code		Protocol File - 1	1	
+10-Oct-17 10:12:19 AM	Event	Agilent Labware MiniHub - 1	Cassette 4, slot 2	process - 2 1	1	Unload from plate storage device		Protocol File - 1	1	
+10-Oct-17 10:12:19 AM	Event	Agilent Labware MiniHub - 1		process - 2 1		Agilent Labware MiniHub - 1 Unload the plate from Location : cassette 4, slot 2 to Cassette 4, Slot 2		Protocol File - 1	1	
+10-Oct-17 10:12:19 AM	Event	Agilent Labware MiniHub - 1	Cassette 4, slot 2	process - 2 1	1	Completed: Unload from plate storage device		Protocol File - 1	1	
+10-Oct-17 10:12:19 AM	Event	Bravo - 1	3	process - 2 1	2	Place plate at Bravo - 1 3		Protocol File - 1	1	
+10-Oct-17 10:12:19 AM	Event	BenchCel - 1		process - 2 1		Move plate from Agilent Labware MiniHub - 1 Cassette 4, Slot 2, teachpoint MiniHub02 to Bravo - 1 3, teachpoint Bravo3			1	
+10-Oct-17 10:12:19 AM	Event	Agilent Labware MiniHub - 1	Cassette 1, slot 1	process - 3 1	1	Unload from plate storage device		Protocol File - 1	1	
+10-Oct-17 10:12:19 AM	Event	Agilent Labware MiniHub - 1		process - 3 1		Agilent Labware MiniHub - 1 Unload the plate from Location : cassette 1, slot 1 to Cassette 1, Slot 1		Protocol File - 1	1	
+10-Oct-17 10:12:19 AM	Event	Agilent Labware MiniHub - 1	Cassette 1, slot 1	process - 3 1	1	Completed: Unload from plate storage device		Protocol File - 1	1	
+10-Oct-17 10:12:19 AM	Event	Agilent Labware MiniHub - 1	Cassette 4, slot 1	process - 1 1	1	Unload from plate storage device		Protocol File - 1	1	
+10-Oct-17 10:12:19 AM	Event	Agilent Labware MiniHub - 1		process - 1 1		Agilent Labware MiniHub - 1 Unload the plate from Location : cassette 4, slot 1 to Cassette 4, Slot 1		Protocol File - 1	1	
+10-Oct-17 10:12:19 AM	Event	Agilent Labware MiniHub - 1	Cassette 4, slot 1	process - 1 1	1	Completed: Unload from plate storage device		Protocol File - 1	1	
+10-Oct-17 10:12:19 AM	Event	Agilent Labware MiniHub - 1	Cassette 1, slot 2	process - 4 1	1	Unload from plate storage device		Protocol File - 1	1	
+10-Oct-17 10:12:20 AM	Event	Agilent Labware MiniHub - 1		process - 4 1		Agilent Labware MiniHub - 1 Unload the plate from Location : cassette 1, slot 2 to Cassette 1, Slot 2		Protocol File - 1	1	
+10-Oct-17 10:12:20 AM	Event	Agilent Labware MiniHub - 1	Cassette 1, slot 2	process - 4 1	1	Completed: Unload from plate storage device		Protocol File - 1	1	
+10-Oct-17 10:12:33 AM	Event	BenchCel - 1		process - 2 1		Finished moving plate from Agilent Labware MiniHub - 1 Cassette 4, Slot 2, teachpoint MiniHub02 to Bravo - 1 3, teachpoint Bravo3			1	
+10-Oct-17 10:12:33 AM	Event	Bravo - 1	3	process - 2 1	2	Completed: Place plate at Bravo - 1 3		Protocol File - 1	1	
+10-Oct-17 10:12:33 AM	Event	Agilent Labware MiniHub - 1	Cassette 4, slot 2	process - 2 1	3	Load into plate storage device		Protocol File - 1	1	
+10-Oct-17 10:12:33 AM	Event	BenchCel - 1		process - 2 1		Move plate from Bravo - 1 3, teachpoint Bravo3 to Agilent Labware MiniHub - 1 Cassette 4, Slot 2, teachpoint MiniHub02			1	
+10-Oct-17 10:12:42 AM	Event	BenchCel - 1		process - 2 1		Finished moving plate from Bravo - 1 3, teachpoint Bravo3 to Agilent Labware MiniHub - 1 Cassette 4, Slot 2, teachpoint MiniHub02			1	
+10-Oct-17 10:12:42 AM	Event	Agilent Labware MiniHub - 1		process - 2 1	3	Agilent Labware MiniHub - 1 Load the plate from Cassette 4, Slot 2 into Location : cassette 4, slot 2		Protocol File - 1	1	
+10-Oct-17 10:12:42 AM	Event	Bravo - 1	3	process - 1 1	2	Place plate at Bravo - 1 3		Protocol File - 1	1	
+10-Oct-17 10:12:42 AM	Event	BenchCel - 1		process - 1 1		Move plate from Agilent Labware MiniHub - 1 Cassette 4, Slot 1, teachpoint MiniHub01 to Bravo - 1 3, teachpoint Bravo3			1	
+10-Oct-17 10:12:42 AM	Event	Agilent Labware MiniHub - 1	Cassette 4, slot 2	process - 2 1	3	Completed: Load into plate storage device		Protocol File - 1	1	
+10-Oct-17 10:12:42 AM	Event			process - 2 1		Process finishing		Protocol File - 1	1	
+10-Oct-17 10:12:52 AM	Event	BenchCel - 1		process - 1 1		Finished moving plate from Agilent Labware MiniHub - 1 Cassette 4, Slot 1, teachpoint MiniHub01 to Bravo - 1 3, teachpoint Bravo3			1	
+10-Oct-17 10:12:52 AM	Event	Bravo - 1	3	process - 1 1	2	Completed: Place plate at Bravo - 1 3		Protocol File - 1	1	
+10-Oct-17 10:12:52 AM	Event	Agilent Labware MiniHub - 1	Cassette 4, slot 1	process - 1 1	3	Load into plate storage device		Protocol File - 1	1	
+10-Oct-17 10:12:52 AM	Event	BenchCel - 1		process - 1 1		Move plate from Bravo - 1 3, teachpoint Bravo3 to Agilent Labware MiniHub - 1 Cassette 4, Slot 1, teachpoint MiniHub01			1	
+10-Oct-17 10:13:01 AM	Event	BenchCel - 1		process - 1 1		Finished moving plate from Bravo - 1 3, teachpoint Bravo3 to Agilent Labware MiniHub - 1 Cassette 4, Slot 1, teachpoint MiniHub01			1	
+10-Oct-17 10:13:01 AM	Event	Agilent Labware MiniHub - 1		process - 1 1	3	Agilent Labware MiniHub - 1 Load the plate from Cassette 4, Slot 1 into Location : cassette 4, slot 1		Protocol File - 1	1	
+10-Oct-17 10:13:01 AM	Event	Bravo - 1	3	process - 3 1	2	Place plate at Bravo - 1 3		Protocol File - 1	1	
+10-Oct-17 10:13:01 AM	Event	BenchCel - 1		process - 3 1		Move plate from Agilent Labware MiniHub - 1 Cassette 1, Slot 1, teachpoint MiniHub01 to Bravo - 1 3, teachpoint Bravo3			1	
+10-Oct-17 10:13:01 AM	Event	Agilent Labware MiniHub - 1	Cassette 4, slot 1	process - 1 1	3	Completed: Load into plate storage device		Protocol File - 1	1	
+10-Oct-17 10:13:01 AM	Event			process - 1 1		Process finishing		Protocol File - 1	1	
+10-Oct-17 10:13:15 AM	Event	BenchCel - 1		process - 3 1		Finished moving plate from Agilent Labware MiniHub - 1 Cassette 1, Slot 1, teachpoint MiniHub01 to Bravo - 1 3, teachpoint Bravo3			1	
+10-Oct-17 10:13:15 AM	Event	Bravo - 1	3	process - 3 1	2	Completed: Place plate at Bravo - 1 3		Protocol File - 1	1	
+10-Oct-17 10:13:15 AM	Event	Agilent Labware MiniHub - 1	Cassette 1, slot 1	process - 3 1	3	Load into plate storage device		Protocol File - 1	1	
+10-Oct-17 10:13:15 AM	Event	BenchCel - 1		process - 3 1		Move plate from Bravo - 1 3, teachpoint Bravo3 to Agilent Labware MiniHub - 1 Cassette 1, Slot 1, teachpoint MiniHub01			1	
+10-Oct-17 10:13:23 AM	Event	BenchCel - 1		process - 3 1		Finished moving plate from Bravo - 1 3, teachpoint Bravo3 to Agilent Labware MiniHub - 1 Cassette 1, Slot 1, teachpoint MiniHub01			1	
+10-Oct-17 10:13:23 AM	Event	Agilent Labware MiniHub - 1		process - 3 1	3	Agilent Labware MiniHub - 1 Load the plate from Cassette 1, Slot 1 into Location : cassette 1, slot 1		Protocol File - 1	1	
+10-Oct-17 10:13:23 AM	Event	Agilent Labware MiniHub - 1	Cassette 1, slot 1	process - 3 1	3	Completed: Load into plate storage device		Protocol File - 1	1	
+10-Oct-17 10:13:23 AM	Event	Bravo - 1	3	process - 4 1	2	Place plate at Bravo - 1 3		Protocol File - 1	1	
+10-Oct-17 10:13:23 AM	Event			process - 3 1		Process finishing		Protocol File - 1	1	
+10-Oct-17 10:13:23 AM	Event	BenchCel - 1		process - 4 1		Move plate from Agilent Labware MiniHub - 1 Cassette 1, Slot 2, teachpoint MiniHub02 to Bravo - 1 3, teachpoint Bravo3			1	
+10-Oct-17 10:13:33 AM	Event	BenchCel - 1		process - 4 1		Finished moving plate from Agilent Labware MiniHub - 1 Cassette 1, Slot 2, teachpoint MiniHub02 to Bravo - 1 3, teachpoint Bravo3			1	
+10-Oct-17 10:13:33 AM	Event	Bravo - 1	3	process - 4 1	2	Completed: Place plate at Bravo - 1 3		Protocol File - 1	1	
+10-Oct-17 10:13:33 AM	Event	Agilent Labware MiniHub - 1	Cassette 1, slot 2	process - 4 1	3	Load into plate storage device		Protocol File - 1	1	
+10-Oct-17 10:13:33 AM	Event	BenchCel - 1		process - 4 1		Move plate from Bravo - 1 3, teachpoint Bravo3 to Agilent Labware MiniHub - 1 Cassette 1, Slot 2, teachpoint MiniHub02			1	
+10-Oct-17 10:13:42 AM	Event	BenchCel - 1		process - 4 1		Finished moving plate from Bravo - 1 3, teachpoint Bravo3 to Agilent Labware MiniHub - 1 Cassette 1, Slot 2, teachpoint MiniHub02			1	
+10-Oct-17 10:13:42 AM	Event	Agilent Labware MiniHub - 1		process - 4 1	3	Agilent Labware MiniHub - 1 Load the plate from Cassette 1, Slot 2 into Location : cassette 1, slot 2		Protocol File - 1	1	
+10-Oct-17 10:13:42 AM	Event	Agilent Labware MiniHub - 1	Cassette 1, slot 2	process - 4 1	3	Completed: Load into plate storage device		Protocol File - 1	1	
+10-Oct-17 10:13:42 AM	Event			process - 4 1		Process finishing		Protocol File - 1	1	
+10-Oct-17 10:13:42 AM	Info					Elapsed time since start: 1 minute 24 seconds.		Protocol File - 1	1	
+10-Oct-17 10:13:44 AM	Event					Main protocol complete		Protocol File - 1	1	
+10-Oct-17 10:14:04 AM	Info					Compile complete with 0 errors and 0 warnings			1	
+10-Oct-17 10:14:12 AM	Info					Runset Manager: Added the run "Protocol File - 1<5>" to Runset Manager.			1	
+10-Oct-17 10:14:13 AM	Event					Scheduler started			1	
+10-Oct-17 10:14:13 AM	Info					Error library: Protocol started using error library file: ""			1	
+10-Oct-17 10:14:13 AM	Info			process - 1		1 plate required		Protocol File - 1	1	
+10-Oct-17 10:14:13 AM	Info			process - 2		1 plate required		Protocol File - 1	1	
+10-Oct-17 10:14:13 AM	Info			process - 3		1 plate required		Protocol File - 1	1	
+10-Oct-17 10:14:13 AM	Info			process - 4		1 plate required		Protocol File - 1	1	
+10-Oct-17 10:14:13 AM	Event					Main protocol starting		Protocol File - 1	1	
+10-Oct-17 10:14:14 AM	Event			process - 2 1		Process starting, north barcode: No bar code, east barcode: No bar code, south barcode: No bar code, west barcode: No bar code		Protocol File - 1	1	
+10-Oct-17 10:14:14 AM	Event			process - 3 1		Process starting, north barcode: No bar code, east barcode: No bar code, south barcode: No bar code, west barcode: No bar code		Protocol File - 1	1	
+10-Oct-17 10:14:14 AM	Event			process - 1 1		Process starting, north barcode: No bar code, east barcode: No bar code, south barcode: No bar code, west barcode: No bar code		Protocol File - 1	1	
+10-Oct-17 10:14:14 AM	Event			process - 4 1		Process starting, north barcode: No bar code, east barcode: No bar code, south barcode: No bar code, west barcode: No bar code		Protocol File - 1	1	
+10-Oct-17 10:14:14 AM	Event	Agilent Labware MiniHub - 1	Cassette 4, slot 2	process - 2 1	1	Unload from plate storage device		Protocol File - 1	1	
+10-Oct-17 10:14:14 AM	Event	Agilent Labware MiniHub - 1		process - 2 1		Agilent Labware MiniHub - 1 Unload the plate from Location : cassette 4, slot 2 to Cassette 4, Slot 2		Protocol File - 1	1	
+10-Oct-17 10:14:14 AM	Event	Agilent Labware MiniHub - 1	Cassette 4, slot 2	process - 2 1	1	Completed: Unload from plate storage device		Protocol File - 1	1	
+10-Oct-17 10:14:14 AM	Event	Bravo - 1	3	process - 2 1	2	Place plate at Bravo - 1 3		Protocol File - 1	1	
+10-Oct-17 10:14:14 AM	Event	BenchCel - 1		process - 2 1		Move plate from Agilent Labware MiniHub - 1 Cassette 4, Slot 2, teachpoint MiniHub02 to Bravo - 1 3, teachpoint Bravo3			1	
+10-Oct-17 10:14:14 AM	Event	Agilent Labware MiniHub - 1	Cassette 1, slot 1	process - 3 1	1	Unload from plate storage device		Protocol File - 1	1	
+10-Oct-17 10:14:14 AM	Event	Agilent Labware MiniHub - 1		process - 3 1		Agilent Labware MiniHub - 1 Unload the plate from Location : cassette 1, slot 1 to Cassette 1, Slot 1		Protocol File - 1	1	
+10-Oct-17 10:14:14 AM	Event	Agilent Labware MiniHub - 1	Cassette 1, slot 1	process - 3 1	1	Completed: Unload from plate storage device		Protocol File - 1	1	
+10-Oct-17 10:14:14 AM	Event	Agilent Labware MiniHub - 1	Cassette 4, slot 1	process - 1 1	1	Unload from plate storage device		Protocol File - 1	1	
+10-Oct-17 10:14:14 AM	Event	Agilent Labware MiniHub - 1		process - 1 1		Agilent Labware MiniHub - 1 Unload the plate from Location : cassette 4, slot 1 to Cassette 4, Slot 1		Protocol File - 1	1	
+10-Oct-17 10:14:14 AM	Event	Agilent Labware MiniHub - 1	Cassette 4, slot 1	process - 1 1	1	Completed: Unload from plate storage device		Protocol File - 1	1	
+10-Oct-17 10:14:14 AM	Event	Agilent Labware MiniHub - 1	Cassette 1, slot 2	process - 4 1	1	Unload from plate storage device		Protocol File - 1	1	
+10-Oct-17 10:14:14 AM	Event	Agilent Labware MiniHub - 1		process - 4 1		Agilent Labware MiniHub - 1 Unload the plate from Location : cassette 1, slot 2 to Cassette 1, Slot 2		Protocol File - 1	1	
+10-Oct-17 10:14:14 AM	Event	Agilent Labware MiniHub - 1	Cassette 1, slot 2	process - 4 1	1	Completed: Unload from plate storage device		Protocol File - 1	1	
+10-Oct-17 10:14:28 AM	Event	BenchCel - 1		process - 2 1		Finished moving plate from Agilent Labware MiniHub - 1 Cassette 4, Slot 2, teachpoint MiniHub02 to Bravo - 1 3, teachpoint Bravo3			1	
+10-Oct-17 10:14:28 AM	Event	Bravo - 1	3	process - 2 1	2	Completed: Place plate at Bravo - 1 3		Protocol File - 1	1	
+10-Oct-17 10:14:28 AM	Event	Agilent Labware MiniHub - 1	Cassette 4, slot 2	process - 2 1	3	Load into plate storage device		Protocol File - 1	1	
+10-Oct-17 10:14:28 AM	Event	BenchCel - 1		process - 2 1		Move plate from Bravo - 1 3, teachpoint Bravo3 to Agilent Labware MiniHub - 1 Cassette 4, Slot 2, teachpoint MiniHub02			1	
+10-Oct-17 10:14:36 AM	Event	BenchCel - 1		process - 2 1		Finished moving plate from Bravo - 1 3, teachpoint Bravo3 to Agilent Labware MiniHub - 1 Cassette 4, Slot 2, teachpoint MiniHub02			1	
+10-Oct-17 10:14:36 AM	Event	Agilent Labware MiniHub - 1		process - 2 1	3	Agilent Labware MiniHub - 1 Load the plate from Cassette 4, Slot 2 into Location : cassette 4, slot 2		Protocol File - 1	1	
+10-Oct-17 10:14:36 AM	Event	Agilent Labware MiniHub - 1	Cassette 4, slot 2	process - 2 1	3	Completed: Load into plate storage device		Protocol File - 1	1	
+10-Oct-17 10:14:37 AM	Event			process - 2 1		Process finishing		Protocol File - 1	1	
+10-Oct-17 10:14:37 AM	Event	Bravo - 1	3	process - 3 1	2	Place plate at Bravo - 1 3		Protocol File - 1	1	
+10-Oct-17 10:14:37 AM	Event	BenchCel - 1		process - 3 1		Move plate from Agilent Labware MiniHub - 1 Cassette 1, Slot 1, teachpoint MiniHub01 to Bravo - 1 3, teachpoint Bravo3			1	
+10-Oct-17 10:14:51 AM	Event	BenchCel - 1		process - 3 1		Finished moving plate from Agilent Labware MiniHub - 1 Cassette 1, Slot 1, teachpoint MiniHub01 to Bravo - 1 3, teachpoint Bravo3			1	
+10-Oct-17 10:14:51 AM	Event	Bravo - 1	3	process - 3 1	2	Completed: Place plate at Bravo - 1 3		Protocol File - 1	1	
+10-Oct-17 10:14:51 AM	Event	Agilent Labware MiniHub - 1	Cassette 1, slot 1	process - 3 1	3	Load into plate storage device		Protocol File - 1	1	
+10-Oct-17 10:14:51 AM	Event	BenchCel - 1		process - 3 1		Move plate from Bravo - 1 3, teachpoint Bravo3 to Agilent Labware MiniHub - 1 Cassette 1, Slot 1, teachpoint MiniHub01			1	
+10-Oct-17 10:14:59 AM	Event	BenchCel - 1		process - 3 1		Finished moving plate from Bravo - 1 3, teachpoint Bravo3 to Agilent Labware MiniHub - 1 Cassette 1, Slot 1, teachpoint MiniHub01			1	
+10-Oct-17 10:14:59 AM	Event	Agilent Labware MiniHub - 1		process - 3 1	3	Agilent Labware MiniHub - 1 Load the plate from Cassette 1, Slot 1 into Location : cassette 1, slot 1		Protocol File - 1	1	
+10-Oct-17 10:15:00 AM	Event	Bravo - 1	3	process - 1 1	2	Place plate at Bravo - 1 3		Protocol File - 1	1	
+10-Oct-17 10:15:00 AM	Event	BenchCel - 1		process - 1 1		Move plate from Agilent Labware MiniHub - 1 Cassette 4, Slot 1, teachpoint MiniHub01 to Bravo - 1 3, teachpoint Bravo3			1	
+10-Oct-17 10:15:00 AM	Event	Agilent Labware MiniHub - 1	Cassette 1, slot 1	process - 3 1	3	Completed: Load into plate storage device		Protocol File - 1	1	
+10-Oct-17 10:15:00 AM	Event			process - 3 1		Process finishing		Protocol File - 1	1	
+10-Oct-17 10:15:13 AM	Event	BenchCel - 1		process - 1 1		Finished moving plate from Agilent Labware MiniHub - 1 Cassette 4, Slot 1, teachpoint MiniHub01 to Bravo - 1 3, teachpoint Bravo3			1	
+10-Oct-17 10:15:13 AM	Event	Bravo - 1	3	process - 1 1	2	Completed: Place plate at Bravo - 1 3		Protocol File - 1	1	
+10-Oct-17 10:15:13 AM	Event	Agilent Labware MiniHub - 1	Cassette 4, slot 1	process - 1 1	3	Load into plate storage device		Protocol File - 1	1	
+10-Oct-17 10:15:13 AM	Event	BenchCel - 1		process - 1 1		Move plate from Bravo - 1 3, teachpoint Bravo3 to Agilent Labware MiniHub - 1 Cassette 4, Slot 1, teachpoint MiniHub01			1	
+10-Oct-17 10:15:22 AM	Event	BenchCel - 1		process - 1 1		Finished moving plate from Bravo - 1 3, teachpoint Bravo3 to Agilent Labware MiniHub - 1 Cassette 4, Slot 1, teachpoint MiniHub01			1	
+10-Oct-17 10:15:22 AM	Event	Agilent Labware MiniHub - 1		process - 1 1	3	Agilent Labware MiniHub - 1 Load the plate from Cassette 4, Slot 1 into Location : cassette 4, slot 1		Protocol File - 1	1	
+10-Oct-17 10:15:22 AM	Event	Bravo - 1	3	process - 4 1	2	Place plate at Bravo - 1 3		Protocol File - 1	1	
+10-Oct-17 10:15:22 AM	Event	BenchCel - 1		process - 4 1		Move plate from Agilent Labware MiniHub - 1 Cassette 1, Slot 2, teachpoint MiniHub02 to Bravo - 1 3, teachpoint Bravo3			1	
+10-Oct-17 10:15:22 AM	Event	Agilent Labware MiniHub - 1	Cassette 4, slot 1	process - 1 1	3	Completed: Load into plate storage device		Protocol File - 1	1	
+10-Oct-17 10:15:22 AM	Event			process - 1 1		Process finishing		Protocol File - 1	1	
+10-Oct-17 10:15:35 AM	Event	BenchCel - 1		process - 4 1		Finished moving plate from Agilent Labware MiniHub - 1 Cassette 1, Slot 2, teachpoint MiniHub02 to Bravo - 1 3, teachpoint Bravo3			1	
+10-Oct-17 10:15:35 AM	Event	Bravo - 1	3	process - 4 1	2	Completed: Place plate at Bravo - 1 3		Protocol File - 1	1	
+10-Oct-17 10:15:35 AM	Event	Agilent Labware MiniHub - 1	Cassette 1, slot 2	process - 4 1	3	Load into plate storage device		Protocol File - 1	1	
+10-Oct-17 10:15:36 AM	Event	BenchCel - 1		process - 4 1		Move plate from Bravo - 1 3, teachpoint Bravo3 to Agilent Labware MiniHub - 1 Cassette 1, Slot 2, teachpoint MiniHub02			1	
+10-Oct-17 10:15:44 AM	Event	BenchCel - 1		process - 4 1		Finished moving plate from Bravo - 1 3, teachpoint Bravo3 to Agilent Labware MiniHub - 1 Cassette 1, Slot 2, teachpoint MiniHub02			1	
+10-Oct-17 10:15:44 AM	Event	Agilent Labware MiniHub - 1		process - 4 1	3	Agilent Labware MiniHub - 1 Load the plate from Cassette 1, Slot 2 into Location : cassette 1, slot 2		Protocol File - 1	1	
+10-Oct-17 10:15:44 AM	Event	Agilent Labware MiniHub - 1	Cassette 1, slot 2	process - 4 1	3	Completed: Load into plate storage device		Protocol File - 1	1	
+10-Oct-17 10:15:44 AM	Event			process - 4 1		Process finishing		Protocol File - 1	1	
+10-Oct-17 10:15:45 AM	Info					Elapsed time since start: 1 minute 32 seconds.		Protocol File - 1	1	
+10-Oct-17 10:15:47 AM	Event					Main protocol complete		Protocol File - 1	1	
+10-Oct-17 10:18:34 AM	Info					Compile complete with 0 errors and 0 warnings			1	
+10-Oct-17 10:18:38 AM	Info					Runset Manager: Added the run "Protocol File - 1<6>" to Runset Manager.			1	
+10-Oct-17 10:18:39 AM	Event					Scheduler started			1	
+10-Oct-17 10:18:39 AM	Info					Error library: Protocol started using error library file: ""			1	
+10-Oct-17 10:18:39 AM	Info			process - 1		1 plate required		Protocol File - 1	1	
+10-Oct-17 10:18:39 AM	Info			process - 2		1 plate required		Protocol File - 1	1	
+10-Oct-17 10:18:39 AM	Info			process - 3		1 plate required		Protocol File - 1	1	
+10-Oct-17 10:18:39 AM	Info			process - 4		1 plate required		Protocol File - 1	1	
+10-Oct-17 10:18:39 AM	Event					Main protocol starting		Protocol File - 1	1	
+10-Oct-17 10:18:39 AM	Event			process - 2 1		Process starting, north barcode: No bar code, east barcode: No bar code, south barcode: No bar code, west barcode: No bar code		Protocol File - 1	1	
+10-Oct-17 10:18:40 AM	Event			process - 3 1		Process starting, north barcode: No bar code, east barcode: No bar code, south barcode: No bar code, west barcode: No bar code		Protocol File - 1	1	
+10-Oct-17 10:18:40 AM	Event			process - 1 1		Process starting, north barcode: No bar code, east barcode: No bar code, south barcode: No bar code, west barcode: No bar code		Protocol File - 1	1	
+10-Oct-17 10:18:40 AM	Event			process - 4 1		Process starting, north barcode: No bar code, east barcode: No bar code, south barcode: No bar code, west barcode: No bar code		Protocol File - 1	1	
+10-Oct-17 10:18:40 AM	Event	Agilent Labware MiniHub - 1	Cassette 4, slot 2	process - 2 1	1	Unload from plate storage device		Protocol File - 1	1	
+10-Oct-17 10:18:40 AM	Event	Agilent Labware MiniHub - 1		process - 2 1		Agilent Labware MiniHub - 1 Unload the plate from Location : cassette 4, slot 2 to Cassette 4, Slot 2		Protocol File - 1	1	
+10-Oct-17 10:18:40 AM	Event	Agilent Labware MiniHub - 1	Cassette 4, slot 2	process - 2 1	1	Completed: Unload from plate storage device		Protocol File - 1	1	
+10-Oct-17 10:18:40 AM	Event	Bravo - 1	3	process - 2 1	2	Place plate at Bravo - 1 3		Protocol File - 1	1	
+10-Oct-17 10:18:40 AM	Event	BenchCel - 1		process - 2 1		Move plate from Agilent Labware MiniHub - 1 Cassette 4, Slot 2, teachpoint MiniHub02 to Bravo - 1 3, teachpoint Bravo3			1	
+10-Oct-17 10:18:40 AM	Event	Agilent Labware MiniHub - 1	Cassette 1, slot 1	process - 3 1	1	Unload from plate storage device		Protocol File - 1	1	
+10-Oct-17 10:18:40 AM	Event	Agilent Labware MiniHub - 1		process - 3 1		Agilent Labware MiniHub - 1 Unload the plate from Location : cassette 1, slot 1 to Cassette 1, Slot 1		Protocol File - 1	1	
+10-Oct-17 10:18:40 AM	Event	Agilent Labware MiniHub - 1	Cassette 1, slot 1	process - 3 1	1	Completed: Unload from plate storage device		Protocol File - 1	1	
+10-Oct-17 10:18:40 AM	Event	Agilent Labware MiniHub - 1	Cassette 4, slot 1	process - 1 1	1	Unload from plate storage device		Protocol File - 1	1	
+10-Oct-17 10:18:40 AM	Event	Agilent Labware MiniHub - 1		process - 1 1		Agilent Labware MiniHub - 1 Unload the plate from Location : cassette 4, slot 1 to Cassette 4, Slot 1		Protocol File - 1	1	
+10-Oct-17 10:18:40 AM	Event	Agilent Labware MiniHub - 1	Cassette 4, slot 1	process - 1 1	1	Completed: Unload from plate storage device		Protocol File - 1	1	
+10-Oct-17 10:18:40 AM	Event	Agilent Labware MiniHub - 1	Cassette 1, slot 2	process - 4 1	1	Unload from plate storage device		Protocol File - 1	1	
+10-Oct-17 10:18:40 AM	Event	Agilent Labware MiniHub - 1		process - 4 1		Agilent Labware MiniHub - 1 Unload the plate from Location : cassette 1, slot 2 to Cassette 1, Slot 2		Protocol File - 1	1	
+10-Oct-17 10:18:40 AM	Event	Agilent Labware MiniHub - 1	Cassette 1, slot 2	process - 4 1	1	Completed: Unload from plate storage device		Protocol File - 1	1	
+10-Oct-17 10:18:53 AM	Event	BenchCel - 1		process - 2 1		Finished moving plate from Agilent Labware MiniHub - 1 Cassette 4, Slot 2, teachpoint MiniHub02 to Bravo - 1 3, teachpoint Bravo3			1	
+10-Oct-17 10:18:53 AM	Event	Bravo - 1	3	process - 2 1	2	Completed: Place plate at Bravo - 1 3		Protocol File - 1	1	
+10-Oct-17 10:18:54 AM	Event	Agilent Labware MiniHub - 1	Cassette 4, slot 2	process - 2 1	3	Load into plate storage device		Protocol File - 1	1	
+10-Oct-17 10:18:54 AM	Event	BenchCel - 1		process - 2 1		Move plate from Bravo - 1 3, teachpoint Bravo3 to Agilent Labware MiniHub - 1 Cassette 4, Slot 2, teachpoint MiniHub02			1	
+10-Oct-17 10:19:02 AM	Event	BenchCel - 1		process - 2 1		Finished moving plate from Bravo - 1 3, teachpoint Bravo3 to Agilent Labware MiniHub - 1 Cassette 4, Slot 2, teachpoint MiniHub02			1	
+10-Oct-17 10:19:02 AM	Event	Agilent Labware MiniHub - 1		process - 2 1	3	Agilent Labware MiniHub - 1 Load the plate from Cassette 4, Slot 2 into Location : cassette 4, slot 2		Protocol File - 1	1	
+10-Oct-17 10:19:02 AM	Event	Agilent Labware MiniHub - 1	Cassette 4, slot 2	process - 2 1	3	Completed: Load into plate storage device		Protocol File - 1	1	
+10-Oct-17 10:19:02 AM	Event	Bravo - 1	3	process - 3 1	2	Place plate at Bravo - 1 3		Protocol File - 1	1	
+10-Oct-17 10:19:03 AM	Event	BenchCel - 1		process - 3 1		Move plate from Agilent Labware MiniHub - 1 Cassette 1, Slot 1, teachpoint MiniHub01 to Bravo - 1 3, teachpoint Bravo3			1	
+10-Oct-17 10:19:03 AM	Event			process - 2 1		Process finishing		Protocol File - 1	1	
+10-Oct-17 10:19:17 AM	Event	BenchCel - 1		process - 3 1		Finished moving plate from Agilent Labware MiniHub - 1 Cassette 1, Slot 1, teachpoint MiniHub01 to Bravo - 1 3, teachpoint Bravo3			1	
+10-Oct-17 10:19:17 AM	Event	Bravo - 1	3	process - 3 1	2	Completed: Place plate at Bravo - 1 3		Protocol File - 1	1	
+10-Oct-17 10:19:17 AM	Event	Agilent Labware MiniHub - 1	Cassette 1, slot 1	process - 3 1	3	Load into plate storage device		Protocol File - 1	1	
+10-Oct-17 10:19:17 AM	Event	BenchCel - 1		process - 3 1		Move plate from Bravo - 1 3, teachpoint Bravo3 to Agilent Labware MiniHub - 1 Cassette 1, Slot 1, teachpoint MiniHub01			1	
+10-Oct-17 10:19:25 AM	Event	BenchCel - 1		process - 3 1		Finished moving plate from Bravo - 1 3, teachpoint Bravo3 to Agilent Labware MiniHub - 1 Cassette 1, Slot 1, teachpoint MiniHub01			1	
+10-Oct-17 10:19:26 AM	Event	Agilent Labware MiniHub - 1		process - 3 1	3	Agilent Labware MiniHub - 1 Load the plate from Cassette 1, Slot 1 into Location : cassette 1, slot 1		Protocol File - 1	1	
+10-Oct-17 10:19:26 AM	Event	Bravo - 1	3	process - 1 1	2	Place plate at Bravo - 1 3		Protocol File - 1	1	
+10-Oct-17 10:19:26 AM	Event	BenchCel - 1		process - 1 1		Move plate from Agilent Labware MiniHub - 1 Cassette 4, Slot 1, teachpoint MiniHub01 to Bravo - 1 3, teachpoint Bravo3			1	
+10-Oct-17 10:19:26 AM	Event	Agilent Labware MiniHub - 1	Cassette 1, slot 1	process - 3 1	3	Completed: Load into plate storage device		Protocol File - 1	1	
+10-Oct-17 10:19:26 AM	Event			process - 3 1		Process finishing		Protocol File - 1	1	
+10-Oct-17 10:19:39 AM	Event	BenchCel - 1		process - 1 1		Finished moving plate from Agilent Labware MiniHub - 1 Cassette 4, Slot 1, teachpoint MiniHub01 to Bravo - 1 3, teachpoint Bravo3			1	
+10-Oct-17 10:19:39 AM	Event	Bravo - 1	3	process - 1 1	2	Completed: Place plate at Bravo - 1 3		Protocol File - 1	1	
+10-Oct-17 10:19:39 AM	Event	Agilent Labware MiniHub - 1	Cassette 4, slot 1	process - 1 1	3	Load into plate storage device		Protocol File - 1	1	
+10-Oct-17 10:19:39 AM	Event	BenchCel - 1		process - 1 1		Move plate from Bravo - 1 3, teachpoint Bravo3 to Agilent Labware MiniHub - 1 Cassette 4, Slot 1, teachpoint MiniHub01			1	
+10-Oct-17 10:19:48 AM	Event	BenchCel - 1		process - 1 1		Finished moving plate from Bravo - 1 3, teachpoint Bravo3 to Agilent Labware MiniHub - 1 Cassette 4, Slot 1, teachpoint MiniHub01			1	
+10-Oct-17 10:19:48 AM	Event	Agilent Labware MiniHub - 1		process - 1 1	3	Agilent Labware MiniHub - 1 Load the plate from Cassette 4, Slot 1 into Location : cassette 4, slot 1		Protocol File - 1	1	
+10-Oct-17 10:19:48 AM	Event	Agilent Labware MiniHub - 1	Cassette 4, slot 1	process - 1 1	3	Completed: Load into plate storage device		Protocol File - 1	1	
+10-Oct-17 10:19:48 AM	Event	Bravo - 1	3	process - 4 1	2	Place plate at Bravo - 1 3		Protocol File - 1	1	
+10-Oct-17 10:19:48 AM	Event			process - 1 1		Process finishing		Protocol File - 1	1	
+10-Oct-17 10:19:48 AM	Event	BenchCel - 1		process - 4 1		Move plate from Agilent Labware MiniHub - 1 Cassette 1, Slot 2, teachpoint MiniHub02 to Bravo - 1 3, teachpoint Bravo3			1	
+10-Oct-17 10:20:01 AM	Event	BenchCel - 1		process - 4 1		Finished moving plate from Agilent Labware MiniHub - 1 Cassette 1, Slot 2, teachpoint MiniHub02 to Bravo - 1 3, teachpoint Bravo3			1	
+10-Oct-17 10:20:01 AM	Event	Bravo - 1	3	process - 4 1	2	Completed: Place plate at Bravo - 1 3		Protocol File - 1	1	
+10-Oct-17 10:20:02 AM	Event	Agilent Labware MiniHub - 1	Cassette 1, slot 2	process - 4 1	3	Load into plate storage device		Protocol File - 1	1	
+10-Oct-17 10:20:02 AM	Event	BenchCel - 1		process - 4 1		Move plate from Bravo - 1 3, teachpoint Bravo3 to Agilent Labware MiniHub - 1 Cassette 1, Slot 2, teachpoint MiniHub02			1	
+10-Oct-17 10:20:10 AM	Event	BenchCel - 1		process - 4 1		Finished moving plate from Bravo - 1 3, teachpoint Bravo3 to Agilent Labware MiniHub - 1 Cassette 1, Slot 2, teachpoint MiniHub02			1	
+10-Oct-17 10:20:10 AM	Event	Agilent Labware MiniHub - 1		process - 4 1	3	Agilent Labware MiniHub - 1 Load the plate from Cassette 1, Slot 2 into Location : cassette 1, slot 2		Protocol File - 1	1	
+10-Oct-17 10:20:10 AM	Event	Agilent Labware MiniHub - 1	Cassette 1, slot 2	process - 4 1	3	Completed: Load into plate storage device		Protocol File - 1	1	
+10-Oct-17 10:20:10 AM	Event			process - 4 1		Process finishing		Protocol File - 1	1	
+10-Oct-17 10:20:11 AM	Info					Elapsed time since start: 1 minute 32 seconds.		Protocol File - 1	1	
+10-Oct-17 10:20:13 AM	Event					Main protocol complete		Protocol File - 1	1	
+10-Oct-17 10:20:37 AM	Info			process - 1	1	Added task "Loop" to process "process - 1"		Protocol File - 1	1	
+10-Oct-17 10:20:45 AM	Info			process - 1	5	Added task "Loop End" to process "process - 1"		Protocol File - 1	1	
+10-Oct-17 10:20:55 AM	Info			process - 1	1	Changed "task Loop, parameter Number of times to loop" from "1" to "5"		Protocol File - 1	1	
+10-Oct-17 10:21:09 AM	Info			process - 1	5	Added task "Spawn Process" to process "process - 1"		Protocol File - 1	1	
+10-Oct-17 10:21:11 AM	Info			process - 1	5	Changed "task Spawn Process, parameter Process to spawn" to "process - 2"		Protocol File - 1	1	
+10-Oct-17 10:21:15 AM	Info			process - 1	6	Added task "Spawn Process" to process "process - 1"		Protocol File - 1	1	
+10-Oct-17 10:21:18 AM	Info			process - 1	6	Changed "task Spawn Process, parameter Process to spawn" to "process - 3"		Protocol File - 1	1	
+10-Oct-17 10:21:21 AM	Info			process - 1	7	Added task "Spawn Process" to process "process - 1"		Protocol File - 1	1	
+10-Oct-17 10:21:24 AM	Info			process - 1	7	Changed "task Spawn Process, parameter Process to spawn" to "process - 4"		Protocol File - 1	1	
+10-Oct-17 10:21:27 AM	Info					Compile protocol			1	
+10-Oct-17 10:21:28 AM	Info					Compile complete with 0 errors and 0 warnings			1	
+10-Oct-17 10:21:34 AM	Info					Compile complete with 0 errors and 0 warnings			1	
+10-Oct-17 10:21:38 AM	Info					Runset Manager: Added the run "Protocol File - 1<7>" to Runset Manager.			1	
+10-Oct-17 10:21:39 AM	Event					Scheduler started			1	
+10-Oct-17 10:21:40 AM	Info					Error library: Protocol started using error library file: ""			1	
+10-Oct-17 10:21:40 AM	Info			process - 1		1 plate required		Protocol File - 1	1	
+10-Oct-17 10:21:40 AM	Info			process - 2		Plates are spawned on demand		Protocol File - 1	1	
+10-Oct-17 10:21:40 AM	Info			process - 3		Plates are spawned on demand		Protocol File - 1	1	
+10-Oct-17 10:21:40 AM	Info			process - 4		Plates are spawned on demand		Protocol File - 1	1	
+10-Oct-17 10:21:40 AM	Event					Main protocol starting		Protocol File - 1	1	
+10-Oct-17 10:21:40 AM	Event			process - 1 1		Process starting, north barcode: No bar code, east barcode: No bar code, south barcode: No bar code, west barcode: No bar code		Protocol File - 1	1	
+10-Oct-17 10:21:40 AM	Event			process - 1 1	1	Loop iteration 1		Protocol File - 1	1	
+10-Oct-17 10:21:40 AM	Event			process - 1 1	1	Completed: Loop iteration 1		Protocol File - 1	1	
+10-Oct-17 10:21:40 AM	Event	Agilent Labware MiniHub - 1	Cassette 4, slot 1	process - 1 1	2	Unload from plate storage device		Protocol File - 1	1	
+10-Oct-17 10:21:40 AM	Event	Agilent Labware MiniHub - 1		process - 1 1	2	Agilent Labware MiniHub - 1 Unload the plate from Location : cassette 4, slot 1 to Cassette 4, Slot 1		Protocol File - 1	1	
+10-Oct-17 10:21:40 AM	Event	Agilent Labware MiniHub - 1	Cassette 4, slot 1	process - 1 1	2	Completed: Unload from plate storage device		Protocol File - 1	1	
+10-Oct-17 10:21:40 AM	Event	Bravo - 1	3	process - 1 1	3	Place plate at Bravo - 1 3		Protocol File - 1	1	
+10-Oct-17 10:21:40 AM	Event	BenchCel - 1		process - 1 1		Move plate from Agilent Labware MiniHub - 1 Cassette 4, Slot 1, teachpoint MiniHub01 to Bravo - 1 3, teachpoint Bravo3			1	
+10-Oct-17 10:21:55 AM	Event	BenchCel - 1		process - 1 1		Finished moving plate from Agilent Labware MiniHub - 1 Cassette 4, Slot 1, teachpoint MiniHub01 to Bravo - 1 3, teachpoint Bravo3			1	
+10-Oct-17 10:21:55 AM	Event	Bravo - 1	3	process - 1 1	3	Completed: Place plate at Bravo - 1 3		Protocol File - 1	1	
+10-Oct-17 10:21:55 AM	Event	Agilent Labware MiniHub - 1	Cassette 4, slot 1	process - 1 1	4	Load into plate storage device		Protocol File - 1	1	
+10-Oct-17 10:21:55 AM	Event	BenchCel - 1		process - 1 1		Move plate from Bravo - 1 3, teachpoint Bravo3 to Agilent Labware MiniHub - 1 Cassette 4, Slot 1, teachpoint MiniHub01			1	
+10-Oct-17 10:22:03 AM	Event	BenchCel - 1		process - 1 1		Finished moving plate from Bravo - 1 3, teachpoint Bravo3 to Agilent Labware MiniHub - 1 Cassette 4, Slot 1, teachpoint MiniHub01			1	
+10-Oct-17 10:22:03 AM	Event	Agilent Labware MiniHub - 1		process - 1 1	4	Agilent Labware MiniHub - 1 Load the plate from Cassette 4, Slot 1 into Location : cassette 4, slot 1		Protocol File - 1	1	
+10-Oct-17 10:22:03 AM	Event	Agilent Labware MiniHub - 1	Cassette 4, slot 1	process - 1 1	4	Completed: Load into plate storage device		Protocol File - 1	1	
+10-Oct-17 10:22:03 AM	Event			process - 1 1	5	Spawn process - 2		Protocol File - 1	1	
+10-Oct-17 10:22:03 AM	Event			process - 1 1	5	Completed: Spawn process - 2		Protocol File - 1	1	
+10-Oct-17 10:22:03 AM	Event			process - 2 1		Process starting, north barcode: No bar code, east barcode: No bar code, south barcode: No bar code, west barcode: No bar code		Protocol File - 1	1	
+10-Oct-17 10:22:03 AM	Event	Agilent Labware MiniHub - 1	Cassette 4, slot 2	process - 2 1	1	Unload from plate storage device		Protocol File - 1	1	
+10-Oct-17 10:22:03 AM	Event			process - 1 1	6	Spawn process - 3		Protocol File - 1	1	
+10-Oct-17 10:22:03 AM	Event			process - 1 1	6	Completed: Spawn process - 3		Protocol File - 1	1	
+10-Oct-17 10:22:04 AM	Event	Agilent Labware MiniHub - 1		process - 2 1		Agilent Labware MiniHub - 1 Unload the plate from Location : cassette 4, slot 2 to Cassette 4, Slot 2		Protocol File - 1	1	
+10-Oct-17 10:22:04 AM	Event			process - 3 1		Process starting, north barcode: No bar code, east barcode: No bar code, south barcode: No bar code, west barcode: No bar code		Protocol File - 1	1	
+10-Oct-17 10:22:04 AM	Event	Agilent Labware MiniHub - 1	Cassette 4, slot 2	process - 2 1	1	Completed: Unload from plate storage device		Protocol File - 1	1	
+10-Oct-17 10:22:04 AM	Event			process - 1 1	7	Spawn process - 4		Protocol File - 1	1	
+10-Oct-17 10:22:04 AM	Event			process - 1 1	7	Completed: Spawn process - 4		Protocol File - 1	1	
+10-Oct-17 10:22:04 AM	Event			process - 4 1		Process starting, north barcode: No bar code, east barcode: No bar code, south barcode: No bar code, west barcode: No bar code		Protocol File - 1	1	
+10-Oct-17 10:22:04 AM	Event	Bravo - 1	3	process - 2 1	2	Place plate at Bravo - 1 3		Protocol File - 1	1	
+10-Oct-17 10:22:04 AM	Event	BenchCel - 1		process - 2 1		Move plate from Agilent Labware MiniHub - 1 Cassette 4, Slot 2, teachpoint MiniHub02 to Bravo - 1 3, teachpoint Bravo3			1	
+10-Oct-17 10:22:04 AM	Event			process - 1 1	8	loop end		Protocol File - 1	1	
+10-Oct-17 10:22:04 AM	Event			process - 1 1	8	Completed: loop end		Protocol File - 1	1	
+10-Oct-17 10:22:04 AM	Event	Agilent Labware MiniHub - 1	Cassette 1, slot 1	process - 3 1	1	Unload from plate storage device		Protocol File - 1	1	
+10-Oct-17 10:22:04 AM	Event			process - 1 1	1	Loop iteration 2		Protocol File - 1	1	
+10-Oct-17 10:22:04 AM	Event			process - 1 1	1	Completed: Loop iteration 2		Protocol File - 1	1	
+10-Oct-17 10:22:04 AM	Event	Agilent Labware MiniHub - 1		process - 3 1		Agilent Labware MiniHub - 1 Unload the plate from Location : cassette 1, slot 1 to Cassette 1, Slot 1		Protocol File - 1	1	
+10-Oct-17 10:22:04 AM	Event	Agilent Labware MiniHub - 1	Cassette 1, slot 1	process - 3 1	1	Completed: Unload from plate storage device		Protocol File - 1	1	
+10-Oct-17 10:22:04 AM	Event	Agilent Labware MiniHub - 1	Cassette 1, slot 2	process - 4 1	1	Unload from plate storage device		Protocol File - 1	1	
+10-Oct-17 10:22:04 AM	Event	Agilent Labware MiniHub - 1		process - 4 1		Agilent Labware MiniHub - 1 Unload the plate from Location : cassette 1, slot 2 to Cassette 1, Slot 2		Protocol File - 1	1	
+10-Oct-17 10:22:04 AM	Event	Agilent Labware MiniHub - 1	Cassette 1, slot 2	process - 4 1	1	Completed: Unload from plate storage device		Protocol File - 1	1	
+10-Oct-17 10:22:13 AM	Event	BenchCel - 1		process - 2 1		Finished moving plate from Agilent Labware MiniHub - 1 Cassette 4, Slot 2, teachpoint MiniHub02 to Bravo - 1 3, teachpoint Bravo3			1	
+10-Oct-17 10:22:13 AM	Event	Bravo - 1	3	process - 2 1	2	Completed: Place plate at Bravo - 1 3		Protocol File - 1	1	
+10-Oct-17 10:22:13 AM	Event	Agilent Labware MiniHub - 1	Cassette 4, slot 2	process - 2 1	3	Load into plate storage device		Protocol File - 1	1	
+10-Oct-17 10:22:13 AM	Event	BenchCel - 1		process - 2 1		Move plate from Bravo - 1 3, teachpoint Bravo3 to Agilent Labware MiniHub - 1 Cassette 4, Slot 2, teachpoint MiniHub02			1	
+10-Oct-17 10:22:22 AM	Event	BenchCel - 1		process - 2 1		Finished moving plate from Bravo - 1 3, teachpoint Bravo3 to Agilent Labware MiniHub - 1 Cassette 4, Slot 2, teachpoint MiniHub02			1	
+10-Oct-17 10:22:22 AM	Event	Agilent Labware MiniHub - 1		process - 2 1	3	Agilent Labware MiniHub - 1 Load the plate from Cassette 4, Slot 2 into Location : cassette 4, slot 2		Protocol File - 1	1	
+10-Oct-17 10:22:22 AM	Event	Bravo - 1	3	process - 3 1	2	Place plate at Bravo - 1 3		Protocol File - 1	1	
+10-Oct-17 10:22:22 AM	Event	BenchCel - 1		process - 3 1		Move plate from Agilent Labware MiniHub - 1 Cassette 1, Slot 1, teachpoint MiniHub01 to Bravo - 1 3, teachpoint Bravo3			1	
+10-Oct-17 10:22:22 AM	Event	Agilent Labware MiniHub - 1	Cassette 4, slot 2	process - 2 1	3	Completed: Load into plate storage device		Protocol File - 1	1	
+10-Oct-17 10:22:22 AM	Event			process - 2 1		Process finishing		Protocol File - 1	1	
+10-Oct-17 10:22:36 AM	Event	BenchCel - 1		process - 3 1		Finished moving plate from Agilent Labware MiniHub - 1 Cassette 1, Slot 1, teachpoint MiniHub01 to Bravo - 1 3, teachpoint Bravo3			1	
+10-Oct-17 10:22:36 AM	Event	Bravo - 1	3	process - 3 1	2	Completed: Place plate at Bravo - 1 3		Protocol File - 1	1	
+10-Oct-17 10:22:37 AM	Event	Agilent Labware MiniHub - 1	Cassette 1, slot 1	process - 3 1	3	Load into plate storage device		Protocol File - 1	1	
+10-Oct-17 10:22:37 AM	Event	BenchCel - 1		process - 3 1		Move plate from Bravo - 1 3, teachpoint Bravo3 to Agilent Labware MiniHub - 1 Cassette 1, Slot 1, teachpoint MiniHub01			1	
+10-Oct-17 10:22:45 AM	Event	BenchCel - 1		process - 3 1		Finished moving plate from Bravo - 1 3, teachpoint Bravo3 to Agilent Labware MiniHub - 1 Cassette 1, Slot 1, teachpoint MiniHub01			1	
+10-Oct-17 10:22:45 AM	Event	Agilent Labware MiniHub - 1		process - 3 1	3	Agilent Labware MiniHub - 1 Load the plate from Cassette 1, Slot 1 into Location : cassette 1, slot 1		Protocol File - 1	1	
+10-Oct-17 10:22:45 AM	Event	Agilent Labware MiniHub - 1	Cassette 1, slot 1	process - 3 1	3	Completed: Load into plate storage device		Protocol File - 1	1	
+10-Oct-17 10:22:45 AM	Event	Bravo - 1	3	process - 4 1	2	Place plate at Bravo - 1 3		Protocol File - 1	1	
+10-Oct-17 10:22:45 AM	Event	BenchCel - 1		process - 4 1		Move plate from Agilent Labware MiniHub - 1 Cassette 1, Slot 2, teachpoint MiniHub02 to Bravo - 1 3, teachpoint Bravo3			1	
+10-Oct-17 10:22:45 AM	Event			process - 3 1		Process finishing		Protocol File - 1	1	
+10-Oct-17 10:22:55 AM	Event	BenchCel - 1		process - 4 1		Finished moving plate from Agilent Labware MiniHub - 1 Cassette 1, Slot 2, teachpoint MiniHub02 to Bravo - 1 3, teachpoint Bravo3			1	
+10-Oct-17 10:22:55 AM	Event	Bravo - 1	3	process - 4 1	2	Completed: Place plate at Bravo - 1 3		Protocol File - 1	1	
+10-Oct-17 10:22:55 AM	Event	Agilent Labware MiniHub - 1	Cassette 1, slot 2	process - 4 1	3	Load into plate storage device		Protocol File - 1	1	
+10-Oct-17 10:22:55 AM	Event	BenchCel - 1		process - 4 1		Move plate from Bravo - 1 3, teachpoint Bravo3 to Agilent Labware MiniHub - 1 Cassette 1, Slot 2, teachpoint MiniHub02			1	
+10-Oct-17 10:23:04 AM	Event	BenchCel - 1		process - 4 1		Finished moving plate from Bravo - 1 3, teachpoint Bravo3 to Agilent Labware MiniHub - 1 Cassette 1, Slot 2, teachpoint MiniHub02			1	
+10-Oct-17 10:23:04 AM	Event	Agilent Labware MiniHub - 1		process - 4 1	3	Agilent Labware MiniHub - 1 Load the plate from Cassette 1, Slot 2 into Location : cassette 1, slot 2		Protocol File - 1	1	
+10-Oct-17 10:23:04 AM	Event	Agilent Labware MiniHub - 1	Cassette 1, slot 2	process - 4 1	3	Completed: Load into plate storage device		Protocol File - 1	1	
+10-Oct-17 10:23:04 AM	Event			process - 4 1		Process finishing		Protocol File - 1	1	
+10-Oct-17 10:23:09 AM	Event					Scheduler stopped			1	
+10-Oct-17 10:23:09 AM	Error					Deadlock detected			1	
+10-Oct-17 10:23:09 AM	Error			process - 1 1	2	Can't find available location to unload the plate			1	
+10-Oct-17 10:23:23 AM	Event					Scheduler started			1	
+10-Oct-17 10:23:29 AM	Event					Scheduler stopped			1	
+10-Oct-17 10:23:29 AM	Error					Deadlock detected			1	
+10-Oct-17 10:23:29 AM	Error			process - 1 1	2	Can't find available location to unload the plate			1	
+10-Oct-17 10:23:36 AM	Event					Scheduler aborted			1	
+10-Oct-17 10:23:37 AM	Event					Main protocol aborted by user		Protocol File - 1	1	
+10-Oct-17 10:23:37 AM	Event			process - 1 1		Process finishing		Protocol File - 1	1	
+10-Oct-17 10:23:37 AM	Info					Elapsed time since start: 1 minute 58 seconds.		Protocol File - 1	1	
+10-Oct-17 10:23:39 AM	Event					Main protocol aborted by user		Protocol File - 1	1	
+10-Oct-17 10:23:47 AM	Info			process - 1	1	Deleted task "Loop" from process "process - 1"		Protocol File - 1	1	
+10-Oct-17 10:23:51 AM	Info			process - 1	4	Deleted task "Spawn Process" from process "process - 1"		Protocol File - 1	1	
+10-Oct-17 10:23:55 AM	Info			process - 1	4	Deleted task "Spawn Process" from process "process - 1"		Protocol File - 1	1	
+10-Oct-17 10:23:59 AM	Info			process - 1	4	Deleted task "Spawn Process" from process "process - 1"		Protocol File - 1	1	
+10-Oct-17 10:24:07 AM	Info			process - 1	4	Deleted task "Loop End" from process "process - 1"		Protocol File - 1	1	
+10-Oct-17 10:24:11 AM	Info					Compile protocol			1	
+10-Oct-17 10:24:12 AM	Info					Compile complete with 0 errors and 0 warnings			1	
+10-Oct-17 10:24:14 AM	Info					Compile complete with 0 errors and 0 warnings			1	
+10-Oct-17 10:24:16 AM	Info					Runset Manager: Added the run "Protocol File - 1<8>" to Runset Manager.			1	
+10-Oct-17 10:24:17 AM	Event					Scheduler started			1	
+10-Oct-17 10:24:18 AM	Info					Error library: Protocol started using error library file: ""			1	
+10-Oct-17 10:24:18 AM	Info			process - 1		1 plate required		Protocol File - 1	1	
+10-Oct-17 10:24:18 AM	Info			process - 2		1 plate required		Protocol File - 1	1	
+10-Oct-17 10:24:18 AM	Info			process - 3		1 plate required		Protocol File - 1	1	
+10-Oct-17 10:24:18 AM	Info			process - 4		1 plate required		Protocol File - 1	1	
+10-Oct-17 10:24:18 AM	Event					Main protocol starting		Protocol File - 1	1	
+10-Oct-17 10:24:18 AM	Event			process - 2 1		Process starting, north barcode: No bar code, east barcode: No bar code, south barcode: No bar code, west barcode: No bar code		Protocol File - 1	1	
+10-Oct-17 10:24:18 AM	Event			process - 3 1		Process starting, north barcode: No bar code, east barcode: No bar code, south barcode: No bar code, west barcode: No bar code		Protocol File - 1	1	
+10-Oct-17 10:24:18 AM	Event			process - 1 1		Process starting, north barcode: No bar code, east barcode: No bar code, south barcode: No bar code, west barcode: No bar code		Protocol File - 1	1	
+10-Oct-17 10:24:18 AM	Event			process - 4 1		Process starting, north barcode: No bar code, east barcode: No bar code, south barcode: No bar code, west barcode: No bar code		Protocol File - 1	1	
+10-Oct-17 10:24:18 AM	Event	Agilent Labware MiniHub - 1	Cassette 4, slot 2	process - 2 1	1	Unload from plate storage device		Protocol File - 1	1	
+10-Oct-17 10:24:18 AM	Event	Agilent Labware MiniHub - 1		process - 2 1		Agilent Labware MiniHub - 1 Unload the plate from Location : cassette 4, slot 2 to Cassette 4, Slot 2		Protocol File - 1	1	
+10-Oct-17 10:24:18 AM	Event	Agilent Labware MiniHub - 1	Cassette 4, slot 2	process - 2 1	1	Completed: Unload from plate storage device		Protocol File - 1	1	
+10-Oct-17 10:24:19 AM	Event	Bravo - 1	3	process - 2 1	2	Place plate at Bravo - 1 3		Protocol File - 1	1	
+10-Oct-17 10:24:19 AM	Event	BenchCel - 1		process - 2 1		Move plate from Agilent Labware MiniHub - 1 Cassette 4, Slot 2, teachpoint MiniHub02 to Bravo - 1 3, teachpoint Bravo3			1	
+10-Oct-17 10:24:19 AM	Event	Agilent Labware MiniHub - 1	Cassette 1, slot 1	process - 3 1	1	Unload from plate storage device		Protocol File - 1	1	
+10-Oct-17 10:24:19 AM	Event	Agilent Labware MiniHub - 1		process - 3 1		Agilent Labware MiniHub - 1 Unload the plate from Location : cassette 1, slot 1 to Cassette 1, Slot 1		Protocol File - 1	1	
+10-Oct-17 10:24:19 AM	Event	Agilent Labware MiniHub - 1	Cassette 1, slot 1	process - 3 1	1	Completed: Unload from plate storage device		Protocol File - 1	1	
+10-Oct-17 10:24:19 AM	Event	Agilent Labware MiniHub - 1	Cassette 4, slot 1	process - 1 1	1	Unload from plate storage device		Protocol File - 1	1	
+10-Oct-17 10:24:19 AM	Event	Agilent Labware MiniHub - 1		process - 1 1		Agilent Labware MiniHub - 1 Unload the plate from Location : cassette 4, slot 1 to Cassette 4, Slot 1		Protocol File - 1	1	
+10-Oct-17 10:24:19 AM	Event	Agilent Labware MiniHub - 1	Cassette 4, slot 1	process - 1 1	1	Completed: Unload from plate storage device		Protocol File - 1	1	
+10-Oct-17 10:24:19 AM	Event	Agilent Labware MiniHub - 1	Cassette 1, slot 2	process - 4 1	1	Unload from plate storage device		Protocol File - 1	1	
+10-Oct-17 10:24:19 AM	Event	Agilent Labware MiniHub - 1		process - 4 1		Agilent Labware MiniHub - 1 Unload the plate from Location : cassette 1, slot 2 to Cassette 1, Slot 2		Protocol File - 1	1	
+10-Oct-17 10:24:19 AM	Event	Agilent Labware MiniHub - 1	Cassette 1, slot 2	process - 4 1	1	Completed: Unload from plate storage device		Protocol File - 1	1	
+10-Oct-17 10:24:31 AM	Event	BenchCel - 1		process - 2 1		Finished moving plate from Agilent Labware MiniHub - 1 Cassette 4, Slot 2, teachpoint MiniHub02 to Bravo - 1 3, teachpoint Bravo3			1	
+10-Oct-17 10:24:31 AM	Event	Bravo - 1	3	process - 2 1	2	Completed: Place plate at Bravo - 1 3		Protocol File - 1	1	
+10-Oct-17 10:24:31 AM	Event	Agilent Labware MiniHub - 1	Cassette 4, slot 2	process - 2 1	3	Load into plate storage device		Protocol File - 1	1	
+10-Oct-17 10:24:31 AM	Event	BenchCel - 1		process - 2 1		Move plate from Bravo - 1 3, teachpoint Bravo3 to Agilent Labware MiniHub - 1 Cassette 4, Slot 2, teachpoint MiniHub02			1	
+10-Oct-17 10:24:40 AM	Event	BenchCel - 1		process - 2 1		Finished moving plate from Bravo - 1 3, teachpoint Bravo3 to Agilent Labware MiniHub - 1 Cassette 4, Slot 2, teachpoint MiniHub02			1	
+10-Oct-17 10:24:40 AM	Event	Agilent Labware MiniHub - 1		process - 2 1	3	Agilent Labware MiniHub - 1 Load the plate from Cassette 4, Slot 2 into Location : cassette 4, slot 2		Protocol File - 1	1	
+10-Oct-17 10:24:40 AM	Event	Agilent Labware MiniHub - 1	Cassette 4, slot 2	process - 2 1	3	Completed: Load into plate storage device		Protocol File - 1	1	
+10-Oct-17 10:24:40 AM	Event	Bravo - 1	3	process - 3 1	2	Place plate at Bravo - 1 3		Protocol File - 1	1	
+10-Oct-17 10:24:40 AM	Event	BenchCel - 1		process - 3 1		Move plate from Agilent Labware MiniHub - 1 Cassette 1, Slot 1, teachpoint MiniHub01 to Bravo - 1 3, teachpoint Bravo3			1	
+10-Oct-17 10:24:40 AM	Event			process - 2 1		Process finishing		Protocol File - 1	1	
+10-Oct-17 10:24:54 AM	Event	BenchCel - 1		process - 3 1		Finished moving plate from Agilent Labware MiniHub - 1 Cassette 1, Slot 1, teachpoint MiniHub01 to Bravo - 1 3, teachpoint Bravo3			1	
+10-Oct-17 10:24:54 AM	Event	Bravo - 1	3	process - 3 1	2	Completed: Place plate at Bravo - 1 3		Protocol File - 1	1	
+10-Oct-17 10:24:54 AM	Event	Agilent Labware MiniHub - 1	Cassette 1, slot 1	process - 3 1	3	Load into plate storage device		Protocol File - 1	1	
+10-Oct-17 10:24:54 AM	Event	BenchCel - 1		process - 3 1		Move plate from Bravo - 1 3, teachpoint Bravo3 to Agilent Labware MiniHub - 1 Cassette 1, Slot 1, teachpoint MiniHub01			1	
+10-Oct-17 10:25:03 AM	Event	BenchCel - 1		process - 3 1		Finished moving plate from Bravo - 1 3, teachpoint Bravo3 to Agilent Labware MiniHub - 1 Cassette 1, Slot 1, teachpoint MiniHub01			1	
+10-Oct-17 10:25:03 AM	Event	Agilent Labware MiniHub - 1		process - 3 1	3	Agilent Labware MiniHub - 1 Load the plate from Cassette 1, Slot 1 into Location : cassette 1, slot 1		Protocol File - 1	1	
+10-Oct-17 10:25:03 AM	Event	Agilent Labware MiniHub - 1	Cassette 1, slot 1	process - 3 1	3	Completed: Load into plate storage device		Protocol File - 1	1	
+10-Oct-17 10:25:03 AM	Event	Bravo - 1	3	process - 1 1	2	Place plate at Bravo - 1 3		Protocol File - 1	1	
+10-Oct-17 10:25:03 AM	Event	BenchCel - 1		process - 1 1		Move plate from Agilent Labware MiniHub - 1 Cassette 4, Slot 1, teachpoint MiniHub01 to Bravo - 1 3, teachpoint Bravo3			1	
+10-Oct-17 10:25:03 AM	Event			process - 3 1		Process finishing		Protocol File - 1	1	
+10-Oct-17 10:25:17 AM	Event	BenchCel - 1		process - 1 1		Finished moving plate from Agilent Labware MiniHub - 1 Cassette 4, Slot 1, teachpoint MiniHub01 to Bravo - 1 3, teachpoint Bravo3			1	
+10-Oct-17 10:25:17 AM	Event	Bravo - 1	3	process - 1 1	2	Completed: Place plate at Bravo - 1 3		Protocol File - 1	1	
+10-Oct-17 10:25:17 AM	Event	Agilent Labware MiniHub - 1	Cassette 4, slot 1	process - 1 1	3	Load into plate storage device		Protocol File - 1	1	
+10-Oct-17 10:25:17 AM	Event	BenchCel - 1		process - 1 1		Move plate from Bravo - 1 3, teachpoint Bravo3 to Agilent Labware MiniHub - 1 Cassette 4, Slot 1, teachpoint MiniHub01			1	
+10-Oct-17 10:25:25 AM	Event	BenchCel - 1		process - 1 1		Finished moving plate from Bravo - 1 3, teachpoint Bravo3 to Agilent Labware MiniHub - 1 Cassette 4, Slot 1, teachpoint MiniHub01			1	
+10-Oct-17 10:25:25 AM	Event	Agilent Labware MiniHub - 1		process - 1 1	3	Agilent Labware MiniHub - 1 Load the plate from Cassette 4, Slot 1 into Location : cassette 4, slot 1		Protocol File - 1	1	
+10-Oct-17 10:25:25 AM	Event	Agilent Labware MiniHub - 1	Cassette 4, slot 1	process - 1 1	3	Completed: Load into plate storage device		Protocol File - 1	1	
+10-Oct-17 10:25:25 AM	Event	Bravo - 1	3	process - 4 1	2	Place plate at Bravo - 1 3		Protocol File - 1	1	
+10-Oct-17 10:25:25 AM	Event	BenchCel - 1		process - 4 1		Move plate from Agilent Labware MiniHub - 1 Cassette 1, Slot 2, teachpoint MiniHub02 to Bravo - 1 3, teachpoint Bravo3			1	
+10-Oct-17 10:25:25 AM	Event			process - 1 1		Process finishing		Protocol File - 1	1	
+10-Oct-17 10:25:39 AM	Event	BenchCel - 1		process - 4 1		Finished moving plate from Agilent Labware MiniHub - 1 Cassette 1, Slot 2, teachpoint MiniHub02 to Bravo - 1 3, teachpoint Bravo3			1	
+10-Oct-17 10:25:39 AM	Event	Bravo - 1	3	process - 4 1	2	Completed: Place plate at Bravo - 1 3		Protocol File - 1	1	
+10-Oct-17 10:25:39 AM	Event	Agilent Labware MiniHub - 1	Cassette 1, slot 2	process - 4 1	3	Load into plate storage device		Protocol File - 1	1	
+10-Oct-17 10:25:39 AM	Event	BenchCel - 1		process - 4 1		Move plate from Bravo - 1 3, teachpoint Bravo3 to Agilent Labware MiniHub - 1 Cassette 1, Slot 2, teachpoint MiniHub02			1	
+10-Oct-17 10:25:48 AM	Event	BenchCel - 1		process - 4 1		Finished moving plate from Bravo - 1 3, teachpoint Bravo3 to Agilent Labware MiniHub - 1 Cassette 1, Slot 2, teachpoint MiniHub02			1	
+10-Oct-17 10:25:48 AM	Event	Agilent Labware MiniHub - 1		process - 4 1	3	Agilent Labware MiniHub - 1 Load the plate from Cassette 1, Slot 2 into Location : cassette 1, slot 2		Protocol File - 1	1	
+10-Oct-17 10:25:48 AM	Event	Agilent Labware MiniHub - 1	Cassette 1, slot 2	process - 4 1	3	Completed: Load into plate storage device		Protocol File - 1	1	
+10-Oct-17 10:25:48 AM	Event			process - 4 1		Process finishing		Protocol File - 1	1	
+10-Oct-17 10:25:48 AM	Info					Elapsed time since start: 1 minute 31 seconds.		Protocol File - 1	1	
+10-Oct-17 10:25:50 AM	Event					Main protocol complete		Protocol File - 1	1	
+10-Oct-17 10:26:06 AM	Info					Compile complete with 0 errors and 0 warnings			1	
+10-Oct-17 10:26:32 AM	Info					Compile complete with 0 errors and 0 warnings			1	
+10-Oct-17 10:26:49 AM	Info					Runset Manager: Added the run "Protocol File - 1<9>" to Runset Manager.			1	
+10-Oct-17 10:26:50 AM	Event					Scheduler started			1	
+10-Oct-17 10:26:50 AM	Info					Error library: Protocol started using error library file: ""			1	
+10-Oct-17 10:26:50 AM	Info			process - 1		10 plate(s) required		Protocol File - 1	1	
+10-Oct-17 10:26:50 AM	Info			process - 2		10 plate(s) required		Protocol File - 1	1	
+10-Oct-17 10:26:50 AM	Info			process - 3		10 plate(s) required		Protocol File - 1	1	
+10-Oct-17 10:26:50 AM	Info			process - 4		10 plate(s) required		Protocol File - 1	1	
+10-Oct-17 10:26:50 AM	Event					Main protocol starting		Protocol File - 1	1	
+10-Oct-17 10:26:51 AM	Event			process - 2 1		Process starting, north barcode: No bar code, east barcode: No bar code, south barcode: No bar code, west barcode: No bar code		Protocol File - 1	1	
+10-Oct-17 10:26:51 AM	Event			process - 3 1		Process starting, north barcode: No bar code, east barcode: No bar code, south barcode: No bar code, west barcode: No bar code		Protocol File - 1	1	
+10-Oct-17 10:26:51 AM	Event			process - 1 1		Process starting, north barcode: No bar code, east barcode: No bar code, south barcode: No bar code, west barcode: No bar code		Protocol File - 1	1	
+10-Oct-17 10:26:51 AM	Event			process - 4 1		Process starting, north barcode: No bar code, east barcode: No bar code, south barcode: No bar code, west barcode: No bar code		Protocol File - 1	1	
+10-Oct-17 10:26:51 AM	Event	Agilent Labware MiniHub - 1	Cassette 4, slot 2	process - 2 1	1	Unload from plate storage device		Protocol File - 1	1	
+10-Oct-17 10:26:51 AM	Event	Agilent Labware MiniHub - 1		process - 2 1		Agilent Labware MiniHub - 1 Unload the plate from Location : cassette 4, slot 2 to Cassette 4, Slot 2		Protocol File - 1	1	
+10-Oct-17 10:26:51 AM	Event	Agilent Labware MiniHub - 1	Cassette 4, slot 2	process - 2 1	1	Completed: Unload from plate storage device		Protocol File - 1	1	
+10-Oct-17 10:26:51 AM	Event	Bravo - 1	3	process - 2 1	2	Place plate at Bravo - 1 3		Protocol File - 1	1	
+10-Oct-17 10:26:51 AM	Event	BenchCel - 1		process - 2 1		Move plate from Agilent Labware MiniHub - 1 Cassette 4, Slot 2, teachpoint MiniHub02 to Bravo - 1 3, teachpoint Bravo3			1	
+10-Oct-17 10:26:51 AM	Event	Agilent Labware MiniHub - 1	Cassette 1, slot 1	process - 3 1	1	Unload from plate storage device		Protocol File - 1	1	
+10-Oct-17 10:26:51 AM	Event	Agilent Labware MiniHub - 1		process - 3 1		Agilent Labware MiniHub - 1 Unload the plate from Location : cassette 1, slot 1 to Cassette 1, Slot 1		Protocol File - 1	1	
+10-Oct-17 10:26:51 AM	Event	Agilent Labware MiniHub - 1	Cassette 1, slot 1	process - 3 1	1	Completed: Unload from plate storage device		Protocol File - 1	1	
+10-Oct-17 10:26:51 AM	Event	Agilent Labware MiniHub - 1	Cassette 4, slot 1	process - 1 1	1	Unload from plate storage device		Protocol File - 1	1	
+10-Oct-17 10:26:51 AM	Event	Agilent Labware MiniHub - 1		process - 1 1		Agilent Labware MiniHub - 1 Unload the plate from Location : cassette 4, slot 1 to Cassette 4, Slot 1		Protocol File - 1	1	
+10-Oct-17 10:26:51 AM	Event	Agilent Labware MiniHub - 1	Cassette 4, slot 1	process - 1 1	1	Completed: Unload from plate storage device		Protocol File - 1	1	
+10-Oct-17 10:26:51 AM	Event	Agilent Labware MiniHub - 1	Cassette 1, slot 2	process - 4 1	1	Unload from plate storage device		Protocol File - 1	1	
+10-Oct-17 10:26:51 AM	Event	Agilent Labware MiniHub - 1		process - 4 1		Agilent Labware MiniHub - 1 Unload the plate from Location : cassette 1, slot 2 to Cassette 1, Slot 2		Protocol File - 1	1	
+10-Oct-17 10:26:51 AM	Event	Agilent Labware MiniHub - 1	Cassette 1, slot 2	process - 4 1	1	Completed: Unload from plate storage device		Protocol File - 1	1	
+10-Oct-17 10:27:05 AM	Event	BenchCel - 1		process - 2 1		Finished moving plate from Agilent Labware MiniHub - 1 Cassette 4, Slot 2, teachpoint MiniHub02 to Bravo - 1 3, teachpoint Bravo3			1	
+10-Oct-17 10:27:05 AM	Event	Bravo - 1	3	process - 2 1	2	Completed: Place plate at Bravo - 1 3		Protocol File - 1	1	
+10-Oct-17 10:27:05 AM	Event	Agilent Labware MiniHub - 1	Cassette 4, slot 2	process - 2 1	3	Load into plate storage device		Protocol File - 1	1	
+10-Oct-17 10:27:05 AM	Event	BenchCel - 1		process - 2 1		Move plate from Bravo - 1 3, teachpoint Bravo3 to Agilent Labware MiniHub - 1 Cassette 4, Slot 2, teachpoint MiniHub02			1	
+10-Oct-17 10:27:14 AM	Event	BenchCel - 1		process - 2 1		Finished moving plate from Bravo - 1 3, teachpoint Bravo3 to Agilent Labware MiniHub - 1 Cassette 4, Slot 2, teachpoint MiniHub02			1	
+10-Oct-17 10:27:14 AM	Event	Agilent Labware MiniHub - 1		process - 2 1	3	Agilent Labware MiniHub - 1 Load the plate from Cassette 4, Slot 2 into Location : cassette 4, slot 2		Protocol File - 1	1	
+10-Oct-17 10:27:14 AM	Event	Agilent Labware MiniHub - 1	Cassette 4, slot 2	process - 2 1	3	Completed: Load into plate storage device		Protocol File - 1	1	
+10-Oct-17 10:27:14 AM	Event	Bravo - 1	3	process - 1 1	2	Place plate at Bravo - 1 3		Protocol File - 1	1	
+10-Oct-17 10:27:14 AM	Event			process - 2 1		Process finishing		Protocol File - 1	1	
+10-Oct-17 10:27:14 AM	Event	BenchCel - 1		process - 1 1		Move plate from Agilent Labware MiniHub - 1 Cassette 4, Slot 1, teachpoint MiniHub01 to Bravo - 1 3, teachpoint Bravo3			1	
+10-Oct-17 10:27:14 AM	Event			process - 2 2		Process starting, north barcode: No bar code, east barcode: No bar code, south barcode: No bar code, west barcode: No bar code		Protocol File - 1	1	
+10-Oct-17 10:27:24 AM	Event	BenchCel - 1		process - 1 1		Finished moving plate from Agilent Labware MiniHub - 1 Cassette 4, Slot 1, teachpoint MiniHub01 to Bravo - 1 3, teachpoint Bravo3			1	
+10-Oct-17 10:27:24 AM	Event	Bravo - 1	3	process - 1 1	2	Completed: Place plate at Bravo - 1 3		Protocol File - 1	1	
+10-Oct-17 10:27:24 AM	Event	Agilent Labware MiniHub - 1	Cassette 4, slot 1	process - 1 1	3	Load into plate storage device		Protocol File - 1	1	
+10-Oct-17 10:27:24 AM	Event	BenchCel - 1		process - 1 1		Move plate from Bravo - 1 3, teachpoint Bravo3 to Agilent Labware MiniHub - 1 Cassette 4, Slot 1, teachpoint MiniHub01			1	
+10-Oct-17 10:27:33 AM	Event	BenchCel - 1		process - 1 1		Finished moving plate from Bravo - 1 3, teachpoint Bravo3 to Agilent Labware MiniHub - 1 Cassette 4, Slot 1, teachpoint MiniHub01			1	
+10-Oct-17 10:27:33 AM	Event	Agilent Labware MiniHub - 1		process - 1 1	3	Agilent Labware MiniHub - 1 Load the plate from Cassette 4, Slot 1 into Location : cassette 4, slot 1		Protocol File - 1	1	
+10-Oct-17 10:27:33 AM	Event	Bravo - 1	3	process - 3 1	2	Place plate at Bravo - 1 3		Protocol File - 1	1	
+10-Oct-17 10:27:33 AM	Event	BenchCel - 1		process - 3 1		Move plate from Agilent Labware MiniHub - 1 Cassette 1, Slot 1, teachpoint MiniHub01 to Bravo - 1 3, teachpoint Bravo3			1	
+10-Oct-17 10:27:33 AM	Event	Agilent Labware MiniHub - 1	Cassette 4, slot 1	process - 1 1	3	Completed: Load into plate storage device		Protocol File - 1	1	
+10-Oct-17 10:27:33 AM	Event			process - 1 1		Process finishing		Protocol File - 1	1	
+10-Oct-17 10:27:33 AM	Event			process - 1 2		Process starting, north barcode: No bar code, east barcode: No bar code, south barcode: No bar code, west barcode: No bar code		Protocol File - 1	1	
+10-Oct-17 10:27:46 AM	Event	BenchCel - 1		process - 3 1		Finished moving plate from Agilent Labware MiniHub - 1 Cassette 1, Slot 1, teachpoint MiniHub01 to Bravo - 1 3, teachpoint Bravo3			1	
+10-Oct-17 10:27:47 AM	Event	Bravo - 1	3	process - 3 1	2	Completed: Place plate at Bravo - 1 3		Protocol File - 1	1	
+10-Oct-17 10:27:47 AM	Event	Agilent Labware MiniHub - 1	Cassette 1, slot 1	process - 3 1	3	Load into plate storage device		Protocol File - 1	1	
+10-Oct-17 10:27:47 AM	Event	BenchCel - 1		process - 3 1		Move plate from Bravo - 1 3, teachpoint Bravo3 to Agilent Labware MiniHub - 1 Cassette 1, Slot 1, teachpoint MiniHub01			1	
+10-Oct-17 10:27:55 AM	Event	BenchCel - 1		process - 3 1		Finished moving plate from Bravo - 1 3, teachpoint Bravo3 to Agilent Labware MiniHub - 1 Cassette 1, Slot 1, teachpoint MiniHub01			1	
+10-Oct-17 10:27:55 AM	Event	Agilent Labware MiniHub - 1		process - 3 1	3	Agilent Labware MiniHub - 1 Load the plate from Cassette 1, Slot 1 into Location : cassette 1, slot 1		Protocol File - 1	1	
+10-Oct-17 10:27:55 AM	Event	Bravo - 1	3	process - 4 1	2	Place plate at Bravo - 1 3		Protocol File - 1	1	
+10-Oct-17 10:27:55 AM	Event	BenchCel - 1		process - 4 1		Move plate from Agilent Labware MiniHub - 1 Cassette 1, Slot 2, teachpoint MiniHub02 to Bravo - 1 3, teachpoint Bravo3			1	
+10-Oct-17 10:27:55 AM	Event	Agilent Labware MiniHub - 1	Cassette 1, slot 1	process - 3 1	3	Completed: Load into plate storage device		Protocol File - 1	1	
+10-Oct-17 10:27:55 AM	Event			process - 3 1		Process finishing		Protocol File - 1	1	
+10-Oct-17 10:27:55 AM	Event			process - 3 2		Process starting, north barcode: No bar code, east barcode: No bar code, south barcode: No bar code, west barcode: No bar code		Protocol File - 1	1	
+10-Oct-17 10:28:05 AM	Event	BenchCel - 1		process - 4 1		Finished moving plate from Agilent Labware MiniHub - 1 Cassette 1, Slot 2, teachpoint MiniHub02 to Bravo - 1 3, teachpoint Bravo3			1	
+10-Oct-17 10:28:05 AM	Event	Bravo - 1	3	process - 4 1	2	Completed: Place plate at Bravo - 1 3		Protocol File - 1	1	
+10-Oct-17 10:28:05 AM	Event	Agilent Labware MiniHub - 1	Cassette 1, slot 2	process - 4 1	3	Load into plate storage device		Protocol File - 1	1	
+10-Oct-17 10:28:05 AM	Event	BenchCel - 1		process - 4 1		Move plate from Bravo - 1 3, teachpoint Bravo3 to Agilent Labware MiniHub - 1 Cassette 1, Slot 2, teachpoint MiniHub02			1	
+10-Oct-17 10:28:14 AM	Event	BenchCel - 1		process - 4 1		Finished moving plate from Bravo - 1 3, teachpoint Bravo3 to Agilent Labware MiniHub - 1 Cassette 1, Slot 2, teachpoint MiniHub02			1	
+10-Oct-17 10:28:14 AM	Event	Agilent Labware MiniHub - 1		process - 4 1	3	Agilent Labware MiniHub - 1 Load the plate from Cassette 1, Slot 2 into Location : cassette 1, slot 2		Protocol File - 1	1	
+10-Oct-17 10:28:14 AM	Event	Agilent Labware MiniHub - 1	Cassette 1, slot 2	process - 4 1	3	Completed: Load into plate storage device		Protocol File - 1	1	
+10-Oct-17 10:28:14 AM	Event			process - 4 1		Process finishing		Protocol File - 1	1	
+10-Oct-17 10:28:14 AM	Event			process - 4 2		Process starting, north barcode: No bar code, east barcode: No bar code, south barcode: No bar code, west barcode: No bar code		Protocol File - 1	1	
+10-Oct-17 10:28:19 AM	Event					Scheduler stopped			1	
+10-Oct-17 10:28:19 AM	Error					Deadlock detected			1	
+10-Oct-17 10:28:19 AM	Error			process - 2 2	1	Can't find available location to unload the plate			1	
+10-Oct-17 10:28:19 AM	Error					Deadlock detected			1	
+10-Oct-17 10:28:19 AM	Error			process - 1 2	1	Can't find available location to unload the plate			1	
+10-Oct-17 10:28:19 AM	Error					Deadlock detected			1	
+10-Oct-17 10:28:19 AM	Error			process - 3 2	1	Can't find available location to unload the plate			1	
+10-Oct-17 10:28:19 AM	Error					Deadlock detected			1	
+10-Oct-17 10:28:19 AM	Error			process - 4 2	1	Can't find available location to unload the plate			1	
+10-Oct-17 10:28:35 AM	Event					Scheduler started			1	
+10-Oct-17 10:28:40 AM	Event					Scheduler stopped			1	
+10-Oct-17 10:28:40 AM	Error					Deadlock detected			1	
+10-Oct-17 10:28:40 AM	Error			process - 2 2	1	Can't find available location to unload the plate			1	
+10-Oct-17 10:28:40 AM	Error					Deadlock detected			1	
+10-Oct-17 10:28:40 AM	Error			process - 1 2	1	Can't find available location to unload the plate			1	
+10-Oct-17 10:28:40 AM	Error					Deadlock detected			1	
+10-Oct-17 10:28:40 AM	Error			process - 3 2	1	Can't find available location to unload the plate			1	
+10-Oct-17 10:28:40 AM	Error					Deadlock detected			1	
+10-Oct-17 10:28:40 AM	Error			process - 4 2	1	Can't find available location to unload the plate			1	
+10-Oct-17 10:28:46 AM	Event					Scheduler aborted			1	
+10-Oct-17 10:28:47 AM	Event					Main protocol aborted by user		Protocol File - 1	1	
+10-Oct-17 10:28:47 AM	Event			process - 2 2		Process finishing		Protocol File - 1	1	
+10-Oct-17 10:28:47 AM	Event			process - 1 2		Process finishing		Protocol File - 1	1	
+10-Oct-17 10:28:47 AM	Event			process - 3 2		Process finishing		Protocol File - 1	1	
+10-Oct-17 10:28:47 AM	Event			process - 4 2		Process finishing		Protocol File - 1	1	
+10-Oct-17 10:28:48 AM	Info					Elapsed time since start: 1 minute 58 seconds.		Protocol File - 1	1	
+10-Oct-17 10:28:49 AM	Event					Main protocol aborted by user		Protocol File - 1	1	
+10-Oct-17 10:28:52 AM	Info					Compile complete with 0 errors and 0 warnings			1	
+10-Oct-17 10:28:53 AM	Info					Runset Manager: Added the run "Protocol File - 1<10>" to Runset Manager.			1	
+10-Oct-17 10:28:54 AM	Event					Scheduler started			1	
+10-Oct-17 10:28:54 AM	Info					Error library: Protocol started using error library file: ""			1	
+10-Oct-17 10:28:54 AM	Info			process - 1		1 plate required		Protocol File - 1	1	
+10-Oct-17 10:28:54 AM	Info			process - 2		1 plate required		Protocol File - 1	1	
+10-Oct-17 10:28:54 AM	Info			process - 3		1 plate required		Protocol File - 1	1	
+10-Oct-17 10:28:54 AM	Info			process - 4		1 plate required		Protocol File - 1	1	
+10-Oct-17 10:28:54 AM	Event					Main protocol starting		Protocol File - 1	1	
+10-Oct-17 10:28:54 AM	Event			process - 2 1		Process starting, north barcode: No bar code, east barcode: No bar code, south barcode: No bar code, west barcode: No bar code		Protocol File - 1	1	
+10-Oct-17 10:28:55 AM	Event			process - 3 1		Process starting, north barcode: No bar code, east barcode: No bar code, south barcode: No bar code, west barcode: No bar code		Protocol File - 1	1	
+10-Oct-17 10:28:55 AM	Event			process - 1 1		Process starting, north barcode: No bar code, east barcode: No bar code, south barcode: No bar code, west barcode: No bar code		Protocol File - 1	1	
+10-Oct-17 10:28:55 AM	Event			process - 4 1		Process starting, north barcode: No bar code, east barcode: No bar code, south barcode: No bar code, west barcode: No bar code		Protocol File - 1	1	
+10-Oct-17 10:28:55 AM	Event	Agilent Labware MiniHub - 1	Cassette 4, slot 2	process - 2 1	1	Unload from plate storage device		Protocol File - 1	1	
+10-Oct-17 10:28:55 AM	Event	Agilent Labware MiniHub - 1		process - 2 1		Agilent Labware MiniHub - 1 Unload the plate from Location : cassette 4, slot 2 to Cassette 4, Slot 2		Protocol File - 1	1	
+10-Oct-17 10:28:55 AM	Event	Agilent Labware MiniHub - 1	Cassette 4, slot 2	process - 2 1	1	Completed: Unload from plate storage device		Protocol File - 1	1	
+10-Oct-17 10:28:55 AM	Event	Bravo - 1	3	process - 2 1	2	Place plate at Bravo - 1 3		Protocol File - 1	1	
+10-Oct-17 10:28:55 AM	Event	BenchCel - 1		process - 2 1		Move plate from Agilent Labware MiniHub - 1 Cassette 4, Slot 2, teachpoint MiniHub02 to Bravo - 1 3, teachpoint Bravo3			1	
+10-Oct-17 10:28:55 AM	Event	Agilent Labware MiniHub - 1	Cassette 1, slot 1	process - 3 1	1	Unload from plate storage device		Protocol File - 1	1	
+10-Oct-17 10:28:55 AM	Event	Agilent Labware MiniHub - 1		process - 3 1		Agilent Labware MiniHub - 1 Unload the plate from Location : cassette 1, slot 1 to Cassette 1, Slot 1		Protocol File - 1	1	
+10-Oct-17 10:28:55 AM	Event	Agilent Labware MiniHub - 1	Cassette 1, slot 1	process - 3 1	1	Completed: Unload from plate storage device		Protocol File - 1	1	
+10-Oct-17 10:28:55 AM	Event	Agilent Labware MiniHub - 1	Cassette 4, slot 1	process - 1 1	1	Unload from plate storage device		Protocol File - 1	1	
+10-Oct-17 10:28:55 AM	Event	Agilent Labware MiniHub - 1		process - 1 1		Agilent Labware MiniHub - 1 Unload the plate from Location : cassette 4, slot 1 to Cassette 4, Slot 1		Protocol File - 1	1	
+10-Oct-17 10:28:55 AM	Event	Agilent Labware MiniHub - 1	Cassette 4, slot 1	process - 1 1	1	Completed: Unload from plate storage device		Protocol File - 1	1	
+10-Oct-17 10:28:55 AM	Event	Agilent Labware MiniHub - 1	Cassette 1, slot 2	process - 4 1	1	Unload from plate storage device		Protocol File - 1	1	
+10-Oct-17 10:28:55 AM	Event	Agilent Labware MiniHub - 1		process - 4 1		Agilent Labware MiniHub - 1 Unload the plate from Location : cassette 1, slot 2 to Cassette 1, Slot 2		Protocol File - 1	1	
+10-Oct-17 10:28:55 AM	Event	Agilent Labware MiniHub - 1	Cassette 1, slot 2	process - 4 1	1	Completed: Unload from plate storage device		Protocol File - 1	1	
+10-Oct-17 10:29:07 AM	Event	BenchCel - 1		process - 2 1		Finished moving plate from Agilent Labware MiniHub - 1 Cassette 4, Slot 2, teachpoint MiniHub02 to Bravo - 1 3, teachpoint Bravo3			1	
+10-Oct-17 10:29:07 AM	Event	Bravo - 1	3	process - 2 1	2	Completed: Place plate at Bravo - 1 3		Protocol File - 1	1	
+10-Oct-17 10:29:07 AM	Event	Agilent Labware MiniHub - 1	Cassette 4, slot 2	process - 2 1	3	Load into plate storage device		Protocol File - 1	1	
+10-Oct-17 10:29:07 AM	Event	BenchCel - 1		process - 2 1		Move plate from Bravo - 1 3, teachpoint Bravo3 to Agilent Labware MiniHub - 1 Cassette 4, Slot 2, teachpoint MiniHub02			1	
+10-Oct-17 10:29:16 AM	Event	BenchCel - 1		process - 2 1		Finished moving plate from Bravo - 1 3, teachpoint Bravo3 to Agilent Labware MiniHub - 1 Cassette 4, Slot 2, teachpoint MiniHub02			1	
+10-Oct-17 10:29:16 AM	Event	Agilent Labware MiniHub - 1		process - 2 1	3	Agilent Labware MiniHub - 1 Load the plate from Cassette 4, Slot 2 into Location : cassette 4, slot 2		Protocol File - 1	1	
+10-Oct-17 10:29:16 AM	Event	Bravo - 1	3	process - 3 1	2	Place plate at Bravo - 1 3		Protocol File - 1	1	
+10-Oct-17 10:29:16 AM	Event	BenchCel - 1		process - 3 1		Move plate from Agilent Labware MiniHub - 1 Cassette 1, Slot 1, teachpoint MiniHub01 to Bravo - 1 3, teachpoint Bravo3			1	
+10-Oct-17 10:29:16 AM	Event	Agilent Labware MiniHub - 1	Cassette 4, slot 2	process - 2 1	3	Completed: Load into plate storage device		Protocol File - 1	1	
+10-Oct-17 10:29:16 AM	Event			process - 2 1		Process finishing		Protocol File - 1	1	
+10-Oct-17 10:29:31 AM	Event	BenchCel - 1		process - 3 1		Finished moving plate from Agilent Labware MiniHub - 1 Cassette 1, Slot 1, teachpoint MiniHub01 to Bravo - 1 3, teachpoint Bravo3			1	
+10-Oct-17 10:29:31 AM	Event	Bravo - 1	3	process - 3 1	2	Completed: Place plate at Bravo - 1 3		Protocol File - 1	1	
+10-Oct-17 10:29:31 AM	Event	Agilent Labware MiniHub - 1	Cassette 1, slot 1	process - 3 1	3	Load into plate storage device		Protocol File - 1	1	
+10-Oct-17 10:29:31 AM	Event	BenchCel - 1		process - 3 1		Move plate from Bravo - 1 3, teachpoint Bravo3 to Agilent Labware MiniHub - 1 Cassette 1, Slot 1, teachpoint MiniHub01			1	
+10-Oct-17 10:29:39 AM	Event	BenchCel - 1		process - 3 1		Finished moving plate from Bravo - 1 3, teachpoint Bravo3 to Agilent Labware MiniHub - 1 Cassette 1, Slot 1, teachpoint MiniHub01			1	
+10-Oct-17 10:29:39 AM	Event	Agilent Labware MiniHub - 1		process - 3 1	3	Agilent Labware MiniHub - 1 Load the plate from Cassette 1, Slot 1 into Location : cassette 1, slot 1		Protocol File - 1	1	
+10-Oct-17 10:29:39 AM	Event	Agilent Labware MiniHub - 1	Cassette 1, slot 1	process - 3 1	3	Completed: Load into plate storage device		Protocol File - 1	1	
+10-Oct-17 10:29:39 AM	Event			process - 3 1		Process finishing		Protocol File - 1	1	
+10-Oct-17 10:29:39 AM	Event	Bravo - 1	3	process - 1 1	2	Place plate at Bravo - 1 3		Protocol File - 1	1	
+10-Oct-17 10:29:39 AM	Event	BenchCel - 1		process - 1 1		Move plate from Agilent Labware MiniHub - 1 Cassette 4, Slot 1, teachpoint MiniHub01 to Bravo - 1 3, teachpoint Bravo3			1	
+10-Oct-17 10:29:53 AM	Event	BenchCel - 1		process - 1 1		Finished moving plate from Agilent Labware MiniHub - 1 Cassette 4, Slot 1, teachpoint MiniHub01 to Bravo - 1 3, teachpoint Bravo3			1	
+10-Oct-17 10:29:53 AM	Event	Bravo - 1	3	process - 1 1	2	Completed: Place plate at Bravo - 1 3		Protocol File - 1	1	
+10-Oct-17 10:29:53 AM	Event	Agilent Labware MiniHub - 1	Cassette 4, slot 1	process - 1 1	3	Load into plate storage device		Protocol File - 1	1	
+10-Oct-17 10:29:53 AM	Event	BenchCel - 1		process - 1 1		Move plate from Bravo - 1 3, teachpoint Bravo3 to Agilent Labware MiniHub - 1 Cassette 4, Slot 1, teachpoint MiniHub01			1	
+10-Oct-17 10:30:01 AM	Event	BenchCel - 1		process - 1 1		Finished moving plate from Bravo - 1 3, teachpoint Bravo3 to Agilent Labware MiniHub - 1 Cassette 4, Slot 1, teachpoint MiniHub01			1	
+10-Oct-17 10:30:01 AM	Event	Agilent Labware MiniHub - 1		process - 1 1	3	Agilent Labware MiniHub - 1 Load the plate from Cassette 4, Slot 1 into Location : cassette 4, slot 1		Protocol File - 1	1	
+10-Oct-17 10:30:01 AM	Event	Agilent Labware MiniHub - 1	Cassette 4, slot 1	process - 1 1	3	Completed: Load into plate storage device		Protocol File - 1	1	
+10-Oct-17 10:30:01 AM	Event	Bravo - 1	3	process - 4 1	2	Place plate at Bravo - 1 3		Protocol File - 1	1	
+10-Oct-17 10:30:01 AM	Event	BenchCel - 1		process - 4 1		Move plate from Agilent Labware MiniHub - 1 Cassette 1, Slot 2, teachpoint MiniHub02 to Bravo - 1 3, teachpoint Bravo3			1	
+10-Oct-17 10:30:02 AM	Event			process - 1 1		Process finishing		Protocol File - 1	1	
+10-Oct-17 10:30:15 AM	Event	BenchCel - 1		process - 4 1		Finished moving plate from Agilent Labware MiniHub - 1 Cassette 1, Slot 2, teachpoint MiniHub02 to Bravo - 1 3, teachpoint Bravo3			1	
+10-Oct-17 10:30:15 AM	Event	Bravo - 1	3	process - 4 1	2	Completed: Place plate at Bravo - 1 3		Protocol File - 1	1	
+10-Oct-17 10:30:15 AM	Event	Agilent Labware MiniHub - 1	Cassette 1, slot 2	process - 4 1	3	Load into plate storage device		Protocol File - 1	1	
+10-Oct-17 10:30:15 AM	Event	BenchCel - 1		process - 4 1		Move plate from Bravo - 1 3, teachpoint Bravo3 to Agilent Labware MiniHub - 1 Cassette 1, Slot 2, teachpoint MiniHub02			1	
+10-Oct-17 10:30:24 AM	Event	BenchCel - 1		process - 4 1		Finished moving plate from Bravo - 1 3, teachpoint Bravo3 to Agilent Labware MiniHub - 1 Cassette 1, Slot 2, teachpoint MiniHub02			1	
+10-Oct-17 10:30:24 AM	Event	Agilent Labware MiniHub - 1		process - 4 1	3	Agilent Labware MiniHub - 1 Load the plate from Cassette 1, Slot 2 into Location : cassette 1, slot 2		Protocol File - 1	1	
+10-Oct-17 10:30:24 AM	Event	Agilent Labware MiniHub - 1	Cassette 1, slot 2	process - 4 1	3	Completed: Load into plate storage device		Protocol File - 1	1	
+10-Oct-17 10:30:24 AM	Event			process - 4 1		Process finishing		Protocol File - 1	1	
+10-Oct-17 10:30:24 AM	Info					Elapsed time since start: 1 minute 30 seconds.		Protocol File - 1	1	
+10-Oct-17 10:30:27 AM	Event					Main protocol complete		Protocol File - 1	1	
+10-Oct-17 10:30:33 AM	Info					Compile complete with 0 errors and 0 warnings			1	
+10-Oct-17 10:31:12 AM	Info					Runset Manager: Added the run "Protocol File - 1<11>" to Runset Manager.			1	
+10-Oct-17 10:31:13 AM	Event					Scheduler started			1	
+10-Oct-17 10:31:13 AM	Info					Error library: Protocol started using error library file: ""			1	
+10-Oct-17 10:31:13 AM	Info			process - 1		1 plate required		Protocol File - 1	1	
+10-Oct-17 10:31:13 AM	Info			process - 2		1 plate required		Protocol File - 1	1	
+10-Oct-17 10:31:13 AM	Info			process - 3		1 plate required		Protocol File - 1	1	
+10-Oct-17 10:31:13 AM	Info			process - 4		1 plate required		Protocol File - 1	1	
+10-Oct-17 10:31:13 AM	Event					Main protocol starting		Protocol File - 1	1	
+10-Oct-17 10:31:14 AM	Event			process - 2 1		Process starting, north barcode: No bar code, east barcode: No bar code, south barcode: No bar code, west barcode: No bar code		Protocol File - 1	1	
+10-Oct-17 10:31:14 AM	Event			process - 3 1		Process starting, north barcode: No bar code, east barcode: No bar code, south barcode: No bar code, west barcode: No bar code		Protocol File - 1	1	
+10-Oct-17 10:31:14 AM	Event			process - 1 1		Process starting, north barcode: No bar code, east barcode: No bar code, south barcode: No bar code, west barcode: No bar code		Protocol File - 1	1	
+10-Oct-17 10:31:14 AM	Event			process - 4 1		Process starting, north barcode: No bar code, east barcode: No bar code, south barcode: No bar code, west barcode: No bar code		Protocol File - 1	1	
+10-Oct-17 10:31:14 AM	Event	Agilent Labware MiniHub - 1	Cassette 4, slot 2	process - 2 1	1	Unload from plate storage device		Protocol File - 1	1	
+10-Oct-17 10:31:14 AM	Event	Agilent Labware MiniHub - 1		process - 2 1		Agilent Labware MiniHub - 1 Unload the plate from Location : cassette 4, slot 2 to Cassette 4, Slot 2		Protocol File - 1	1	
+10-Oct-17 10:31:14 AM	Event	Agilent Labware MiniHub - 1	Cassette 4, slot 2	process - 2 1	1	Completed: Unload from plate storage device		Protocol File - 1	1	
+10-Oct-17 10:31:14 AM	Event	Bravo - 1	3	process - 2 1	2	Place plate at Bravo - 1 3		Protocol File - 1	1	
+10-Oct-17 10:31:14 AM	Event	BenchCel - 1		process - 2 1		Move plate from Agilent Labware MiniHub - 1 Cassette 4, Slot 2, teachpoint MiniHub02 to Bravo - 1 3, teachpoint Bravo3			1	
+10-Oct-17 10:31:14 AM	Event	Agilent Labware MiniHub - 1	Cassette 1, slot 1	process - 3 1	1	Unload from plate storage device		Protocol File - 1	1	
+10-Oct-17 10:31:14 AM	Event	Agilent Labware MiniHub - 1		process - 3 1		Agilent Labware MiniHub - 1 Unload the plate from Location : cassette 1, slot 1 to Cassette 1, Slot 1		Protocol File - 1	1	
+10-Oct-17 10:31:14 AM	Event	Agilent Labware MiniHub - 1	Cassette 1, slot 1	process - 3 1	1	Completed: Unload from plate storage device		Protocol File - 1	1	
+10-Oct-17 10:31:14 AM	Event	Agilent Labware MiniHub - 1	Cassette 4, slot 1	process - 1 1	1	Unload from plate storage device		Protocol File - 1	1	
+10-Oct-17 10:31:14 AM	Event	Agilent Labware MiniHub - 1		process - 1 1		Agilent Labware MiniHub - 1 Unload the plate from Location : cassette 4, slot 1 to Cassette 4, Slot 1		Protocol File - 1	1	
+10-Oct-17 10:31:14 AM	Event	Agilent Labware MiniHub - 1	Cassette 4, slot 1	process - 1 1	1	Completed: Unload from plate storage device		Protocol File - 1	1	
+10-Oct-17 10:31:14 AM	Event	Agilent Labware MiniHub - 1	Cassette 1, slot 2	process - 4 1	1	Unload from plate storage device		Protocol File - 1	1	
+10-Oct-17 10:31:14 AM	Event	Agilent Labware MiniHub - 1		process - 4 1		Agilent Labware MiniHub - 1 Unload the plate from Location : cassette 1, slot 2 to Cassette 1, Slot 2		Protocol File - 1	1	
+10-Oct-17 10:31:14 AM	Event	Agilent Labware MiniHub - 1	Cassette 1, slot 2	process - 4 1	1	Completed: Unload from plate storage device		Protocol File - 1	1	
+10-Oct-17 10:31:16 AM	Info					Pause protocol			1	
+10-Oct-17 10:31:16 AM	Event					Scheduler stopped			1	
+10-Oct-17 10:31:19 AM	Event					Scheduler aborted			1	
+10-Oct-17 10:31:27 AM	Event	BenchCel - 1		process - 2 1		Finished moving plate from Agilent Labware MiniHub - 1 Cassette 4, Slot 2, teachpoint MiniHub02 to Bravo - 1 3, teachpoint Bravo3			1	
+10-Oct-17 10:31:27 AM	Event	Bravo - 1	3	process - 2 1	2	Completed: Place plate at Bravo - 1 3		Protocol File - 1	1	
+10-Oct-17 10:31:28 AM	Event					Main protocol aborted by user		Protocol File - 1	1	
+10-Oct-17 10:31:28 AM	Event			process - 2 1		Process finishing		Protocol File - 1	1	
+10-Oct-17 10:31:28 AM	Event			process - 3 1		Process finishing		Protocol File - 1	1	
+10-Oct-17 10:31:28 AM	Event			process - 1 1		Process finishing		Protocol File - 1	1	
+10-Oct-17 10:31:28 AM	Event			process - 4 1		Process finishing		Protocol File - 1	1	
+10-Oct-17 10:31:28 AM	Info					Elapsed time since start: 15 seconds.		Protocol File - 1	1	
+10-Oct-17 10:31:30 AM	Event					Main protocol aborted by user		Protocol File - 1	1	
+10-Oct-17 10:31:30 AM	Event			process - 2 1		Process finishing		Protocol File - 1	1	
+10-Oct-17 10:31:47 AM	Info					File loaded		C:\VWorks Workspace\Forms\SCELSE\TruSeqPCRFree_Nano.VWForm	1	
+10-Oct-17 10:32:01 AM	Info					File loaded		C:\VWorks Workspace\Forms\SCELSE\TruSeqPCRFree_Nano\TruSeqPCRFree_Nano.VWForm	1	
+10-Oct-17 10:33:23 AM	Info					File loaded		C:\VWorks Workspace\Forms\SCELSE\TruSeqRNA_StrandSpecific.VWForm	1	
+10-Oct-17 10:33:29 AM	Info					File unloaded		C:\VWorks Workspace\Forms\SCELSE\TruSeqRNA_StrandSpecific.VWForm	1	
+10-Oct-17 10:35:51 AM	Info					Simulation mode toggled on			1	
+10-Oct-17 10:36:00 AM	Script					var plate_type = "96 ABI PCR half skirt in black carrier";		C:\VWorks Workspace\Forms\SCELSE\TruSeqPCRFree_Nano\TruSeqPCRFree_Nano.VWForm	1	
+10-Oct-17 10:36:00 AM	Script					var DNA_source = 0;		C:\VWorks Workspace\Forms\SCELSE\TruSeqPCRFree_Nano\TruSeqPCRFree_Nano.VWForm	1	
+10-Oct-17 10:36:00 AM	Script					var protocol_testing = 0;		C:\VWorks Workspace\Forms\SCELSE\TruSeqPCRFree_Nano\TruSeqPCRFree_Nano.VWForm	1	
+10-Oct-17 10:36:00 AM	Script					var BasePair = 50;		C:\VWorks Workspace\Forms\SCELSE\TruSeqPCRFree_Nano\TruSeqPCRFree_Nano.VWForm	1	
+10-Oct-17 10:36:00 AM	Script					var formProtocolName = "AirAmplicons_PCR1_CleanUp.pro";		C:\VWorks Workspace\Forms\SCELSE\TruSeqPCRFree_Nano\TruSeqPCRFree_Nano.VWForm	1	
+10-Oct-17 10:36:00 AM	Script					var columns_samples = 1;		C:\VWorks Workspace\Forms\SCELSE\TruSeqPCRFree_Nano\TruSeqPCRFree_Nano.VWForm	1	
+10-Oct-17 10:36:00 AM	Script					Number of Columns selected is 1			1	
+10-Oct-17 10:36:00 AM	Script					Case: 1 Columns			1	
+10-Oct-17 10:36:04 AM	Script					var plate_type = "96 ABI PCR half skirt in black carrier";		C:\VWorks Workspace\Forms\SCELSE\TruSeqPCRFree_Nano\TruSeqPCRFree_Nano.VWForm	1	
+10-Oct-17 10:36:04 AM	Script					var DNA_source = 0;		C:\VWorks Workspace\Forms\SCELSE\TruSeqPCRFree_Nano\TruSeqPCRFree_Nano.VWForm	1	
+10-Oct-17 10:36:04 AM	Script					var protocol_testing = 0;		C:\VWorks Workspace\Forms\SCELSE\TruSeqPCRFree_Nano\TruSeqPCRFree_Nano.VWForm	1	
+10-Oct-17 10:36:04 AM	Script					var BasePair = 50;		C:\VWorks Workspace\Forms\SCELSE\TruSeqPCRFree_Nano\TruSeqPCRFree_Nano.VWForm	1	
+10-Oct-17 10:36:04 AM	Script					var formProtocolName = "AirAmplicons_PCR1_CleanUp.pro";		C:\VWorks Workspace\Forms\SCELSE\TruSeqPCRFree_Nano\TruSeqPCRFree_Nano.VWForm	1	
+10-Oct-17 10:36:04 AM	Script					var columns_samples = 1;		C:\VWorks Workspace\Forms\SCELSE\TruSeqPCRFree_Nano\TruSeqPCRFree_Nano.VWForm	1	
+10-Oct-17 10:36:04 AM	Script					Clearing Plate Inventory			1	
+10-Oct-17 10:36:04 AM	Info					Runset Manager: Deleted the run "C:\VWorks Workspace\Protocol Files\TruSeqPCRFree\7_AMPureXP_TruSeqPCRFree_DNArunset_v1.0.pro" from Runset Manager.			1	
+10-Oct-17 10:36:04 AM	Info					Runset Manager: Deleted the run "C:\VWorks Workspace\Protocol Files\TruSeqPCRFree\8_EndRepair_TruSeqPCRFree_v1.0.pro" from Runset Manager.			1	
+10-Oct-17 10:36:04 AM	Info					Runset Manager: Deleted the run "C:\VWorks Workspace\Protocol Files\TruSeqPCRFree\9_AMPureXP_TruSeqPCRFree_DNArunset_v1.0.pro" from Runset Manager.			1	
+10-Oct-17 10:36:04 AM	Info					Runset Manager: Deleted the run "C:\VWorks Workspace\Protocol Files\TruSeqPCRFree\10_A-Tailing_TruSeqPCRFree_v1.0.pro" from Runset Manager.			1	
+10-Oct-17 10:36:04 AM	Info					Runset Manager: Deleted the run "C:\VWorks Workspace\Protocol Files\TruSeqPCRFree\11_AdapterLigation_TruSeqPCRFree_v1.0.pro" from Runset Manager.			1	
+10-Oct-17 10:36:04 AM	Info					Runset Manager: Deleted the run "C:\VWorks Workspace\Protocol Files\TruSeqPCRFree\12_StopLigation_TruSeqPCRFree_v1.0.pro" from Runset Manager.			1	
+10-Oct-17 10:36:04 AM	Info					Runset Manager: Deleted the run "C:\VWorks Workspace\Protocol Files\TruSeqPCRFree\13_AMPureXP_TruSeqPCRFree_runset_v1.0.pro" from Runset Manager.			1	
+10-Oct-17 10:36:04 AM	Info					Runset Manager: Deleted the run "C:\VWorks Workspace\Protocol Files\TruSeqPCRFree\14_AMPureXP_TruSeqPCRFree_runset_v1.0.pro" from Runset Manager.			1	
+10-Oct-17 10:36:04 AM	Info					Runset Manager: Deleted the run "Protocol File - 1" from Runset Manager.			1	
+10-Oct-17 10:36:04 AM	Info					Runset Manager: Deleted the run "Protocol File - 1<1>" from Runset Manager.			1	
+10-Oct-17 10:36:04 AM	Info					Runset Manager: Deleted the run "Protocol File - 1<2>" from Runset Manager.			1	
+10-Oct-17 10:36:04 AM	Info					Runset Manager: Deleted the run "Protocol File - 1<3>" from Runset Manager.			1	
+10-Oct-17 10:36:04 AM	Info					Runset Manager: Deleted the run "Protocol File - 1<4>" from Runset Manager.			1	
+10-Oct-17 10:36:04 AM	Info					Runset Manager: Deleted the run "Protocol File - 1<5>" from Runset Manager.			1	
+10-Oct-17 10:36:04 AM	Info					Runset Manager: Deleted the run "Protocol File - 1<6>" from Runset Manager.			1	
+10-Oct-17 10:36:04 AM	Info					Runset Manager: Deleted the run "Protocol File - 1<7>" from Runset Manager.			1	
+10-Oct-17 10:36:05 AM	Info					Runset Manager: Deleted the run "Protocol File - 1<8>" from Runset Manager.			1	
+10-Oct-17 10:36:05 AM	Info					Runset Manager: Deleted the run "Protocol File - 1<9>" from Runset Manager.			1	
+10-Oct-17 10:36:05 AM	Info					Runset Manager: Deleted the run "Protocol File - 1<10>" from Runset Manager.			1	
+10-Oct-17 10:36:05 AM	Info					Runset Manager: Deleted the run "Protocol File - 1<11>" from Runset Manager.			1	
+10-Oct-17 10:36:05 AM	Script					Clearing Runset			1	
+10-Oct-17 10:36:05 AM	Script					Starting protocol : AirAmplicons_PCR1_CleanUp.pro			1	
+10-Oct-17 10:36:05 AM	Error					File C:\VWorks Workspace\Forms\SCELSE\TruSeqPCRFree_Nano\RunSet Files\AirAmplicons_PCR1_CleanUp.pro not found			1	
+10-Oct-17 10:36:05 AM	Info					File unloaded			1	
+10-Oct-17 10:36:19 AM	Script					var plate_type = "96 ABI PCR half skirt in black carrier";		C:\VWorks Workspace\Forms\SCELSE\TruSeqPCRFree_Nano\TruSeqPCRFree_Nano.VWForm	1	
+10-Oct-17 10:36:19 AM	Script					var DNA_source = 0;		C:\VWorks Workspace\Forms\SCELSE\TruSeqPCRFree_Nano\TruSeqPCRFree_Nano.VWForm	1	
+10-Oct-17 10:36:19 AM	Script					var protocol_testing = 0;		C:\VWorks Workspace\Forms\SCELSE\TruSeqPCRFree_Nano\TruSeqPCRFree_Nano.VWForm	1	
+10-Oct-17 10:36:19 AM	Script					var BasePair = 50;		C:\VWorks Workspace\Forms\SCELSE\TruSeqPCRFree_Nano\TruSeqPCRFree_Nano.VWForm	1	
+10-Oct-17 10:36:19 AM	Script					var formProtocolName = "Amplicon2_CleanUp_v1.0.pro";		C:\VWorks Workspace\Forms\SCELSE\TruSeqPCRFree_Nano\TruSeqPCRFree_Nano.VWForm	1	
+10-Oct-17 10:36:19 AM	Script					var columns_samples = 1;		C:\VWorks Workspace\Forms\SCELSE\TruSeqPCRFree_Nano\TruSeqPCRFree_Nano.VWForm	1	
+10-Oct-17 10:36:19 AM	Script					Number of Columns selected is 1			1	
+10-Oct-17 10:36:19 AM	Script					Case: 1 Columns			1	
+10-Oct-17 10:36:20 AM	Script					var plate_type = "96 ABI PCR half skirt in black carrier";		C:\VWorks Workspace\Forms\SCELSE\TruSeqPCRFree_Nano\TruSeqPCRFree_Nano.VWForm	1	
+10-Oct-17 10:36:20 AM	Script					var DNA_source = 0;		C:\VWorks Workspace\Forms\SCELSE\TruSeqPCRFree_Nano\TruSeqPCRFree_Nano.VWForm	1	
+10-Oct-17 10:36:20 AM	Script					var protocol_testing = 0;		C:\VWorks Workspace\Forms\SCELSE\TruSeqPCRFree_Nano\TruSeqPCRFree_Nano.VWForm	1	
+10-Oct-17 10:36:20 AM	Script					var BasePair = 50;		C:\VWorks Workspace\Forms\SCELSE\TruSeqPCRFree_Nano\TruSeqPCRFree_Nano.VWForm	1	
+10-Oct-17 10:36:20 AM	Script					var formProtocolName = "Amplicon2_CleanUp_v1.0.pro";		C:\VWorks Workspace\Forms\SCELSE\TruSeqPCRFree_Nano\TruSeqPCRFree_Nano.VWForm	1	
+10-Oct-17 10:36:21 AM	Script					var columns_samples = 1;		C:\VWorks Workspace\Forms\SCELSE\TruSeqPCRFree_Nano\TruSeqPCRFree_Nano.VWForm	1	
+10-Oct-17 10:36:21 AM	Script					Clearing Plate Inventory			1	
+10-Oct-17 10:36:21 AM	Script					Clearing Runset			1	
+10-Oct-17 10:36:21 AM	Script					Starting protocol : Amplicon2_CleanUp_v1.0.pro			1	
+10-Oct-17 10:36:21 AM	Error					File C:\VWorks Workspace\Forms\SCELSE\TruSeqPCRFree_Nano\RunSet Files\Amplicon2_CleanUp_v1.0.pro not found			1	
+10-Oct-17 10:36:21 AM	Info					File unloaded			1	
+10-Oct-17 10:37:21 AM	Info					File loaded		C:\VWorks Workspace\Forms\SCELSE\TruSeqRNA_StrandSpecific.VWForm	1	
+10-Oct-17 10:37:42 AM	Script					var plate_type = "96 ABI PCR half skirt in black carrier";		C:\VWorks Workspace\Forms\SCELSE\TruSeqPCRFree_Nano\TruSeqPCRFree_Nano.VWForm	1	
+10-Oct-17 10:37:42 AM	Script					var DNA_source = 0;		C:\VWorks Workspace\Forms\SCELSE\TruSeqPCRFree_Nano\TruSeqPCRFree_Nano.VWForm	1	
+10-Oct-17 10:37:42 AM	Script					var protocol_testing = 0;		C:\VWorks Workspace\Forms\SCELSE\TruSeqPCRFree_Nano\TruSeqPCRFree_Nano.VWForm	1	
+10-Oct-17 10:37:42 AM	Script					var BasePair = 50;		C:\VWorks Workspace\Forms\SCELSE\TruSeqPCRFree_Nano\TruSeqPCRFree_Nano.VWForm	1	
+10-Oct-17 10:37:42 AM	Script					var formProtocolName = "Amplicon2_CleanUp_v1.0.pro";		C:\VWorks Workspace\Forms\SCELSE\TruSeqPCRFree_Nano\TruSeqPCRFree_Nano.VWForm	1	
+10-Oct-17 10:37:43 AM	Script					var columns_samples = 1;		C:\VWorks Workspace\Forms\SCELSE\TruSeqPCRFree_Nano\TruSeqPCRFree_Nano.VWForm	1	
+10-Oct-17 10:37:43 AM	Script					Number of Columns selected is 1			1	
+10-Oct-17 10:37:43 AM	Script					Case: 1 Columns			1	
+10-Oct-17 10:37:44 AM	Script					var plate_type = "96 ABI PCR half skirt in black carrier";		C:\VWorks Workspace\Forms\SCELSE\TruSeqPCRFree_Nano\TruSeqPCRFree_Nano.VWForm	1	
+10-Oct-17 10:37:44 AM	Script					var DNA_source = 0;		C:\VWorks Workspace\Forms\SCELSE\TruSeqPCRFree_Nano\TruSeqPCRFree_Nano.VWForm	1	
+10-Oct-17 10:37:45 AM	Script					var protocol_testing = 0;		C:\VWorks Workspace\Forms\SCELSE\TruSeqPCRFree_Nano\TruSeqPCRFree_Nano.VWForm	1	
+10-Oct-17 10:37:45 AM	Script					var BasePair = 50;		C:\VWorks Workspace\Forms\SCELSE\TruSeqPCRFree_Nano\TruSeqPCRFree_Nano.VWForm	1	
+10-Oct-17 10:37:45 AM	Script					var formProtocolName = "Amplicon2_CleanUp_v1.0.pro";		C:\VWorks Workspace\Forms\SCELSE\TruSeqPCRFree_Nano\TruSeqPCRFree_Nano.VWForm	1	
+10-Oct-17 10:37:45 AM	Script					var columns_samples = 1;		C:\VWorks Workspace\Forms\SCELSE\TruSeqPCRFree_Nano\TruSeqPCRFree_Nano.VWForm	1	
+10-Oct-17 10:37:45 AM	Script					Clearing Plate Inventory			1	
+10-Oct-17 10:37:45 AM	Script					Clearing Runset			1	
+10-Oct-17 10:37:45 AM	Script					Starting protocol : Amplicon2_CleanUp_v1.0.pro			1	
+10-Oct-17 10:37:45 AM	Error					File C:\VWorks Workspace\Forms\SCELSE\TruSeqPCRFree_Nano\RunSet Files\Amplicon2_CleanUp_v1.0.pro not found			1	
+10-Oct-17 10:37:45 AM	Info					File unloaded			1	
+10-Oct-17 10:37:59 AM	Script					var plate_type = "96 ABI PCR half skirt in black carrier";		C:\VWorks Workspace\Forms\SCELSE\TruSeqPCRFree_Nano\TruSeqPCRFree_Nano.VWForm	1	
+10-Oct-17 10:37:59 AM	Script					var DNA_source = 0;		C:\VWorks Workspace\Forms\SCELSE\TruSeqPCRFree_Nano\TruSeqPCRFree_Nano.VWForm	1	
+10-Oct-17 10:37:59 AM	Script					var protocol_testing = 0;		C:\VWorks Workspace\Forms\SCELSE\TruSeqPCRFree_Nano\TruSeqPCRFree_Nano.VWForm	1	
+10-Oct-17 10:37:59 AM	Script					var BasePair = 50;		C:\VWorks Workspace\Forms\SCELSE\TruSeqPCRFree_Nano\TruSeqPCRFree_Nano.VWForm	1	
+10-Oct-17 10:38:00 AM	Script					var formProtocolName = "16_STANDALONE_AMPureXP_TS_FINAL_v1.0.pro";		C:\VWorks Workspace\Forms\SCELSE\TruSeqPCRFree_Nano\TruSeqPCRFree_Nano.VWForm	1	
+10-Oct-17 10:38:00 AM	Script					var columns_samples = 1;		C:\VWorks Workspace\Forms\SCELSE\TruSeqPCRFree_Nano\TruSeqPCRFree_Nano.VWForm	1	
+10-Oct-17 10:38:00 AM	Script					Number of Columns selected is 1			1	
+10-Oct-17 10:38:00 AM	Script					Case: 1 Columns			1	
+10-Oct-17 10:38:01 AM	Script					var plate_type = "96 ABI PCR half skirt in black carrier";		C:\VWorks Workspace\Forms\SCELSE\TruSeqPCRFree_Nano\TruSeqPCRFree_Nano.VWForm	1	
+10-Oct-17 10:38:02 AM	Script					var DNA_source = 0;		C:\VWorks Workspace\Forms\SCELSE\TruSeqPCRFree_Nano\TruSeqPCRFree_Nano.VWForm	1	
+10-Oct-17 10:38:02 AM	Script					var protocol_testing = 0;		C:\VWorks Workspace\Forms\SCELSE\TruSeqPCRFree_Nano\TruSeqPCRFree_Nano.VWForm	1	
+10-Oct-17 10:38:02 AM	Script					var BasePair = 50;		C:\VWorks Workspace\Forms\SCELSE\TruSeqPCRFree_Nano\TruSeqPCRFree_Nano.VWForm	1	
+10-Oct-17 10:38:02 AM	Script					var formProtocolName = "16_STANDALONE_AMPureXP_TS_FINAL_v1.0.pro";		C:\VWorks Workspace\Forms\SCELSE\TruSeqPCRFree_Nano\TruSeqPCRFree_Nano.VWForm	1	
+10-Oct-17 10:38:02 AM	Script					var columns_samples = 1;		C:\VWorks Workspace\Forms\SCELSE\TruSeqPCRFree_Nano\TruSeqPCRFree_Nano.VWForm	1	
+10-Oct-17 10:38:02 AM	Script					Clearing Plate Inventory			1	
+10-Oct-17 10:38:02 AM	Script					Clearing Runset			1	
+10-Oct-17 10:38:02 AM	Script					Starting protocol : 16_STANDALONE_AMPureXP_TS_FINAL_v1.0.pro			1	
+10-Oct-17 10:38:06 AM	Info					File loaded		C:\VWorks Workspace\Device Files\TruSeq\TruSeq RNA_DNA Sample Prep_v1.0\BravoMiniPHBenchCel_round_magnet_RED_insert.dev	1	
+10-Oct-17 10:38:07 AM	Info					Runset Manager: Added the run "C:\VWorks Workspace\Forms\SCELSE\TruSeqPCRFree_Nano\RunSet Files\16_STANDALONE_AMPureXP_TS_FINAL_v1.0.pro" to Runset Manager.			1	
+10-Oct-17 10:38:07 AM	Info					File unloaded		C:\VWorks Workspace\Forms\SCELSE\TruSeqPCRFree_Nano\RunSet Files\16_STANDALONE_AMPureXP_TS_FINAL_v1.0.pro	1	
+10-Oct-17 10:38:07 AM	Info					File unloaded		C:\VWorks Workspace\Device Files\TruSeq\TruSeq RNA_DNA Sample Prep_v1.0\BravoMiniPHBenchCel_round_magnet_RED_insert.dev	1	
+10-Oct-17 10:38:14 AM	Info					File loaded		C:\VWorks Workspace\Device Files\TruSeq\TruSeq RNA_DNA Sample Prep_v1.0\BravoMiniPHBenchCel_round_magnet_RED_insert.dev	1	
+10-Oct-17 10:38:15 AM	Info					File loaded	16_STANDALONE_AMPureXP_TS_FINAL_v1.0	C:\VWorks Workspace\Forms\SCELSE\TruSeqPCRFree_Nano\RunSet Files\16_STANDALONE_AMPureXP_TS_FINAL_v1.0.pro	1	
+10-Oct-17 10:38:35 AM	Warning			AMPure XP Cleanup 1	1	No plate to unload from the device Agilent Labware MiniHub - 1 location : cassette 1, slot 5		16_STANDALONE_AMPureXP_TS_FINAL_v1.0.pro	1	
+10-Oct-17 10:38:35 AM	Warning			AMPure XP Cleanup 1	1	There aren't any available plates for the unload task to unload		16_STANDALONE_AMPureXP_TS_FINAL_v1.0.pro	1	
+10-Oct-17 10:38:35 AM	Warning			Ethanol Reservoir	1	No plate to unload from the device Agilent Labware MiniHub - 1 location : cassette 2, slot 1		16_STANDALONE_AMPureXP_TS_FINAL_v1.0.pro	1	
+10-Oct-17 10:38:35 AM	Warning			Ethanol Reservoir	1	There aren't any available plates for the unload task to unload		16_STANDALONE_AMPureXP_TS_FINAL_v1.0.pro	1	
+10-Oct-17 10:38:35 AM	Warning			Resuspension buffer	1	No plate to unload from the device Agilent Labware MiniHub - 1 location : cassette 2, slot 2		16_STANDALONE_AMPureXP_TS_FINAL_v1.0.pro	1	
+10-Oct-17 10:38:35 AM	Warning			Resuspension buffer	1	There aren't any available plates for the unload task to unload		16_STANDALONE_AMPureXP_TS_FINAL_v1.0.pro	1	
+10-Oct-17 10:38:35 AM	Warning			Sample Collection Plate	1	No plate to unload from the device Agilent Labware MiniHub - 1 location : cassette 2, slot 3		16_STANDALONE_AMPureXP_TS_FINAL_v1.0.pro	1	
+10-Oct-17 10:38:35 AM	Warning			Sample Collection Plate	1	There aren't any available plates for the unload task to unload		16_STANDALONE_AMPureXP_TS_FINAL_v1.0.pro	1	
+10-Oct-17 10:38:35 AM	Warning			SPRI reservoir	1	No plate to unload from the device Agilent Labware MiniHub - 1 location : cassette 3, slot 2		16_STANDALONE_AMPureXP_TS_FINAL_v1.0.pro	1	
+10-Oct-17 10:38:35 AM	Warning			SPRI reservoir	1	There aren't any available plates for the unload task to unload		16_STANDALONE_AMPureXP_TS_FINAL_v1.0.pro	1	
+10-Oct-17 10:38:35 AM	Info					Compile complete with 0 errors and 10 warnings			1	
+10-Oct-17 10:38:35 AM	Script					var plate_type = "ABI PCR half skirt in black carrier";		C:\VWorks Workspace\Forms\SCELSE\TruSeqPCRFree_Nano.VWForm	1	
+10-Oct-17 10:38:36 AM	Script					var DNA_source = 0;		C:\VWorks Workspace\Forms\SCELSE\TruSeqPCRFree_Nano.VWForm	1	
+10-Oct-17 10:38:36 AM	Script					var protocol_testing = 0;		C:\VWorks Workspace\Forms\SCELSE\TruSeqPCRFree_Nano.VWForm	1	
+10-Oct-17 10:38:36 AM	Script					var BasePair = 50;		C:\VWorks Workspace\Forms\SCELSE\TruSeqPCRFree_Nano.VWForm	1	
+10-Oct-17 10:38:36 AM	Script					var formProtocolName = "TruSeqPCRFree_Nano_runset.rst";		C:\VWorks Workspace\Forms\SCELSE\TruSeqPCRFree_Nano.VWForm	1	
+10-Oct-17 10:38:36 AM	Script					var columns_samples = 1;		C:\VWorks Workspace\Forms\SCELSE\TruSeqPCRFree_Nano.VWForm	1	
+10-Oct-17 10:38:36 AM	Event					Scheduler started			1	
+10-Oct-17 10:38:36 AM	Info	Agilent Labware MiniHub - 1				Closing device		C:\VWorks Workspace\Device Files\BravoMiniPHBenchCel_round_magnet_RED_insert.dev	1	
+10-Oct-17 10:38:36 AM	Info	BenchCel - 1				Closing device		C:\VWorks Workspace\Device Files\BravoMiniPHBenchCel_round_magnet_RED_insert.dev	1	
+10-Oct-17 10:38:36 AM	Info	Bravo - 1				Closing device		C:\VWorks Workspace\Device Files\BravoMiniPHBenchCel_round_magnet_RED_insert.dev	1	
+10-Oct-17 10:38:37 AM	Script					Successfully opened tiptracking.js file.			1	
+10-Oct-17 10:38:37 AM	Info					Error library: Protocol started using error library file: ""			1	
+10-Oct-17 10:38:37 AM	Event					Startup protocol starting	16_STANDALONE_AMPureXP_TS_FINAL_v1.0	C:\VWorks Workspace\Forms\SCELSE\TruSeqPCRFree_Nano\RunSet Files\16_STANDALONE_AMPureXP_TS_FINAL_v1.0.pro	1	
+10-Oct-17 10:38:38 AM	Event			startup process - 1 1		Process starting, north barcode: No bar code, east barcode: No bar code, south barcode: No bar code, west barcode: No bar code	16_STANDALONE_AMPureXP_TS_FINAL_v1.0	C:\VWorks Workspace\Forms\SCELSE\TruSeqPCRFree_Nano\RunSet Files\16_STANDALONE_AMPureXP_TS_FINAL_v1.0.pro	1	
+10-Oct-17 10:38:38 AM	Event			startup process - 1 1		After 1 second...	16_STANDALONE_AMPureXP_TS_FINAL_v1.0	C:\VWorks Workspace\Forms\SCELSE\TruSeqPCRFree_Nano\RunSet Files\16_STANDALONE_AMPureXP_TS_FINAL_v1.0.pro	1	
+10-Oct-17 10:38:38 AM	Event			startup process - 1 1	1	JavaScript	16_STANDALONE_AMPureXP_TS_FINAL_v1.0	C:\VWorks Workspace\Forms\SCELSE\TruSeqPCRFree_Nano\RunSet Files\16_STANDALONE_AMPureXP_TS_FINAL_v1.0.pro	1	
+10-Oct-17 10:38:38 AM	Event			startup process - 1 1		After 6 seconds...	16_STANDALONE_AMPureXP_TS_FINAL_v1.0	C:\VWorks Workspace\Forms\SCELSE\TruSeqPCRFree_Nano\RunSet Files\16_STANDALONE_AMPureXP_TS_FINAL_v1.0.pro	1	
+10-Oct-17 10:38:38 AM	Event			startup process - 1 1	1	Completed: JavaScript	16_STANDALONE_AMPureXP_TS_FINAL_v1.0	C:\VWorks Workspace\Forms\SCELSE\TruSeqPCRFree_Nano\RunSet Files\16_STANDALONE_AMPureXP_TS_FINAL_v1.0.pro	1	
+10-Oct-17 10:38:38 AM	Script					Need tips is 1			1	
+10-Oct-17 10:38:38 AM	Script					Col is 0			1	
+10-Oct-17 10:38:38 AM	Script					used _col is 0			1	
+10-Oct-17 10:38:38 AM	Script					Nunc is 1			1	
+10-Oct-17 10:38:38 AM	Script					tips_on_loc is 13			1	
+10-Oct-17 10:38:38 AM	Script					tips_off_loc is13			1	
+10-Oct-17 10:38:38 AM	Script					Collection is2			1	
+10-Oct-17 10:38:38 AM	Script					DNA_plate is1			1	
+10-Oct-17 10:38:38 AM	Script					spri_case is0			1	
+10-Oct-17 10:38:38 AM	Event			startup process - 1 1		After 6 seconds...	16_STANDALONE_AMPureXP_TS_FINAL_v1.0	C:\VWorks Workspace\Forms\SCELSE\TruSeqPCRFree_Nano\RunSet Files\16_STANDALONE_AMPureXP_TS_FINAL_v1.0.pro	1	
+10-Oct-17 10:38:38 AM	Event			startup process - 1 1	2	Configure static labware on Bravo - 1	16_STANDALONE_AMPureXP_TS_FINAL_v1.0	C:\VWorks Workspace\Forms\SCELSE\TruSeqPCRFree_Nano\RunSet Files\16_STANDALONE_AMPureXP_TS_FINAL_v1.0.pro	1	
+10-Oct-17 10:38:38 AM	Info			startup process - 1	2	Changed "task Configure Labware, changed variable " to "96 Deep Well PP Sqr Well V Btm"	16_STANDALONE_AMPureXP_TS_FINAL_v1.0	C:\VWorks Workspace\Forms\SCELSE\TruSeqPCRFree_Nano\RunSet Files\16_STANDALONE_AMPureXP_TS_FINAL_v1.0.pro	1	
+10-Oct-17 10:38:39 AM	Event			startup process - 1 1		After 6 seconds...	16_STANDALONE_AMPureXP_TS_FINAL_v1.0	C:\VWorks Workspace\Forms\SCELSE\TruSeqPCRFree_Nano\RunSet Files\16_STANDALONE_AMPureXP_TS_FINAL_v1.0.pro	1	
+10-Oct-17 10:38:39 AM	Event			startup process - 1 1	2	Completed: Configure static labware on Bravo - 1	16_STANDALONE_AMPureXP_TS_FINAL_v1.0	C:\VWorks Workspace\Forms\SCELSE\TruSeqPCRFree_Nano\RunSet Files\16_STANDALONE_AMPureXP_TS_FINAL_v1.0.pro	1	
+10-Oct-17 10:38:39 AM	Script					User has entered 1 columns.			1	
+10-Oct-17 10:38:39 AM	Script					The number of columns that will be processed is 1.			1	
+10-Oct-17 10:38:39 AM	Script					The head mode configuration is 3,3,8,1			1	
+10-Oct-17 10:38:39 AM	Event			startup process - 1 1		After 6 seconds...	16_STANDALONE_AMPureXP_TS_FINAL_v1.0	C:\VWorks Workspace\Forms\SCELSE\TruSeqPCRFree_Nano\RunSet Files\16_STANDALONE_AMPureXP_TS_FINAL_v1.0.pro	1	
+10-Oct-17 10:38:39 AM	Event			startup process - 1 1	6	JavaScript	16_STANDALONE_AMPureXP_TS_FINAL_v1.0	C:\VWorks Workspace\Forms\SCELSE\TruSeqPCRFree_Nano\RunSet Files\16_STANDALONE_AMPureXP_TS_FINAL_v1.0.pro	1	
+10-Oct-17 10:38:39 AM	Event			startup process - 1 1		After 6 seconds...	16_STANDALONE_AMPureXP_TS_FINAL_v1.0	C:\VWorks Workspace\Forms\SCELSE\TruSeqPCRFree_Nano\RunSet Files\16_STANDALONE_AMPureXP_TS_FINAL_v1.0.pro	1	
+10-Oct-17 10:38:39 AM	Event			startup process - 1 1	6	Completed: JavaScript	16_STANDALONE_AMPureXP_TS_FINAL_v1.0	C:\VWorks Workspace\Forms\SCELSE\TruSeqPCRFree_Nano\RunSet Files\16_STANDALONE_AMPureXP_TS_FINAL_v1.0.pro	1	
+10-Oct-17 10:38:39 AM	Script					The volumes used in this protocol are from case 0			1	
+10-Oct-17 10:38:39 AM	Script					The volume of DNA is 50ul			1	
+10-Oct-17 10:38:39 AM	Script					The volume of beads is 50ul			1	
+10-Oct-17 10:38:39 AM	Script					The volume of DNA and beads is 100ul			1	
+10-Oct-17 10:38:39 AM	Script					Supernatant volume is 95ul			1	
+10-Oct-17 10:38:39 AM	Script					The elution volume is 32.5ul			1	
+10-Oct-17 10:38:39 AM	Event			startup process - 1 1		After 6 seconds...	16_STANDALONE_AMPureXP_TS_FINAL_v1.0	C:\VWorks Workspace\Forms\SCELSE\TruSeqPCRFree_Nano\RunSet Files\16_STANDALONE_AMPureXP_TS_FINAL_v1.0.pro	1	
+10-Oct-17 10:38:39 AM	Event			startup process - 1 1	7	JavaScript	16_STANDALONE_AMPureXP_TS_FINAL_v1.0	C:\VWorks Workspace\Forms\SCELSE\TruSeqPCRFree_Nano\RunSet Files\16_STANDALONE_AMPureXP_TS_FINAL_v1.0.pro	1	
+10-Oct-17 10:38:39 AM	Event			startup process - 1 1		After 6 seconds...	16_STANDALONE_AMPureXP_TS_FINAL_v1.0	C:\VWorks Workspace\Forms\SCELSE\TruSeqPCRFree_Nano\RunSet Files\16_STANDALONE_AMPureXP_TS_FINAL_v1.0.pro	1	
+10-Oct-17 10:38:39 AM	Event			startup process - 1 1	7	Completed: JavaScript	16_STANDALONE_AMPureXP_TS_FINAL_v1.0	C:\VWorks Workspace\Forms\SCELSE\TruSeqPCRFree_Nano\RunSet Files\16_STANDALONE_AMPureXP_TS_FINAL_v1.0.pro	1	
+10-Oct-17 10:38:40 AM	Event			startup process - 1 1		Process finishing	16_STANDALONE_AMPureXP_TS_FINAL_v1.0	C:\VWorks Workspace\Forms\SCELSE\TruSeqPCRFree_Nano\RunSet Files\16_STANDALONE_AMPureXP_TS_FINAL_v1.0.pro	1	
+10-Oct-17 10:38:40 AM	Event	BenchCel - 1	Stacker 1	TipControl		Load stacker rack at location "Stacker 1" of device "BenchCel - 1" with plate "TipControl" of labware type "96 V11 LT250 Tip Box 19477.002"	16_STANDALONE_AMPureXP_TS_FINAL_v1.0	C:\VWorks Workspace\Forms\SCELSE\TruSeqPCRFree_Nano\RunSet Files\16_STANDALONE_AMPureXP_TS_FINAL_v1.0.pro	1	
+10-Oct-17 10:38:40 AM	Event	BenchCel - 1	Stacker 2	TipControl		Load stacker rack at location "Stacker 2" of device "BenchCel - 1" with plate "TipControl" of labware type "96 V11 LT250 Tip Box 19477.002"	16_STANDALONE_AMPureXP_TS_FINAL_v1.0	C:\VWorks Workspace\Forms\SCELSE\TruSeqPCRFree_Nano\RunSet Files\16_STANDALONE_AMPureXP_TS_FINAL_v1.0.pro	1	
+10-Oct-17 10:38:40 AM	Event	BenchCel - 1	Stacker 3	Upstack 3		Load stacker rack at location "Stacker 3" of device "BenchCel - 1" with plate "Upstack 3" of labware type "96 V11 LT250 Tip Box 19477.002"	16_STANDALONE_AMPureXP_TS_FINAL_v1.0	C:\VWorks Workspace\Forms\SCELSE\TruSeqPCRFree_Nano\RunSet Files\16_STANDALONE_AMPureXP_TS_FINAL_v1.0.pro	1	
+10-Oct-17 10:38:40 AM	Event	BenchCel - 1	Stacker 4	Upstack 4		Load stacker rack at location "Stacker 4" of device "BenchCel - 1" with plate "Upstack 4" of labware type "96 V11 LT250 Tip Box 19477.002"	16_STANDALONE_AMPureXP_TS_FINAL_v1.0	C:\VWorks Workspace\Forms\SCELSE\TruSeqPCRFree_Nano\RunSet Files\16_STANDALONE_AMPureXP_TS_FINAL_v1.0.pro	1	
+10-Oct-17 10:38:40 AM	Info			AMPure XP Cleanup 1		1 plate required	16_STANDALONE_AMPureXP_TS_FINAL_v1.0	C:\VWorks Workspace\Forms\SCELSE\TruSeqPCRFree_Nano\RunSet Files\16_STANDALONE_AMPureXP_TS_FINAL_v1.0.pro	1	
+10-Oct-17 10:38:40 AM	Info			DNA plate		1 plate required	16_STANDALONE_AMPureXP_TS_FINAL_v1.0	C:\VWorks Workspace\Forms\SCELSE\TruSeqPCRFree_Nano\RunSet Files\16_STANDALONE_AMPureXP_TS_FINAL_v1.0.pro	1	
+10-Oct-17 10:38:40 AM	Info			SPRI reservoir		Plates are spawned on demand	16_STANDALONE_AMPureXP_TS_FINAL_v1.0	C:\VWorks Workspace\Forms\SCELSE\TruSeqPCRFree_Nano\RunSet Files\16_STANDALONE_AMPureXP_TS_FINAL_v1.0.pro	1	
+10-Oct-17 10:38:40 AM	Info			Ethanol Reservoir		Plates are spawned on demand	16_STANDALONE_AMPureXP_TS_FINAL_v1.0	C:\VWorks Workspace\Forms\SCELSE\TruSeqPCRFree_Nano\RunSet Files\16_STANDALONE_AMPureXP_TS_FINAL_v1.0.pro	1	
+10-Oct-17 10:38:40 AM	Info			Resuspension buffer		Plates are spawned on demand	16_STANDALONE_AMPureXP_TS_FINAL_v1.0	C:\VWorks Workspace\Forms\SCELSE\TruSeqPCRFree_Nano\RunSet Files\16_STANDALONE_AMPureXP_TS_FINAL_v1.0.pro	1	
+10-Oct-17 10:38:40 AM	Info			Sample Collection Plate		Plates are spawned on demand	16_STANDALONE_AMPureXP_TS_FINAL_v1.0	C:\VWorks Workspace\Forms\SCELSE\TruSeqPCRFree_Nano\RunSet Files\16_STANDALONE_AMPureXP_TS_FINAL_v1.0.pro	1	
+10-Oct-17 10:38:40 AM	Info			TipControl		Plates are spawned on demand	16_STANDALONE_AMPureXP_TS_FINAL_v1.0	C:\VWorks Workspace\Forms\SCELSE\TruSeqPCRFree_Nano\RunSet Files\16_STANDALONE_AMPureXP_TS_FINAL_v1.0.pro	1	
+10-Oct-17 10:38:40 AM	Info			UsedTipUpstack		Plates are spawned on demand	16_STANDALONE_AMPureXP_TS_FINAL_v1.0	C:\VWorks Workspace\Forms\SCELSE\TruSeqPCRFree_Nano\RunSet Files\16_STANDALONE_AMPureXP_TS_FINAL_v1.0.pro	1	
+10-Oct-17 10:38:40 AM	Info			tips1		Plates are spawned on demand	16_STANDALONE_AMPureXP_TS_FINAL_v1.0	C:\VWorks Workspace\Forms\SCELSE\TruSeqPCRFree_Nano\RunSet Files\16_STANDALONE_AMPureXP_TS_FINAL_v1.0.pro	1	
+10-Oct-17 10:38:40 AM	Info			emptytips1		Plates are spawned on demand	16_STANDALONE_AMPureXP_TS_FINAL_v1.0	C:\VWorks Workspace\Forms\SCELSE\TruSeqPCRFree_Nano\RunSet Files\16_STANDALONE_AMPureXP_TS_FINAL_v1.0.pro	1	
+10-Oct-17 10:38:40 AM	Info			tips2		Plates are spawned on demand	16_STANDALONE_AMPureXP_TS_FINAL_v1.0	C:\VWorks Workspace\Forms\SCELSE\TruSeqPCRFree_Nano\RunSet Files\16_STANDALONE_AMPureXP_TS_FINAL_v1.0.pro	1	
+10-Oct-17 10:38:40 AM	Info			emptytips2		Plates are spawned on demand	16_STANDALONE_AMPureXP_TS_FINAL_v1.0	C:\VWorks Workspace\Forms\SCELSE\TruSeqPCRFree_Nano\RunSet Files\16_STANDALONE_AMPureXP_TS_FINAL_v1.0.pro	1	
+10-Oct-17 10:38:40 AM	Info			tips3		Plates are spawned on demand	16_STANDALONE_AMPureXP_TS_FINAL_v1.0	C:\VWorks Workspace\Forms\SCELSE\TruSeqPCRFree_Nano\RunSet Files\16_STANDALONE_AMPureXP_TS_FINAL_v1.0.pro	1	
+10-Oct-17 10:38:40 AM	Info			emptytips3		Plates are spawned on demand	16_STANDALONE_AMPureXP_TS_FINAL_v1.0	C:\VWorks Workspace\Forms\SCELSE\TruSeqPCRFree_Nano\RunSet Files\16_STANDALONE_AMPureXP_TS_FINAL_v1.0.pro	1	
+10-Oct-17 10:38:40 AM	Info			tips4		Plates are spawned on demand	16_STANDALONE_AMPureXP_TS_FINAL_v1.0	C:\VWorks Workspace\Forms\SCELSE\TruSeqPCRFree_Nano\RunSet Files\16_STANDALONE_AMPureXP_TS_FINAL_v1.0.pro	1	
+10-Oct-17 10:38:40 AM	Info			emtpytips4		Plates are spawned on demand	16_STANDALONE_AMPureXP_TS_FINAL_v1.0	C:\VWorks Workspace\Forms\SCELSE\TruSeqPCRFree_Nano\RunSet Files\16_STANDALONE_AMPureXP_TS_FINAL_v1.0.pro	1	
+10-Oct-17 10:38:40 AM	Info			tips5		Plates are spawned on demand	16_STANDALONE_AMPureXP_TS_FINAL_v1.0	C:\VWorks Workspace\Forms\SCELSE\TruSeqPCRFree_Nano\RunSet Files\16_STANDALONE_AMPureXP_TS_FINAL_v1.0.pro	1	
+10-Oct-17 10:38:40 AM	Info			emptytips5		Plates are spawned on demand	16_STANDALONE_AMPureXP_TS_FINAL_v1.0	C:\VWorks Workspace\Forms\SCELSE\TruSeqPCRFree_Nano\RunSet Files\16_STANDALONE_AMPureXP_TS_FINAL_v1.0.pro	1	
+10-Oct-17 10:38:40 AM	Info			tips6		Plates are spawned on demand	16_STANDALONE_AMPureXP_TS_FINAL_v1.0	C:\VWorks Workspace\Forms\SCELSE\TruSeqPCRFree_Nano\RunSet Files\16_STANDALONE_AMPureXP_TS_FINAL_v1.0.pro	1	
+10-Oct-17 10:38:40 AM	Info			emptytips6		Plates are spawned on demand	16_STANDALONE_AMPureXP_TS_FINAL_v1.0	C:\VWorks Workspace\Forms\SCELSE\TruSeqPCRFree_Nano\RunSet Files\16_STANDALONE_AMPureXP_TS_FINAL_v1.0.pro	1	
+10-Oct-17 10:38:40 AM	Info			tips7		Plates are spawned on demand	16_STANDALONE_AMPureXP_TS_FINAL_v1.0	C:\VWorks Workspace\Forms\SCELSE\TruSeqPCRFree_Nano\RunSet Files\16_STANDALONE_AMPureXP_TS_FINAL_v1.0.pro	1	
+10-Oct-17 10:38:40 AM	Info			emptytips7		Plates are spawned on demand	16_STANDALONE_AMPureXP_TS_FINAL_v1.0	C:\VWorks Workspace\Forms\SCELSE\TruSeqPCRFree_Nano\RunSet Files\16_STANDALONE_AMPureXP_TS_FINAL_v1.0.pro	1	
+10-Oct-17 10:38:40 AM	Info			tips8		Plates are spawned on demand	16_STANDALONE_AMPureXP_TS_FINAL_v1.0	C:\VWorks Workspace\Forms\SCELSE\TruSeqPCRFree_Nano\RunSet Files\16_STANDALONE_AMPureXP_TS_FINAL_v1.0.pro	1	
+10-Oct-17 10:38:40 AM	Info			emptytips8		Plates are spawned on demand	16_STANDALONE_AMPureXP_TS_FINAL_v1.0	C:\VWorks Workspace\Forms\SCELSE\TruSeqPCRFree_Nano\RunSet Files\16_STANDALONE_AMPureXP_TS_FINAL_v1.0.pro	1	
+10-Oct-17 10:38:40 AM	Info			tips9		Plates are spawned on demand	16_STANDALONE_AMPureXP_TS_FINAL_v1.0	C:\VWorks Workspace\Forms\SCELSE\TruSeqPCRFree_Nano\RunSet Files\16_STANDALONE_AMPureXP_TS_FINAL_v1.0.pro	1	
+10-Oct-17 10:38:40 AM	Info			emptytips9		Plates are spawned on demand	16_STANDALONE_AMPureXP_TS_FINAL_v1.0	C:\VWorks Workspace\Forms\SCELSE\TruSeqPCRFree_Nano\RunSet Files\16_STANDALONE_AMPureXP_TS_FINAL_v1.0.pro	1	
+10-Oct-17 10:38:41 AM	Info			EmptyNow		Plates are spawned on demand	16_STANDALONE_AMPureXP_TS_FINAL_v1.0	C:\VWorks Workspace\Forms\SCELSE\TruSeqPCRFree_Nano\RunSet Files\16_STANDALONE_AMPureXP_TS_FINAL_v1.0.pro	1	
+10-Oct-17 10:38:41 AM	Info			Upstack 3		Plates are spawned on demand	16_STANDALONE_AMPureXP_TS_FINAL_v1.0	C:\VWorks Workspace\Forms\SCELSE\TruSeqPCRFree_Nano\RunSet Files\16_STANDALONE_AMPureXP_TS_FINAL_v1.0.pro	1	
+10-Oct-17 10:38:41 AM	Info			Upstack 4		Plates are spawned on demand	16_STANDALONE_AMPureXP_TS_FINAL_v1.0	C:\VWorks Workspace\Forms\SCELSE\TruSeqPCRFree_Nano\RunSet Files\16_STANDALONE_AMPureXP_TS_FINAL_v1.0.pro	1	
+10-Oct-17 10:38:41 AM	Event					Main protocol starting	16_STANDALONE_AMPureXP_TS_FINAL_v1.0	C:\VWorks Workspace\Forms\SCELSE\TruSeqPCRFree_Nano\RunSet Files\16_STANDALONE_AMPureXP_TS_FINAL_v1.0.pro	1	
+10-Oct-17 10:38:41 AM	Event					Startup protocol complete	16_STANDALONE_AMPureXP_TS_FINAL_v1.0	C:\VWorks Workspace\Forms\SCELSE\TruSeqPCRFree_Nano\RunSet Files\16_STANDALONE_AMPureXP_TS_FINAL_v1.0.pro	1	
+10-Oct-17 10:38:41 AM	Event			AMPure XP Cleanup 1 1		Process starting, north barcode: No bar code, east barcode: No bar code, south barcode: No bar code, west barcode: No bar code	16_STANDALONE_AMPureXP_TS_FINAL_v1.0	C:\VWorks Workspace\Forms\SCELSE\TruSeqPCRFree_Nano\RunSet Files\16_STANDALONE_AMPureXP_TS_FINAL_v1.0.pro	1	
+10-Oct-17 10:38:41 AM	Event			DNA plate 1		Process starting, north barcode: No bar code, east barcode: No bar code, south barcode: No bar code, west barcode: No bar code	16_STANDALONE_AMPureXP_TS_FINAL_v1.0	C:\VWorks Workspace\Forms\SCELSE\TruSeqPCRFree_Nano\RunSet Files\16_STANDALONE_AMPureXP_TS_FINAL_v1.0.pro	1	
+10-Oct-17 10:38:41 AM	Event			AMPure XP Cleanup 1 1		After 6 seconds...	16_STANDALONE_AMPureXP_TS_FINAL_v1.0	C:\VWorks Workspace\Forms\SCELSE\TruSeqPCRFree_Nano\RunSet Files\16_STANDALONE_AMPureXP_TS_FINAL_v1.0.pro	1	
+10-Oct-17 10:38:41 AM	Event	Agilent Labware MiniHub - 1	Cassette 1, slot 5	AMPure XP Cleanup 1 1	1	Unload from plate storage device	16_STANDALONE_AMPureXP_TS_FINAL_v1.0	C:\VWorks Workspace\Forms\SCELSE\TruSeqPCRFree_Nano\RunSet Files\16_STANDALONE_AMPureXP_TS_FINAL_v1.0.pro	1	
+10-Oct-17 10:38:41 AM	Event	Agilent Labware MiniHub - 1		AMPure XP Cleanup 1 1		Agilent Labware MiniHub - 1 Unload the plate from Location : cassette 1, slot 5 to Cassette 1, Slot 5	16_STANDALONE_AMPureXP_TS_FINAL_v1.0	C:\VWorks Workspace\Forms\SCELSE\TruSeqPCRFree_Nano\RunSet Files\16_STANDALONE_AMPureXP_TS_FINAL_v1.0.pro	1	
+10-Oct-17 10:38:41 AM	Event			AMPure XP Cleanup 1 1		After 6 seconds...	16_STANDALONE_AMPureXP_TS_FINAL_v1.0	C:\VWorks Workspace\Forms\SCELSE\TruSeqPCRFree_Nano\RunSet Files\16_STANDALONE_AMPureXP_TS_FINAL_v1.0.pro	1	
+10-Oct-17 10:38:41 AM	Event	Agilent Labware MiniHub - 1	Cassette 1, slot 5	AMPure XP Cleanup 1 1	1	Completed: Unload from plate storage device	16_STANDALONE_AMPureXP_TS_FINAL_v1.0	C:\VWorks Workspace\Forms\SCELSE\TruSeqPCRFree_Nano\RunSet Files\16_STANDALONE_AMPureXP_TS_FINAL_v1.0.pro	1	
+10-Oct-17 10:38:41 AM	Script					Setting labware to ABI PCR half skirt in black carrier			1	
+10-Oct-17 10:38:41 AM	Event			DNA plate 1		After 6 seconds...	16_STANDALONE_AMPureXP_TS_FINAL_v1.0	C:\VWorks Workspace\Forms\SCELSE\TruSeqPCRFree_Nano\RunSet Files\16_STANDALONE_AMPureXP_TS_FINAL_v1.0.pro	1	
+10-Oct-17 10:38:41 AM	Event	Bravo - 1	9	DNA plate 1	1	Place plate at Bravo - 1 9	16_STANDALONE_AMPureXP_TS_FINAL_v1.0	C:\VWorks Workspace\Forms\SCELSE\TruSeqPCRFree_Nano\RunSet Files\16_STANDALONE_AMPureXP_TS_FINAL_v1.0.pro	1	
+10-Oct-17 10:38:41 AM	Event			DNA plate 1		After 6 seconds...	16_STANDALONE_AMPureXP_TS_FINAL_v1.0	C:\VWorks Workspace\Forms\SCELSE\TruSeqPCRFree_Nano\RunSet Files\16_STANDALONE_AMPureXP_TS_FINAL_v1.0.pro	1	
+10-Oct-17 10:38:41 AM	Event	Bravo - 1	9	DNA plate 1	1	Completed: Place plate at Bravo - 1 9	16_STANDALONE_AMPureXP_TS_FINAL_v1.0	C:\VWorks Workspace\Forms\SCELSE\TruSeqPCRFree_Nano\RunSet Files\16_STANDALONE_AMPureXP_TS_FINAL_v1.0.pro	1	
+10-Oct-17 10:38:41 AM	Script					!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!1			1	
+10-Oct-17 10:38:42 AM	Script					Tip box from previous protocol was used up.  Spawning new tip box.			1	
+10-Oct-17 10:38:42 AM	Event			AMPure XP Cleanup 1 1		After 6 seconds...	16_STANDALONE_AMPureXP_TS_FINAL_v1.0	C:\VWorks Workspace\Forms\SCELSE\TruSeqPCRFree_Nano\RunSet Files\16_STANDALONE_AMPureXP_TS_FINAL_v1.0.pro	1	
+10-Oct-17 10:38:42 AM	Event			AMPure XP Cleanup 1 1	2	Spawn TipControl	16_STANDALONE_AMPureXP_TS_FINAL_v1.0	C:\VWorks Workspace\Forms\SCELSE\TruSeqPCRFree_Nano\RunSet Files\16_STANDALONE_AMPureXP_TS_FINAL_v1.0.pro	1	
+10-Oct-17 10:38:42 AM	Event			AMPure XP Cleanup 1 1		After 6 seconds...	16_STANDALONE_AMPureXP_TS_FINAL_v1.0	C:\VWorks Workspace\Forms\SCELSE\TruSeqPCRFree_Nano\RunSet Files\16_STANDALONE_AMPureXP_TS_FINAL_v1.0.pro	1	
+10-Oct-17 10:38:42 AM	Event			AMPure XP Cleanup 1 1	2	Completed: Spawn TipControl	16_STANDALONE_AMPureXP_TS_FINAL_v1.0	C:\VWorks Workspace\Forms\SCELSE\TruSeqPCRFree_Nano\RunSet Files\16_STANDALONE_AMPureXP_TS_FINAL_v1.0.pro	1	
+10-Oct-17 10:38:42 AM	Info					Pause protocol			1	
+10-Oct-17 10:38:42 AM	Event					Scheduler stopped			1	
+10-Oct-17 10:38:42 AM	Event			TipControl 1		Process starting, north barcode: No bar code, east barcode: No bar code, south barcode: No bar code, west barcode: No bar code	16_STANDALONE_AMPureXP_TS_FINAL_v1.0	C:\VWorks Workspace\Forms\SCELSE\TruSeqPCRFree_Nano\RunSet Files\16_STANDALONE_AMPureXP_TS_FINAL_v1.0.pro	1	
+10-Oct-17 10:38:42 AM	Event			TipControl 1		After 6 seconds...	16_STANDALONE_AMPureXP_TS_FINAL_v1.0	C:\VWorks Workspace\Forms\SCELSE\TruSeqPCRFree_Nano\RunSet Files\16_STANDALONE_AMPureXP_TS_FINAL_v1.0.pro	1	
+10-Oct-17 10:38:42 AM	Event	BenchCel - 1	Stacker 1	TipControl 1	1	Downstack from BenchCel - 1.Stacker 1	16_STANDALONE_AMPureXP_TS_FINAL_v1.0	C:\VWorks Workspace\Forms\SCELSE\TruSeqPCRFree_Nano\RunSet Files\16_STANDALONE_AMPureXP_TS_FINAL_v1.0.pro	1	
+10-Oct-17 10:38:42 AM	Event					Scheduler aborted			1	
+10-Oct-17 10:38:42 AM	Event			TipControl 1		After 6 seconds...	16_STANDALONE_AMPureXP_TS_FINAL_v1.0	C:\VWorks Workspace\Forms\SCELSE\TruSeqPCRFree_Nano\RunSet Files\16_STANDALONE_AMPureXP_TS_FINAL_v1.0.pro	1	
+10-Oct-17 10:38:42 AM	Event	BenchCel - 1	Stacker 1	TipControl 1	1	Completed: Downstack from BenchCel - 1.Stacker 1	16_STANDALONE_AMPureXP_TS_FINAL_v1.0	C:\VWorks Workspace\Forms\SCELSE\TruSeqPCRFree_Nano\RunSet Files\16_STANDALONE_AMPureXP_TS_FINAL_v1.0.pro	1	
+10-Oct-17 10:38:42 AM	Event					Main protocol aborted by user	16_STANDALONE_AMPureXP_TS_FINAL_v1.0	C:\VWorks Workspace\Forms\SCELSE\TruSeqPCRFree_Nano\RunSet Files\16_STANDALONE_AMPureXP_TS_FINAL_v1.0.pro	1	
+10-Oct-17 10:38:43 AM	Event			AMPure XP Cleanup 1 1		Process finishing	16_STANDALONE_AMPureXP_TS_FINAL_v1.0	C:\VWorks Workspace\Forms\SCELSE\TruSeqPCRFree_Nano\RunSet Files\16_STANDALONE_AMPureXP_TS_FINAL_v1.0.pro	1	
+10-Oct-17 10:38:43 AM	Event			DNA plate 1		Process finishing	16_STANDALONE_AMPureXP_TS_FINAL_v1.0	C:\VWorks Workspace\Forms\SCELSE\TruSeqPCRFree_Nano\RunSet Files\16_STANDALONE_AMPureXP_TS_FINAL_v1.0.pro	1	
+10-Oct-17 10:38:43 AM	Event			TipControl 1		Process finishing	16_STANDALONE_AMPureXP_TS_FINAL_v1.0	C:\VWorks Workspace\Forms\SCELSE\TruSeqPCRFree_Nano\RunSet Files\16_STANDALONE_AMPureXP_TS_FINAL_v1.0.pro	1	
+10-Oct-17 10:38:43 AM	Event					Cleanup protocol starting	16_STANDALONE_AMPureXP_TS_FINAL_v1.0	C:\VWorks Workspace\Forms\SCELSE\TruSeqPCRFree_Nano\RunSet Files\16_STANDALONE_AMPureXP_TS_FINAL_v1.0.pro	1	
+10-Oct-17 10:38:43 AM	Event					Main protocol aborted by user	16_STANDALONE_AMPureXP_TS_FINAL_v1.0	C:\VWorks Workspace\Forms\SCELSE\TruSeqPCRFree_Nano\RunSet Files\16_STANDALONE_AMPureXP_TS_FINAL_v1.0.pro	1	
+10-Oct-17 10:38:43 AM	Event			TipControl 1		Process finishing	16_STANDALONE_AMPureXP_TS_FINAL_v1.0	C:\VWorks Workspace\Forms\SCELSE\TruSeqPCRFree_Nano\RunSet Files\16_STANDALONE_AMPureXP_TS_FINAL_v1.0.pro	1	
+10-Oct-17 10:38:43 AM	Event			DNA plate 1		Process finishing	16_STANDALONE_AMPureXP_TS_FINAL_v1.0	C:\VWorks Workspace\Forms\SCELSE\TruSeqPCRFree_Nano\RunSet Files\16_STANDALONE_AMPureXP_TS_FINAL_v1.0.pro	1	
+10-Oct-17 10:47:00 AM	Script					var plate_type = "96 ABI PCR half skirt in black carrier";		C:\VWorks Workspace\Forms\SCELSE\TruSeqPCRFree_Nano\TruSeqPCRFree_Nano.VWForm	1	
+10-Oct-17 10:47:00 AM	Script					var DNA_source = 0;		C:\VWorks Workspace\Forms\SCELSE\TruSeqPCRFree_Nano\TruSeqPCRFree_Nano.VWForm	1	
+10-Oct-17 10:47:00 AM	Script					var protocol_testing = 0;		C:\VWorks Workspace\Forms\SCELSE\TruSeqPCRFree_Nano\TruSeqPCRFree_Nano.VWForm	1	
+10-Oct-17 10:47:00 AM	Script					var BasePair = 50;		C:\VWorks Workspace\Forms\SCELSE\TruSeqPCRFree_Nano\TruSeqPCRFree_Nano.VWForm	1	
+10-Oct-17 10:47:00 AM	Script					var formProtocolName = "TruSeqPCRFree_Nano_runset.rst";		C:\VWorks Workspace\Forms\SCELSE\TruSeqPCRFree_Nano\TruSeqPCRFree_Nano.VWForm	1	
+10-Oct-17 10:47:00 AM	Script					var columns_samples = 1;		C:\VWorks Workspace\Forms\SCELSE\TruSeqPCRFree_Nano\TruSeqPCRFree_Nano.VWForm	1	
+10-Oct-17 10:47:01 AM	Script					Number of Columns selected is 1			1	
+10-Oct-17 10:47:01 AM	Script					Case: 1 Columns			1	
+10-Oct-17 10:47:33 AM	Script					var plate_type = "ABI PCR half skirt in black carrier";		C:\VWorks Workspace\Forms\SCELSE\TruSeqPCRFree_Nano.VWForm	1	
+10-Oct-17 10:47:33 AM	Script					var DNA_source = 0;		C:\VWorks Workspace\Forms\SCELSE\TruSeqPCRFree_Nano.VWForm	1	
+10-Oct-17 10:47:33 AM	Script					var protocol_testing = 0;		C:\VWorks Workspace\Forms\SCELSE\TruSeqPCRFree_Nano.VWForm	1	
+10-Oct-17 10:47:33 AM	Script					var BasePair = 50;		C:\VWorks Workspace\Forms\SCELSE\TruSeqPCRFree_Nano.VWForm	1	
+10-Oct-17 10:47:33 AM	Script					var formProtocolName = "TruSeqPCRFree_Nano_runset.rst";		C:\VWorks Workspace\Forms\SCELSE\TruSeqPCRFree_Nano.VWForm	1	
+10-Oct-17 10:47:33 AM	Script					var columns_samples = 1;		C:\VWorks Workspace\Forms\SCELSE\TruSeqPCRFree_Nano.VWForm	1	
+10-Oct-17 10:47:33 AM	Script					Number of Columns selected is 1			1	
+10-Oct-17 10:47:33 AM	Script					Case: 1 Columns			1	
+10-Oct-17 11:04:01 AM	Info					File unloaded		C:\VWorks Workspace\Forms\SCELSE\TruSeqPCRFree_Nano.VWForm	1	
+10-Oct-17 11:04:02 AM	Info					File unloaded		C:\VWorks Workspace\Forms\SCELSE\TruSeqPCRFree_Nano\TruSeqPCRFree_Nano.VWForm	1	
+10-Oct-17 11:04:03 AM	Info					File unloaded		C:\VWorks Workspace\Forms\SCELSE\TruSeqRNA_StrandSpecific.VWForm	1	
+10-Oct-17 11:04:03 AM	Info					File unloaded		C:\VWorks Workspace\Forms\SCELSE\TruSeqPCRFree_Nano\RunSet Files\16_STANDALONE_AMPureXP_TS_FINAL_v1.0.pro	1	
+10-Oct-17 11:04:03 AM	Info					File unloaded		C:\VWorks Workspace\Device Files\TruSeq\TruSeq RNA_DNA Sample Prep_v1.0\BravoMiniPHBenchCel_round_magnet_RED_insert.dev	1	
+10-Oct-17 11:37:15 AM	Info					administrator logged out. Session 1 closed			1	
+10-Oct-17 1:22:22 PM	Info					administrator logged in			2	
+10-Oct-17 1:22:26 PM	Info					File unloaded		Protocol File - 1	2	
+10-Oct-17 1:22:26 PM	Info					File unloaded		C:\VWorks Workspace\Device Files\BravoMiniPHBenchCel_round_magnet_RED_insert.dev	2	
+10-Oct-17 1:22:44 PM	Info					File loaded		C:\VWorks Workspace\Forms\SCELSE\TruSeqPCRFree_Nano.VWForm	2	
+10-Oct-17 1:22:52 PM	Script					var plate_type = "ABI PCR half skirt in black carrier";		C:\VWorks Workspace\Forms\SCELSE\TruSeqPCRFree_Nano.VWForm	2	
+10-Oct-17 1:22:52 PM	Script					var DNA_source = 0;		C:\VWorks Workspace\Forms\SCELSE\TruSeqPCRFree_Nano.VWForm	2	
+10-Oct-17 1:22:52 PM	Script					var protocol_testing = 0;		C:\VWorks Workspace\Forms\SCELSE\TruSeqPCRFree_Nano.VWForm	2	
+10-Oct-17 1:22:52 PM	Script					var BasePair = 50;		C:\VWorks Workspace\Forms\SCELSE\TruSeqPCRFree_Nano.VWForm	2	
+10-Oct-17 1:22:52 PM	Script					var formProtocolName = "TruSeqPCRFree_Nano_runset.rst";		C:\VWorks Workspace\Forms\SCELSE\TruSeqPCRFree_Nano.VWForm	2	
+10-Oct-17 1:22:52 PM	Script					var columns_samples = 1;		C:\VWorks Workspace\Forms\SCELSE\TruSeqPCRFree_Nano.VWForm	2	
+10-Oct-17 1:22:52 PM	Script					Number of Columns selected is 1			1	
+10-Oct-17 1:22:52 PM	Script					Case: 1 Columns			1	
+10-Oct-17 1:22:57 PM	Info					File unloaded		C:\VWorks Workspace\Forms\SCELSE\TruSeqPCRFree_Nano.VWForm	2	
+10-Oct-17 1:23:10 PM	Info					File loaded		C:\VWorks Workspace\Forms\SCELSE\TruSeqPCRFree_Nano\TruSeqPCRFree_Nano.VWForm	2	
+10-Oct-17 1:23:18 PM	Script					var plate_type = "96 ABI PCR half skirt in black carrier";		C:\VWorks Workspace\Forms\SCELSE\TruSeqPCRFree_Nano\TruSeqPCRFree_Nano.VWForm	2	
+10-Oct-17 1:23:18 PM	Script					var DNA_source = 0;		C:\VWorks Workspace\Forms\SCELSE\TruSeqPCRFree_Nano\TruSeqPCRFree_Nano.VWForm	2	
+10-Oct-17 1:23:18 PM	Script					var protocol_testing = 0;		C:\VWorks Workspace\Forms\SCELSE\TruSeqPCRFree_Nano\TruSeqPCRFree_Nano.VWForm	2	
+10-Oct-17 1:23:18 PM	Script					var BasePair = 50;		C:\VWorks Workspace\Forms\SCELSE\TruSeqPCRFree_Nano\TruSeqPCRFree_Nano.VWForm	2	
+10-Oct-17 1:23:18 PM	Script					var formProtocolName = "TruSeqPCRFree_Nano_runset.rst";		C:\VWorks Workspace\Forms\SCELSE\TruSeqPCRFree_Nano\TruSeqPCRFree_Nano.VWForm	2	
+10-Oct-17 1:23:18 PM	Script					var columns_samples = 1;		C:\VWorks Workspace\Forms\SCELSE\TruSeqPCRFree_Nano\TruSeqPCRFree_Nano.VWForm	2	
+10-Oct-17 1:23:18 PM	Script					Number of Columns selected is 1			1	
+10-Oct-17 1:23:18 PM	Script					Case: 1 Columns			1	
+10-Oct-17 1:23:22 PM	Script					var plate_type = "96 ABI PCR half skirt in black carrier";		C:\VWorks Workspace\Forms\SCELSE\TruSeqPCRFree_Nano\TruSeqPCRFree_Nano.VWForm	2	
+10-Oct-17 1:23:23 PM	Script					var DNA_source = 0;		C:\VWorks Workspace\Forms\SCELSE\TruSeqPCRFree_Nano\TruSeqPCRFree_Nano.VWForm	2	
+10-Oct-17 1:23:23 PM	Script					var protocol_testing = 0;		C:\VWorks Workspace\Forms\SCELSE\TruSeqPCRFree_Nano\TruSeqPCRFree_Nano.VWForm	2	
+10-Oct-17 1:23:23 PM	Script					var BasePair = 50;		C:\VWorks Workspace\Forms\SCELSE\TruSeqPCRFree_Nano\TruSeqPCRFree_Nano.VWForm	2	
+10-Oct-17 1:23:23 PM	Script					var formProtocolName = "TruSeqPCRFree_Nano_runset.rst";		C:\VWorks Workspace\Forms\SCELSE\TruSeqPCRFree_Nano\TruSeqPCRFree_Nano.VWForm	2	
+10-Oct-17 1:23:23 PM	Script					var columns_samples = 1;		C:\VWorks Workspace\Forms\SCELSE\TruSeqPCRFree_Nano\TruSeqPCRFree_Nano.VWForm	2	
+10-Oct-17 1:23:23 PM	Script					Clearing Plate Inventory			1	
+10-Oct-17 1:23:23 PM	Info					Runset Manager: Deleted the run "C:\VWorks Workspace\Forms\SCELSE\TruSeqPCRFree_Nano\RunSet Files\16_STANDALONE_AMPureXP_TS_FINAL_v1.0.pro" from Runset Manager.			2	
+10-Oct-17 1:23:23 PM	Script					Clearing Runset			1	
+10-Oct-17 1:23:23 PM	Script					Starting runset : TruSeqPCRFree_Nano_runset.rst			1	
+10-Oct-17 1:23:23 PM	Info					Runset Manager: Added the run "C:\VWorks Workspace\Protocol Files\TruSeqPCRFree\7_AMPureXP_TruSeqPCRFree_DNArunset_v1.0.pro" to Runset Manager.			2	
+10-Oct-17 1:23:23 PM	Info					Runset Manager: Added the run "C:\VWorks Workspace\Protocol Files\TruSeqPCRFree\8_EndRepair_TruSeqPCRFree_v1.0.pro" to Runset Manager.			2	
+10-Oct-17 1:23:24 PM	Info					Runset Manager: Added the run "C:\VWorks Workspace\Protocol Files\TruSeqPCRFree\9_AMPureXP_TruSeqPCRFree_DNArunset_v1.0.pro" to Runset Manager.			2	
+10-Oct-17 1:23:24 PM	Info					Runset Manager: Added the run "C:\VWorks Workspace\Protocol Files\TruSeqPCRFree\10_A-Tailing_TruSeqPCRFree_v1.0.pro" to Runset Manager.			2	
+10-Oct-17 1:23:24 PM	Info					Runset Manager: Added the run "C:\VWorks Workspace\Protocol Files\TruSeqPCRFree\11_AdapterLigation_TruSeqPCRFree_v1.0.pro" to Runset Manager.			2	
+10-Oct-17 1:23:24 PM	Info					Runset Manager: Added the run "C:\VWorks Workspace\Protocol Files\TruSeqPCRFree\12_StopLigation_TruSeqPCRFree_v1.0.pro" to Runset Manager.			2	
+10-Oct-17 1:23:24 PM	Info					Runset Manager: Added the run "C:\VWorks Workspace\Protocol Files\TruSeqPCRFree\13_AMPureXP_TruSeqPCRFree_runset_v1.0.pro" to Runset Manager.			2	
+10-Oct-17 1:23:24 PM	Info					Runset Manager: Added the run "C:\VWorks Workspace\Protocol Files\TruSeqPCRFree\14_AMPureXP_TruSeqPCRFree_runset_v1.0.pro" to Runset Manager.			2	
+10-Oct-17 1:25:16 PM	Info					File loaded		C:\VWorks Workspace\Forms\SCELSE\TruSeqPCRFree_Nano.VWForm	2	
+10-Oct-17 1:25:23 PM	Script					var plate_type = "ABI PCR half skirt in black carrier";		C:\VWorks Workspace\Forms\SCELSE\TruSeqPCRFree_Nano.VWForm	2	
+10-Oct-17 1:25:23 PM	Script					var DNA_source = 0;		C:\VWorks Workspace\Forms\SCELSE\TruSeqPCRFree_Nano.VWForm	2	
+10-Oct-17 1:25:23 PM	Script					var protocol_testing = 0;		C:\VWorks Workspace\Forms\SCELSE\TruSeqPCRFree_Nano.VWForm	2	
+10-Oct-17 1:25:23 PM	Script					var BasePair = 50;		C:\VWorks Workspace\Forms\SCELSE\TruSeqPCRFree_Nano.VWForm	2	
+10-Oct-17 1:25:23 PM	Script					var formProtocolName = "TruSeqPCRFree_Nano_runset.rst";		C:\VWorks Workspace\Forms\SCELSE\TruSeqPCRFree_Nano.VWForm	2	
+10-Oct-17 1:25:24 PM	Script					var columns_samples = 1;		C:\VWorks Workspace\Forms\SCELSE\TruSeqPCRFree_Nano.VWForm	2	
+10-Oct-17 1:25:24 PM	Script					Number of Columns selected is 1			1	
+10-Oct-17 1:25:24 PM	Script					Case: 1 Columns			1	
+10-Oct-17 1:25:28 PM	Script					var plate_type = "ABI PCR half skirt in black carrier";		C:\VWorks Workspace\Forms\SCELSE\TruSeqPCRFree_Nano.VWForm	2	
+10-Oct-17 1:25:28 PM	Script					var DNA_source = 0;		C:\VWorks Workspace\Forms\SCELSE\TruSeqPCRFree_Nano.VWForm	2	
+10-Oct-17 1:25:28 PM	Script					var protocol_testing = 0;		C:\VWorks Workspace\Forms\SCELSE\TruSeqPCRFree_Nano.VWForm	2	
+10-Oct-17 1:25:28 PM	Script					var BasePair = 50;		C:\VWorks Workspace\Forms\SCELSE\TruSeqPCRFree_Nano.VWForm	2	
+10-Oct-17 1:25:28 PM	Script					var formProtocolName = "TruSeqPCRFree_Nano_runset.rst";		C:\VWorks Workspace\Forms\SCELSE\TruSeqPCRFree_Nano.VWForm	2	
+10-Oct-17 1:25:28 PM	Script					var columns_samples = 1;		C:\VWorks Workspace\Forms\SCELSE\TruSeqPCRFree_Nano.VWForm	2	
+10-Oct-17 1:25:29 PM	Script					Clearing Plate Inventory			1	
+10-Oct-17 1:25:29 PM	Info					Runset Manager: Deleted the run "C:\VWorks Workspace\Protocol Files\TruSeqPCRFree\7_AMPureXP_TruSeqPCRFree_DNArunset_v1.0.pro" from Runset Manager.			2	
+10-Oct-17 1:25:29 PM	Info					Runset Manager: Deleted the run "C:\VWorks Workspace\Protocol Files\TruSeqPCRFree\8_EndRepair_TruSeqPCRFree_v1.0.pro" from Runset Manager.			2	
+10-Oct-17 1:25:29 PM	Info					Runset Manager: Deleted the run "C:\VWorks Workspace\Protocol Files\TruSeqPCRFree\9_AMPureXP_TruSeqPCRFree_DNArunset_v1.0.pro" from Runset Manager.			2	
+10-Oct-17 1:25:29 PM	Info					Runset Manager: Deleted the run "C:\VWorks Workspace\Protocol Files\TruSeqPCRFree\10_A-Tailing_TruSeqPCRFree_v1.0.pro" from Runset Manager.			2	
+10-Oct-17 1:25:29 PM	Info					Runset Manager: Deleted the run "C:\VWorks Workspace\Protocol Files\TruSeqPCRFree\11_AdapterLigation_TruSeqPCRFree_v1.0.pro" from Runset Manager.			2	
+10-Oct-17 1:25:29 PM	Info					Runset Manager: Deleted the run "C:\VWorks Workspace\Protocol Files\TruSeqPCRFree\12_StopLigation_TruSeqPCRFree_v1.0.pro" from Runset Manager.			2	
+10-Oct-17 1:25:29 PM	Info					Runset Manager: Deleted the run "C:\VWorks Workspace\Protocol Files\TruSeqPCRFree\13_AMPureXP_TruSeqPCRFree_runset_v1.0.pro" from Runset Manager.			2	
+10-Oct-17 1:25:29 PM	Info					Runset Manager: Deleted the run "C:\VWorks Workspace\Protocol Files\TruSeqPCRFree\14_AMPureXP_TruSeqPCRFree_runset_v1.0.pro" from Runset Manager.			2	
+10-Oct-17 1:25:29 PM	Script					Clearing Runset			1	
+10-Oct-17 1:25:29 PM	Script					Starting runset : TruSeqPCRFree_Nano_runset.rst			1	
+10-Oct-17 1:25:29 PM	Info					Runset Manager: Added the run "C:\VWorks Workspace\Protocol Files\TruSeqPCRFree\7_AMPureXP_TruSeqPCRFree_DNArunset_v1.0.pro" to Runset Manager.			2	
+10-Oct-17 1:25:29 PM	Info					Runset Manager: Added the run "C:\VWorks Workspace\Protocol Files\TruSeqPCRFree\8_EndRepair_TruSeqPCRFree_v1.0.pro" to Runset Manager.			2	
+10-Oct-17 1:25:29 PM	Info					Runset Manager: Added the run "C:\VWorks Workspace\Protocol Files\TruSeqPCRFree\9_AMPureXP_TruSeqPCRFree_DNArunset_v1.0.pro" to Runset Manager.			2	
+10-Oct-17 1:25:29 PM	Info					Runset Manager: Added the run "C:\VWorks Workspace\Protocol Files\TruSeqPCRFree\10_A-Tailing_TruSeqPCRFree_v1.0.pro" to Runset Manager.			2	
+10-Oct-17 1:25:29 PM	Info					Runset Manager: Added the run "C:\VWorks Workspace\Protocol Files\TruSeqPCRFree\11_AdapterLigation_TruSeqPCRFree_v1.0.pro" to Runset Manager.			2	
+10-Oct-17 1:25:29 PM	Info					Runset Manager: Added the run "C:\VWorks Workspace\Protocol Files\TruSeqPCRFree\12_StopLigation_TruSeqPCRFree_v1.0.pro" to Runset Manager.			2	
+10-Oct-17 1:25:29 PM	Info					Runset Manager: Added the run "C:\VWorks Workspace\Protocol Files\TruSeqPCRFree\13_AMPureXP_TruSeqPCRFree_runset_v1.0.pro" to Runset Manager.			2	
+10-Oct-17 1:25:29 PM	Info					Runset Manager: Added the run "C:\VWorks Workspace\Protocol Files\TruSeqPCRFree\14_AMPureXP_TruSeqPCRFree_runset_v1.0.pro" to Runset Manager.			2	
+10-Oct-17 1:26:01 PM	Info					File unloaded		C:\VWorks Workspace\Forms\SCELSE\TruSeqPCRFree_Nano.VWForm	2	
+10-Oct-17 1:26:38 PM	Info					File unloaded		C:\VWorks Workspace\Forms\SCELSE\TruSeqPCRFree_Nano\TruSeqPCRFree_Nano.VWForm	2	
+10-Oct-17 1:26:40 PM	Info					administrator logged out. Session 2 closed			2	
+10-Oct-17 1:26:40 PM	Info					System Shutdown			0	

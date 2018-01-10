@@ -1,0 +1,36 @@
+25-Sep-17 10:59:44 AM	Event	1						Main protocol starting	C:\VWorks Workspace\Protocol Files\visitor demo.pro	
+25-Sep-17 10:59:49 AM	Transfer	1	20	source 1	Column 1	dest1 1	Column 1		C:\VWorks Workspace\Protocol Files\visitor demo.pro	
+25-Sep-17 10:59:50 AM	Transfer	1	20	source 1	Column 7	dest1 1	Column 7		C:\VWorks Workspace\Protocol Files\visitor demo.pro	
+25-Sep-17 10:59:52 AM	Event	1						Main protocol aborted by user	C:\VWorks Workspace\Protocol Files\visitor demo.pro	
+25-Sep-17 10:59:53 AM	Event	1						Main protocol aborted by user	C:\VWorks Workspace\Protocol Files\visitor demo.pro	
+25-Sep-17 11:00:46 AM	Event	1						Main protocol starting	C:\VWorks Workspace\Protocol Files\visitor demo.pro	
+25-Sep-17 11:02:39 AM	Transfer	1	20	source 1	Column 1	dest1 1	Column 1		C:\VWorks Workspace\Protocol Files\visitor demo.pro	
+25-Sep-17 11:03:17 AM	Transfer	1	20	source 1	Column 7	dest1 1	Column 7		C:\VWorks Workspace\Protocol Files\visitor demo.pro	
+25-Sep-17 11:10:35 AM	Event	1						Main protocol complete	C:\VWorks Workspace\Protocol Files\visitor demo.pro	
+25-Sep-17 11:11:02 AM	Event	1						Main protocol starting	C:\VWorks Workspace\Protocol Files\visitor demo.pro	
+25-Sep-17 11:12:57 AM	Transfer	1	20	source 1	Column 1	dest1 1	Column 1		C:\VWorks Workspace\Protocol Files\visitor demo.pro	
+25-Sep-17 11:13:35 AM	Transfer	1	20	source 1	Column 7	dest1 1	Column 7		C:\VWorks Workspace\Protocol Files\visitor demo.pro	
+25-Sep-17 11:16:14 AM	Event	1						Main protocol complete	C:\VWorks Workspace\Protocol Files\visitor demo.pro	
+25-Sep-17 11:18:03 AM	Event	1						Main protocol starting	C:\VWorks Workspace\Protocol Files\visitor demo.pro	
+25-Sep-17 11:18:17 AM	Event	1						Main protocol aborted by user	C:\VWorks Workspace\Protocol Files\visitor demo.pro	
+25-Sep-17 11:18:19 AM	Event	1						Main protocol aborted by user	C:\VWorks Workspace\Protocol Files\visitor demo.pro	
+25-Sep-17 11:19:38 AM	Event	1						Main protocol starting	C:\VWorks Workspace\Protocol Files\visitor demo.pro	
+25-Sep-17 11:21:16 AM	Transfer	1	20	source 1	Column 1	dest1 1	Column 1		C:\VWorks Workspace\Protocol Files\visitor demo.pro	
+25-Sep-17 11:21:54 AM	Transfer	1	20	source 1	Column 7	dest1 1	Column 7		C:\VWorks Workspace\Protocol Files\visitor demo.pro	
+25-Sep-17 11:24:28 AM	Event	1						Main protocol complete	C:\VWorks Workspace\Protocol Files\visitor demo.pro	
+25-Sep-17 2:19:57 PM	Event	2						Main protocol starting	C:\VWorks Workspace\Protocol Files\visitor demo.pro	
+25-Sep-17 2:21:35 PM	Transfer	2	20	source 1	Column 1	dest1 1	Column 1		C:\VWorks Workspace\Protocol Files\visitor demo.pro	
+25-Sep-17 2:22:13 PM	Transfer	2	20	source 1	Column 7	dest1 1	Column 7		C:\VWorks Workspace\Protocol Files\visitor demo.pro	
+25-Sep-17 2:24:47 PM	Event	2						Main protocol complete	C:\VWorks Workspace\Protocol Files\visitor demo.pro	
+25-Sep-17 2:28:59 PM	Event	2						Main protocol starting	C:\VWorks Workspace\Protocol Files\visitor demo.pro	
+25-Sep-17 2:30:37 PM	Transfer	2	20	source 1	Column 1	dest1 1	Column 1		C:\VWorks Workspace\Protocol Files\visitor demo.pro	
+25-Sep-17 2:31:16 PM	Transfer	2	20	source 1	Column 7	dest1 1	Column 7		C:\VWorks Workspace\Protocol Files\visitor demo.pro	
+25-Sep-17 2:33:50 PM	Event	2						Main protocol complete	C:\VWorks Workspace\Protocol Files\visitor demo.pro	
+25-Sep-17 2:35:30 PM	Event	2						Main protocol starting	C:\VWorks Workspace\Protocol Files\visitor demo.pro	
+25-Sep-17 2:37:08 PM	Transfer	2	20	source 1	Column 1	dest1 1	Column 1		C:\VWorks Workspace\Protocol Files\visitor demo.pro	
+25-Sep-17 2:37:47 PM	Transfer	2	20	source 1	Column 7	dest1 1	Column 7		C:\VWorks Workspace\Protocol Files\visitor demo.pro	
+25-Sep-17 2:40:21 PM	Event	2						Main protocol complete	C:\VWorks Workspace\Protocol Files\visitor demo.pro	
+25-Sep-17 2:40:40 PM	Event	2						Main protocol starting	C:\VWorks Workspace\Protocol Files\visitor demo.pro	
+25-Sep-17 2:42:18 PM	Transfer	2	20	source 1	Column 1	dest1 1	Column 1		C:\VWorks Workspace\Protocol Files\visitor demo.pro	
+25-Sep-17 2:42:56 PM	Transfer	2	20	source 1	Column 7	dest1 1	Column 7		C:\VWorks Workspace\Protocol Files\visitor demo.pro	
+25-Sep-17 2:45:30 PM	Event	2						Main protocol complete	C:\VWorks Workspace\Protocol Files\visitor demo.pro	

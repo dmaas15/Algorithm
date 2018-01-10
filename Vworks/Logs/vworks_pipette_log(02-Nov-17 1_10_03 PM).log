@@ -1,0 +1,5 @@
+02-Nov-17 1:21:26 PM	Event	1						Main protocol starting	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	
+02-Nov-17 1:21:30 PM	Transfer	1	10	RNA in Eppendorf 1	A1	Mixing plate 1	A1		C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	
+02-Nov-17 1:21:44 PM	Transfer	1	20	Mixing plate 1	A1	RNARemovalBeads 1	A1		C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	
+02-Nov-17 1:21:50 PM	Transfer	1	52.5	RNARemovalBeads 1	A1	SupernatantReceivingPlate 1	A1		C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	
+02-Nov-17 1:21:55 PM	Event	1						Main protocol complete	C:\VWorks Workspace\Protocol Files\RNADepletion\1_RNADepletionEucaryotes.pro	

@@ -1,0 +1,180 @@
+04-Oct-17 1:07:33 PM	Info					Error library: The error library file path is empty.			0	
+04-Oct-17 1:07:33 PM	Info					System Startup			0	
+04-Oct-17 1:07:33 PM	Info	AccessoriesWizard				Dll loaded:    AccessoriesWizard.dll    6.0.0			0	
+04-Oct-17 1:07:33 PM	Info	AccessoryManager				Dll loaded:    AccessoryManager.dll    2.0.0			0	
+04-Oct-17 1:07:33 PM	Info	AgilentBenchBotController				Dll loaded:    AgilentBenchBotController.dll    1.21.4226			0	
+04-Oct-17 1:07:33 PM	Info	ArgonShelfAccessoryDriver				Dll loaded:    ArgonShelfAccessoryDriver.dll    2.0.1			0	
+04-Oct-17 1:07:33 PM	Info	BTILHCRunner				Dll loaded:    BTILHCRunner.dll    2.00.2			0	
+04-Oct-17 1:07:33 PM	Info	ContextHelp				Dll loaded:    ContextHelp.dll    3.0.0			0	
+04-Oct-17 1:07:33 PM	Info	DDRStringTable				Dll loaded:    DDRStringTable.dll    1.2.14			0	
+04-Oct-17 1:07:33 PM	Info	DeviceEnumerator				Dll loaded:    DeviceEnumerator.dll    9.0.0			0	
+04-Oct-17 1:07:33 PM	Info	EchoAppHelper				Dll loaded:    EchoAppHelper.dll    1.0.0			0	
+04-Oct-17 1:07:33 PM	Info	ErrorLibrary				Dll loaded:    ErrorLibrary.dll    2.0.1			0	
+04-Oct-17 1:07:33 PM	Info	EvaporatorAccessoryDriver				Dll loaded:    EvaporatorAccessoryDriver.dll    9.0.0			0	
+04-Oct-17 1:07:33 PM	Info	GuidanceDiscovery				Dll loaded:    GuidanceDiscovery.dll    2.0.0			0	
+04-Oct-17 1:07:33 PM	Info	Host				Dll loaded:    Host.dll    1.0.4226			0	
+04-Oct-17 1:07:33 PM	Info	ImportExport				Dll loaded:    ImportExport.dll    2.0.0			0	
+04-Oct-17 1:07:33 PM	Info	InhecoMTCdll				Dll loaded:    InhecoMTCdll.dll    1.2.4			0	
+04-Oct-17 1:07:33 PM	Info	InhecoShakeandHeatAccessoryDriver				Dll loaded:    InhecoShakeandHeatAccessoryDriver.dll    1.0.0			0	
+04-Oct-17 1:07:33 PM	Info	IWorksAccessory				Dll loaded:    IWorksAccessory.dll    8.0.1			0	
+04-Oct-17 1:07:33 PM	Info	js32				Dll loaded:    js32.dll    Unknown.0.0			0	
+04-Oct-17 1:07:33 PM	Info	LabelDesigner				Dll loaded:    LabelDesigner.dll    5.0.7			0	
+04-Oct-17 1:07:33 PM	Info	LabelerHardware				Dll loaded:    LabelerHardware.dll    14.0.23			0	
+04-Oct-17 1:07:33 PM	Info	libnspr4				Dll loaded:    libnspr4.dll    4.1.0			0	
+04-Oct-17 1:07:33 PM	Info	LidHotelAccessoryDriver				Dll loaded:    LidHotelAccessoryDriver.dll    8.0.0			0	
+04-Oct-17 1:07:33 PM	Info	lm				Dll loaded:    lm.dll    3.0.0			0	
+04-Oct-17 1:07:33 PM	Info	Loader				Dll loaded:    Loader.dll    1.0.4226			0	
+04-Oct-17 1:07:33 PM	Info	MagBeadAccessoryDriver				Dll loaded:    MagBeadAccessoryDriver.dll    8.0.0			0	
+04-Oct-17 1:07:33 PM	Info	MetaDataPropertyManager				Dll loaded:    MetaDataPropertyManager.dll    13.0.0			0	
+04-Oct-17 1:07:33 PM	Info	mfc71				Dll loaded:    mfc71.dll    7.10.3077			0	
+04-Oct-17 1:07:33 PM	Info	mfc71u				Dll loaded:    mfc71u.dll    7.10.3077			0	
+04-Oct-17 1:07:33 PM	Info	MicroPierceInterface				Dll loaded:    MicroPierceInterface.dll    1.0.0			0	
+04-Oct-17 1:07:33 PM	Info	MicroPierceWrapper				Dll loaded:    MicroPierceWrapper.dll    1.0.0			0	
+04-Oct-17 1:07:33 PM	Info	MicroStirInterface				Dll loaded:    MicroStirInterface.dll    1.0.0			0	
+04-Oct-17 1:07:33 PM	Info	MicroStirWrapper				Dll loaded:    MicroStirWrapper.dll    1.0.0			0	
+04-Oct-17 1:07:33 PM	Info	msvcr71				Dll loaded:    msvcr71.dll    7.10.3052			0	
+04-Oct-17 1:07:33 PM	Info	MTController				Dll loaded:    MTController.dll    5.0.0			0	
+04-Oct-17 1:07:33 PM	Info	NestableTipBoxInsertAccessoryDriver				Dll loaded:    NestableTipBoxInsertAccessoryDriver.dll    2.0.0			0	
+04-Oct-17 1:07:33 PM	Info	ObjectDatabase				Dll loaded:    ObjectDatabase.dll    4.0.0			0	
+04-Oct-17 1:07:33 PM	Info	ObjectManager				Dll loaded:    ObjectManager.dll    7.0.1			0	
+04-Oct-17 1:07:33 PM	Info	PackardFusionRemoteConnectorOCX				Dll loaded:    PackardFusionRemoteConnectorOCX.dll    4.0.0			0	
+04-Oct-17 1:07:33 PM	Info	PackardFusionRemoteControlPlugIn				Dll loaded:    PackardFusionRemoteControlPlugIn.dll    4.0.0			0	
+04-Oct-17 1:07:33 PM	Info	PackardFusionRemoteControlWrapperDLL				Dll loaded:    PackardFusionRemoteControlWrapperDLL.dll    4.0.0			0	
+04-Oct-17 1:07:33 PM	Info	PicServoExtDll				Dll loaded:    PicServoExtDll.dll    10.0.0			0	
+04-Oct-17 1:07:33 PM	Info	PipetteHeadMode				Dll loaded:    PipetteHeadMode.dll    2.0.0			0	
+04-Oct-17 1:07:33 PM	Info	PipetteTechniqueEditor				Dll loaded:    PipetteTechniqueEditor.dll    3.0.0			0	
+04-Oct-17 1:07:33 PM	Info	PlateMapDatabase				Dll loaded:    PlateMapDatabase.dll    17.0.1			0	
+04-Oct-17 1:07:33 PM	Info	ProfileChangeLog				Dll loaded:    ProfileChangeLog.dll    2.0.0			0	
+04-Oct-17 1:07:33 PM	Info	ProfileManager				Dll loaded:    ProfileManager.dll    10.0.1			0	
+04-Oct-17 1:07:33 PM	Info	ProfSkin284m				Dll loaded:    ProfSkin284m.dll    2.8.4			0	
+04-Oct-17 1:07:33 PM	Info	ProfUIS284m				Dll loaded:    ProfUIS284m.dll    2.8.4			0	
+04-Oct-17 1:07:33 PM	Info	ProfUisProfileManager				Dll loaded:    ProfUisProfileManager.dll    10.0.0			0	
+04-Oct-17 1:07:33 PM	Info	SciLexer				Dll loaded:    SciLexer.dll    1.71.0			0	
+04-Oct-17 1:07:33 PM	Info	SerialDilution				Dll loaded:    SerialDilution.dll    13.0.0			0	
+04-Oct-17 1:07:33 PM	Info	SSIdll				Dll loaded:    SSIdll.dll    Unknown.0.0			0	
+04-Oct-17 1:07:33 PM	Info	TeleshakeAccessoryDriver				Dll loaded:    TeleshakeAccessoryDriver.dll    9.0.2			0	
+04-Oct-17 1:07:33 PM	Info	TipPosition				Dll loaded:    TipPosition.dll    3.0.0			0	
+04-Oct-17 1:07:33 PM	Info	TipTracking				Dll loaded:    TipTracking.dll    3.0.0			0	
+04-Oct-17 1:07:33 PM	Info	tmlcomm				Dll loaded:    tmlcomm.dll    3.2.2			0	
+04-Oct-17 1:07:33 PM	Info	TML_lib				Dll loaded:    TML_lib.dll    2.0.1			0	
+04-Oct-17 1:07:33 PM	Info	Toolbox				Dll loaded:    Toolbox.dll    1.0.4226			0	
+04-Oct-17 1:07:33 PM	Info	V11DeviceDriver				Dll loaded:    V11DeviceDriver.dll    11.0.0			0	
+04-Oct-17 1:07:33 PM	Info	V11FieldComposer				Dll loaded:    V11FieldComposer.dll    4.0.0			0	
+04-Oct-17 1:07:33 PM	Info	V11GanttChart				Dll loaded:    V11GanttChart.dll    2.0.1			0	
+04-Oct-17 1:07:33 PM	Info	V11Labware				Dll loaded:    V11Labware.dll    25.0.14			0	
+04-Oct-17 1:07:33 PM	Info	V11Liquids				Dll loaded:    V11Liquids.dll    9.0.0			0	
+04-Oct-17 1:07:33 PM	Info	V11Migrator				Dll loaded:    V11Migrator.dll    2.0.3			0	
+04-Oct-17 1:07:33 PM	Info	V11PipettingFormatWizard				Dll loaded:    V11PipettingFormatWizard.dll    2.0.0			0	
+04-Oct-17 1:07:33 PM	Info	V11PumpAccessoryDriver				Dll loaded:    V11PumpAccessoryDriver.dll    3.0.2			0	
+04-Oct-17 1:07:33 PM	Info	V11SharedClasses				Dll loaded:    V11SharedClasses.dll    1.1.0			0	
+04-Oct-17 1:07:33 PM	Info	V11WellSelect				Dll loaded:    V11WellSelect.dll    8.0.0			0	
+04-Oct-17 1:07:33 PM	Info	V11WellVolumeVisualizer				Dll loaded:    V11WellVolumeVisualizer.dll    6.0.0			0	
+04-Oct-17 1:07:33 PM	Info	V11Wizard				Dll loaded:    V11Wizard.dll    2.0.0			0	
+04-Oct-17 1:07:33 PM	Info	VacuumFiltrationAccessoryDriver				Dll loaded:    VacuumFiltrationAccessoryDriver.dll    10.0.1			0	
+04-Oct-17 1:07:33 PM	Info	VacuumLocatingStationDriver				Dll loaded:    VacuumLocatingStationDriver.dll    7.0.0			0	
+04-Oct-17 1:07:33 PM	Info	VacuumShelfAccessoryDriver				Dll loaded:    VacuumShelfAccessoryDriver.dll    2.0.2			0	
+04-Oct-17 1:07:33 PM	Info	VHookInterface				Dll loaded:    VHookInterface.dll    7.0.0			0	
+04-Oct-17 1:07:33 PM	Info	VWorks4COM				Dll loaded:    VWorks4COM.dll    4.0.0			0	
+04-Oct-17 1:07:33 PM	Info	VWorks4Defs				Dll loaded:    VWorks4Defs.dll    6.0.3			0	
+04-Oct-17 1:07:33 PM	Info	VWorks4DeviceManager				Dll loaded:    VWorks4DeviceManager.dll    4.0.0			0	
+04-Oct-17 1:07:33 PM	Info	VWorks4EmailDaemon				Dll loaded:    VWorks4EmailDaemon.dll    3.0.0			0	
+04-Oct-17 1:07:33 PM	Info	VWorks4FormManager				Dll loaded:    VWorks4FormManager.dll    1.0.0			0	
+04-Oct-17 1:07:33 PM	Info	VWorks4GUI				Dll loaded:    VWorks4GUI.dll    3.0.0			0	
+04-Oct-17 1:07:33 PM	Info	VWorks4GUIFramework				Dll loaded:    VWorks4GUIFramework.dll    3.0.1			0	
+04-Oct-17 1:07:33 PM	Info	VWorks4Hooks				Dll loaded:    VWorks4Hooks.dll    3.0.0			0	
+04-Oct-17 1:07:33 PM	Info	VWorks4LabelDesigner				Dll loaded:    VWorks4LabelDesigner.dll    3.0.0			0	
+04-Oct-17 1:07:33 PM	Info	VWorks4Logger				Dll loaded:    VWorks4Logger.dll    4.0.0			0	
+04-Oct-17 1:07:33 PM	Info	VWorks4MacroLibrary				Dll loaded:    VWorks4MacroLibrary.dll    1.0.0			0	
+04-Oct-17 1:07:33 PM	Info	VWorks4Progress				Dll loaded:    VWorks4Progress.dll    3.0.0			0	
+04-Oct-17 1:07:33 PM	Info	VWorks4ProtocolEditor				Dll loaded:    VWorks4ProtocolEditor.dll    4.0.0			0	
+04-Oct-17 1:07:33 PM	Info	VWorks4Security				Dll loaded:    VWorks4Security.dll    3.0.0			0	
+04-Oct-17 1:07:33 PM	Info	VWorks4UserDatabase				Dll loaded:    VWorks4UserDatabase.dll    3.0.0			0	
+04-Oct-17 1:07:33 PM	Info	VWorks4UserManager				Dll loaded:    VWorks4UserManager.dll    3.0.0			0	
+04-Oct-17 1:07:33 PM	Info	WeighPadAccessoryDriver				Dll loaded:    WeighPadAccessoryDriver.dll    2.0.0			0	
+04-Oct-17 1:07:33 PM	Info	Agilent BenchCel				Plugin loaded from cache:   AgilentBenchCel.dll   20.1.2			0	
+04-Oct-17 1:07:33 PM	Info	Agilent Bravo				Plugin loaded from cache:   AgilentBravo.dll   17.1.0			0	
+04-Oct-17 1:07:33 PM	Info	Agilent Generic I/O Module				Plugin loaded from cache:   AgilentGenericIO.dll   5.0.0			0	
+04-Oct-17 1:07:33 PM	Info	Agilent Labware MiniHub				Plugin loaded from cache:   AgilentLabwareMiniHub.dll   1.0.3			0	
+04-Oct-17 1:07:33 PM	Info	Agilent Phantom Robot				Plugin loaded from cache:   AgilentPhantomRobot.dll   9.0.5			0	
+04-Oct-17 1:07:33 PM	Info	Agilent Phantom Stacker				Plugin loaded from cache:   AgilentPhantomStacker.dll   2.0.1			0	
+04-Oct-17 1:07:33 PM	Info	Agilent Plate Hotel				Plugin loaded from cache:   AgilentPlateHotel.dll   1.0.3			0	
+04-Oct-17 1:07:33 PM	Info	Agilent Plate Hub Carousel				Plugin loaded from cache:   AgilentPlateHubCarousel.dll   8.0.1			0	
+04-Oct-17 1:07:33 PM	Info	Waste Bin				Plugin loaded from cache:   AgilentWasteBin.dll   3.0.0			0	
+04-Oct-17 1:07:34 PM	Info	Agilent Weigh Pad				Plugin loaded from cache:   AgilentWeighPad.dll   8.0.0			0	
+04-Oct-17 1:07:34 PM	Info	Keyence Barcode Reader				Plugin loaded from cache:   KeyenceBarcodeReader.dll   6.0.0			0	
+04-Oct-17 1:07:34 PM	Info	Plate Pad, Standard				Plugin loaded from cache:   PlatePad.dll   6.0.0			0	
+04-Oct-17 1:07:51 PM	Info					administrator logged in			1	
+04-Oct-17 1:07:57 PM	Info					File loaded		C:\VWorks Workspace\Forms\SCELSE\Accel_NGS_2S_DNA\Accel_NGS.VWForm	1	
+04-Oct-17 1:08:01 PM	Script					Initializing scripting engine...			1	
+04-Oct-17 1:08:01 PM	Script					Wed Oct 04 2017 13:08:01 GMT+0800 (Malay Peninsula Standard Time)			1	
+04-Oct-17 1:08:01 PM	Script					var plate_type = "96 ABI PCR half skirt in black carrier";		C:\VWorks Workspace\Forms\SCELSE\Accel_NGS_2S_DNA\Accel_NGS.VWForm	1	
+04-Oct-17 1:08:01 PM	Script					var DNA_source = 0;		C:\VWorks Workspace\Forms\SCELSE\Accel_NGS_2S_DNA\Accel_NGS.VWForm	1	
+04-Oct-17 1:08:02 PM	Script					var protocol_testing = 0;		C:\VWorks Workspace\Forms\SCELSE\Accel_NGS_2S_DNA\Accel_NGS.VWForm	1	
+04-Oct-17 1:08:02 PM	Script					var DNAconc = 1;		C:\VWorks Workspace\Forms\SCELSE\Accel_NGS_2S_DNA\Accel_NGS.VWForm	1	
+04-Oct-17 1:08:02 PM	Script					var formProtocolName = "Accel_Dual_Index_NGS_2SPlus_DNALibrary_Runset_v2.0.rst";		C:\VWorks Workspace\Forms\SCELSE\Accel_NGS_2S_DNA\Accel_NGS.VWForm	1	
+04-Oct-17 1:08:02 PM	Script					var columns_samples = 1;		C:\VWorks Workspace\Forms\SCELSE\Accel_NGS_2S_DNA\Accel_NGS.VWForm	1	
+04-Oct-17 1:08:02 PM	Script					Number of Columns selected is 1			1	
+04-Oct-17 1:08:02 PM	Script					Case: 1 Columns			1	
+04-Oct-17 1:08:12 PM	Script					var plate_type = "96 ABI PCR half skirt in black carrier";		C:\VWorks Workspace\Forms\SCELSE\Accel_NGS_2S_DNA\Accel_NGS.VWForm	1	
+04-Oct-17 1:08:12 PM	Script					var DNA_source = 0;		C:\VWorks Workspace\Forms\SCELSE\Accel_NGS_2S_DNA\Accel_NGS.VWForm	1	
+04-Oct-17 1:08:12 PM	Script					var protocol_testing = 0;		C:\VWorks Workspace\Forms\SCELSE\Accel_NGS_2S_DNA\Accel_NGS.VWForm	1	
+04-Oct-17 1:08:12 PM	Script					var DNAconc = 1;		C:\VWorks Workspace\Forms\SCELSE\Accel_NGS_2S_DNA\Accel_NGS.VWForm	1	
+04-Oct-17 1:08:12 PM	Script					var formProtocolName = "Accel_Dual_Index_NGS_2SPlus_DNALibrary_Runset_v2.0.rst";		C:\VWorks Workspace\Forms\SCELSE\Accel_NGS_2S_DNA\Accel_NGS.VWForm	1	
+04-Oct-17 1:08:12 PM	Script					var columns_samples = 2;		C:\VWorks Workspace\Forms\SCELSE\Accel_NGS_2S_DNA\Accel_NGS.VWForm	1	
+04-Oct-17 1:08:13 PM	Script					Number of Columns selected is 2			1	
+04-Oct-17 1:08:13 PM	Script					Case: 2 Columns			1	
+04-Oct-17 1:08:19 PM	Script					var plate_type = "96 ABI PCR half skirt in black carrier";		C:\VWorks Workspace\Forms\SCELSE\Accel_NGS_2S_DNA\Accel_NGS.VWForm	1	
+04-Oct-17 1:08:19 PM	Script					var DNA_source = 0;		C:\VWorks Workspace\Forms\SCELSE\Accel_NGS_2S_DNA\Accel_NGS.VWForm	1	
+04-Oct-17 1:08:19 PM	Script					var protocol_testing = 0;		C:\VWorks Workspace\Forms\SCELSE\Accel_NGS_2S_DNA\Accel_NGS.VWForm	1	
+04-Oct-17 1:08:19 PM	Script					var DNAconc = 1;		C:\VWorks Workspace\Forms\SCELSE\Accel_NGS_2S_DNA\Accel_NGS.VWForm	1	
+04-Oct-17 1:08:19 PM	Script					var formProtocolName = "Accel_Dual_Index_NGS_2SPlus_DNALibrary_Runset_v2.0.rst";		C:\VWorks Workspace\Forms\SCELSE\Accel_NGS_2S_DNA\Accel_NGS.VWForm	1	
+04-Oct-17 1:08:19 PM	Script					var columns_samples = 3;		C:\VWorks Workspace\Forms\SCELSE\Accel_NGS_2S_DNA\Accel_NGS.VWForm	1	
+04-Oct-17 1:08:20 PM	Script					Clearing Plate Inventory			1	
+04-Oct-17 1:08:20 PM	Script					Clearing Runset			1	
+04-Oct-17 1:08:20 PM	Script					Starting runset : Accel_Dual_Index_NGS_2SPlus_DNALibrary_Runset_v2.0.rst			1	
+04-Oct-17 1:08:20 PM	Info					Runset Manager: Added the run "C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\1_RepairI_Accel_NGS_2S_DNA_v1.0.pro" to Runset Manager.			1	
+04-Oct-17 1:08:20 PM	Info					Runset Manager: Added the run "C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\2b_CleanUp1_Accel_NGS_2S_DNA_v1.0.pro" to Runset Manager.			1	
+04-Oct-17 1:08:20 PM	Info					Runset Manager: Added the run "C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\InProgress3_Elution1_Accel_NGS_2S_DNA_v1.0.pro" to Runset Manager.			1	
+04-Oct-17 1:08:20 PM	Info					Runset Manager: Added the run "C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\InProgress3_Repair2_Accel_NGS_2S_DNA_v1.0.pro" to Runset Manager.			1	
+04-Oct-17 1:08:20 PM	Info					Runset Manager: Added the run "C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\4_CleanUp2_Accel_NGS_2S_DNA_v1.0.pro" to Runset Manager.			1	
+04-Oct-17 1:08:20 PM	Info					Runset Manager: Added the run "C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\InProgress5b_Elution2_Accel_NGS_2S_DNA_v1.0.pro" to Runset Manager.			1	
+04-Oct-17 1:08:20 PM	Info					Runset Manager: Added the run "C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\InProgress5b_Ligation1_Accel_NGS_2S_DNA_v1.0.pro" to Runset Manager.			1	
+04-Oct-17 1:08:20 PM	Info					Runset Manager: Added the run "C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\6_CleanUp3_Accel_NGS_2S_DNA_v1.0.pro" to Runset Manager.			1	
+04-Oct-17 1:08:20 PM	Info					Runset Manager: Added the run "C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\InProgress7_Elution3_Accel_NGS_2S_DNA_v1.0.pro" to Runset Manager.			1	
+04-Oct-17 1:08:20 PM	Info					Runset Manager: Added the run "C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\Scratch\InProgress7_Ligation2_Accel_NGS_2S_DNA_v1.0.pro" to Runset Manager.			1	
+04-Oct-17 1:08:20 PM	Info					Runset Manager: Added the run "C:\VWorks Workspace\Protocol Files\Accel_NGS_2S\8_CleanUp4_Accel_NGS_2S_DNA_v1.0.pro" to Runset Manager.			1	
+04-Oct-17 1:08:23 PM	Script					var plate_type = "96 ABI PCR half skirt in black carrier";		C:\VWorks Workspace\Forms\SCELSE\Accel_NGS_2S_DNA\Accel_NGS.VWForm	1	
+04-Oct-17 1:08:24 PM	Script					var DNA_source = 0;		C:\VWorks Workspace\Forms\SCELSE\Accel_NGS_2S_DNA\Accel_NGS.VWForm	1	
+04-Oct-17 1:08:24 PM	Script					var protocol_testing = 0;		C:\VWorks Workspace\Forms\SCELSE\Accel_NGS_2S_DNA\Accel_NGS.VWForm	1	
+04-Oct-17 1:08:24 PM	Script					var DNAconc = 1;		C:\VWorks Workspace\Forms\SCELSE\Accel_NGS_2S_DNA\Accel_NGS.VWForm	1	
+04-Oct-17 1:08:24 PM	Script					var formProtocolName = "Accel_Dual_Index_NGS_2SPlus_DNALibrary_Runset_v2.0.rst";		C:\VWorks Workspace\Forms\SCELSE\Accel_NGS_2S_DNA\Accel_NGS.VWForm	1	
+04-Oct-17 1:08:24 PM	Script					var columns_samples = 3;		C:\VWorks Workspace\Forms\SCELSE\Accel_NGS_2S_DNA\Accel_NGS.VWForm	1	
+04-Oct-17 1:08:25 PM	Script					Number of Columns selected is 3			1	
+04-Oct-17 1:08:25 PM	Script					Case: 3 Columns			1	
+04-Oct-17 1:08:35 PM	Script					var plate_type = "96 ABI PCR half skirt in black carrier";		C:\VWorks Workspace\Forms\SCELSE\Accel_NGS_2S_DNA\Accel_NGS.VWForm	1	
+04-Oct-17 1:08:35 PM	Script					var DNA_source = 0;		C:\VWorks Workspace\Forms\SCELSE\Accel_NGS_2S_DNA\Accel_NGS.VWForm	1	
+04-Oct-17 1:08:35 PM	Script					var protocol_testing = 0;		C:\VWorks Workspace\Forms\SCELSE\Accel_NGS_2S_DNA\Accel_NGS.VWForm	1	
+04-Oct-17 1:08:35 PM	Script					var DNAconc = 1;		C:\VWorks Workspace\Forms\SCELSE\Accel_NGS_2S_DNA\Accel_NGS.VWForm	1	
+04-Oct-17 1:08:35 PM	Script					var formProtocolName = "Accel_Dual_Index_NGS_2SPlus_DNALibrary_Runset_v2.0.rst";		C:\VWorks Workspace\Forms\SCELSE\Accel_NGS_2S_DNA\Accel_NGS.VWForm	1	
+04-Oct-17 1:08:35 PM	Script					var columns_samples = 4;		C:\VWorks Workspace\Forms\SCELSE\Accel_NGS_2S_DNA\Accel_NGS.VWForm	1	
+04-Oct-17 1:08:36 PM	Script					Number of Columns selected is 4			1	
+04-Oct-17 1:08:36 PM	Script					Case: 4 Columns			1	
+04-Oct-17 1:08:45 PM	Script					var plate_type = "96 ABI PCR half skirt in black carrier";		C:\VWorks Workspace\Forms\SCELSE\Accel_NGS_2S_DNA\Accel_NGS.VWForm	1	
+04-Oct-17 1:08:45 PM	Script					var DNA_source = 0;		C:\VWorks Workspace\Forms\SCELSE\Accel_NGS_2S_DNA\Accel_NGS.VWForm	1	
+04-Oct-17 1:08:45 PM	Script					var protocol_testing = 0;		C:\VWorks Workspace\Forms\SCELSE\Accel_NGS_2S_DNA\Accel_NGS.VWForm	1	
+04-Oct-17 1:08:45 PM	Script					var DNAconc = 1;		C:\VWorks Workspace\Forms\SCELSE\Accel_NGS_2S_DNA\Accel_NGS.VWForm	1	
+04-Oct-17 1:08:45 PM	Script					var formProtocolName = "Accel_Dual_Index_NGS_2SPlus_DNALibrary_Runset_v2.0.rst";		C:\VWorks Workspace\Forms\SCELSE\Accel_NGS_2S_DNA\Accel_NGS.VWForm	1	
+04-Oct-17 1:08:45 PM	Script					var columns_samples = 6;		C:\VWorks Workspace\Forms\SCELSE\Accel_NGS_2S_DNA\Accel_NGS.VWForm	1	
+04-Oct-17 1:08:46 PM	Script					Number of Columns selected is 6			1	
+04-Oct-17 1:08:46 PM	Script					Case: 6 Columns			1	
+04-Oct-17 1:08:51 PM	Script					var plate_type = "96 ABI PCR half skirt in black carrier";		C:\VWorks Workspace\Forms\SCELSE\Accel_NGS_2S_DNA\Accel_NGS.VWForm	1	
+04-Oct-17 1:08:51 PM	Script					var DNA_source = 0;		C:\VWorks Workspace\Forms\SCELSE\Accel_NGS_2S_DNA\Accel_NGS.VWForm	1	
+04-Oct-17 1:08:51 PM	Script					var protocol_testing = 0;		C:\VWorks Workspace\Forms\SCELSE\Accel_NGS_2S_DNA\Accel_NGS.VWForm	1	
+04-Oct-17 1:08:51 PM	Script					var DNAconc = 1;		C:\VWorks Workspace\Forms\SCELSE\Accel_NGS_2S_DNA\Accel_NGS.VWForm	1	
+04-Oct-17 1:08:51 PM	Script					var formProtocolName = "Accel_Dual_Index_NGS_2SPlus_DNALibrary_Runset_v2.0.rst";		C:\VWorks Workspace\Forms\SCELSE\Accel_NGS_2S_DNA\Accel_NGS.VWForm	1	
+04-Oct-17 1:08:51 PM	Script					var columns_samples = 12;		C:\VWorks Workspace\Forms\SCELSE\Accel_NGS_2S_DNA\Accel_NGS.VWForm	1	
+04-Oct-17 1:08:52 PM	Script					Number of Columns selected is 12			1	
+04-Oct-17 1:08:52 PM	Script					Case: 12 Columns			1	
+04-Oct-17 1:10:15 PM	Info					File unloaded		C:\VWorks Workspace\Forms\SCELSE\Accel_NGS_2S_DNA\Accel_NGS.VWForm	1	
+04-Oct-17 1:10:15 PM	Info					administrator logged out. Session 1 closed			1	
+04-Oct-17 1:10:15 PM	Info					System Shutdown			0	
