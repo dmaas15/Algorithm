@@ -13,11 +13,9 @@ J = 0;
 % Instructions: Compute the cost of a particular choice of theta
 %               You should set J to the cost.
 
-h=X*theta;
-error=h-y;
-error_sqr=error.^2;
-sum_error_sqr=sum(error_sqr);
-J=sum_error_sqr/(2*m);
+
+
+
 
 % =========================================================================
 
