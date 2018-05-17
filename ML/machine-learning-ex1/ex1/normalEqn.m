@@ -12,7 +12,12 @@ theta = zeros(size(X, 2), 1);
 
 % ---------------------- Sample Solution ----------------------
 
+%normX=featureNormalize(X(:,2:3));
+m = length(y);
+%X = [ones(m, 1) normX];
 
+%theta=(transpose(normX)*normX)^-1*transpose(normX)*y;
+theta=((transpose(X)*X)^-1)*transpose(X)*y;
 
 
 % -------------------------------------------------------------

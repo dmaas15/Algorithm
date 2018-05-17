@@ -16,12 +16,15 @@ for iter = 1:num_iters
     % Hint: While debugging, it can be useful to print out the values
     %       of the cost function (computeCost) and gradient here.
     %
+   % h=X*theta;
+    %error=h-y;
+    %gradient=transpose(X)*error*(alpha/m);
+    %theta=theta-gradient;
+
     h=X*theta;
-    error=h-y;
-    gradient=transpose(X)*error*(alpha/m);
-    theta=theta-gradient;
-
-
+    errors_vector=h-y;
+    theta_chanege=(transpose(X)*errors_vector)*alpha/m;
+    theta=theta-theta_chanege;
 
 
     % ============================================================
