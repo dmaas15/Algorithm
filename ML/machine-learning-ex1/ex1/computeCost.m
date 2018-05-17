@@ -14,9 +14,9 @@ J = 0;
 %               You should set J to the cost.
 
 
-J=(1/(2*m))*sum((transpose(theta).*X-y).^2);
+h=X*theta;
 
-
+J=sum((h-y).^2)/(2*m);
 % =========================================================================
 
 end
