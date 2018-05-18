@@ -28,12 +28,10 @@ sigma = zeros(1, size(X, 2));
 
 
 
-meanX=mean(X);
-
-mu=X-meanX;
+mu=mean(X);
 sigma=std(X);
 
-X_norm=mu./sigma;
+X_norm=(X-mu)./sigma;
 
 
 

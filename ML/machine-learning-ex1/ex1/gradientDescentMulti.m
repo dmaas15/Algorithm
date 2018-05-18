@@ -21,7 +21,7 @@ for iter = 1:num_iters
     h=X*theta;
     error=h-y;
     gradient=transpose(X)*error*(alpha/m);
-    theta=theta-gradient
+    theta=theta-gradient;
 
 
     % ============================================================
