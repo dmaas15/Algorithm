@@ -9,9 +9,7 @@ g = zeros(size(z));
 % Instructions: Compute the sigmoid of each value of z (z can be a matrix,
 %               vector or scalar).
 
-%z=[0;500;-500];
 
-g=1./(1.+1./exp(z));
 
 
 
