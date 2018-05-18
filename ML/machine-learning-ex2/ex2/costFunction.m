@@ -21,10 +21,15 @@ grad = zeros(size(theta));
 %
 
 
+h=sigmoid(X*theta);
 
 
+left=-y.*log(h);
+right=-(1.-y).*log(1-(h));
+mid=sum(left+right);
+J=mid/m;
 
-
+grad=(sum((h-y).*X))/m;
 
 
 % =============================================================
