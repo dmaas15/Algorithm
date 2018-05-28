@@ -63,22 +63,29 @@ Theta2_grad = zeros(size(Theta2));
 %
 
 
+eye_matrix=eye(num_labels);
+y_matrix=eye_matrix(y,:);
 
+a1 = [ones(m, 1) X];
+z2=a1*Theta1';
+a2=sigmoid(z2);
+a2=[ones(m, 1) a2];
+z3=a2*Theta2';
+a3=sigmoid(z3);
 
+left=-y_matrix.*log(a3);
+l_size=size(left);
+right=(1.-y_matrix).*log(1.-a3);
+r_size=size(right);
+k_sum=sum(left-right)/m;
 
+Theta1(:,1)=0;
+Theta2(:,1)=0;
 
-
-
-
-
-
-
-
-
-
-
-
-
+reg_left=sum(sum(Theta1.^2));
+reg_right=sum(sum(Theta2.^2));
+reg=(lambda/(2*m))*(reg_left+reg_right);
+J=sum(k_sum)+reg;
 
 % -------------------------------------------------------------
 
