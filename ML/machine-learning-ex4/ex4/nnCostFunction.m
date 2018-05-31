@@ -79,13 +79,30 @@ right=(1.-y_matrix).*log(1.-a3);
 r_size=size(right);
 k_sum=sum(left-right)/m;
 
+
+
+modTheta1=Theta1;
+modTheta2=Theta2;
+modTheta1(:,1)=0;
+modTheta2(:,1)=0;
+
+reg_left=sum(sum(modTheta1.^2));
+reg_right=sum(sum(modTheta2.^2));
+reg=(lambda/(2*m))*(reg_left+reg_right);
+J=sum(k_sum)+reg;
+
+%backprop
+d3=a3-y_matrix;
+z2=a1*Theta1';
+d2=d3*Theta2(:,2:end).*sigmoidGradient(z2);
+Delta1=d2'*a1;
+Delta2=d3'*a2;
+
 Theta1(:,1)=0;
 Theta2(:,1)=0;
 
-reg_left=sum(sum(Theta1.^2));
-reg_right=sum(sum(Theta2.^2));
-reg=(lambda/(2*m))*(reg_left+reg_right);
-J=sum(k_sum)+reg;
+Theta1_grad=Delta1./m+(lambda/m).*Theta1;
+Theta2_grad=Delta2./m+(lambda/m).*Theta2;
 
 % -------------------------------------------------------------
 
