@@ -20,9 +20,20 @@ grad = zeros(size(theta));
 %
 
 
+h=X*theta;
+
+J=sum((h-y).^2)/(2*m);
+
+theta(1)=0;
+regJ=lambda/(2*m)*sum(theta.^2);
+J=J+regJ;
+
+regG=((lambda/m)*theta);
 
 
 
+error=h-y;
+grad=transpose(X)*error*(1/m)+regG;
 
 
 
