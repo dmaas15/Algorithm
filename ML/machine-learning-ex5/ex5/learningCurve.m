@@ -17,7 +17,7 @@ function [error_train, error_val] = ...
 
 % Number of training examples
 m = size(X, 1);
-n=size(Xval,1);
+
 
 % You need to return these values correctly
 error_train = zeros(m, 1);
