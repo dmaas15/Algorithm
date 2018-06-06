@@ -60,6 +60,7 @@ error_val   = zeros(m, 1);
 %e_train=(h_train-y).^2;
 %h_val=Xval*theta;
 %e_val=(h_val-yval).^2;
+
 for i = 1:m
     theta=trainLinearReg(X(1:i, :), y(1:i), lambda);
     error_train(i)=linearRegCostFunction(X(1:i, :), y(1:i), theta, 0);
