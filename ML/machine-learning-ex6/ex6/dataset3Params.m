@@ -23,11 +23,25 @@ sigma = 0.3;
 %        mean(double(predictions ~= yval))
 %
 
-
-
-
-
-
+Min=10000
+meanArray=[];
+test=[0.01,0.03,0.1,0.3,1,3,10,30;0.01,0.03,0.1,0.3,1,3,10,30;];
+%Ctest=test(1,:)
+%sigmaTest=test(2,:);
+%sigmaTest=sigmaTest(:)
+for Ctest=test(1,:)
+    for sigmaTest=test(2,:)
+        model= svmTrain(X, y, Ctest, @(x1, x2) gaussianKernel(x1, x2, sigmaTest));
+        predictions = svmPredict(model, Xval);
+        s=mean(double(predictions ~= yval));
+        if s<Min
+            Min=s;
+            C=Ctest;
+            sigma=sigmaTest;
+        end
+        meanArray=[meanArray;s];
+    end
+end
 
 % =========================================================================
 

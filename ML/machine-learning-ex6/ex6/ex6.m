@@ -101,9 +101,6 @@ load('ex6data2.mat');
 
 % SVM Parameters
 C = 1; sigma = 0.1;
-test=[0.01,0.03,0.1,0.3,1,3,10,30;0.01,0.03,0.1,0.3,1,3,10,30;]
-Ctest=test(1,:)
-sigmaTest=test(2,:)
 
 % We set the tolerance and max_passes lower here so that the code will run
 % faster. However, in practice, you will want to run the training to
