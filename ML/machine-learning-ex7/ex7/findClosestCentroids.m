@@ -21,8 +21,13 @@ idx = zeros(size(X,1), 1);
 % Note: You can use a for-loop over the examples to compute this.
 %
 
+Q = magic(3)
+D = bsxfun(@minus, Q, [1 2 3])
+sum(D.^2,2)
 
-
+for iter=1:K
+    iter
+end
 
 
 
