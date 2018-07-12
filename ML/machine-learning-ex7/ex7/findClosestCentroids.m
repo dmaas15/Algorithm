@@ -21,17 +21,19 @@ idx = zeros(size(X,1), 1);
 % Note: You can use a for-loop over the examples to compute this.
 %
 
-Q = magic(3)
-D = bsxfun(@minus, Q, [1 2 3])
-sum(D.^2,2)
 
+distance=zeros(size(X,1),K);
 for iter=1:K
-    iter
+    centroids(iter,:);
+    difference=bsxfun(@minus,X,centroids(iter,:));
+    distance(:,iter)=sum(difference.^2,2);
 end
 
 
+%distance
+[M, idx] = min(distance');
 
-
+%min(distance')
 % =============================================================
 
 end
